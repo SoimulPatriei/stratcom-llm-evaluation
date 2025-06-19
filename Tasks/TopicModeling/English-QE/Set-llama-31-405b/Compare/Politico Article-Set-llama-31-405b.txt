@@ -1,0 +1,102 @@
+[Topic] Suspected Sabotage
+[Weight] 5
+
+[Keywords]
+Chinese ship damaged Baltic pipeline on purpose = 3
+intentional damage to the undersea gas pipeline = 3
+dragging an anchor behind you for hundreds of kilometers = 3
+identified as the main suspect Chinese container ship Newnew Polar Bear = 3
+action was approved by the Chinese government = 2
+ captain of the ship surely "understood that there was something wrong" = 2
+
+[Total Weight] 16
+[Normalized Significance] 8.0
+
+---
+
+[Topic] Infrastructure Vulnerability
+[Weight] 5
+
+[Keywords]
+Baltic Sea critical infrastructure = 3
+undersea gas pipeline = 3
+rupture of the Balticconnector = 3
+two telecoms cables connecting Estonia to Finland and Sweden = 3
+safety of undersea critical infrastructure = 3
+possible measures to protect them from external sabotage = 2
+better surveillance of suspicious ships = 2
+
+[Total Weight] 18
+[Normalized Significance] 9.0
+
+---
+
+[Topic] International Cooperation
+[Weight] 4
+
+[Keywords]
+cooperation with the Chinese authorities = 3
+Finland and Estonia have been in touch with Chinese authorities = 3
+seeking their cooperation with the investigation = 2
+send representatives to Beijing to investigate the vessel = 2
+NATO members Finland and Estonia = 2
+
+[Total Weight] 12
+[Normalized Significance] 6.0
+
+---
+
+[Topic] NATO Response
+[Weight] 3
+
+[Keywords]
+NATO members Finland and Estonia = 3
+investigation into damage to Baltic Sea critical infrastructure = 2
+possible measures to protect them from external sabotage = 2
+better surveillance of suspicious ships = 2
+NATO's involvement = 1
+
+[Total Weight] 10
+[Normalized Significance] 5.0
+
+---
+
+[Topic] Economic and Financial Impact
+[Weight] 2
+
+[Keywords]
+multimillion-euro repair work = 3
+damage to the gas pipeline and data cables = 2
+disruption of gas markets = 2
+no estimate of the total cost of the pipeline repair work = 1
+
+[Total Weight] 8
+[Normalized Significance] 4.0
+
+---
+
+[Topic] Environmental and Technical Challenges
+[Weight] 2
+
+[Keywords]
+safety of undersea critical infrastructure = 3
+possible measures to protect them from external sabotage = 2
+better surveillance of suspicious ships = 2
+ limitations to what can be done = 1
+
+[Total Weight] 8
+[Normalized Significance] 4.0
+
+---
+
+[Topic] Global Diplomatic Engagement
+[Weight] 2
+
+[Keywords]
+cooperation with the Chinese authorities = 3
+Finland and Estonia have been in touch with Chinese authorities = 2
+seeking their cooperation with the investigation = 2
+ send representatives to Beijing to investigate the vessel = 1
+
+[Total Weight] 8
+[Normalized Significance] 4.0

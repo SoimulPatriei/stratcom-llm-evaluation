@@ -1,0 +1,91 @@
+[Topic] Suspected Sabotage
+[Weight] 5
+
+[Keywords]
+Baltic Sea gas pipeline damaged = 3
+Human-made damage causing major drop in pressure = 3
+Chinese vessel anchor causing damage = 3
+Failed to establish radio contact with vessel's captain = 3
+Damage allegedly caused by Chinese vessel = 3
+International partners investigating = 3
+Disconnecting a crucial link between Nordic and Baltic gas markets = 2
+Damage to gas pipeline and data cables = 2
+Finland and Estonia formally investigating = 2
+Chinese vessel dragging anchor over 100 nautical miles = 2
+Cooperation with Chinese authorities probing the case = 1
+Former president of Finland speaking with Chinese President Xi Jinping = 1
+NATO's involvement = 1
+
+[Total Weight] 16
+[Normalized Significance] 8.0
+
+---
+
+[Topic] Infrastructure Vulnerability
+[Weight] 5
+
+[Keywords]
+Baltic Sea gas pipeline between NATO members Finland and Estonia = 3
+Disconnecting a crucial link between Nordic and Baltic gas markets = 3
+Pipeline reopened after multimillion-euro repair work = 2
+Telecom cables connecting Finland and Estonia, as well as Sweden and Estonia, were also damaged = 3
+Securing the area and detecting suspicious movement near critical undersea infrastructure = 3
+Damage to the gas pipeline and data cables = 2
+Several months' disruption = 2
+Gulf of Finland representing a way it can be cut off from the rest of NATO = 2
+Critical undersea infrastructure = 1
+Undersea communication and natural gas links = 1
+
+[Total Weight] 17
+[Normalized Significance] 8.5
+
+---
+
+[Topic] International Cooperation
+[Weight] 4
+
+[Keywords]
+Cooperation with Chinese authorities probing the case = 3
+Former president of Finland speaking with Chinese President Xi Jinping = 2
+International partners = 2
+Finnish Prime Minister initiating discussions with European Commission President = 2
+NATO's involvement = 2
+UNCLOS (the United Nations Convention on the Law of the Sea) = 2
+A case that might be presented to the UN’s International Tribunal for the Law of the Sea (ITLOS) = 2
+
+[Total Weight] 15
+[Normalized Significance] 7.5
+
+---
+
+[Topic] Economic and Financial Impact
+[Weight] 3
+
+[Keywords]
+Multimillion-euro repair work = 3
+Total cost of pipeline repair work, estimated at around 35 million euros ($38 million) = 3
+EU covering 75% of Balticconnector’s original construction cost = 3
+Disruption of gas markets = 2
+Who will pick up the bill = 1
+Finland, Sweden, and Estonia pursuing public relations campaign against Chinese shipping = 1
+Restricting Chinese vessels from their territorial waters = 1
+
+[Total Weight] 13
+[Normalized Significance] 6.5
+
+---
+
+[Topic] NATO Response
+[Weight] 4
+
+[Keywords]
+NATO has stepped up its patrols of the Baltic Sea = 3
+Minehunters, maritime patrol aircraft, and drones sent to the region = 3
+NATO members Finland and Estonia = 3
+Finland joining NATO in April 2023 = 3
+detect suspicious movement near its critical undersea infrastructure = 3
+Gulf of Finland representing a way it can be cut off from the rest of NATO = 2
+Statements on the matter pointing to adversarial treatment of its newest members by China and Russia = 2
+
+[Total Weight] 16
+[Normalized Significance] 8.0

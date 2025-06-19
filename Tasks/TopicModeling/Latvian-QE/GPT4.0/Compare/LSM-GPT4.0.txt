@@ -1,0 +1,83 @@
+[Topic] Infrastructure vulnerability  
+[Weight] 5  
+
+[Keywords]  
+sakaru kabelis starp Somiju un Igauniju = 3  
+bojājums ir cilvēka radīts = 3  
+zemūdens infrastruktūras bojājumi = 3  
+kritiskās infrastruktūras bojājums = 2  
+sakaru kabeļa remonts = 2  
+Igaunijas sakaru pakalpojumu darbība = 1  
+
+[Total Weight] 14  
+[Normalized Significance] 7  
+
+---
+
+[Topic] Possible sabotage  
+[Weight] 5  
+
+[Keywords]  
+cauruļvada iespējama sabotāža = 3  
+iespējamo citu valstu kuģu līdzdarbība = 3  
+sākotnējās aizdomas apstiprinās = 2  
+kuģu kustību analīze = 2  
+bojājums bijis apzināts = 1  
+
+[Total Weight] 11  
+[Normalized Significance] 5.5  
+
+---
+
+[Topic] Investigation  
+[Weight] 5  
+
+[Keywords]  
+sākotnējā izmeklēšana = 3  
+plašas pārbaudes = 3  
+izmeklētāji pārbaudīs Igaunijas un Zviedrijas sakaru kabeli = 2  
+Igaunijas prokuratūra = 2  
+Somijas policijas ūdenslīdēji = 1  
+
+[Total Weight] 11  
+[Normalized Significance] 5.5  
+
+---
+
+[Topic] Communication disruption  
+[Weight] 3  
+
+[Keywords]  
+sakaru kabeļa bojājums = 3  
+sakaru pakalpojumu darbība = 2  
+alternatīvi funkcionējošus zemūdens kabeļus = 2  
+sauzemes kabeļus ar Latviju = 1  
+
+[Total Weight] 8  
+[Normalized Significance] 4  
+
+---
+
+[Topic] NATO action  
+[Weight] 3  
+
+[Keywords]  
+NATO un sabiedrotie nolēmuši pastiprināt patrulēšanu = 3  
+pastiprinātie drošības pasākumi = 3  
+četru NATO mīnu meklēšanas kuģu flote = 2  
+
+[Total Weight] 8  
+[Normalized Significance] 4  
+
+---
+
+[Topic] Security concerns  
+[Weight] 2  
+
+[Keywords]  
+zemūdens infrastruktūras aizsardzība = 2  
+Rietumu atkarība no zemūdens infrastruktūras = 2  
+novērošanas un izlūkošanas lidojumi = 1  
+
+[Total Weight] 5  
+[Normalized Significance] 2.5

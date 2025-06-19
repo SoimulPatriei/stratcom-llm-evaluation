@@ -1,0 +1,77 @@
+﻿Task: Assign relevant topics to the provided article based on the predefined list below.
+
+Predefined Topics:
+
+- Climate Change and Agriculture  
+- Entertainment Industry Trends  
+- Energy Security  
+- Critical Infrastructure Weakness  
+- Infrastructure Vulnerability  
+- Human Rights Violations  
+- NATO Response  
+- Cultural Heritage Preservation  
+- Suspected Sabotage  
+- Environmental and Technical Challenges  
+- Global Diplomatic Engagement  
+- Economic and Financial Impact  
+- Technological Resilience and Ecological Issues  
+- Market Stability and Financial Risks  
+- Medical Advancements in Genetic Engineering  
+- Allied Strategic Defence/Response  
+- Global Sports Diplomacy  
+- Supply Chain Stability  
+- Covert Disruptions  
+- Space Exploration Initiatives  
+- International Cooperation  
+
+---
+
+Output Guidelines:
+
+1. Topic Assignment:  
+   Assign each relevant topic a weight from 1 to 5:
+   - 1: Minimally relevant  
+   - 5: Highly relevant
+
+2.     Keyword Identification:
+    For each assigned topic, extract the most relevant n-grams (keyword phrases) from the article. These keywords should be weighted according to their relevance and frequency:
+        Score 3: Highly relevant, central keywords that are frequently mentioned.
+        Score 2: Relevant keywords that are important but mentioned less frequently or are less central.
+        Score 1: Keywords that are loosely related or briefly mentioned.
+
+3.     Keyword Length:
+       Keywords should generally be shorter than a full sentence. However, do not hesitate to include longer keyword phrases if they are particularly relevant to the topic.
+        For example: "no reason to believe the damage has been caused by an explosion" or "Nord Stream I and II gas pipelines from Russia to Germany were damaged by a pair of explosions"
+
+4. Total Topic Score:  
+   Add up the weights of all keywords to get a total topic score, representing the significance of the topic within the article.
+
+5. Normalized Significance (Out of 10):  
+   Normalize the total score for each topic into a scale from 0 to 10 for easier comparison:
+   - Formula: (Total Weight / Maximum Possible Weight) * 10
+   
+   
+
+---
+
+Example:
+
+[Topic] Suspected Sabotage  
+[Weight] 5  
+
+[Keywords]  
+damage to a gas pipeline = 3  
+they were looking into the Chinese vessel, the NewNew Polar Bear, and a Russian-flagged ship, the Sevmorput = 3  
+as well as other vessels present = 3  
+incident was due to “outside activity” = 3  
+A Norwegian Navy ship shadowed a Chinese container ship investigated over damage to a gas pipeline = 2  
+KV Sortland followed the NewNew Polar Bear = 2  
+
+[Total Weight] 16  
+[Normalized Significance] 8.0  
+
+---
+
+
+- Language of the Article: {language}  
+- Article Text: {text}

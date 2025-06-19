@@ -1,0 +1,88 @@
+[Topic] Infrastructure vulnerability  
+[Weight] 5  
+
+[Keywords]  
+Baltijas jūrā bojāts Igaunijas - Zviedrijas sakaru kabelis = 3  
+kritiskās zemūdens infrastruktūras neaizsargātību = 3  
+bojājuma vieta nav Zviedrijas teritoriālajos ūdeņos = 2  
+Igaunijas - Zviedrijas un Igaunijas - Somijas zemūdens sakaru kabeļu bojājumi = 2  
+kabelis starp Zviedriju un Igauniju bojāts apmēram tajā pašā laikā = 1  
+
+[Total Weight] 11  
+[Normalized Significance] 7.33  
+
+---
+
+[Topic] Gaps in border surveillance  
+[Weight] 4  
+
+[Keywords]  
+bojājuma vieta atrodas Igaunijas teritoriālajos ūdeņos = 2  
+kritiskās zemūdens infrastruktūras neaizsargātību = 2  
+Uzraudzības un aizsardzības līmeņa paaugstināšanai ir nepieciešama nozīmīga sadarbība ar mūsu kolēģiem no Somijas un Zviedrijas = 1  
+
+[Total Weight] 5  
+[Normalized Significance] 3.33  
+
+---
+
+[Topic] Security concerns  
+[Weight] 4  
+
+[Keywords]  
+kritiskās zemūdens infrastruktūras neaizsargātību = 3  
+Uzraudzības un aizsardzības līmeņa paaugstināšanai ir nepieciešama nozīmīga sadarbība ar mūsu kolēģiem no Somijas un Zviedrijas = 2  
+bojājuma vieta nav Zviedrijas teritoriālajos ūdeņos = 1  
+
+[Total Weight] 6  
+[Normalized Significance] 4  
+
+---
+
+[Topic] International cooperation  
+[Weight] 4  
+
+[Keywords]  
+Uzraudzības un aizsardzības līmeņa paaugstināšanai ir nepieciešama nozīmīga sadarbība ar mūsu kolēģiem no Somijas un Zviedrijas = 3  
+kabelis starp Zviedriju un Igauniju bojāts apmēram tajā pašā laikā = 2  
+kritiskās zemūdens infrastruktūras neaizsargātību = 1  
+
+[Total Weight] 6  
+[Normalized Significance] 4  
+
+---
+
+[Topic] Geopolitical dynamics  
+[Weight] 3  
+
+[Keywords]  
+Uzraudzības un aizsardzības līmeņa paaugstināšanai ir nepieciešama nozīmīga sadarbība ar mūsu kolēģiem no Somijas un Zviedrijas = 2  
+kritiskās zemūdens infrastruktūras neaizsargātību = 1  
+bojājuma vieta nav Zviedrijas teritoriālajos ūdeņos = 1  
+
+[Total Weight] 4  
+[Normalized Significance] 2.67  
+
+---
+
+[Topic] Energy resources  
+[Weight] 2  
+
+[Keywords]  
+kabelis starp Zviedriju un Igauniju bojāts apmēram tajā pašā laikā, kad tika bojāts gāzesvads 'Balticconnector' = 2  
+kritiskās zemūdens infrastruktūras neaizsargātību = 1  
+
+[Total Weight] 3  
+[Normalized Significance] 2  
+
+---
+
+[Topic] Investigation  
+[Weight] 2  
+
+[Keywords]  
+Kabeļa īpašnieks veic tā remontu, un šī procesa laikā sadarbībā ar Somiju un Zviedriju tiks izpētīts iespējamais iemesls = 2  
+bojājuma vieta nav Zviedrijas teritoriālajos ūdeņos = 1  
+
+[Total Weight] 3  
+[Normalized Significance] 2  

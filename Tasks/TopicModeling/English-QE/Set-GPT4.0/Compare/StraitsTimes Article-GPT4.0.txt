@@ -1,0 +1,59 @@
+[Topic] Suspected Sabotage  
+[Weight] 3  
+
+[Keywords]  
+Balticconnector pipeline incident = 3  
+damaged by a Chinese vessel = 3  
+Chinese cargo ship Newnew Polar Bear = 2  
+underwater explosions struck three of four Nord Stream gas pipelines = 2  
+The cause of that sabotage remains unknown = 2 
+
+[Total Weight] 12  
+[Normalized Significance] 6.0
+
+[Topic] Energy Security  
+[Weight] 4  
+
+[Keywords]  
+major supply route to Europe from Russia = 3  
+dependent on liquefied natural gas imports for the winter = 3  
+Natural gas accounts for around 5 per cent of Finland’s energy consumption = 3  
+cutting off a major supply route = 2  
+
+[Total Weight] 11  
+[Normalized Significance] 5.5 
+
+[Topic] Global Diplomatic Engagement  
+[Weight] 5  
+
+[Keywords]  
+Finnish President Sauli Niinisto and China’s Xi Jinping = 3  
+constructive dialogue between the countries = 3  
+issue of the war in Ukraine in his talks with Xi = 3  
+China was cooperating in its investigation = 2  
+Asian nation was “firmly pursuing an independent foreign policy of peace = 1  
+
+[Total Weight] 12  
+[Normalized Significance] 6.0 
+
+[Topic] Infrastructure Vulnerability  
+[Weight] 2  
+
+[Keywords]  
+damaged the Balticconnector pipeline = 3  
+underwater explosions struck three of four Nord Stream gas pipelines = 2  
+it would take at least five months to repair the pipeline = 2  
+
+[Total Weight] 7  
+[Normalized Significance] 3.5 
+
+[Topic] International Cooperation  
+[Weight] 4  
+
+[Keywords]  
+constructive dialogue between the countries = 3  
+China was cooperating in its investigation = 3  
+stressed the role of China in achieving a just and lasting peace = 2  
+
+[Total Weight] 8  
+[Normalized Significance] 4.0

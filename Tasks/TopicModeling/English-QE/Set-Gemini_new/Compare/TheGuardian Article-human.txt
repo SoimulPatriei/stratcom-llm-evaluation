@@ -1,0 +1,95 @@
+[Topic] Suspected Sabotage  
+[Weight] 5  
+
+[Keywords]  
+Investigation was now focused on whether the damage was deliberate = 3  
+ruptured three of the four Nord Stream pipelines = 3  
+Pipeline damage was caused by sabotage = 3  
+damage was caused by external force = 3  
+deliberate, motive, involvement of a state actor cannot be ruled out = 2  
+
+[Total Weight] 14  
+[Normalized Significance] 8.0  
+
+---
+
+[Topic] NATO Response  
+[Weight] 5  
+
+[Keywords]  
+Investigators seeking, investigation was now focused = 3  
+transatlantic alliance has pledged a ‘united and determined response’ = 3  
+working with the private sector to protect undersea infrastructure = 2  
+stepped up patrols in the Baltic = 2  
+The alliance launched a new centre for protecting undersea pipelines = 2  
+
+[Total Weight] 12  
+[Normalized Significance] 7.0  
+
+---
+
+[Topic] Infrastructure Vulnerability  
+[Weight] 5  
+
+[Keywords]  
+These types of undersea critical infrastructure are vulnerable = 3  
+damage to the Balticconnector pipeline and parallel Estlink cable = 3  
+vulnerable, undersea critical infrastructure, Nord Stream pipelines = 3  
+tracks had been found on seabed nearby = 2  
+
+[Total Weight] 11  
+[Normalized Significance] 8.0  
+
+---
+
+[Topic] Energy Security  
+[Weight] 4  
+
+[Keywords]  
+gas pipeline was extensively damaged = 3  
+Finland relies on gas for about 5% of its energy supplies = 2  
+take at least five months to repair the pipeline = 2  
+gas to western Europe = 2  
+gas accounts for 5% of Finland’s energy = 1  
+
+[Total Weight] 10  
+[Normalized Significance] 6.0  
+
+---
+
+[Topic] International Cooperation  
+[Weight] 2  
+
+[Keywords]  
+Finland and Estonia = 2  
+Sweden’s prime minister = 2  
+working with the private sector = 2  
+
+[Total Weight] 6  
+[Normalized Significance] 2.0  
+
+---
+
+[Topic] Environmental and Technical Challenges  
+[Weight] 3  
+
+[Keywords]  
+Recovered a large ship’s anchor = 2  
+lifted from the seabed using a navy crane = 2  
+tracks had been found on the seabed = 2  
+deep drag marks on both sides of fractured pipeline = 2  
+take at least five months to repair the pipelines = 1  
+
+[Total Weight] 9  
+[Normalized Significance] 5.0  
+
+---
+
+[Topic] Economic and Financial Impact  
+[Weight] 2  
+
+[Keywords]  
+It is unlikely to come on stream again until April 2024 = 2  
+
+[Total Weight] 2  
+[Normalized Significance] 2.0  

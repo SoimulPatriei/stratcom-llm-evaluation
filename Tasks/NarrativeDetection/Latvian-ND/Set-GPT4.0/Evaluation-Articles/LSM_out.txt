@@ -1,0 +1,55 @@
+1. Named Entity Recognition:
+   - Location: [Igaunija, Somija, Baltijas jūra, Krievija, Honkonga, Zviedrija, Latvija, Baltijas jūras reģionā, Ziemeļjūra, Rietumu]
+   - Actor: [Igaunijas izmeklētāji, Somijas un Igaunijas jūras spēki, Igaunijas prokuratūra, Trīnu Oleva, Zviedrijas aizsardzības ministrs Pols Junsons, Somijas policijas ūdenslīdēji, NATO, Eiropas Savienības valstis]
+   - Event: [sakaru kabeļa bojājums, iespējama sabotāža, izmeklēšanas darbības, remonta darbi, kriminālprocess, zemūdens infrastruktūras bojājumi, drošības pasākumi]
+   - Timeline: [20. oktobris, 2023, nākamnedēļ, 8. oktobris]
+   - Entities Ordered by Importance Score:
+     1. sakaru kabeļa bojājums (Event): 0.06
+     2. Igaunija (Location): 0.06
+     3. Somija (Location): 0.06
+     4. Igaunijas izmeklētāji (Actor): 0.06
+     5. iespējama sabotāža (Event): 0.05
+     6. izmeklēšanas darbības (Event): 0.05
+     7. remonta darbi (Event): 0.05
+     8. kriminālprocess (Event): 0.05
+     9. zemūdens infrastruktūras bojājumi (Event): 0.05
+     10. Somijas un Igaunijas jūras spēki (Actor): 0.04
+     11. Igaunijas prokuratūra (Actor): 0.04
+     12. Trīnu Oleva (Actor): 0.04
+     13. Zviedrijas aizsardzības ministrs Pols Junsons (Actor): 0.04
+     14. Somijas policijas ūdenslīdēji (Actor): 0.04
+     15. NATO (Actor): 0.04
+     16. Baltijas jūra (Location): 0.04
+     17. Krievija (Location): 0.04
+     18. Honkonga (Location): 0.04
+     19. Zviedrija (Location): 0.04
+     20. Latvija (Location): 0.04
+     21. Baltijas jūras reģionā (Location): 0.04
+     22. Ziemeļjūra (Location): 0.04
+     23. Rietumu (Location): 0.04
+     24. Eiropas Savienības valstis (Actor): 0.03
+     25. 20. oktobris, 2023 (Timeline): 0.03
+     26. nākamnedēļ (Timeline): 0.03
+     27. 8. oktobris (Timeline): 0.03
+     28. drošības pasākumi (Event): 0.03
+
+2. Relationship Extraction:
+   - is damaged by [sakaru kabelis starp Somiju un Igauniju, cilvēka rīcība]
+   - is investigated by [Igaunijas prokuratūra, sabotāža]
+   - is identified by [Igaunijas valsts prokurore Trīnu Oleva, kuģi]
+   - is planned [remonta darbi, kabeļa remonts]
+   - is announced by [Zviedrijas aizsardzības ministrs Pols Junsons, sakaru kabeļa bojājums]
+   - is intensified [drošības pasākumi, NATO un sabiedrotie]
+   - is sent [NATO mīnu meklēšanas kuģu flote, Baltijas jūras reģions]
+   - is strengthened [zemūdens infrastruktūras aizsardzība, Eiropas Savienības un NATO valstis]
+
+3. Plot Discovery:
+   - Exposition: Igaunijas izmeklētāji secina, ka sakaru kabelis starp Somiju un Igauniju ir bojāts cilvēka darbības rezultātā.
+   - Rising Action: Igaunijas prokuratūra apstiprina iespējamo sabotāžu un plāno veikt plašas pārbaudes, lai izskatītu visus iespējamos scenārijus un iespējamo citu valstu kuģu līdzdarbību.
+   - Climax: Izmeklētāji identificē divus kuģus, kas kuģo zem Krievijas un Honkongas karoga.
+   - Falling Action: Izplānoti kabeļa remonta darbi, bet turpinās izmeklēšanas darbības, lai noskaidrotu, vai sākotnējās aizdomas apstiprinās un vai bojājums radīts nolaidības vai cita iemesla dēļ.
+   - Resolution: NATO paziņo par drošības pasākumu pastiprināšanu Baltijas jūrā pēc nesenajiem zemūdens infrastruktūras bojājumiem reģionā. Eiropas Savienības un NATO valstis stiprina zemūdens infrastruktūras aizsardzību.
+
+4. Story Evolution:
+   - Shift Detection: Nozīmīga izmaiņa stāstā notiek, kad NATO paziņo par patrulēšanas pastiprināšanu Baltijas jūrā pēc nesenajiem zemūdens infrastruktūras bojājumiem reģionā, un Eiropas Savienības un NATO valstis stiprina zemūdens infrastruktūras aizsardzību.
+   - Causal Relation Extraction: NATO un Eiropas Savienības un NATO valstu lēmums pastiprināt drošības pasākumus un zemūdens infrastruktūras aizsardzību ir reakcija uz nesenajiem zemūdens infrastruktūras bojājumiem Baltijas jūras reģionā.

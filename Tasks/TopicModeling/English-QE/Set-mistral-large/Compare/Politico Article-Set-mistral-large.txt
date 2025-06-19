@@ -1,0 +1,212 @@
+### Topic Assignment and Keyword Identification
+
+---
+
+[Topic] Suspected Sabotage
+[Weight] 4
+
+[Keywords]
+damage to Baltic Sea critical infrastructure = 3
+sabotage to the undersea gas pipeline = 3
+Chinese container ship Newnew Polar Bear = 3
+anchor dragged for hundreds of kilometers = 3
+intentional damage = 2
+Balticconnector = 2
+telecoms cables damaged = 1
+
+[Total Weight] 17
+[Normalized Significance] 8.5
+
+---
+
+[Topic] Infrastructure Vulnerability
+[Weight] 5
+
+[Keywords]
+damage to Baltic Sea critical infrastructure = 3
+rupture of the Balticconnector = 3
+damage to telecoms cables = 3
+better surveillance of suspicious ships = 3
+protection of undersea critical infrastructure = 3
+external sabotage = 2
+Finland and Estonia investigating = 1
+
+[Total Weight] 20
+[Normalized Significance] 10.0
+
+---
+
+[Topic] NATO Response
+[Weight] 3
+
+[Keywords]
+NATO members Finland and Estonia = 3
+protection of undersea critical infrastructure = 2
+damage to Baltic Sea critical infrastructure = 2
+concerns over the safety of undersea critical infrastructure = 2
+sabotage to the undersea gas pipeline = 1
+
+[Total Weight] 10
+[Normalized Significance] 5.0
+
+---
+
+[Topic] International Cooperation
+[Weight] 3
+
+[Keywords]
+cooperation with Chinese authorities = 3
+Finland and Estonia seeking cooperation = 3
+investigation of the vessel = 2
+NATO members Finland and Estonia = 2
+Balticconnector incident = 1
+
+[Total Weight] 11
+[Normalized Significance] 5.5
+
+---
+
+[Topic] Covert Disruptions
+[Weight] 2
+
+[Keywords]
+sabotage to the undersea gas pipeline = 3
+Chinese container ship Newnew Polar Bear = 3
+intentional damage = 2
+dragging an anchor = 2
+rupture of the Balticconnector = 1
+
+[Total Weight] 13
+[Normalized Significance] 6.5
+
+---
+
+[Topic] Energy Security
+[Weight] 2
+
+[Keywords]
+damage to Baltic Sea critical infrastructure = 3
+rupture of the Balticconnector = 3
+protection of undersea critical infrastructure = 2
+sabotage to the undersea gas pipeline = 1
+
+[Total Weight] 9
+[Normalized Significance] 4.5
+
+---
+
+### Output Guidelines
+
+1. **Topic Assignment:**
+   Each relevant topic is assigned a weight from 1 to 5 based on its relevance to the article.
+
+2. **Keyword Identification:**
+   Keywords are extracted and weighted according to their relevance and frequency:
+   - Score 3: Highly relevant, central keywords that are frequently mentioned.
+   - Score 2: Relevant keywords that are important but mentioned less frequently or are less central.
+   - Score 1: Keywords that are loosely related or briefly mentioned.
+
+3. **Keyword Length:**
+   Keywords are generally shorter than a full sentence but include longer keyword phrases if they are particularly relevant to the topic.
+
+4. **Total Topic Score:**
+   The total weight of all keywords is summed to get a total topic score.
+
+5. **Normalized Significance (Out of 10):**
+   The total score for each topic is normalized into a scale from 0 to 10 using the formula:
+   - Formula: (Total Weight / Maximum Possible Weight) * 10
+
+### Example Format
+
+```
+[Topic] Suspected Sabotage
+[Weight] 4
+
+[Keywords]
+damage to Baltic Sea critical infrastructure = 3
+sabotage to the undersea gas pipeline = 3
+Chinese container ship Newnew Polar Bear = 3
+anchor dragged for hundreds of kilometers = 3
+intentional damage = 2
+Balticconnector = 2
+telecoms cables damaged = 1
+
+[Total Weight] 17
+[Normalized Significance] 8.5
+
+---
+
+[Topic] Infrastructure Vulnerability
+[Weight] 5
+
+[Keywords]
+damage to Baltic Sea critical infrastructure = 3
+rupture of the Balticconnector = 3
+damage to telecoms cables = 3
+better surveillance of suspicious ships = 3
+protection of undersea critical infrastructure = 3
+external sabotage = 2
+Finland and Estonia investigating = 1
+
+[Total Weight] 20
+[Normalized Significance] 10.0
+
+---
+
+[Topic] NATO Response
+[Weight] 3
+
+[Keywords]
+NATO members Finland and Estonia = 3
+protection of undersea critical infrastructure = 2
+damage to Baltic Sea critical infrastructure = 2
+concerns over the safety of undersea critical infrastructure = 2
+sabotage to the undersea gas pipeline = 1
+
+[Total Weight] 10
+[Normalized Significance] 5.0
+
+---
+
+[Topic] International Cooperation
+[Weight] 3
+
+[Keywords]
+cooperation with Chinese authorities = 3
+Finland and Estonia seeking cooperation = 3
+investigation of the vessel = 2
+NATO members Finland and Estonia = 2
+Balticconnector incident = 1
+
+[Total Weight] 11
+[Normalized Significance] 5.5
+
+---
+
+[Topic] Covert Disruptions
+[Weight] 2
+
+[Keywords]
+sabotage to the undersea gas pipeline = 3
+Chinese container ship Newnew Polar Bear = 3
+intentional damage = 2
+dragging an anchor = 2
+rupture of the Balticconnector = 1
+
+[Total Weight] 13
+[Normalized Significance] 6.5
+
+---
+
+[Topic] Energy Security
+[Weight] 2
+
+[Keywords]
+damage to Baltic Sea critical infrastructure = 3
+rupture of the Balticconnector = 3
+protection of undersea critical infrastructure = 2
+sabotage to the undersea gas pipeline = 1
+
+[Total Weight] 9
+[Normalized Significance] 4.5
+```

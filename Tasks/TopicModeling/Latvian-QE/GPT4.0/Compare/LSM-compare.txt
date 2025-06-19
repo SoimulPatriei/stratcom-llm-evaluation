@@ -1,0 +1,59 @@
+Topic: Investigation=4=5
+  Keywords Assigned by Human but Not by Machine:
+   Turpmāk tā veiks plašas pārbaudes, lai izskatītu visus iespējamos scenārijus kur varētu būt bijusi cilvēka līdzdarbība. Šobrīd esam identificējuši divus šādus kuģus – viens kuģo zem Krievijas karoga, bet otrs – zem Honkongas=2
+   sākotnējie pierādījumi no sakaru kabeļa starp Igauniju un Somiju ir savākti, tad ir iespējams sākt plānot kabeļa remontu=2
+   detalizēta informācija par izmeklēšanu netiek publiskota=3
+   Jau iepriekš kā galvenā versija tika izvirzīta cauruļvada iespējama sabotāža=3
+
+  Keywords Assigned by Machine but Not by Human:
+   izmeklētāji pārbaudīs Igaunijas un Zviedrijas sakaru kabeli=2
+   Somijas policijas ūdenslīdēji=1
+   plašas pārbaudes=3
+   sākotnējā izmeklēšana=3
+   Igaunijas prokuratūra=2
+
+
+Topic: Infrastructure vulnerability=5=5
+  Keywords Assigned by Human but Not by Machine:
+   izmeklētāji pašlaik nevar apstiprināt, vai bojājums bijis apzināts, cita starpā mērķtiecīgs kritiskās infrastruktūras bojājums=2
+   Baltijas jūrā, kā arī Ziemeļjūrā ir blīvs infrastruktūras tīkls ar zemūdens gāzesvadiem, elektrības un sakaru kabeļiem=3
+   pieaugot Rietumu atkarībai tieši no zemūdens infrastruktūras, tā kļūst arvien ievainojamāka=3
+
+  Keywords Assigned by Machine but Not by Human:
+   sakaru kabeļa remonts=2
+   Igaunijas sakaru pakalpojumu darbība=1
+   bojājums ir cilvēka radīts=3
+   sakaru kabelis starp Somiju un Igauniju=3
+   zemūdens infrastruktūras bojājumi=3
+   kritiskās infrastruktūras bojājums=2
+
+
+Topic: NATO action=3=3
+  Keywords Assigned by Human but Not by Machine:
+   NATO un sabiedrotie nolēmuši pastiprināt patrulēšanu Baltijas jūrā pēc nesenajiem zemūdens infrastruktūras bojājumiem reģionā=3
+   drošības pasākumi ietver papildu novērošanas un izlūkošanas lidojumus=2
+   Eiropas Savienības un NATO valstis stiprina zemūdens infrastruktūras aizsardzību=3
+
+  Keywords Assigned by Machine but Not by Human:
+   NATO un sabiedrotie nolēmuši pastiprināt patrulēšanu=3
+   četru NATO mīnu meklēšanas kuģu flote=2
+   pastiprinātie drošības pasākumi=3
+
+
+Topics Assigned by Human but Not by Machine:
+Topic: Damage=5
+Topic: Baltic Sea region cooperation=3
+Topic: Communication provision=2
+
+Topics Assigned by Machine but Not by Human:
+Topic: Communication disruption=3
+Topic: Possible sabotage=5
+Topic: Security concerns=2
+
+Statistics:
+Common Topics: 3
+Topics Assigned by Human: 6
+Topics Assigned by Machine: 6
+Common Keywords: 0
+Keywords Assigned by Human: 10
+Keywords Assigned by Machine: 14

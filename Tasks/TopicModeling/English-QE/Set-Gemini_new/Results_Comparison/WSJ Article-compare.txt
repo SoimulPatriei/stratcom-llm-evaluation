@@ -1,0 +1,87 @@
+Topic: Economic and Financial Impact=4=2
+  Keywords Assigned by Human but Not by Machine:
+   pushed up European gas prices=2
+   pushed up European gas prices, UK prices jumped as much as 13.5%=2
+   UK prices=2
+   Nord Stream pipeline blasts=2
+
+  Keywords Assigned by Machine but Not by Human:
+   total cost of the pipeline repair work, estimated at around 35 million euros ($38 million)=3
+   multimillion-euro repair work=3
+   who will pick up the bill=2
+   disruption of gas markets=2
+
+
+Topic: Infrastructure Vulnerability=5=4
+  Keywords Assigned by Human but Not by Machine:
+   so serious=3
+   Telecoms cable was also damaged=2
+   Baltic-connector pipeline=3
+   two different spots in Finland’s Exclusive Economic Zone=3
+   Nord Stream pipeline blasts=3
+
+  Keywords Assigned by Machine but Not by Human:
+   communications cable=3
+   undersea infrastructure=3
+   Europe’s critical infrastructure=3
+   physical attacks=3
+   Nord Stream pipelines=3
+   natural-gas terminals=2
+   energy grids=2
+   data cables=2
+   Balticconnector pipeline=3
+   vulnerability=3
+
+
+Topic: International Cooperation=4=3
+  Keywords Assigned by Human but Not by Machine:
+   support allies concerned=2
+   sharing information=2
+   Being investigated by both countries=2
+   investigated by both countries=2
+   Stands ready to support Allies concerned=2
+
+  Keywords Assigned by Machine but Not by Human:
+   discussions with European Commission President=2
+   international partners=2
+   cooperation with the Chinese authorities=3
+   former president of Finland spoke with Chinese President Xi Jinping=2
+   NATO's involvement=1
+
+
+Topic: Suspected Sabotage=5=5
+  Keywords Assigned by Human but Not by Machine:
+   Russian sabotage=3
+   deliberate, external activity=3
+   caused by external activity=3
+   damage could not have been caused by normal use of the pipeline or pressure fluctuations=3
+   suspected sabotage=3
+   retribution for Finland joining NATO=2
+
+  Keywords Assigned by Machine but Not by Human:
+   sabotage team=2
+   sophisticated attack on Germany’s rail network=2
+   mysterious power outage in Denmark=2
+   powerful explosions=3
+   Nord Stream pipelines blasts=3
+   planted explosives=2
+   Sabotage=3
+   External activity=3
+   attack=3
+
+
+Topics Assigned by Human but Not by Machine:
+Topic: Environmental and Technical Challenges=3
+Topic: Energy Security=5
+Topic: NATO Response=5
+
+Topics Assigned by Machine but Not by Human:
+Topic: Global Diplomatic Engagement=3
+
+Statistics:
+Common Topics: 4
+Topics Assigned by Human: 7
+Topics Assigned by Machine: 5
+Common Keywords: 0
+Keywords Assigned by Human: 20
+Keywords Assigned by Machine: 28

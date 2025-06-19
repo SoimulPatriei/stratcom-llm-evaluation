@@ -1,0 +1,63 @@
+[Topic] Security threat  
+[Weight] 5  
+
+[Keywords]  
+civilu radīts = 3  
+sabotāža = 2  
+draudi = 1  
+
+[Total Weight] 6  
+[Normalized Significance] 6  
+
+---
+
+[Topic] Investigation  
+[Weight] 4  
+
+[Keywords]  
+izmeklēšana = 2  
+prokuratūra = 2  
+izmeklēšanas gaitā = 1  
+izmeklētāji = 1  
+
+[Total Weight] 6  
+[Normalized Significance] 6.67  
+
+---
+
+[Topic] Infrastructure vulnerability  
+[Weight] 4  
+
+[Keywords]  
+sakaru kabeļa bojājums = 2  
+kritiskās infrastruktūras bojājums = 2  
+zemūdens infrastruktūras bojājumi = 1  
+aizsardzība = 1  
+
+[Total Weight] 6  
+[Normalized Significance] 7.5  
+
+---
+
+[Topic] Geopolitical dynamics  
+[Weight] 3  
+
+[Keywords]  
+NATO = 1  
+Baltijas jūra = 1  
+Rietumu atkarība = 1  
+
+[Total Weight] 3  
+[Normalized Significance] 3  
+
+---
+
+[Topic] Criminal inquiry  
+[Weight] 3  
+
+[Keywords]  
+kriminālprocesa laikā = 2  
+citu valstu kuģu līdzdarbība = 1  
+
+[Total Weight] 3  
+[Normalized Significance] 3.75  

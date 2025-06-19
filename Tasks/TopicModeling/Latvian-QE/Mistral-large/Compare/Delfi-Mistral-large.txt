@@ -1,0 +1,92 @@
+[Topic] Energy resources  
+[Weight] 5  
+
+[Keywords]  
+dabasgāzes tirgus = 3  
+Balticconnector = 3  
+dabasgāzes cenas = 2  
+kurināmā piegādes līgumu = 2  
+dabasgāzes cenu svārstības = 2  
+siltumenerģijas tarifiem = 1  
+siltumenerģijas komersanti = 1  
+
+[Total Weight] 14  
+[Normalized Significance] 7  
+
+---
+
+[Topic] Infrastructure vulnerability  
+[Weight] 3  
+
+[Keywords]  
+Balticconnector bojājumi = 2  
+spiediena kritums = 2  
+gāzes noplūde = 1  
+gāzesvada slēgšana = 1  
+
+[Total Weight] 6  
+[Normalized Significance] 3  
+
+---
+
+[Topic] Natural gas infrastructure  
+[Weight] 5  
+
+[Keywords]  
+Balticconnector = 3  
+dabasgāzes tirgus = 3  
+gāzesvads = 2  
+spiediena kritums = 2  
+gāzes noplūde = 1  
+
+[Total Weight] 11  
+[Normalized Significance] 5.5  
+
+---
+
+[Topic] Economic ties in Northern Europe  
+[Weight] 3  
+
+[Keywords]  
+Somiju un Igauniju savienojošais zemūdens gāzesvads = 2  
+Somijas un Igaunijas operators = 2  
+energoapgādes izmaksu atbalsta likums = 1  
+
+[Total Weight] 5  
+[Normalized Significance] 2.5  
+
+---
+
+[Topic] Investigation  
+[Weight] 2  
+
+[Keywords]  
+cēlonis vēl nav zināms = 2  
+izskatīšanā Saeimā atrodas likumprojekts = 1  
+
+[Total Weight] 3  
+[Normalized Significance] 1.5  
+
+---
+
+[Topic] Damage  
+[Weight] 2  
+
+[Keywords]  
+Balticconnector bojājumi = 2  
+gāzes noplūde = 1  
+
+[Total Weight] 3  
+[Normalized Significance] 1.5  
+
+---
+
+[Topic] International cooperation  
+[Weight] 2  
+
+[Keywords]  
+Somiju un Igauniju savienojošais zemūdens gāzesvads = 2  
+Somijas un Igaunijas operators = 1  
+
+[Total Weight] 3  
+[Normalized Significance] 1.5  

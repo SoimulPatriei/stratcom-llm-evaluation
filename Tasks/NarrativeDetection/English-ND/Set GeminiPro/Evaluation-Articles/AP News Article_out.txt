@@ -1,0 +1,136 @@
+## Narrative Detection Report
+
+**Language of the article:** English
+
+**1. Named Entity Recognition:**
+
+**Entities:**
+
+* **Location:**
+    * Baltic Sea
+    * Finland
+    * Estonia
+    * Gulf of Finland
+    * Inkoo (Finland)
+    * Paldiski (Estonia)
+    * St. Petersburg (Russia)
+    * China
+    * Hong Kong
+    * European Union
+    * Baltic Sea region
+* **Actor:**
+    * Finnish authorities
+    * National Bureau of Investigation (NBI)
+    * Detective Supt. Risto Lohi
+    * Finnish maritime authorities
+    * Finnish Navy
+    * Sauli Niinistö (former president of Finland)
+    * Chinese President Xi Jinping
+    * Finnish and Estonian authorities
+    * Janne Grönlund (senior vice president at Gasgrid Finland)
+    * European Commission President Ursula von der Leyen
+    * NATO
+    * Finland's Prime Minister Petteri Orpo
+* **Event:**
+    * Damage to Balticconnector pipeline
+    * Investigation into the damage
+    * Disconnection of the pipeline
+    * Reopening of the pipeline
+    * Repair work on the pipeline
+    * Discussions on financing the repair
+    * Increased patrols of the Baltic Sea by NATO
+    * Finland joining NATO
+* **Timeline:**
+    * October 8, 2022
+    * This week
+    * January
+    * April 2023
+    * Months to repair
+    * Last year
+
+**Scores:**
+
+* Damage to Balticconnector pipeline: 0.15
+* Investigation into the damage: 0.10
+* Finnish authorities: 0.08
+* National Bureau of Investigation (NBI): 0.07
+* Reopening of the pipeline: 0.07
+* Repair work on the pipeline: 0.07
+* Baltic Sea: 0.06
+* Finland: 0.06
+* Estonia: 0.06
+* NATO: 0.05
+* Increased patrols of the Baltic Sea: 0.05
+* Detective Supt. Risto Lohi: 0.04
+* Janne Grönlund: 0.04
+* European Commission President Ursula von der Leyen: 0.04
+* Finland's Prime Minister Petteri Orpo: 0.04
+* Sauli Niinistö: 0.03
+* Chinese President Xi Jinping: 0.03
+* Finnish maritime authorities: 0.03
+* Finnish Navy: 0.03
+* European Union: 0.03
+* China: 0.02
+* Hong Kong: 0.02
+* Gulf of Finland: 0.02
+* Inkoo (Finland): 0.02
+* Paldiski (Estonia): 0.02
+* St. Petersburg (Russia): 0.02
+* Baltic Sea region: 0.02
+* October 8, 2022: 0.02
+* This week: 0.02
+* January: 0.02
+* April 2023: 0.02
+* Months to repair: 0.02
+* Last year: 0.02
+
+**2. Relationship Extraction:**
+
+* The Finnish authorities are investigating the damage to the Balticconnector pipeline.
+* The investigation is focusing on the Chinese cargo vessel Newnew Polar Bear.
+* The damage to the pipeline caused a major drop in pressure.
+* The pipeline was reopened this week after repair work.
+* The repair work cost around 35 million euros.
+* The European Union may provide financing for the repair work.
+* NATO has increased its patrols of the Baltic Sea.
+* Finland joined NATO in April 2023.
+
+**3. Plot Discovery:**
+
+**Exposition:**
+
+* The Balticconnector pipeline was damaged in October 2022.
+* The damage caused a major drop in pressure and the pipeline was shut down.
+* The Finnish authorities are investigating the damage.
+
+**Rising Action:**
+
+* The investigation is focusing on the Chinese cargo vessel Newnew Polar Bear.
+* The pipeline was reopened this week after repair work.
+* The repair work cost around 35 million euros.
+
+**Climax:**
+
+* The European Union may provide financing for the repair work.
+
+**Falling Action:**
+
+* NATO has increased its patrols of the Baltic Sea.
+
+**Resolution:**
+
+* Finland joined NATO in April 2023.
+
+**4. Story Evolution:**
+
+**Shift Detection:**
+
+* The story shifts when the pipeline is reopened after repair work.
+* The story shifts again when the European Union may provide financing for the repair work.
+* The story shifts again when Finland joins NATO.
+
+**Causal Relation Extraction:**
+
+* The pipeline was reopened after repair work was completed.
+* The European Union may provide financing for the repair work because of the damage to the pipeline.
+* Finland joined NATO because of the increased security concerns in the Baltic Sea region.

@@ -1,0 +1,64 @@
+Topic: Infrastructure vulnerability=5=5
+  Keywords Assigned by Human but Not by Machine:
+   Kāda iemesla dēļ samazinājās kabeļa pārraides jauda, pagaidām nav zināms=3
+   bojājuma vieta nav Zviedrijas teritoriālajos ūdeņos, un ka kabelis joprojām ir izmantojams=2
+
+  Keywords Assigned by Machine but Not by Human:
+   Kabeļa bojājumi=2
+   Bojāts sakaru kabelis starp Zviedriju un Igauniju=3
+   Bojājuma vieta=2
+   Kritiskās zemūdens infrastruktūras neaizsargātība=3
+
+
+Topic: Communication disruption=3=3
+  Keywords Assigned by Human but Not by Machine:
+   dažu dienu laikā atjaunoja kabeļa maksimālo pārraides jaudu, un sakaru nepārtrauktību tas nav ietekmējis=3
+   Somu līcī pārraides jauda sakaru kabelim starp Igauniju un Zviedriju ir samazinājusies=3
+   Sakari ir nepārtraukti nodrošināti, jo Igaunijai ir vairāki savienojumi, un bojājumu gadījumā ir iespējams izmantot vai nu alternatīvi funkcionējošus zemūdens kabeļus=3
+
+  Keywords Assigned by Machine but Not by Human:
+   Sakaru kabelis=2
+   Sakaru nepārtrauktība (nav ietekmēta)=2
+   Sakaru pakalpojumu darbība=1
+
+
+Topic: Geopolitical dynamics=4=2
+  Keywords Assigned by Human but Not by Machine:
+   Uzraudzības un aizsardzības līmeņa paaugstināšanai ir nepieciešama nozīmīga sadarbība ar mūsu kolēģiem no Somijas un Zviedrijas=3
+   Igaunijas - Zviedrijas un Igaunijas - Somijas zemūdens sakaru kabeļu bojājumi nav ietekmējuši Igaunijas sakaru pakalpojumu darbību=1
+   nav iemesla Igaunijas un Zviedrijas kabeļa bojājumu saistīt ar citiem kabeļiem, norādīja ministrija=2
+   Kabeļa īpašnieks veic tā remontu, un šī procesa laikā sadarbībā ar Somiju un Zviedriju tiks izpētīts iespējamais iemesls=2
+
+  Keywords Assigned by Machine but Not by Human:
+   Sabiedrotie (Eiropas Savienība un NATO)=2
+
+
+Topic: Suspicion of damage=4=2
+  Keywords Assigned by Human but Not by Machine:
+   bojāts komunikāciju kabelis, kas savieno abas valstis, taču šā incidenta cēlonis nav skaidrs=3
+   "Līdzīgi nelieli bojājumi šim kabelim bijuši arī agrāk=3
+   kabelis starp Zviedriju un Igauniju bojāts apmēram tajā pašā laikā, kad tika bojāts gāzesvads "Balticconnector" un sakaru kabelis=2
+
+  Keywords Assigned by Machine but Not by Human:
+   Iespējamais iemesls=1
+   Incidenta cēlonis nav skaidrs=2
+
+
+Topics Assigned by Human but Not by Machine:
+Topic: Concerns about defense=5
+
+Topics Assigned by Machine but Not by Human:
+Topic: Digital infrastructure instability=2
+Topic: International cooperation=2
+Topic: Security concern=4
+Topic: Unexplained technical failure=3
+Topic: Damage=4
+Topic: Communication provision=1
+
+Statistics:
+Common Topics: 4
+Topics Assigned by Human: 5
+Topics Assigned by Machine: 10
+Common Keywords: 0
+Keywords Assigned by Human: 12
+Keywords Assigned by Machine: 10

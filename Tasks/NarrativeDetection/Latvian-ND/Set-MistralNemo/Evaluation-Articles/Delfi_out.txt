@@ -1,0 +1,54 @@
+Here are the outputs based on the provided Latvian article using the specified layers:
+
+**1. Named Entity Recognition:**
+
+- **Location:** [Latvija, Nīderlandes birža, TTF, Somija, Igaunija, Paldiska, Inko termināļi, Somijas jūras līcis]
+- **Actor:** [KEM, Gasgrid, Elering]
+- **Event:** [Dabasgāzes cenas svārstības, Bojājumi Balticconnector, Spiediena kritums, Gāzes noplūde, Gāzesvada slēgšana]
+- **Timeline:** [17.10.2023, 16. oktobrī, 9. oktobrī, 10.ottobrī, 11.ottobrī, 12.ottobrī, 13.ottobrī, 8. oktobrī, svētdien, pirms vairāk nekā trim gadiem]
+
+**Entities Ordered by Importance Score:**
+1. Bojājumi Balticconnector (Event): 0.18
+2. Dabasgāzes cenas svārstības (Event): 0.15
+3. Latvia (Location): 0.12
+4. Nīderlandes birža (Location): 0.10
+5. TTF (Location): 0.10
+6. Somija (Location): 0.10
+7. Igaunija (Location): 0.08
+8. KEM (Actor): 0.05
+9. Gasgrid (Actor): 0.03
+10. Elering (Actor): 0.03
+11. Spiediena kritums (Event): 0.04
+12. Gāzes noplūde (Event): 0.04
+13. Gāzesvada slēgšana (Event): 0.04
+14. Paldiska (Location): 0.03
+15. Inko termināļi (Location): 0.03
+16. Somijas jūras līcis (Location): 0.03
+17. 17.10.2023 (Timeline): 0.03
+18. 16. oktobrī (Timeline): 0.03
+19. 9. oktobrī (Timeline): 0.03
+20. 10.ottobrī (Timeline): 0.03
+21. 11.ottobrī (Timeline): 0.03
+22. 12.ottobrī (Timeline): 0.03
+23. 13.ottobrī (Timeline): 0.03
+24. 8. oktobrī (Timeline): 0.03
+25. svētdien (Timeline): 0.03
+26. Pirms vairāk nekā trim gadiem (Timeline): 0.03
+
+**2. Relationship Extraction:**
+- Dabasgāzes cenas svārstības ir izraisītas par Bojājumi Balticconnector
+- Bojājumi Balticconnector ir novedusi pie Gāzesvada slēgšanas
+- Spiediena kritums ir saistīts ar Gāzes noplūdei
+- KEM ir saistīts ar Dabasgāzes cenas svārstībām un Siltumenerģijas tarifiem
+- Gasgrid un Elering ir saistīti ar Bojājumi Balticconnector un Gāzesvada slēgšanu
+
+**3. Plot Discovery:**
+- **Exposition:** Dabasgāzes tirgus reaģē uz ziņām par Bojājumi Balticconnector, bet izmaiņu ilgums vēl grūti spriest.
+- **Rising Action:** Dabasgāzes cenas svārstības notiek pēc Bojājumi Balticconnector, un izskatīšanā ir likumprojekts "Energoapgādes izmaksu atbalsta likums".
+- **Climax:** Bojājumi Balticconnector izraisījusi gāzesvada slēgšanu un spiediena kritumu.
+- **Falling Action:** KEM atgādina par likumprojekta "Energoapgādes izmaksu atbalsta likumu", kas mērķis ir sniegt atbalstu vidēji zemu un zemu ienākumu mājsaimniecībām.
+- **Resolution:** Grūti prognozēt ietekmi uz visu apkures sezonu.
+
+**4. Story Evolution:**
+- **Shift Detection:** Pārmaiņa notika, kad Bojājumi Balticconnector izraisīja dabasgāzes cenas svārstības un gāzesvada slēgšanu.
+- **Causal Relation Extraction:** Bojājumi Balticconnector izraisīja dabasgāzes cenas svārstības un gāzesvada slēgšanu, kas vēl nav atjaunota.

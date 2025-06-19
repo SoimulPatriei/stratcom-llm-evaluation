@@ -1,0 +1,99 @@
+Topic: Infrastructure Vulnerability=5=5
+  Keywords Assigned by Human but Not by Machine:
+   Nord Stream pipeline blasts=3
+   Telecoms cable was also damaged=2
+   Baltic-connector pipeline=3
+   two different spots in Finland’s Exclusive Economic Zone=3
+   so serious=3
+
+  Keywords Assigned by Machine but Not by Human:
+   pipeline reopened this week after multimillion-euro repair work=3
+   Baltic Sea gas pipeline between NATO members Finland and Estonia=4
+   Telecom cables connecting Finland and Estonia, as well as Sweden and Estonia, were also damaged=3
+   damage to the gas pipeline and data cables=2
+   disconnecting a crucial link between the Nordic and Baltic gas markets=3
+   several months' disruption=1
+   secure the area and detect suspicious movement near its critical undersea infrastructure=3
+
+
+Topic: Economic and Financial Impact=4=3
+  Keywords Assigned by Human but Not by Machine:
+   UK prices=2
+   Nord Stream pipeline blasts=2
+   pushed up European gas prices=2
+   pushed up European gas prices, UK prices jumped as much as 13.5%=2
+
+  Keywords Assigned by Machine but Not by Human:
+   gas supply secured through a floating liquefied natural-gas terminal=1
+   disruption of gas markets=2
+   EU covered 75% of Balticconnector’s original construction cost=2
+   who will pick up the bill=2
+   multimillion-euro repair work=3
+   total cost of the pipeline repair work, estimated at around 35 million euros ($38 million)=3
+
+
+Topic: International Cooperation=4=3
+  Keywords Assigned by Human but Not by Machine:
+   Being investigated by both countries=2
+   support allies concerned=2
+   investigated by both countries=2
+   Stands ready to support Allies concerned=2
+   sharing information=2
+
+  Keywords Assigned by Machine but Not by Human:
+   Finnish Prime Minister initiated discussions with European Commission President=2
+   international investigation=1
+   cooperation with international partners=3
+   investigation involves multiple countries=2
+   NATO's involvement=2
+
+
+Topic: NATO Response=5=4
+  Keywords Assigned by Human but Not by Machine:
+   Nato=2
+   Jens Stoltenberg=2
+   Nato military alliance=2
+   sharing information=2
+   sharing information & stands ready to support Allies=2
+   support allies=2
+   retribution for Finland joining Nato=2
+
+  Keywords Assigned by Machine but Not by Human:
+   NATO members Finland and Estonia=3
+   NATO has stepped up its patrols of the Baltic Sea=4
+   minehunters, maritime patrol aircraft, and drones sent to the region=3
+   detect suspicious movement near its critical undersea infrastructure=2
+   Finland joined NATO in April 2023=2
+   NATO Secretary-General Jens Stoltenberg said the alliance was sharing information and stands ready to support concerned member states.=2
+
+
+Topic: Suspected Sabotage=5=5
+  Keywords Assigned by Human but Not by Machine:
+   deliberate, external activity=3
+   damage could not have been caused by normal use of the pipeline or pressure fluctuations=3
+   Russian sabotage=3
+   retribution for Finland joining NATO=2
+   suspected sabotage=3
+   caused by external activity=3
+
+  Keywords Assigned by Machine but Not by Human:
+   planted explosives=2
+   likely sabotage=5
+   damage resulted from sabotage=4
+   deliberate act=1
+   sabotage team=2
+   human-made damage that caused a major drop in pressure=5
+   external activity=3
+
+
+Topics Assigned by Human but Not by Machine:
+Topic: Environmental and Technical Challenges=3
+Topic: Energy Security=5
+
+Statistics:
+Common Topics: 5
+Topics Assigned by Human: 7
+Topics Assigned by Machine: 5
+Common Keywords: 0
+Keywords Assigned by Human: 27
+Keywords Assigned by Machine: 31

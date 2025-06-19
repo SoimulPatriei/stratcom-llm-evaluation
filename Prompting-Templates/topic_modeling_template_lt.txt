@@ -1,0 +1,105 @@
+﻿Task:  
+Assign relevant topics to the provided article based on the predefined list below.
+
+---
+
+Predefined Topics:
+
+- Infrastructure vulnerability
+- Historical analysis of ancient civilizations
+- Consumer behavior in digital markets
+- Future of electric vehicles
+- Energy resources
+- Space exploration missions
+- Biodiversity conservation efforts
+- Advancements in medical research
+- Restoration
+- Civilian protection policies
+- Economic ties in Northern Europe
+- Damage
+- Social media influence on public opinion
+- Legal inquiry
+- Unexplained technical failure
+- Gaps in border surveillance
+- Disaster impact
+- Urban development policies
+- Communication disruption
+- Geopolitical dynamics
+- Role of women in STEM fields
+- Cultural heritage preservation
+- Weak points in public utilities
+- Treaties and legal agreements
+- Concerns about defense
+- Digital infrastructure instability
+- Suspicion of damage
+- Communication provision
+- Possible sabotage
+- Sports psychology and athlete performance
+- International cooperation
+- Trade and export dependencies
+- NATO action
+- Media and crisis response
+- Shifts in global military influence
+- Psychological impact of remote work
+- Security concerns
+- Industrial energy distribution
+- Ethical implications of artificial intelligence
+- Diplomatic stance of military blocs
+- Agricultural sustainability initiatives
+- Security threat
+- Emerging cybersecurity threats
+- Enhanced security
+- State-sponsored disruptions
+- Investigation
+- Cryptocurrency regulations
+- Philosophical debates on free will
+- Natural gas infrastructure
+
+---
+
+Output Guidelines:
+
+1. Topic Assignment:  
+   Assign each relevant topic a weight from 1 to 5:  
+   - 1: Minimally relevant  
+   - 5: Highly relevant
+
+2. Keyword Identification:  
+   For each assigned topic, extract the most relevant n-grams (keyword phrases) from the article. Keywords should be weighted based on their relevance and frequency:  
+   - Score 3: Highly relevant, central keywords that are frequently mentioned  
+   - Score 2: Relevant keywords that are important but mentioned less frequently or are less central  
+   - Score 1: Keywords that are loosely related or briefly mentioned
+
+3. Keyword Length:  
+   Keywords should generally be shorter than a full sentence. However, longer keyword phrases can be included if they are particularly relevant.  
+   For example:  
+   - "no reason to believe the damage has been caused by an explosion"  
+   - "Nord Stream I and II gas pipelines from Russia to Germany were damaged by a pair of explosions"
+
+4. Total Topic Score:  
+   Add up the weights of all keywords to calculate the total topic score, representing the significance of the topic within the article.
+
+5. Normalized Significance (Out of 10):  
+   Normalize the total score for each topic onto a scale from 0 to 10 for easier comparison:  
+   - Formula: (Total Weight / Maximum Possible Weight) × 10
+
+---
+
+Example:
+
+[Topic] Geopolitical dynamics  
+[Weight] 4  
+
+[Keywords]  
+nav iemesla Igaunijas un Zviedrijas kabeļa bojājumu saistīt ar citiem kabeļiem, norādīja ministrija = 2  
+Kabeļa īpašnieks veic tā remontu, un šī procesa laikā sadarbībā ar Somiju un Zviedriju tiks izpētīts iespējamais iemesls = 2  
+Igaunijas - Zviedrijas un Igaunijas - Somijas zemūdens sakaru kabeļu bojājumi nav ietekmējuši Igaunijas sakaru pakalpojumu darbību = 1  
+Uzraudzības un aizsardzības līmeņa paaugstināšanai ir nepieciešama nozīmīga sadarbība ar mūsu kolēģiem no Somijas un Zviedrijas = 3  
+
+[Total Weight] 12  
+[Normalized Significance] 6
+
+---
+
+- Language of the Article: {language}  
+- Article Text: {text}

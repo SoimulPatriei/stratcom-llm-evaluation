@@ -1,0 +1,65 @@
+Topic: Investigation=4=4
+  Keywords Assigned by Human but Not by Machine:
+   jāsagaida izmeklēšanas rezultāti, lai varētu secināt, kā tas notika=2
+   Nodarītie bojājumi zemūdens gāzesvadā “Balticconnector” tiek izmeklēti=2
+
+  Keywords Assigned by Machine but Not by Human:
+   izmeklēšana turpinās=3
+   izmeklēšanas rezultāti=2
+   noplūdes izmeklēšanu vada Somijas Centrālā kriminālpolicija=3
+
+
+Topic: Possible sabotage=3=5
+  Keywords Assigned by Human but Not by Machine:
+   zemūdens gāzesvadā “Balticconnector” tiek izmeklēti kā iespējams sabotāžas mēģinājums=3
+   Somijas Centrālā kriminālpolicija, kas ir paziņojusi, ka cauruļvads ir bojāts tīši=2
+   gāzesvadā “Balticconnector” nevarēja rasties tā normālas darbības rezultātā vai normāla spiediena krituma dēļ=1
+   Šis nav gadījums, kad būtu saplīsusi kāda blīve=2
+
+  Keywords Assigned by Machine but Not by Human:
+   cauruļvads ir bojāts tīši=3
+   nodarītie bojājumi zemūdens gāzesvadā “Balticconnector”=3
+   sabotāžas mēģinājums=3
+
+
+Topic: Security concerns=4=3
+  Keywords Assigned by Human but Not by Machine:
+   Latvijas piegādes nekādā veidā nav apdraudētas=3
+   ja Somijas un Igaunijas gāzesvada darbība sabotēta, tas nozīmē, ka Baltijas jūras reģionā būs pastiprināti jāuzrauga visa zemūdens infrastruktūra=2
+   notiekošais Somijā un Igaunijā nekādā veidā neapdraud Latvijas patērētājus un Latvijas tirgu=2
+
+  Keywords Assigned by Machine but Not by Human:
+   sekmēt drošību sabiedrībām kopumā=1
+   rūpētos par mūsu infrastruktūras drošību=2
+   pastiprināti jāuzrauga visa zemūdens infrastruktūra=3
+
+
+Topic: International cooperation=4=2
+  Keywords Assigned by Human but Not by Machine:
+   sabiedrotajām demokrātijām ir jāsadarbojas un vēl ciešāk jākāpina sadarbība, lai rūpētos par mūsu infrastruktūras drošību=3
+   Ārlietu ministrs sacīja, ka viņš ir runājis gan ar Somijas, gan ar Igaunijas kolēģiem=2
+   Latvija jau piegādā gāzi Igaunijai=3
+
+  Keywords Assigned by Machine but Not by Human:
+   runājis gan ar Somijas, gan ar Igaunijas kolēģiem=2
+   sabiedrotajām demokrātijām ir jāsadarbojas=2
+   vēl ciešāk jākāpina sadarbība=1
+
+
+Topics Assigned by Human but Not by Machine:
+Topic: Natural gas infrastructure=5
+Topic: Restoration=3
+
+Topics Assigned by Machine but Not by Human:
+Topic: Geopolitical dynamics=2
+Topic: Damage=3
+Topic: Energy resources=3
+Topic: Infrastructure vulnerability=5
+
+Statistics:
+Common Topics: 4
+Topics Assigned by Human: 6
+Topics Assigned by Machine: 8
+Common Keywords: 0
+Keywords Assigned by Human: 12
+Keywords Assigned by Machine: 12

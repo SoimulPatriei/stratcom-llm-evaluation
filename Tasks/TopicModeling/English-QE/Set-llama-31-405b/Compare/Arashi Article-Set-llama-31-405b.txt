@@ -1,0 +1,71 @@
+[Topic] Suspected Sabotage  
+[Weight] 4  
+
+[Keywords]  
+damage to a gas pipeline in the Gulf of Finland = 3  
+incident was due to “outside activity” and could have been deliberate = 3  
+Chinese vessel, the NewNew Polar Bear, and a Russian-flagged ship, the Sevmorput = 2  
+investigators looking into the vessels present in the area = 2  
+Nord Stream sabotage = 1  
+
+[Total Weight] 11  
+[Normalized Significance] 5.5  
+
+---
+
+[Topic] Infrastructure Vulnerability  
+[Weight] 5  
+
+[Keywords]  
+gas pipeline in the Gulf of Finland = 3  
+Norway’s exporting gas pipelines = 3  
+key oil and gas platforms = 3  
+network of gas pipelines under the North Sea = 3  
+offshore oil and gas platforms = 2  
+incident highlights vulnerability of critical infrastructure = 1  
+
+[Total Weight] 15  
+[Normalized Significance] 7.5  
+
+---
+
+[Topic] Energy Security  
+[Weight] 4  
+
+[Keywords]  
+Norway, Europe’s largest gas supplier = 3  
+protecting offshore oil and gas platforms = 3  
+network of gas pipelines under the North Sea = 2  
+securing energy supplies = 2  
+incident highlights importance of energy security = 1  
+
+[Total Weight] 11  
+[Normalized Significance] 5.5  
+
+---
+
+[Topic] International Cooperation  
+[Weight] 3  
+
+[Keywords]  
+cooperation between Finnish and Norwegian authorities = 3  
+investigation into the incident = 2  
+Norway monitoring progress of the probe = 2  
+importance of international cooperation in ensuring energy security = 1  
+
+[Total Weight] 8  
+[Normalized Significance] 4.0  
+
+---
+
+[Topic] NATO Response  
+[Weight] 3  
+
+[Keywords]  
+Norway deployed its Navy to protect offshore oil and gas platforms = 3  
+NATO's role in ensuring energy security = 2  
+importance of NATO's presence in the region = 2  
+incident highlights need for NATO's involvement = 1  
+
+[Total Weight] 8  
+[Normalized Significance] 4.0

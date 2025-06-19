@@ -1,0 +1,87 @@
+Topic: International cooperation=4=3
+  Common Keywords:
+   sabiedrotajām demokrātijām ir jāsadarbojas un vēl ciešāk jākāpina sadarbība, lai rūpētos par mūsu infrastruktūras drošību=3=3
+
+  Keywords Assigned by Human but Not by Machine:
+   Ārlietu ministrs sacīja, ka viņš ir runājis gan ar Somijas, gan ar Igaunijas kolēģiem=2
+   Latvija jau piegādā gāzi Igaunijai=3
+
+  Keywords Assigned by Machine but Not by Human:
+   Kariņš sacīja, ka Inčukalna pazemes gāzes krātuvē rezerves ir labas, tāpēc Latvijas piegādes nekādā veidā nav apdraudētas. Ārlietu ministrs pat uzsvēra, ka Latvija jau piegādā gāzi Igaunijai=1
+   uzraudzības un aizsardzības līmeņa paaugstināšanai ir nepieciešama nozīmīga sadarbība ar mūsu kolēģiem no Somijas un Zviedrijas=2
+
+
+Topic: Natural gas infrastructure=5=5
+  Common Keywords:
+   Inčukalna pazemes gāzes krātuvē rezerves ir labas=3=2
+
+  Keywords Assigned by Human but Not by Machine:
+   Somijas un Igaunijas gāzesvads “Balticconnector” patlaban ir slēgts, Latvijas apgāde nav apdraudēta=3
+   Latvijai paliek gāzes piegādes iespējas caur Lietuvu un Klaipēdas gāzes termināli=2
+   Igaunijas pārvades sistēmu operators “Elering” un “Gasgrid Finland” slēdza “Balticconnector” naktī uz svētdienu, jo tika novērota spiediena krišanās cauruļvadā=3
+   “Balticconnector” slēgšana neietekmē gāzes piegādes patērētājiem Igaunijā=1
+
+  Keywords Assigned by Machine but Not by Human:
+   gāzesvada “Balticconnector” slēgšana neietekmē gāzes piegādes patērētājiem Igaunijā=1
+   gāzesvada bojājumi nevarēja rasties tā normālas darbības rezultātā=2
+   gāzesvads “Balticconnector” slēgts=3
+   gāzesvads “Balticconnector” varētu atsākt darboties ne agrāk kā nākamā gada aprīlī=2
+   zemūdens gāzesvada “Balticconnector” bojājumi tiek izmeklēti kā iespējams sabotāžas mēģinājums=3
+
+
+Topic: Possible sabotage=3=4
+  Keywords Assigned by Human but Not by Machine:
+   Somijas Centrālā kriminālpolicija, kas ir paziņojusi, ka cauruļvads ir bojāts tīši=2
+   Šis nav gadījums, kad būtu saplīsusi kāda blīve=2
+   gāzesvadā “Balticconnector” nevarēja rasties tā normālas darbības rezultātā vai normāla spiediena krituma dēļ=1
+   zemūdens gāzesvadā “Balticconnector” tiek izmeklēti kā iespējams sabotāžas mēģinājums=3
+
+  Keywords Assigned by Machine but Not by Human:
+   sabiedrotajām demokrātijām ir jāsadarbojas un vēl ciešāk jākāpina sadarbība, lai rūpētos par mūsu infrastruktūras drošību=1
+   gāzesvada bojājumi nevarēja rasties tā normālas darbības rezultātā=2
+   gāzesvads “Balticconnector” slēgts=2
+   zemūdens gāzesvada “Balticconnector” bojājumi tiek izmeklēti kā iespējams sabotāžas mēģinājums=3
+   Baltijas jūras reģionā būs pastiprināti jāuzrauga visa zemūdens infrastruktūra=2
+
+
+Topic: Investigation=4=3
+  Keywords Assigned by Human but Not by Machine:
+   jāsagaida izmeklēšanas rezultāti, lai varētu secināt, kā tas notika=2
+   Nodarītie bojājumi zemūdens gāzesvadā “Balticconnector” tiek izmeklēti=2
+
+  Keywords Assigned by Machine but Not by Human:
+   zemūdens gāzesvada “Balticconnector” bojājumi tiek izmeklēti kā iespējams sabotāžas mēģinājums=3
+   Baltijas jūras reģionā būs pastiprināti jāuzrauga visa zemūdens infrastruktūra=1
+   gāzesvada bojājumi nevarēja rasties tā normālas darbības rezultātā=2
+
+
+Topic: Security concerns=4=4
+  Keywords Assigned by Human but Not by Machine:
+   ja Somijas un Igaunijas gāzesvada darbība sabotēta, tas nozīmē, ka Baltijas jūras reģionā būs pastiprināti jāuzrauga visa zemūdens infrastruktūra=2
+   Latvijas piegādes nekādā veidā nav apdraudētas=3
+   notiekošais Somijā un Igaunijā nekādā veidā neapdraud Latvijas patērētājus un Latvijas tirgu=2
+
+  Keywords Assigned by Machine but Not by Human:
+   sabiedrotajām demokrātijām ir jāsadarbojas un vēl ciešāk jākāpina sadarbība, lai rūpētos par mūsu infrastruktūras drošību=2
+   gāzesvada bojājumi nevarēja rasties tā normālas darbības rezultātā=1
+   gāzesvads “Balticconnector” slēgts=2
+   zemūdens gāzesvada “Balticconnector” bojājumi tiek izmeklēti kā iespējams sabotāžas mēģinājums=2
+   Baltijas jūras reģionā būs pastiprināti jāuzrauga visa zemūdens infrastruktūra=3
+
+
+Topics Assigned by Human but Not by Machine:
+Topic: Restoration=3
+
+Topics Assigned by Machine but Not by Human:
+Topic: Geopolitical dynamics=2
+Topic: NATO action=2
+Topic: Energy resources=2
+Topic: Infrastructure vulnerability=5
+
+Statistics:
+Common Topics: 5
+Topics Assigned by Human: 6
+Topics Assigned by Machine: 9
+Common Keywords: 2
+Keywords Assigned by Human: 17
+Keywords Assigned by Machine: 22

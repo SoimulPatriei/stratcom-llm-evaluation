@@ -1,0 +1,85 @@
+Topic: Suspected Sabotage=5=4
+  Keywords Assigned by Human but Not by Machine:
+   damage to the pipeline=3
+   suspected leak=2
+   Result of external activity=3
+   caused by external activity=3
+
+  Keywords Assigned by Machine but Not by Human:
+   investigations were continuing=2
+   NATO Secretary General Jens Stoltenberg=1
+   external activity=3
+   damage caused to the gas pipeline and the telecommunications cable=3
+   possible sabotage=3
+   unusual drop in pressure=2
+
+
+Topic: Economic and Financial Impact=2=3
+  Keywords Assigned by Human but Not by Machine:
+   Shut down the gas flow=2
+
+  Keywords Assigned by Machine but Not by Human:
+   gas flow shut down=2
+   repairing damage to the pipeline=3
+   investigating the incident=2
+   pipeline could take at least several months=3
+
+
+Topic: Infrastructure Vulnerability=4=5
+  Keywords Assigned by Human but Not by Machine:
+   Pipeline in the Baltic Sea that was shut=3
+   pipeline between Finland and Estonia=3
+   damage to the gas pipeline=3
+   telecommunications cable=2
+   damage caused, offshore pipeline=3
+
+  Keywords Assigned by Machine but Not by Human:
+   unusual drop in pressure=3
+   Baltic Connector pipeline=3
+   repairing damage to the pipeline=1
+   leak in the pipeline=3
+   leak is thus stopped=2
+   offshore pipeline between Finland and Estonia=3
+   gas pipeline and the telecommunications cable=3
+
+
+Topic: International Cooperation=3=3
+  Common Keywords:
+   investigations were continuing between authorities in Helsinki and Tallinn=2=3
+
+  Keywords Assigned by Human but Not by Machine:
+   Gasgrid Finland=2
+   Elering=1
+   investigating the incident together with Elering=2
+
+  Keywords Assigned by Machine but Not by Human:
+   NATO's involvement=2
+   cooperation between Finland and Estonia=2
+   sharing information with its allies=3
+
+
+Topic: NATO Response=5=3
+  Common Keywords:
+   NATO Secretary General Jens Stoltenberg=2=3
+   sharing information with its allies=2=2
+
+  Keywords Assigned by Human but Not by Machine:
+   spoken with Niinistö=2
+
+  Keywords Assigned by Machine but Not by Human:
+   damage to the Baltic Connector=3
+   spoke with Niinistö=2
+   Finland's president=1
+
+
+Topics Assigned by Human but Not by Machine:
+Topic: Energy Security=3
+Topic: Environmental and Technical Challenges=2
+
+Statistics:
+Common Topics: 5
+Topics Assigned by Human: 7
+Topics Assigned by Machine: 5
+Common Keywords: 3
+Keywords Assigned by Human: 17
+Keywords Assigned by Machine: 26

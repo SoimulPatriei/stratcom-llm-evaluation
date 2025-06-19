@@ -1,0 +1,78 @@
+Topic: Infrastructure Vulnerability=5=4
+  Keywords Assigned by Human but Not by Machine:
+   safety of undersea critical infrastructure, two telecoms cables damaged=3
+   dragging an anchor for over 180 kilometers, cutting through the cables and gas lines=2
+   critical infrastructure, Balticconnector pipeline damaged=3
+
+  Keywords Assigned by Machine but Not by Human:
+   Limited surveillance of suspicious ships=1
+   Critical undersea gas pipeline and data cables damaged=3
+   Pipeline and cables were cut by an anchor=2
+   Incident raises concerns about infrastructure security=2
+   Baltic Sea between NATO members Finland and Estonia affected=3
+
+
+Topic: Economic and Financial Impact=0=1
+  Keywords Assigned by Machine but Not by Human:
+   Multimillion-euro repair work required=1
+   No mention of financial impact or disruption to gas markets=0
+
+
+Topic: International Cooperation=4=3
+  Keywords Assigned by Human but Not by Machine:
+   Finland and Estonia have since been in touch with Chinese authorities seeking their cooperation with the investigation=2
+   Finland and Estonia have been investigating=3
+   asked to send representatives to Beijing=2
+   seeking their cooperation with the investigation=2
+
+  Keywords Assigned by Machine but Not by Human:
+   Limited international cooperation so far=1
+   Finland and Estonia cooperate with Chinese authorities=3
+   European partners involved in the investigation=2
+   Finland and Estonia seek access to Chinese vessel=2
+
+
+Topic: NATO Response=3=2
+  Keywords Assigned by Human but Not by Machine:
+   concerns over the safety of undersea critical infrastructure and possible measures to protect them from external sabotage=3
+   pipeline that connects the two NATO members beneath the Baltic Sea=3
+
+  Keywords Assigned by Machine but Not by Human:
+   Finland and Estonia are NATO members=2
+   No explicit mention of NATO's role in the investigation or response=1
+
+
+Topic: Suspected Sabotage=5=5
+  Keywords Assigned by Human but Not by Machine:
+   vessel’s imminent return to China raises some questions=3
+   in touch with Chinese authorities=3
+   No culprit has been identified for the Nord Stream attack despite an international investigation=3
+   hard to believe sabotage to the undersea gas pipeline was accidental=3
+   Chinese container ship Newnew Polar Bear, dragging an anchor, main suspect=3
+   nobody has admitted it yet=3
+   nobody has admitted to it=3
+   everything indicates that it was intentional=3
+
+  Keywords Assigned by Machine but Not by Human:
+   Chinese container ship Newnew Polar Bear suspected=3
+   Finland seeks cooperation with Chinese authorities=2
+   Intentional damage suspected=1
+   Anchor of the Chinese vessel likely caused the damage=3
+   Finland and Estonia investigating the incident=2
+   Damage to Baltic Sea gas pipeline and telecom cables=3
+
+
+Topics Assigned by Human but Not by Machine:
+Topic: Environmental and Technical Challenges=3
+Topic: Energy Security=4
+
+Topics Assigned by Machine but Not by Human:
+Topic: Covert Disruptions=2
+
+Statistics:
+Common Topics: 5
+Topics Assigned by Human: 7
+Topics Assigned by Machine: 6
+Common Keywords: 0
+Keywords Assigned by Human: 17
+Keywords Assigned by Machine: 19

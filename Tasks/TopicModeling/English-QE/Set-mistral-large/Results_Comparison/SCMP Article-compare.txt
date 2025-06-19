@@ -1,0 +1,87 @@
+Topic: Suspected Sabotage=5=4
+  Keywords Assigned by Human but Not by Machine:
+   NewNew Polar Bear accused of dragging its anchor=3
+   too early to conclude if it was an accident or deliberate=2
+   blamed on Chinese ship, suspected of causing the damage=3
+   Chinese container ship identified by Finnish police as the main suspect=3
+
+  Keywords Assigned by Machine but Not by Human:
+   dragging its anchor across the seabed=3
+   cutting through the critical infrastructures=3
+   main suspect=2
+   deliberate act=2
+   damaged Baltic gas pipeline=3
+   NewNew Polar Bear container=3
+
+
+Topic: Economic and Financial Impact=3=2
+  Keywords Assigned by Human but Not by Machine:
+   Beijing is seeking to foster ties with individual members of the 27-nation European Union=2
+   impact on EU-China relations=2
+   tensions between China and Europe are growing over a host of issues from trade to security=2
+
+  Keywords Assigned by Machine but Not by Human:
+   mutually beneficial cooperation=2
+   China-Europe relations have maintained stable and positive trends=2
+   tangible benefits to the people of our two countries=1
+   Balticconnector pipeline shut down=2
+
+
+Topic: Infrastructure Vulnerability=5=5
+  Common Keywords:
+   two telecoms cables were also damaged=2=3
+
+  Keywords Assigned by Human but Not by Machine:
+   Cutting through critical infrastructures, dragging its anchor across the seabed=2
+   77km-long (48-mile) Balticconnector pipeline between Finland and Estonia, critical infrastructures=3
+
+  Keywords Assigned by Machine but Not by Human:
+   dragging its anchor across the seabed=2
+   damage to the Baltic gas pipeline=2
+   critical infrastructures=3
+   shut down last October=3
+   Balticconnector pipeline between Finland and Estonia=3
+
+
+Topic: International Cooperation=5=5
+  Keywords Assigned by Human but Not by Machine:
+   China cooperating with investigation=3
+   jointly advocate multilateralism, safeguard free trade, and make positive contributions to world peace and stability=3
+   China is willing to work with European countries, strategic and long-term perspective=3
+   global impact of China-Europe relations have become more prominent=3
+   China promised full cooperation with investigation=3
+   China would like to deepen mutually beneficial cooperation with Finland=3
+   constructive dialogues between the sides, video call between Xi and Niinisto, EU-China relations, China's role in bringing about a just and lasting peace=3
+
+  Keywords Assigned by Machine but Not by Human:
+   China is willing to work with European countries, including Finland=3
+   Chinese President Xi Jinping and his Finnish counterpart Sauli Niinisto=3
+   strategic significance and global impact of China-Europe relations=2
+   constructive talks about a damaged Baltic gas pipeline=3
+   Beijing has reportedly promised full cooperation with the investigation=3
+   promoting pragmatic cooperation and friendly exchanges=2
+
+
+Topic: NATO Response=0=2
+  Keywords Assigned by Machine but Not by Human:
+   Finnish presidential office=2
+   China's role in bringing about a just and lasting peace=1
+   damage to the Baltic gas pipeline=2
+   war between Russia and Ukraine=2
+
+
+Topics Assigned by Human but Not by Machine:
+Topic: Energy Security=3
+Topic: Environmental and Technical Challenges=3
+
+Topics Assigned by Machine but Not by Human:
+Topic: Critical Infrastructure Weakness=3
+Topic: Global Diplomatic Engagement=3
+
+Statistics:
+Common Topics: 5
+Topics Assigned by Human: 7
+Topics Assigned by Machine: 7
+Common Keywords: 1
+Keywords Assigned by Human: 17
+Keywords Assigned by Machine: 26

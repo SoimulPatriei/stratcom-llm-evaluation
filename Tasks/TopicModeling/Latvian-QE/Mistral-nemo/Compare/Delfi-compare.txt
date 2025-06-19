@@ -1,0 +1,33 @@
+Topic: Energy resources=3=5
+  Keywords Assigned by Human but Not by Machine:
+   Energoapgādes izmaksu atbalsta likums=1
+   dabasgāzes cenas svārstības pēc "Balticconnector" gadījuma ir notikušas=3
+   dabasgāzes cenu svārstības=3
+   dabasgāzes tirgus ir reaģējis uz ziņām par "Balticconnector" bojājumu=2
+   siltumenerģijas komersanti apkures sezonai gatavojas laicīgi=3
+
+  Keywords Assigned by Machine but Not by Human:
+   dabasgāzes tirgus=3
+   gāzesvads=1
+   dabasgāzes cena=2
+   siltumenerģijas tarifiem=1
+   Balticconnector bojājum=2
+
+
+Topics Assigned by Human but Not by Machine:
+Topic: Infrastructure vulnerability=4
+Topic: Natural gas infrastructure=5
+Topic: Security threats=2
+Topic: International cooperation=2
+
+Topics Assigned by Machine but Not by Human:
+Topic: Disaster impact=4
+Topic: Economic ties in Northern Europe=3
+
+Statistics:
+Common Topics: 1
+Topics Assigned by Human: 5
+Topics Assigned by Machine: 3
+Common Keywords: 0
+Keywords Assigned by Human: 5
+Keywords Assigned by Machine: 5

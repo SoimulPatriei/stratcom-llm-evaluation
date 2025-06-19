@@ -1,0 +1,90 @@
+[Topic] Suspected Sabotage
+[Weight] 5
+
+[Keywords]
+Damage to underwater infrastructure = 4
+Suspicion of Russia's involvement = 3
+Chinese-flagged ship's potential involvement = 2
+Explosions damaging Nord Stream pipelines = 2
+"External mechanical force" causing damage = 2
+Investigation into suspicious incidents = 1
+
+[Total Weight] 17
+[Normalized Significance] 8.5
+
+---
+
+[Topic] Infrastructure Vulnerability
+[Weight] 4
+
+[Keywords]
+Critical undersea infrastructure damage = 3
+Cables and pipelines connecting Baltic countries = 3
+Difficulty in preventing and identifying attacks = 2
+Limited surveillance and information-sharing = 2
+Gaps in underwater surveillance capabilities = 1
+
+[Total Weight] 14
+[Normalized Significance] 7.0
+
+---
+
+[Topic] NATO Response
+[Weight] 4
+
+[Keywords]
+NATO's involvement and patrols in the Baltic Sea = 3
+Finland's and Sweden's NATO membership = 2
+NATO's underwater protection cell = 2
+NATO leaders discussing threats to critical infrastructure = 1
+
+[Total Weight] 11
+[Normalized Significance] 5.5
+
+---
+
+[Topic] International Cooperation
+[Weight] 3
+
+[Keywords]
+Cooperation among Baltic countries and NATO = 2
+Information-sharing among allies = 1
+Joint Expeditionary Force discussing threats = 1
+
+[Total Weight] 4
+[Normalized Significance] 2.0
+
+---
+
+[Topic] Economic and Financial Impact
+[Weight] 2
+
+[Keywords]
+Multimillion-euro repair work = 1
+Potential disruption of gas and data markets = 1
+Unclear who will pick up the bill = 1
+
+[Total Weight] 3
+[Normalized Significance] 1.5
+
+---
+
+[Topic] Human Rights Violations
+[Weight] 1
+
+[Keywords]
+Russia's potential intimidation of Baltic countries = 1
+
+[Total Weight] 1
+[Normalized Significance] 0.5
+
+---
+
+[Topic] Global Sports Diplomacy
+[Weight] 1
+
+[Keywords]
+Turkey's hold-up on Sweden's NATO entry due to dispute = 1
+
+[Total Weight] 1
+[Normalized Significance] 0.5

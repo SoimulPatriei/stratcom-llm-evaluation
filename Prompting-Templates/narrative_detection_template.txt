@@ -1,0 +1,45 @@
+﻿Perform narrative detection on the article provided. The text is in a language specified as input.
+
+1. Named Entity Recognition:
+   - Identify entities such as actors, events, locations, and timelines that provide significant semantic insights into the narrative.
+   - The tags for the entities should be in English.
+   - The entities themselves should be in the language of the article.
+   - Assign a score to each entity found, reflecting its importance in the document.
+   - The entities should be ordered by their importance scores from highest to lowest.
+   - The total of all scores assigned to the entities should sum to one.
+   - Examples:
+{ner_examples}
+
+2. Relationship Extraction:
+   - Extract binary semantic relationships between the entities identified in the Named Entity Recognition layer.
+   - The names of the relationships should be in English.
+   - The entities involved in the relationships should be in the language of the article.
+   - Examples:
+{re_examples}
+
+3. Plot Discovery:
+   - Identify the main components of the plot using Freytag's Pyramid, which includes the following stages:
+     - Exposition
+     - Rising Action
+     - Climax
+     - Falling Action
+     - Resolution
+   - Whenever possible, use entities identified in the Named Entity Recognition layer to describe the plot components.
+   - The stage names should be in English.
+   - The content within each stage should be in the language of the article.
+   - Examples:
+{plot_examples}
+
+4. Story Evolution:
+   - This layer should include two components:
+     - Shift Detection: Recognize significant changes or deviations in the narrative.
+     - Causal Relation Extraction: Identify the reasons behind each significant event or decision in the story.
+   - Whenever possible, use entities identified in the Named Entity Recognition layer for these components.
+   - Examples:
+{story_examples}
+
+
+   
+
+Language of the article: {language}
+Article: {text}

@@ -1,0 +1,170 @@
+```
+[Topic] Suspected Sabotage
+[Weight] 5
+
+[Keywords]
+Chinese vessel that dragged its anchor over 100 nautical miles = 3
+damage to an undersea natural gas pipeline and two telecommunications cables = 3
+Newnew Polar Bear is the prime suspect for the incident = 3
+damaged by human hands, probably by an anchor = 3
+difficult to accept that it was just an accident = 2
+Chinese-owned container ship, Newnew Polar Bear = 1
+
+[Total Weight] 15
+[Normalized Significance] 7.5
+
+---
+
+[Topic] Infrastructure Vulnerability
+[Weight] 5
+
+[Keywords]
+damage to an undersea natural gas pipeline and two telecommunications cables = 3
+Newnew Polar Bear and the Sevmorput - were present at the sites where the damage occurred = 3
+damaged by human hands, probably by an anchor = 3
+Balticconnector pipeline and the two communications cables in the Gulf of Finland = 3
+Finland depends on the undersea communication and natural gas links = 2
+strategic situation has changed in the Baltic Sea since the advent of the Ukraine War = 2
+
+[Total Weight] 16
+[Normalized Significance] 8.0
+
+---
+
+[Topic] Critical Infrastructure Weakness
+[Weight] 4
+
+[Keywords]
+damage to an undersea natural gas pipeline and two telecommunications cables = 3
+Newnew Polar Bear is the prime suspect for the incident = 2
+Finland depends on the undersea communication and natural gas links = 2
+strategic situation has changed in the Baltic Sea since the advent of the Ukraine War = 2
+Gulf of Finland represents a way that it can be cut off from the rest of NATO = 1
+
+[Total Weight] 10
+[Normalized Significance] 5.0
+
+---
+
+[Topic] NATO Response
+[Weight] 4
+
+[Keywords]
+NATO as Finland and Sweden join the Alliance = 3
+Gulf of Finland has become a "hot topic" within NATO = 3
+concern is that the Gulf of Finland represents a way that it can be cut off from the rest of NATO = 2
+Finland is now associated with the Western Alliance = 2
+NATO will likely issue statements on the matter = 1
+
+[Total Weight] 11
+[Normalized Significance] 5.5
+
+---
+
+[Topic] International Cooperation
+[Weight] 4
+
+[Keywords]
+Estonia and Finland have formally requested the opportunity to send representatives to China = 3
+investigation in cooperation with the Finnish Navy and Finnish Border Guard = 3
+Russian authorities including Vladmir Putin have rejected any assertion = 2
+Sweden, Estonia and Russia = 1
+NATO will likely issue statements on the matter = 1
+
+[Total Weight] 10
+[Normalized Significance] 5.0
+
+---
+
+[Topic] Economic and Financial Impact
+[Weight] 3
+
+[Keywords]
+Finland will pursue an Admiralty-claim under international maritime law for damages = 3
+endless appeals and a reticence to reach a settlement = 2
+Finland, Sweden, and Estonia will pursue public relations campaign against Chinese shipping = 2
+international courts and the international court of public opinion = 1
+
+[Total Weight] 8
+[Normalized Significance] 4.0
+
+---
+
+[Topic] Technological Resilience and Ecological Issues
+[Weight] 3
+
+[Keywords]
+damage to an undersea natural gas pipeline and two telecommunications cables = 3
+damaged by human hands, probably by an anchor = 2
+Finland depends on the undersea communication and natural gas links = 2
+strategic situation has changed in the Baltic Sea since the advent of the Ukraine War = 1
+
+[Total Weight] 8
+[Normalized Significance] 4.0
+
+---
+
+[Topic] Environmental and Technical Challenges
+[Weight] 3
+
+[Keywords]
+damage to an undersea natural gas pipeline and two telecommunications cables = 3
+damaged by human hands, probably by an anchor = 2
+Finland depends on the undersea communication and natural gas links = 2
+strategic situation has changed in the Baltic Sea since the advent of the Ukraine War = 1
+
+[Total Weight] 8
+[Normalized Significance] 4.0
+
+---
+
+[Topic] Covert Disruptions
+[Weight] 2
+
+[Keywords]
+damaged by human hands, probably by an anchor = 2
+difficult to accept that it was just an accident = 1
+brazenness of the actions of the Newnew Polar Bear = 1
+
+[Total Weight] 4
+[Normalized Significance] 2.0
+
+---
+
+[Topic] Global Diplomatic Engagement
+[Weight] 2
+
+[Keywords]
+Estonia and Finland have formally requested the opportunity to send representatives to China = 2
+Russian authorities including Vladmir Putin have rejected any assertion = 1
+NATO will likely issue statements on the matter = 1
+
+[Total Weight] 4
+[Normalized Significance] 2.0
+
+---
+
+[Topic] Supply Chain Stability
+[Weight] 2
+
+[Keywords]
+damage to an undersea natural gas pipeline and two telecommunications cables = 2
+Finland depends on the undersea communication and natural gas links = 1
+strategic situation has changed in the Baltic Sea since the advent of the Ukraine War = 1
+
+[Total Weight] 4
+[Normalized Significance] 2.0
+
+---
+
+[Topic] Allied Strategic Defence/Response
+[Weight] 2
+
+[Keywords]
+Gulf of Finland has become a "hot topic" within NATO = 2
+Finland is now associated with the Western Alliance = 1
+NATO will likely issue statements on the matter = 1
+
+[Total Weight] 4
+[Normalized Significance] 2.0
+```

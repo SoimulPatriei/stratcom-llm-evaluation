@@ -1,0 +1,428 @@
+2025-04-04 16:39:13,233 - INFO - Template content after formatting: ﻿Task:  
+Assign relevant topics to the provided article based on the predefined list below.
+
+---
+
+Predefined Topics:
+
+- Infrastructure vulnerability
+- Historical analysis of ancient civilizations
+- Consumer behavior in digital markets
+- Future of electric vehicles
+- Energy resources
+- Space exploration missions
+- Biodiversity conservation efforts
+- Advancements in medical research
+- Restoration
+- Civilian protection policies
+- Economic ties in Northern Europe
+- Damage
+- Social media influence on public opinion
+- Legal inquiry
+- Unexplained technical failure
+- Gaps in border surveillance
+- Disaster impact
+- Urban development policies
+- Communication disruption
+- Geopolitical dynamics
+- Role of women in STEM fields
+- Cultural heritage preservation
+- Weak points in public utilities
+- Treaties and legal agreements
+- Concerns about defense
+- Digital infrastructure instability
+- Suspicion of damage
+- Communication provision
+- Possible sabotage
+- Sports psychology and athlete performance
+- International cooperation
+- Trade and export dependencies
+- NATO action
+- Media and crisis response
+- Shifts in global military influence
+- Psychological impact of remote work
+- Security concerns
+- Industrial energy distribution
+- Ethical implications of artificial intelligence
+- Diplomatic stance of military blocs
+- Agricultural sustainability initiatives
+- Security threat
+- Emerging cybersecurity threats
+- Enhanced security
+- State-sponsored disruptions
+- Investigation
+- Cryptocurrency regulations
+- Philosophical debates on free will
+- Natural gas infrastructure
+
+---
+
+Output Guidelines:
+
+1. Topic Assignment:  
+   Assign each relevant topic a weight from 1 to 5:  
+   - 1: Minimally relevant  
+   - 5: Highly relevant
+
+2. Keyword Identification:  
+   For each assigned topic, extract the most relevant n-grams (keyword phrases) from the article. Keywords should be weighted based on their relevance and frequency:  
+   - Score 3: Highly relevant, central keywords that are frequently mentioned  
+   - Score 2: Relevant keywords that are important but mentioned less frequently or are less central  
+   - Score 1: Keywords that are loosely related or briefly mentioned
+
+3. Keyword Length:  
+   Keywords should generally be shorter than a full sentence. However, longer keyword phrases can be included if they are particularly relevant.  
+   For example:  
+   - "no reason to believe the damage has been caused by an explosion"  
+   - "Nord Stream I and II gas pipelines from Russia to Germany were damaged by a pair of explosions"
+
+4. Total Topic Score:  
+   Add up the weights of all keywords to calculate the total topic score, representing the significance of the topic within the article.
+
+5. Normalized Significance (Out of 10):  
+   Normalize the total score for each topic onto a scale from 0 to 10 for easier comparison:  
+   - Formula: (Total Weight / Maximum Possible Weight) × 10
+
+---
+
+Example:
+
+[Topic] Geopolitical dynamics  
+[Weight] 4  
+
+[Keywords]  
+nav iemesla Igaunijas un Zviedrijas kabeļa bojājumu saistīt ar citiem kabeļiem, norādīja ministrija = 2  
+Kabeļa īpašnieks veic tā remontu, un šī procesa laikā sadarbībā ar Somiju un Zviedriju tiks izpētīts iespējamais iemesls = 2  
+Igaunijas - Zviedrijas un Igaunijas - Somijas zemūdens sakaru kabeļu bojājumi nav ietekmējuši Igaunijas sakaru pakalpojumu darbību = 1  
+Uzraudzības un aizsardzības līmeņa paaugstināšanai ir nepieciešama nozīmīga sadarbība ar mūsu kolēģiem no Somijas un Zviedrijas = 3  
+
+[Total Weight] 12  
+[Normalized Significance] 6
+
+---
+
+- Language of the Article: {language}  
+- Article Text: {text}
+
+2025-04-04 16:39:13,233 - INFO - Processing file: LA_LV .txt
+2025-04-04 16:39:13,233 - INFO - Input data: {'language': 'Latvian', 'text': 'Sabotāža? Lai gan Somijas un Igaunijas gāzesvads slēgts, Latvijas apgāde nav apdraudēta \n\n21:04, 11. oktobris 2023\n\nLai gan Somijas un Igaunijas gāzesvads “Balticconnector” patlaban ir slēgts, Latvijas apgāde nav apdraudēta, aģentūrai LETA norādīja ārlietu ministrs Krišjānis Kariņš (JV).\n\nĀrlietu ministrs sacīja, ka viņš ir runājis gan ar Somijas, gan ar Igaunijas kolēģiem. Kariņa ieskatā, patlaban ir pāragri nonākt pie skaidra secinājuma, kas noticis, taču izmeklēšana turpinās.\n\n“Nodarītie bojājumi zemūdens gāzesvadā “Balticconnector” tiek izmeklēti kā iespējams sabotāžas mēģinājums. Šis nav gadījums, kad būtu saplīsusi kāda blīve,” sacīja ārlietu ministrs.\nViņa ieskatā, ir jāsagaida izmeklēšanas rezultāti, lai varētu secināt, kā tas notika. Kariņš sacīja, ka Inčukalna pazemes gāzes krātuvē rezerves ir labas, tāpēc Latvijas piegādes nekādā veidā nav apdraudētas. Ārlietu ministrs pat uzsvēra, ka Latvija jau piegādā gāzi Igaunijai.\n\n“Latvijai paliek gāzes piegādes iespējas caur Lietuvu un Klaipēdas gāzes termināli. Jāpiebilst, ka uzņēmums “Latvenergo” ir panācis vienošanos. “Latvenergo” ir daudzu gadu tiesības importēt gāzi caur šo termināli,” skaidroja Kariņš.\n\nĀrlietu ministrs uzsvēra, ka notiekošais Somijā un Igaunijā nekādā veidā neapdraud Latvijas patērētājus un Latvijas tirgu. Pēc Kariņa paustā,\n\nja Somijas un Igaunijas gāzesvada darbība sabotēta, tas nozīmē, ka Baltijas jūras reģionā būs pastiprināti jāuzrauga visa zemūdens infrastruktūra.\nMinistrs atzīmēja, ka zem Baltijas jūras ir ne tikai gāzes vadi, bet arī elektrovadi un sakaru vadi.\n\nPēc Kariņa paustā, ja gāzesvads “Balticconnector”, iespējams, bija sabotāžas mērķis, jāseko līdzi, lai tas nevarētu iet plašumā. Latvija ir daļa no Eiropas Savienības un NATO, ārlietu ministra ieskatā, sabiedrotajām demokrātijām ir jāsadarbojas un vēl ciešāk jākāpina sadarbība, lai rūpētos par mūsu infrastruktūras drošību. Tas palīdzēs sekmēt drošību sabiedrībām kopumā.\n\nLETA jau rakstīja,\n\nlai salabotu Somiju un Igauniju savienojošā zemūdens gāzesvada “Balticconnector” bojāto posmu, būs nepieciešami vismaz pieci mēneši, līdz ar to gāzesvads varētu atsākt darboties ne agrāk kā nākamā gada aprīlī,\ntrešdien paziņoja Somijas gāzes pārvades tīklu operatorkompānija “Gasgrid Finland”.\n\nPamatojoties uz provizoriskiem ekspertu novērtējumiem, var pieņemt, ka remonta darbu plānošana, nepieciešamā zemūdens aprīkojuma sagādāšana, remonts, kā arī saremontētā cauruļvada posma pārbaude un nodošana ekspluatācijā ilgs vismaz piecus mēnešus, teikts “Gasgrid Finland” paziņojumā.\n\nTajā norādīts, ka tādējādi agrākais iespējamais cauruļvada “Balticconnector” nodošanas ekspluatācijā termiņš būtu 2024.gada aprīļa sākums,.\n\nJau vēstīts, ka Igaunijas pārvades sistēmu operators “Elering” un “Gasgrid Finland” slēdza “Balticconnector” naktī uz svētdienu, jo tika novērota spiediena krišanās cauruļvadā, kas liecina par iespējamu gāzes noplūdi. Tāpat konstatēti bojājumi abas valstis savienojošajā komunikāciju kabelī.\n\nSaskaņā ar līdz šim pieejamo informāciju bojājums gāzesvadā “Balticconnector” nevarēja rasties tā normālas darbības rezultātā vai normāla spiediena krituma dēļ,\notrdien paziņoja Somijas premjerministrs Peteri Orpo.\n\nSomijas prezidents Sauli Nīniste sacīja, ka noplūdi, iespējams, izraisījis “ārējs” elements.\n\nArī Igaunijas ārlietu ministrs Marguss Tsahkna un aizsardzības ministrs Hanno Pevkurs otrdien paziņoja, ka bojājums ir mehānisks un cilvēka izraisīts.\n\nNoplūdes izmeklēšanu vada Somijas Centrālā kriminālpolicija, kas ir paziņojusi, ka cauruļvads ir bojāts tīši.\n\n“Balticconnector” starp Paldiskiem un Inko ir 77 kilometru garš. Ekspluatācijā to nodeva 2020.gada sākumā. Tā kā cauruļvads stiepjas cauri visam Somu līcim, intensīvā kuģu satiksme apgrūtina iespējamās noplūdes cēloņa izmeklēšanu, norādīja Somijas robežsardze.\n\n“Balticconnector” slēgšana neietekmē gāzes piegādes patērētājiem Igaunijā, jo gāzi Igaunija joprojām var saņemt no Latvijas.\nPirms slēgšanas gāze pa “Balticconnector” plūda no Somijas uz Igauniju. Lielākā daļa no Somijas saņemtās gāzes tika nogādāta Latvijā, kur Inčukalnā ir gāzes krātuve.\n\n“Balticconnector” starp Paldiskiem un Inko ir 77 kilometru garš. Ekspluatācijā gāzesvadu, kura būvniecība izmaksāja vairāk nekā 300 miljonus eiro, nodeva 2020.gada sākumā.\n'}
+2025-04-04 16:39:45,333 - INFO - HTTP Request: POST https://tu-openai-api-management.azure-api.net/ltat-tartunlp/openai/deployments/gec/chat/completions?api-version=2023-05-15 "HTTP/1.1 200 OK"
+2025-04-04 16:39:45,341 - INFO - Output for file LA_LV .txt: [Topic] Infrastructure vulnerability  
+[Weight] 5  
+
+[Keywords]  
+zemūdens gāzesvads “Balticconnector” = 3  
+vismaz pieci mēneši = 2  
+Latvijas apgāde nav apdraudēta = 2  
+ja gāzesvads “Balticconnector”, iespējams, bija sabotāžas mērķis = 3  
+spiediena krišanās cauruļvadā = 3  
+gāzes noplūdi = 3  
+
+[Total Weight] 16  
+[Normalized Significance] 5.3
+
+[Topic] Possible sabotage  
+[Weight] 5  
+
+[Keywords]  
+sabotāžas mēģinājums = 3  
+nodarītie bojājumi zemūdens gāzesvadā “Balticconnector” = 3  
+cauruļvads ir bojāts tīši = 3  
+
+[Total Weight] 9  
+[Normalized Significance] 6
+
+[Topic] Investigation  
+[Weight] 4  
+
+[Keywords]  
+izmeklēšana turpinās = 3  
+izmeklēšanas rezultāti = 2  
+noplūdes izmeklēšanu vada Somijas Centrālā kriminālpolicija = 3  
+
+[Total Weight] 8  
+[Normalized Significance] 5.3
+
+[Topic] Security concerns  
+[Weight] 3  
+
+[Keywords]  
+pastiprināti jāuzrauga visa zemūdens infrastruktūra = 3  
+rūpētos par mūsu infrastruktūras drošību = 2  
+sekmēt drošību sabiedrībām kopumā = 1  
+
+[Total Weight] 6  
+[Normalized Significance] 4
+
+[Topic] International cooperation  
+[Weight] 2  
+
+[Keywords]  
+runājis gan ar Somijas, gan ar Igaunijas kolēģiem = 2  
+sabiedrotajām demokrātijām ir jāsadarbojas = 2  
+vēl ciešāk jākāpina sadarbība = 1  
+
+[Total Weight] 5  
+[Normalized Significance] 5
+
+[Topic] Energy resources  
+[Weight] 3  
+
+[Keywords]  
+Inčukalna pazemes gāzes krātuve = 2  
+gāzes piegādes iespējas caur Lietuvu un Klaipēdas gāzes termināli = 3  
+Latvija jau piegādā gāzi Igaunijai = 2  
+
+[Total Weight] 7  
+[Normalized Significance] 4.7
+
+[Topic] Geopolitical dynamics  
+[Weight] 2  
+
+[Keywords]  
+Somijas un Igaunijas gāzesvads “Balticconnector” = 2  
+Latvija ir daļa no Eiropas Savienības un NATO = 2  
+Somijas pārvades sistēmu operators “Elering” un “Gasgrid Finland” = 1  
+
+[Total Weight] 5  
+[Normalized Significance] 5
+
+[Topic] Damage  
+[Weight] 3  
+
+[Keywords]  
+nodarītie bojājumi = 3  
+bojājums ir mehānisks un cilvēka izraisīts = 3  
+bojājums gāzesvadā “Balticconnector” = 3  
+
+[Total Weight] 9  
+[Normalized Significance] 6
+
+2025-04-04 16:39:45,342 - INFO - Processing file: TVNET.txt
+2025-04-04 16:39:45,342 - INFO - Input data: {'language': 'Latvian', 'text': 'Baltijas jūrā bojāts Igaunijas - Zviedrijas sakaru kabelis\n2023. gada 17. oktobris 17:58\nBojāts sakaru kabelis starp Zviedriju un Igauniju Baltijas jūrā, otrdien paziņojis Zviedrijas aizsardzības ministrs Pols Jonsons, vēsta Igaunijas laikraksts "Postimees".\n\nZviedrijas rīcībā ir informācija, kas liecina, ka bojāts komunikāciju kabelis, kas savieno abas valstis, taču šā incidenta cēlonis nav skaidrs, īpaši sasauktā preses konferencē Stokholmā sacīja Jonsons.\n\nViņš teica, ka bojājuma vieta nav Zviedrijas teritoriālajos ūdeņos, un ka kabelis joprioām ir izmantojams.\nPēc ministra sacītā, kabelis starp Zviedriju un Igauniju bojāts apmēram tajā pašā laikā, kad tika bojāts gāzesvads "Balticconnector" un sakaru kabelis, kas savieno Igauniju un Somiju, kas tika sabojāti 8.oktobrī. Junsons arī pauda solidaritāti ar Somiju un Igauniju.\n\nPēc Igaunijas Ekonomikas un komunikāciju ministrijas sniegtajām ziņām, bojājuma vieta atrodas Igaunijas teritoriālajos ūdeņos aptuveni 50 kilometru attālumā no Hījumā salas Zviedrijas virzienā.\n\nPirmdien ministrija un Igaunijas Patērētāju aizsardzības un tehniskā regulējuma pārvalde saņēma informāciju, ka Somu līcī pārraides jauda sakaru kabelim starp Igauniju un Zviedriju ir samazinājusies, pavēstīja ministrija.\n\nKabelis pieder Zviedrijas uzņēmumam, kas dažu dienu laikā atjaunoja kabeļa maksimālo pārraides jaudu, un sakaru nepārtrauktību tas nav ietekmējis. Sākotnējā informācija liecina, ka nav iemesla Igaunijas un Zviedrijas kabeļa bojājumu saistīt ar citiem kabeļiem, norādīja ministrija.\n\n"Līdzīgi nelieli bojājumi šim kabelim bijuši arī agrāk. Kāda iemesla dēļ samazinājās kabeļa pārraides jauda, pagaidām nav zināms. Kabeļa īpašnieks veic tā remontu, un šī procesa laikā sadarbībā ar Somiju un Zviedriju tiks izpētīts iespējamais iemesls, kā arī tas, vai tas varētu būt saistīts ar Igaunijas-Somijas sakaru kabeļa un gāzesvada bojājumiem," sacīts ministrijas paziņojumā.\n\nMinistrija piebilda, ka Igaunijas - Zviedrijas un Igaunijas - Somijas zemūdens sakaru kabeļu bojājumi nav ietekmējuši Igaunijas sakaru pakalpojumu darbību. Sakari ir nepārtraukti nodrošināti, jo Igaunijai ir vairāki savienojumi, un bojājumu gadījumā ir iespējams izmantot vai nu alternatīvi funkcionējošus zemūdens kabeļus, vai sauszemes kabeļus ar Latviju.\n\n"Pagājušās nedēļas incidenti parāda kritiskās zemūdens infrastruktūras neaizsargātību un nepieciešamību risināt šo jautājumu. Valdība ir devusi skaidrus norādījumus ministrijām un plāno un jau ir īstenojusi papildu pasākumus, lai pastiprinātu kritiskās infrastruktūras uzraudzību un aizsardzību gan jūrā, gan uz sauszemes. Uzraudzības un aizsardzības līmeņa paaugstināšanai ir nepieciešama nozīmīga sadarbība ar mūsu kolēģiem no Somijas un Zviedrijas, ar kuriem kopā mēs apsaimniekojam infrastruktūru jūrā, kā arī ar sabiedrotajiem Eiropas Savienībā un NATO, kuri arī ir piedāvājuši savu palīdzību," norādīja ministrija.'}
+2025-04-04 16:40:16,085 - INFO - HTTP Request: POST https://tu-openai-api-management.azure-api.net/ltat-tartunlp/openai/deployments/gec/chat/completions?api-version=2023-05-15 "HTTP/1.1 200 OK"
+2025-04-04 16:40:16,090 - INFO - Output for file TVNET.txt: [Topic] Infrastructure vulnerability  
+[Weight] 5  
+
+[Keywords]  
+Bojāts sakaru kabelis starp Zviedriju un Igauniju Baltijas jūrā = 3  
+Pēc ministra sacītā, kabelis starp Zviedriju un Igauniju bojāts = 3  
+Pēc Igaunijas Ekonomikas un komunikāciju ministrijas sniegtajām ziņām, bojājuma vieta atrodas Igaunijas teritoriālajos ūdeņos = 2  
+Somu līcī pārraides jauda sakaru kabelim starp Igauniju un Zviedriju ir samazinājusies = 3  
+Kabeļa īpašnieks veic tā remontu = 2  
+Sakari ir nepārtraukti nodrošināti = 1  
+kritiskās zemūdens infrastruktūras neaizsargātību un nepieciešamību risināt šo jautājumu = 3  
+pastiprinātu kritiskās infrastruktūras uzraudzību = 3  
+
+[Total Weight] 20  
+[Normalized Significance] 8
+
+[Topic] Communication disruption  
+[Weight] 4  
+
+[Keywords]  
+Bojāts sakaru kabelis starp Zviedriju un Igauniju Baltijas jūrā = 3  
+Pēc ministra sacītā, kabelis starp Zviedriju un Igauniju bojāts = 3  
+Somu līcī pārraides jauda sakaru kabelim starp Igauniju un Zviedriju ir samazinājusies = 3  
+Kabeļa īpašnieks veic tā remontu = 2  
+Sakari ir nepārtraukti nodrošināti = 1  
+
+[Total Weight] 12  
+[Normalized Significance] 6
+
+[Topic] Damage
+[Weight] 3
+
+[Keywords]
+Bojāts sakaru kabelis starp Zviedriju un Igauniju Baltijas jūrā = 3
+Pēc ministra sacītā, kabelis starp Zviedriju un Igauniju bojāts = 3
+Somu līcī pārraides jauda sakaru kabelim starp Igauniju un Zviedriju ir samazinājusies = 2
+Kabeļa īpašnieks veic tā remontu = 2
+
+[Total Weight] 10
+[Normalized Significance] 5
+
+[Topic] International cooperation
+[Weight] 3
+
+[Keywords]
+Junsons arī pauda solidaritāti ar Somiju un Igauniju = 2
+šī procesa laikā sadarbībā ar Somiju un Zviedriju tiks izpētīts iespējamais iemesls = 3
+Uzraudzības un aizsardzības līmeņa paaugstināšanai ir nepieciešama nozīmīga sadarbība ar mūsu kolēģiem no Somijas un Zviedrijas = 3
+
+[Total Weight] 8
+[Normalized Significance] 4
+
+[Topic] Communication provision
+[Weight] 2
+
+[Keywords]
+Sakari ir nepārtraukti nodrošināti = 3
+Somu līcī pārraides jauda sakaru kabelim starp Igauniju un Zviedriju ir samazinājusies = 2
+
+[Total Weight] 5
+[Normalized Significance] 2.5
+2025-04-04 16:40:16,091 - INFO - Processing file: Delfi.txt
+2025-04-04 16:40:16,092 - INFO - Input data: {'language': 'Latvian', 'text': 'Grūti spriest par \'Balticconnector\' bojājuma ietekmes ilgumu uz dabasgāzes tirgu, pauž ministrijā\n17.10.2023 164902\nŠobrīd dabasgāzes tirgus ir reaģējis uz ziņām par "Balticconnector" bojājumu, bet vai šī izmaiņa būs īslaicīga, kā tas nereti ir bijis, vai tomēr ilglaicīgāka, šobrīd vēl grūti spriest, sacīja Klimata un enerģētikas ministrija KEM.\n Pašreiz redzams, ka nelielas dabasgāzes cenas svārstības pēc "Balticconnector" gadījuma ir notikušas, taču šī gada 16. oktobrī tirgū bija redzamas ar pozitīvas pārmaiņas, dabasgāzes cenai Nīderlandes biržā "Title Transfer Facility" TTF) nokrītot līdz 48,47 eiro par megavatstundu MWh.\n Vienlaikus KEM norāda, ka 9. oktobrī Nīderlandes biržā TFF dabasgāzes cena bija 43,95 eiro par MWh, 10. oktobrī - 49,46 eiro par MWh, 11. oktobr - 46,07 eiro par MWh, 12. oktobr - 53,00 eiro par MWh, bet 13. oktobr - 54,00 eiro par MWh.\nSavukārt runājot par ietekmi uz siltumenerģijas tarifiem, KEM noradīja, ka siltumenerģijas komersanti apkures sezonai gatavojas laicīgi, izvērtējot kurināmā piegādes līgumu noslēgšanas brīdi un līguma darbības ilgumu. \nLīdz ar to ir daļa siltumenerģijas komersantu, kas slēdz līgumus par kurināmā iegādi uz vairākiem mēnešiem, lai kurināmā iegādes cenu nofiksētu ilgākam laikam. Ir tādi komersanti, kas slēdz kurināmā iegādes līgumus pa mēnešiem un seko dabasgāzes cenu tendencēm biržā.\n Attiecīgi pašlaik esošās dabasgāzes cenu svārstības biržā laikā no 9. oktobra līdz 16. oktobrim, ko izraisījis "Balticconnector" gadījums pāršķietami neatstāj ietekmi uz siltumenerģijas komersantiem, kuriem noslēgts ilgtermiņa piegādes līgums par fiksētu dabasgāzes cenu.\n Savukārt attiecībā uz siltumenerģijas komersantiem, kuriem dabasgāzes piegādes līgumi noslēgti par mainīgu cenu vai uz īsu termiņu, tūlītēja ietekme nav gaidāma, ņemot vērā, ka biržas cenu izmaiņas kurinām piegādes līgumos atspoguļojas ar zināmu laika nobīdi pēc pāris mēnešiem, tomēr šobrīd grūti prognozēt tā ietekmi uz visu apkures sezonu.\n Vienlaikus KEM atgādina, ka izskatīšanā Saeimā atrodas likumprojekts "Energoapgādes izmaksu atbalsta likums", kur mērķis ir sniegt atbalstu vidēji zemu un zemu ienākumu mājsaimniecībām energoapgādes izmaksu segšanai gadījumos, kad energoresursu cenas ir ārkārtēji augstas.\n Jau ziņots, ka Somiju un Igauniju savienojošais zemūdens gāzesvads 8. oktobrī slēgts, jo tajā konstatēts neierasts spiediena kritums, ko var tu būt izraisījusi gāzes noplūde, paziņojis Somijas gāzes sistēmu operators "Gasgrid" un Igaunijas operators "Elering".\n "Gasgrid" paziņoja, ka cēlonis vēl nav zināms, taču gāzes piegādes pagaidām ir stabilas. 77 kilometrs garais gāzesvads "Balticconnector", kas tika atklāts pirms vairāk nekā trim gadiem, pāri Somu jūras līcim savieno Paldisku un Inko termināļus. Spiediena kritumu gāzesvadā svētdien, 8. oktobrī īsi pirms plkst.2 pēc vietējā laika (plkst.1 pēc Latvijas laika) reģistrēja Somijas uzņēmums "Gasgrid" un Igaunijas gāzes pārvades sistēmas operators "Elering", paziņoja Somijas uzņēmums.'}
+2025-04-04 16:40:33,583 - INFO - HTTP Request: POST https://tu-openai-api-management.azure-api.net/ltat-tartunlp/openai/deployments/gec/chat/completions?api-version=2023-05-15 "HTTP/1.1 200 OK"
+2025-04-04 16:40:33,588 - INFO - Output for file Delfi.txt: [Topic] Infrastructure vulnerability  
+[Weight] 4  
+
+[Keywords]  
+"Balticconnector" bojājumu = 3  
+dabasgāzes tirgus = 2  
+gāzes noplūde = 3  
+zemūdens gāzesvads = 2  
+spiediena kritums = 2  
+
+[Total Weight] 12  
+[Normalized Significance] 6
+
+[Topic] Energy resources  
+[Weight] 5  
+
+[Keywords]  
+dabasgāzes tirgus = 3  
+dabasgāzes cenu svārstības = 3  
+dabasgāzes cena = 3  
+kurināmā iegādes cenu = 2  
+energoapgādes izmaksu = 2  
+energoresursu cenas = 2  
+
+[Total Weight] 15  
+[Normalized Significance] 7.5
+
+[Topic] Damage  
+[Weight] 5  
+
+[Keywords]  
+"Balticconnector" bojājumu = 3  
+gāzes noplūde = 3  
+
+[Total Weight] 6  
+[Normalized Significance] 3 
+
+[Topic] Investigation  
+[Weight] 3  
+
+[Keywords]  
+cēlonis vēl nav zināms = 3  
+
+[Total Weight] 3  
+[Normalized Significance] 1.5
+
+[Topic] Trade and export dependencies  
+[Weight] 2  
+
+[Keywords]  
+dabasgāzes tirgus = 2  
+dabasgāzes cenu svārstības = 2  
+
+[Total Weight] 4  
+[Normalized Significance] 2
+
+[Topic] International cooperation  
+[Weight] 2  
+
+[Keywords]  
+Somiju un Igauniju savienojošais zemūdens gāzesvads = 2  
+
+[Total Weight] 2  
+[Normalized Significance] 1
+
+[Topic] Economic ties in Northern Europe  
+[Weight] 1  
+
+[Keywords]  
+Somiju un Igauniju savienojošais zemūdens gāzesvads = 1  
+
+[Total Weight] 1  
+[Normalized Significance] 0.5
+
+2025-04-04 16:40:33,590 - INFO - Processing file: LSM.txt
+2025-04-04 16:40:33,590 - INFO - Input data: {'language': 'Latvian', 'text': 'Sākotnējā izmeklēšana: Igaunijas un Somijas sakaru kabeļa bojājums ir cilvēka radīts\n20. oktobris, 2023, 11:45\nSākotnējā pārbaude vietā, kur Baltijas jūrā bojāts sakaru kabelis starp Somiju un Igauniju, liecina, ka bojājums ir cilvēka radīts, secinājuši Igaunijas izmeklētāji, kas kopā ar Somijas un Igaunijas jūras spēku pārstāvjiem ir pabeiguši nepieciešamās procesuālās darbības izmeklēšanā par jūras dzelmē esošā kabeļa bojājumu.\nJau iepriekš kā galvenā versija tika izvirzīta cauruļvada iespējama sabotāža,\xa0ko tagad arī apstiprinājusi Igaunijas prokuratūra. Turpmāk tā veiks plašas pārbaudes, lai izskatītu visus iespējamos scenārijus kur varētu būt bijusi cilvēka līdzdarbība. Tiks arī pārbaudīta iespējamo citu valstu kuģu līdzdarbība cauruļvada bojāšanā.\n"Izmeklēšanas gaitā esam analizējuši to kuģu kustību, kas aptuvenajā notikuma brīdī bija šajos ūdeņos. Šobrīd esam identificējuši divus šādus kuģus – viens kuģo zem Krievijas karoga, bet otrs – zem Honkongas," sacīja Igaunijas valsts prokurore Trīnu Oleva.\xa0\nTurpmākajā izmeklēšanas gaitā tiks noskaidrots, vai sākotnējās aizdomas apstiprinās un vai bojājums radīts nolaidības vai cita iemesla dēļ.\nTāpat izmeklētāji pašlaik nevar apstiprināt, vai bojājums bijis apzināts, cita starpā mērķtiecīgs kritiskās infrastruktūras bojājums.\nTā kā sākotnējie pierādījumi no sakaru kabeļa starp Igauniju un Somiju ir savākti, tad ir iespējams sākt plānot kabeļa remontu. Gaidāms, ka remonta darbi sāksies nākamnedēļ.\nKriminālprocesa laikā izmeklētāji pārbaudīs arī Igaunijas un Zviedrijas sakaru kabeli, jo saskaņā ar sākotnējo informāciju arī tā bojājumus varētu būt izraisījusi cilvēka rīcība, tomēr tas ir jāpārbauda.\nIgaunijas–Zviedrijas un Igaunijas–Somijas zemūdens sakaru kabeļu bojājumi nav ietekmējuši Igaunijas sakaru pakalpojumu darbību.\nSakari ir nepārtraukti nodrošināti, jo Igaunijai ir deviņi dažādi savienojumi, un bojājumu gadījumā ir iespējams izmantot vai nu alternatīvi funkcionējošus zemūdens kabeļus, vai sauszemes kabeļus ar Latviju.\nOtrdien Zviedrijas aizsardzības ministrs Pols Junsons paziņoja, ka ir bojāts sakaru kabelis starp Zviedriju un Igauniju Baltijas jūrā.\nPēc ministra sacītā, kabelis starp Zviedriju un Igauniju bojāts apmēram tajā pašā laikā, kad tika bojāts gāzesvads "Balticconnector" un sakaru kabelis, kas savieno Igauniju un Somiju, kas tika sabojāti 8. oktobrī.\nCeturtdien savu izmeklēšanu "Balticconnector" pabeidza Somijas policijas ūdenslīdēji, kuri ir savākuši paraugus, kas nosūtīti uz laboratoriju, tomēr detalizēta informācija par izmeklēšanu netiek publiskota.\nNATO ceturtdien paziņoja, ka NATO un sabiedrotie nolēmuši pastiprināt patrulēšanu Baltijas jūrā pēc nesenajiem zemūdens infrastruktūras bojājumiem reģionā.\nPastiprinātie drošības pasākumi ietver papildu novērošanas un izlūkošanas lidojumus, tostarp ar jūras patruļlidmašīnām, NATO AWACS lidmašīnām un droniem. Uz šo reģionu nosūtīta arī četru NATO mīnu meklēšanas kuģu flote.\nBaltijas jūrā, kā arī Ziemeļjūrā ir blīvs infrastruktūras tīkls ar zemūdens gāzesvadiem, elektrības un sakaru kabeļiem.\nReģionam investējot aizvien jaunā infrastruktūrā, nākotnē šis tīkls kļūs tikai plašāks, un, pieaugot Rietumu atkarībai tieši no zemūdens infrastruktūras, tā kļūst arvien ievainojamāka.\nApzinoties jaunos draudus, Eiropas Savienības un NATO valstis stiprina zemūdens infrastruktūras aizsardzību, kurai iepriekš netika pievērsta tik liela uzmanība.\n'}
+2025-04-04 16:40:57,456 - INFO - HTTP Request: POST https://tu-openai-api-management.azure-api.net/ltat-tartunlp/openai/deployments/gec/chat/completions?api-version=2023-05-15 "HTTP/1.1 200 OK"
+2025-04-04 16:40:57,461 - INFO - Output for file LSM.txt: [Topic] Infrastructure vulnerability  
+[Weight] 5  
+
+[Keywords]  
+sakaru kabelis starp Somiju un Igauniju = 3  
+bojājums ir cilvēka radīts = 3  
+zemūdens infrastruktūras bojājumi = 3  
+kritiskās infrastruktūras bojājums = 2  
+sakaru kabeļa remonts = 2  
+Igaunijas sakaru pakalpojumu darbība = 1  
+
+[Total Weight] 14  
+[Normalized Significance] 7  
+
+---
+
+[Topic] Possible sabotage  
+[Weight] 5  
+
+[Keywords]  
+cauruļvada iespējama sabotāža = 3  
+iespējamo citu valstu kuģu līdzdarbība = 3  
+sākotnējās aizdomas apstiprinās = 2  
+kuģu kustību analīze = 2  
+bojājums bijis apzināts = 1  
+
+[Total Weight] 11  
+[Normalized Significance] 5.5  
+
+---
+
+[Topic] Investigation  
+[Weight] 5  
+
+[Keywords]  
+sākotnējā izmeklēšana = 3  
+plašas pārbaudes = 3  
+izmeklētāji pārbaudīs Igaunijas un Zviedrijas sakaru kabeli = 2  
+Igaunijas prokuratūra = 2  
+Somijas policijas ūdenslīdēji = 1  
+
+[Total Weight] 11  
+[Normalized Significance] 5.5  
+
+---
+
+[Topic] Communication disruption  
+[Weight] 3  
+
+[Keywords]  
+sakaru kabeļa bojājums = 3  
+sakaru pakalpojumu darbība = 2  
+alternatīvi funkcionējošus zemūdens kabeļus = 2  
+sauzemes kabeļus ar Latviju = 1  
+
+[Total Weight] 8  
+[Normalized Significance] 4  
+
+---
+
+[Topic] NATO action  
+[Weight] 3  
+
+[Keywords]  
+NATO un sabiedrotie nolēmuši pastiprināt patrulēšanu = 3  
+pastiprinātie drošības pasākumi = 3  
+četru NATO mīnu meklēšanas kuģu flote = 2  
+
+[Total Weight] 8  
+[Normalized Significance] 4  
+
+---
+
+[Topic] Security concerns  
+[Weight] 2  
+
+[Keywords]  
+zemūdens infrastruktūras aizsardzība = 2  
+Rietumu atkarība no zemūdens infrastruktūras = 2  
+novērošanas un izlūkošanas lidojumi = 1  
+
+[Total Weight] 5  
+[Normalized Significance] 2.5
+

@@ -1,0 +1,107 @@
+[Topic] Suspected Sabotage  
+[Weight] 5  
+
+[Keywords]  
+damage to the Balticconnector gas pipeline = 3  
+external force that was mechanical, not an explosion = 3  
+involvement of a state actor cannot be ruled out = 3  
+purposeful damage to a second telecommunications cable = 3  
+deliberate damage = 2  
+tracks found on the seabed nearby = 2  
+whether it was intentional, negligence, poor seamanship = 2  
+NATO's united and determined response = 1  
+
+[Total Weight] 18  
+[Normalized Significance] 9.0  
+
+---
+
+[Topic] Infrastructure Vulnerability  
+[Weight] 5  
+
+[Keywords]  
+Baltic Sea gas pipeline between Finland and Estonia = 3  
+transatlantic alliance has pledged a united and determined response = 3  
+tens of thousands of kilometres of submarine internet cables, power cables, gas pipelines, and oil pipelines = 3  
+undersea critical infrastructure are vulnerable = 3  
+disconnecting a crucial link between the Nordic and Baltic gas markets = 2  
+pipeline reopened after multimillion-euro repair work = 2  
+NATO stepped up patrols in the Baltic = 2  
+secure the area and detect suspicious movement near its critical undersea infrastructure = 2  
+
+[Total Weight] 20  
+[Normalized Significance] 10.0  
+
+---
+
+[Topic] NATO Response  
+[Weight] 4  
+
+[Keywords]  
+NATO's united and determined response = 3  
+NATO stepped up patrols in the Baltic = 3  
+NATO's secretary general Jens Stoltenberg = 2  
+working with the private sector to protect undersea pipelines and cables = 2  
+NATO launched a new centre for protecting undersea pipelines and cables = 2  
+Finland joined NATO earlier this year = 1  
+
+[Total Weight] 13  
+[Normalized Significance] 6.5  
+
+---
+
+[Topic] International Cooperation  
+[Weight] 3  
+
+[Keywords]  
+cooperation with the Chinese authorities probing the case = 3  
+Finland's central criminal police working with international partners = 2  
+NATO's involvement in the investigation = 2  
+Sweden's prime minister Ulf Kristersson on the damage to the telecommunications cable = 2  
+NATO's secretary general Jens Stoltenberg on undersea critical infrastructure = 1  
+
+[Total Weight] 10  
+[Normalized Significance] 5.0  
+
+---
+
+[Topic] Economic and Financial Impact  
+[Weight] 3  
+
+[Keywords]  
+multimillion-euro repair work = 3  
+Finland relies on gas for about 5% of its energy supplies = 2  
+pipeline will take at least five months to repair = 2  
+unlikely to come on stream again until April 2024 = 2  
+disruption of gas markets = 1  
+
+[Total Weight] 10  
+[Normalized Significance] 5.0  
+
+---
+
+[Topic] Critical Infrastructure Weakness  
+[Weight] 4  
+
+[Keywords]  
+undersea critical infrastructure are vulnerable = 3  
+disconnecting a crucial link between the Nordic and Baltic gas markets = 3  
+pipeline reopened after multimillion-euro repair work = 2  
+NATO stepped up patrols in the Baltic = 2  
+secure the area and detect suspicious movement near its critical undersea infrastructure = 2  
+
+[Total Weight] 12  
+[Normalized Significance] 6.0  
+
+---
+
+[Topic] Environmental and Technical Challenges  
+[Weight] 2  
+
+[Keywords]  
+mechanical damage to the pipeline = 2  
+deep drag marks found on both sides of the fractured pipeline = 2  
+tracks found on the seabed nearby = 1  
+
+[Total Weight] 5  
+[Normalized Significance] 2.5  

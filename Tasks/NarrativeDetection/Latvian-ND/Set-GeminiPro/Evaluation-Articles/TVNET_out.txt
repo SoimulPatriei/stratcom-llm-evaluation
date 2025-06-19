@@ -1,0 +1,63 @@
+1. Named Entity Recognition:
+Location: [Zviedrija, Igaunija, Baltijas jūra, Stokholma, Hījumā sala, Somu līcis, Somija, Latvija, Eiropas Savienība, NATO]
+Actor: [Pols Jonsons, Zviedrijas aizsardzības ministrs, Igaunijas Ekonomikas un komunikāciju ministrija, Igaunijas Patērētāju aizsardzības un tehniskā regulējuma pārvalde]
+Event: [Sakaru kabeļa bojājums, Balticconnector gāzesvada bojājums, Sakaru kabeļa bojājums starp Igauniju un Somiju, Preses konference, Pārraides jaudas samazināšanās, Kabeļa remonts, Kritiskās zemūdens infrastruktūras neaizsargātība, Uzraudzības un aizsardzības līmeņa paaugstināšana]
+Timeline: [2023. gada 17. oktobris, Otrdiena, 8.oktobris, Pirmdiena, dažu dienu laikā, Pagājušā nedēļa]
+
+Entities Ordered by Importance Score:
+1. Sakaru kabeļa bojājums (Event): 0.1
+2. Igaunija (Location): 0.08
+3. Zviedrija (Location): 0.08
+4. Baltijas jūra (Location): 0.07
+5. Pols Jonsons (Actor): 0.07
+6. Igaunijas Ekonomikas un komunikāciju ministrija (Actor): 0.07
+7. Balticconnector gāzesvada bojājums (Event): 0.06
+8. Sakaru kabeļa bojājums starp Igauniju un Somiju (Event): 0.06
+9. Somija (Location): 0.05
+10. 8.oktobris (Timeline): 0.05
+11. Pārraides jaudas samazināšanās (Event): 0.05
+12. Kabeļa remonts (Event): 0.05
+13. Hījumā sala (Location): 0.04
+14. Somu līcis (Location): 0.04
+15. 2023. gada 17. oktobris (Timeline): 0.04
+16. Otrdiena (Timeline): 0.04
+17. Pirmdiena (Timeline): 0.04
+18. Zviedrijas aizsardzības ministrs (Actor): 0.03
+19. Igaunijas Patērētāju aizsardzības un tehniskā regulējuma pārvalde (Actor): 0.03
+20. Stokholma (Location): 0.03
+21. Preses konference (Event): 0.03
+22. Dažu dienu laikā (Timeline): 0.03
+23. Pagājušā nedēļa (Timeline): 0.02
+24. Latvija (Location): 0.02
+25. Eiropas Savienība (Location): 0.02
+26. NATO (Location): 0.02
+27. Kritiskās zemūdens infrastruktūras neaizsargātība (Event): 0.02
+28. Uzraudzības un aizsardzības līmeņa paaugstināšana (Event): 0.02
+
+
+2. Relationship Extraction:
+connects [Zviedrija, Igaunija, sakaru kabelis]
+located in [bojājuma vieta, Baltijas jūra]
+announced [Pols Jonsons, sakaru kabeļa bojājums]
+connects [sakaru kabelis, Igaunija, Somija]
+damaged on [Balticconnector gāzesvads, 8.oktobris]
+located in [bojājuma vieta, Igaunijas teritoriālie ūdeņi]
+close to [bojājuma vieta, Hījumā sala]
+located in [pārraides jaudas samazināšanās, Somu līcis]
+owns [Zviedrijas uzņēmums, kabelis]
+performs [Zviedrijas uzņēmums, kabeļa remonts]
+connects [sauszemes kabelis, Igaunija, Latvija]
+
+
+3. Plot Discovery:
+Exposition: Sakaru kabelis starp Zviedriju un Igauniju Baltijas jūrā ir bojāts. Bojājuma cēlonis nav zināms.
+Rising Action:  Zviedrijas aizsardzības ministrs Pols Jonsons paziņo par bojājumu.  Tiek atklāts, ka bojājums noticis ap to pašu laiku, kad tika bojāts Balticconnector gāzesvads un sakaru kabelis starp Igauniju un Somiju.  Igaunijas ministrija sniedz papildus informāciju par bojājuma vietu un apstākļiem.
+Climax: Tiek atklāts, ka kabeļa pārraides jauda ir samazinājusies, bet sakari nav pārtrūkuši.  Zviedrijas uzņēmums, kam pieder kabelis, veic remontu.
+Falling Action: Igaunijas ministrija paziņo, ka sakari nav ietekmēti, jo ir alternatīvi savienojumi.  Tiek uzsvērta kritiskās zemūdens infrastruktūras neaizsargātība.
+Resolution:  Igaunijas valdība sola veikt pasākumus, lai pastiprinātu kritiskās infrastruktūras uzraudzību un aizsardzību, sadarbojoties ar Somiju, Zviedriju un sabiedrotajiem.
+
+
+4. Story Evolution:
+Shift Detection: Nozīmīgas izmaiņas stāstījumā notiek, kad tiek atklāta sakarība starp kabeļa bojājumu un iepriekšējiem Balticconnector un Igaunijas-Somijas kabeļa bojājumiem.  Vēl viens pavērsiens ir Igaunijas valdības solījums pastiprināt kritiskās infrastruktūras aizsardzību.
+
+Causal Relation Extraction: Kabeļa remonts tiek veikts, jo ir samazinājusies pārraides jauda. Igaunijas valdības solījums pastiprināt infrastruktūras aizsardzību ir tieša reakcija uz kabeļa bojājumu un bažām par kritiskās infrastruktūras neaizsargātību.  Tiek pieminēta sadarbība ar Somiju un Zviedriju, jo abas valstis ir ietekmētas un ir kopīgas intereses Baltijas jūras reģiona drošībā.

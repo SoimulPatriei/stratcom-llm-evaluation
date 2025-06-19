@@ -1,0 +1,88 @@
+Topic: International Cooperation=5=4
+  Common Keywords:
+   China was cooperating in the investigation=3=2
+
+  Keywords Assigned by Human but Not by Machine:
+   China’s role in achieving a just and lasting peace=3
+   constructive dialogue=3
+   Presidents’ video-link meeting=2
+   constructive dialogue over a Baltic Sea gas pipeline=3
+
+  Keywords Assigned by Machine but Not by Human:
+   independent foreign policy of peace=1
+   Finland joined NATO in 2023=1
+   the role of China in achieving a just and lasting peace=2
+   Finnish President Sauli Niinisto and China’s Xi Jinping held a “constructive dialogue”=3
+
+
+Topic: Energy Security=4=4
+  Keywords Assigned by Human but Not by Machine:
+   Balticconnector pipeline incident, it would take at least five months to repair=3
+   natural gas accounts for around 5 per cent of Finland's energy consumption=2
+   Finland dependent on liquefied natural gas imports=2
+
+  Keywords Assigned by Machine but Not by Human:
+   repair the pipeline, leaving Finland dependent on liquefied natural gas imports=2
+   a major supply route to Europe from Russia=1
+   combined heat and power production=1
+   Baltic Sea gas pipeline between Finland and Estonia=3
+   Natural gas accounts for around 5 per cent of Finland’s energy consumption=2
+
+
+Topic: Suspected Sabotage=5=3
+  Common Keywords:
+   damaged by a Chinese vessel=3=3
+
+  Keywords Assigned by Human but Not by Machine:
+   findings suggested it belonged to the Chinese cargo ship=3
+   incident came just over a year after underwater explosions=2
+   anchor believed to have damaged the Balticconnector pipeline=3
+   anchor believed to have damaged, Finnish authorities believe it was damaged by a Chinese vessel=3
+   sabotage remains unknown=2
+
+  Keywords Assigned by Machine but Not by Human:
+   Findings suggested it belonged to the Chinese cargo ship Newnew Polar Bear=1
+   underwater explosions struck three of four Nord Stream gas pipelines=2
+   the cause of that sabotage remains unknown=1
+   Finnish authorities believe was damaged by a Chinese vessel=2
+
+
+Topic: NATO Response=3=1
+  Keywords Assigned by Human but Not by Machine:
+   tensions between Moscow and the West=2
+   constructive dialogue between countries=1
+   Niinisto raised issue of war in Ukraine=2
+   war in Ukraine=2
+
+  Keywords Assigned by Machine but Not by Human:
+   Finland joined NATO in 2023=1
+
+
+Topic: Infrastructure Vulnerability=5=4
+  Keywords Assigned by Human but Not by Machine:
+   heightened tensions between Moscow and the West over the war in Ukraine=2
+   damaged by a Chinese vessel=2
+   repair the pipeline=2
+   Underwater explosions struck three of four Nord Stream gas pipelines=2
+   Damaged the Balticconnector pipeline=3
+   underwater explosions=2
+
+  Keywords Assigned by Machine but Not by Human:
+   damaged the Balticconnector pipeline=3
+   repair the pipeline, leaving Finland dependent on liquefied natural gas imports=2
+   Findings suggested it belonged to the Chinese cargo ship Newnew Polar Bear=1
+   underwater explosions struck three of four Nord Stream gas pipelines=2
+   the cause of that sabotage remains unknown=1
+
+
+Topics Assigned by Human but Not by Machine:
+Topic: Economic and Financial Impact=2
+Topic: Environmental and Technical Challenges=3
+
+Statistics:
+Common Topics: 5
+Topics Assigned by Human: 7
+Topics Assigned by Machine: 5
+Common Keywords: 2
+Keywords Assigned by Human: 24
+Keywords Assigned by Machine: 21

@@ -1,0 +1,73 @@
+[Topic] Infrastructure vulnerability  
+[Weight] 4  
+
+[Keywords]  
+"Balticconnector" bojājumu = 3  
+dabasgāzes tirgus = 2  
+gāzes noplūde = 3  
+zemūdens gāzesvads = 2  
+spiediena kritums = 2  
+
+[Total Weight] 12  
+[Normalized Significance] 6
+
+[Topic] Energy resources  
+[Weight] 5  
+
+[Keywords]  
+dabasgāzes tirgus = 3  
+dabasgāzes cenu svārstības = 3  
+dabasgāzes cena = 3  
+kurināmā iegādes cenu = 2  
+energoapgādes izmaksu = 2  
+energoresursu cenas = 2  
+
+[Total Weight] 15  
+[Normalized Significance] 7.5
+
+[Topic] Damage  
+[Weight] 5  
+
+[Keywords]  
+"Balticconnector" bojājumu = 3  
+gāzes noplūde = 3  
+
+[Total Weight] 6  
+[Normalized Significance] 3 
+
+[Topic] Investigation  
+[Weight] 3  
+
+[Keywords]  
+cēlonis vēl nav zināms = 3  
+
+[Total Weight] 3  
+[Normalized Significance] 1.5
+
+[Topic] Trade and export dependencies  
+[Weight] 2  
+
+[Keywords]  
+dabasgāzes tirgus = 2  
+dabasgāzes cenu svārstības = 2  
+
+[Total Weight] 4  
+[Normalized Significance] 2
+
+[Topic] International cooperation  
+[Weight] 2  
+
+[Keywords]  
+Somiju un Igauniju savienojošais zemūdens gāzesvads = 2  
+
+[Total Weight] 2  
+[Normalized Significance] 1
+
+[Topic] Economic ties in Northern Europe  
+[Weight] 1  
+
+[Keywords]  
+Somiju un Igauniju savienojošais zemūdens gāzesvads = 1  
+
+[Total Weight] 1  
+[Normalized Significance] 0.5

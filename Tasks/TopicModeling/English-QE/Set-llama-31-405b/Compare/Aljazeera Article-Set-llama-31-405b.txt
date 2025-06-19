@@ -1,0 +1,103 @@
+[Topic] Suspected Sabotage
+[Weight] 5
+
+[Keywords]
+investigation into suspected sabotage = 3
+damage to the Balticconector gas pipeline = 3
+potential role of a Chinese ship = 3
+heavy object found near the pipeline damage = 2
+no reason to believe the damage has been caused by an explosion = 2
+NewNew Polar Bear container vessel = 2
+Chinese vessel was normal in the relevant waters = 1
+
+[Total Weight] 16
+[Normalized Significance] 8.0
+
+---
+
+[Topic] Infrastructure Vulnerability
+[Weight] 5
+
+[Keywords]
+Balticconector gas pipeline = 3
+subsea gas pipeline links Finland to Estonia and wider European Union networks = 3
+limited number of energy links to the rest of the bloc = 3
+energy security concerns in the Nordic region = 3
+pipeline damage and telecom cables cut = 2
+vulnerability of the Baltic region = 2
+NATO increases patrols in the Baltic Sea = 1
+
+[Total Weight] 17
+[Normalized Significance] 8.5
+
+---
+
+[Topic] Energy Security
+[Weight] 4
+
+[Keywords]
+energy security concerns in the Nordic region = 3
+limited number of energy links to the rest of the bloc = 3
+Russia invaded Ukraine in February 2022 = 2
+EU energy security concerns = 2
+Rosatom-operated ship = 1
+Latvian President calls for NATO to close the Baltic Sea to ships = 1
+
+[Total Weight] 12
+[Normalized Significance] 6.0
+
+---
+
+[Topic] International Cooperation
+[Weight] 4
+
+[Keywords]
+China and Finland begin communication over the damage = 3
+cooperation concerning the investigation = 3
+European country’s National Bureau of Investigation (NBI) = 2
+Chinese Foreign Ministry spokesperson Mao Ning = 2
+NATO increases patrols in the Baltic Sea = 1
+
+[Total Weight] 11
+[Normalized Significance] 5.5
+
+---
+
+[Topic] NATO Response
+[Weight] 4
+
+[Keywords]
+NATO increases patrols in the Baltic Sea = 3
+Latvian President calls for NATO to close the Baltic Sea to ships = 3
+NATO should close the Baltic Sea to ships if Russia were proven responsible = 2
+Kremlin spokesperson Dmitry Peskov = 2
+NATO's involvement in the investigation = 1
+
+[Total Weight] 11
+[Normalized Significance] 5.5
+
+---
+
+[Topic] Economic and Financial Impact
+[Weight] 2
+
+[Keywords]
+multimillion-euro repair work = 2
+energy security concerns in the Nordic region = 1
+limited number of energy links to the rest of the bloc = 1
+
+[Total Weight] 4
+[Normalized Significance] 2.0
+
+---
+
+[Topic] Critical Infrastructure Weakness
+[Weight] 2
+
+[Keywords]
+subsea gas pipeline links Finland to Estonia and wider European Union networks = 2
+pipeline damage and telecom cables cut = 1
+vulnerability of the Baltic region = 1
+
+[Total Weight] 4
+[Normalized Significance] 2.0

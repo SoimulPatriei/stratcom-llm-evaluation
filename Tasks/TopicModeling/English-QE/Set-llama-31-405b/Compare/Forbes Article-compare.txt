@@ -1,0 +1,117 @@
+Topic: Economic and Financial Impact=3=3
+  Keywords Assigned by Human but Not by Machine:
+   endless appeals and a reticence to reach a settlement=2
+   Finland and Estonia could restrict Chinese vessels from their territorial waters under UNCLOS=2
+   Finland will pursue an Admiralty-claim under international maritime law for damages done to its infrastructure by the Newnew Polar Bear=2
+   drawn-out process with China=2
+
+  Keywords Assigned by Machine but Not by Human:
+   total cost of the pipeline repair work=2
+   who will pick up the bill=1
+   multimillion-euro repair work=3
+   EU covered 75% of Balticconnector’s original construction cost=2
+   disruption of gas markets=1
+
+
+Topic: Suspected Sabotage=5=5
+  Common Keywords:
+   Chinese vessel dragged its anchor over 100 nautical miles=3=3
+
+  Keywords Assigned by Human but Not by Machine:
+   Newnew Polar Bear focus of investigation=3
+   intentional damage difficult to dismiss=3
+   whether it was on purpose=3
+   allegedly caused damage=3
+   external force or tampering=3
+   possibly intentional=3
+   investigation focus on Newnew Polar Bear, authorities confirmed=3
+   prime suspect=3
+
+  Keywords Assigned by Machine but Not by Human:
+   damage to an undersea natural gas pipeline and two telecommunications cables=3
+   Newnew Polar Bear is the prime suspect for the incident=3
+   human-made damage that caused a major drop in pressure=2
+   anchor embedded in the seabed next to the damaged pipeline=3
+   damage allegedly caused by the Chinese vessel=2
+   Finnish National Bureau of Investigation announced investigation=1
+
+
+Topic: NATO Response=3=4
+  Keywords Assigned by Human but Not by Machine:
+   The infrastructure under the Gulf’s waters will now connect one portion of NATO to what will soon be new NATO territories=3
+   NATO=3
+
+  Keywords Assigned by Machine but Not by Human:
+   NATO will likely issue statements on the matter pointing to adversarial treatment of its newest members=1
+   Finland joined NATO in April 2023=2
+   NATO has stepped up its patrols of the Baltic Sea=3
+   minehunters, maritime patrol aircraft, and drones sent to the region=2
+   NATO members Finland and Estonia=2
+
+
+Topic: International Cooperation=5=4
+  Keywords Assigned by Human but Not by Machine:
+   formally requested the opportunity to send representatives to China to investigate the Newnew Polar Bear=3
+   difficulty with the Chinese previously=2
+   Finland, Sweden and Estonia will pursue public relations campaign against Chinese shipping=3
+
+  Keywords Assigned by Machine but Not by Human:
+   cooperation with the Chinese authorities probing the case=3
+   Sweden confirmed damage to an undersea telecommunications cable=1
+   Finland and Estonia formally requested to send representatives to China to investigate=3
+   NATO's involvement in the investigation=2
+   Finnish Prime Minister initiated discussions with European Commission President=2
+
+
+Topic: Environmental and Technical Challenges=3=2
+  Keywords Assigned by Human but Not by Machine:
+   It’s not surprising that a Chinese ship would do this=2
+   survey it=2
+   We have mapped and filmed the seabed, have a very good overview of what happened=2
+   AIS data [automatic identification system (AIS), an automatic satellite tracking system that uses transceivers on ships to track movements] for any ship=2
+   retrieved an anchor embedded in the seabed=2
+   dragged its anchor over 100 nautical miles=2
+
+  Keywords Assigned by Machine but Not by Human:
+   undersea natural gas pipeline and two telecommunications cables damaged=2
+   infrastructure under the Gulf’s waters will now connect one portion of NATO to new NATO territories=1
+   disconnecting a crucial link between the Nordic and Baltic gas markets=1
+
+
+Topic: Infrastructure Vulnerability=5=5
+  Keywords Assigned by Human but Not by Machine:
+   concern is that the Gulf of Finland represents a way that it can be cut off from the rest of NATO=2
+   disruptive activity=3
+   Owing to its geography, Finland in particular depends on the undersea communication and natural gas links=3
+   100 nautical miles drag=3
+   damage to an undersea natural gas pipeline and two telecommunications cables took place=3
+
+  Keywords Assigned by Machine but Not by Human:
+   infrastructure under the Gulf’s waters will now connect one portion of NATO to new NATO territories=2
+   damage to the gas pipeline and data cables=1
+   disconnecting a crucial link between the Nordic and Baltic gas markets=3
+   Finland depends on the undersea communication and natural gas links=3
+   undersea natural gas pipeline and two telecommunications cables damaged=3
+   Gulf of Finland has become a “hot topic” within NATO=3
+   Chinese ship dragged its anchor over 100 nautical miles=2
+
+
+Topics Assigned by Human but Not by Machine:
+Topic: Energy Security=4
+
+Topics Assigned by Machine but Not by Human:
+Topic: Technological Resilience and Ecological Issues=2
+Topic: Supply Chain Stability=1
+Topic: Covert Disruptions=1
+Topic: Critical Infrastructure Weakness=3
+Topic: Market Stability and Financial Risks=2
+Topic: Global Diplomatic Engagement=2
+Topic: Allied Strategic Defence/Response=2
+
+Statistics:
+Common Topics: 6
+Topics Assigned by Human: 7
+Topics Assigned by Machine: 13
+Common Keywords: 1
+Keywords Assigned by Human: 29
+Keywords Assigned by Machine: 32

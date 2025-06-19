@@ -1,0 +1,61 @@
+[Topic] Infrastructure vulnerability  
+[Weight] 5  
+
+[Keywords]  
+Bojāts sakaru kabelis starp Zviedriju un Igauniju Baltijas jūrā = 3  
+Pēc ministra sacītā, kabelis starp Zviedriju un Igauniju bojāts = 3  
+Pēc Igaunijas Ekonomikas un komunikāciju ministrijas sniegtajām ziņām, bojājuma vieta atrodas Igaunijas teritoriālajos ūdeņos = 2  
+Somu līcī pārraides jauda sakaru kabelim starp Igauniju un Zviedriju ir samazinājusies = 3  
+Kabeļa īpašnieks veic tā remontu = 2  
+Sakari ir nepārtraukti nodrošināti = 1  
+kritiskās zemūdens infrastruktūras neaizsargātību un nepieciešamību risināt šo jautājumu = 3  
+pastiprinātu kritiskās infrastruktūras uzraudzību = 3  
+
+[Total Weight] 20  
+[Normalized Significance] 8
+
+[Topic] Communication disruption  
+[Weight] 4  
+
+[Keywords]  
+Bojāts sakaru kabelis starp Zviedriju un Igauniju Baltijas jūrā = 3  
+Pēc ministra sacītā, kabelis starp Zviedriju un Igauniju bojāts = 3  
+Somu līcī pārraides jauda sakaru kabelim starp Igauniju un Zviedriju ir samazinājusies = 3  
+Kabeļa īpašnieks veic tā remontu = 2  
+Sakari ir nepārtraukti nodrošināti = 1  
+
+[Total Weight] 12  
+[Normalized Significance] 6
+
+[Topic] Damage
+[Weight] 3
+
+[Keywords]
+Bojāts sakaru kabelis starp Zviedriju un Igauniju Baltijas jūrā = 3
+Pēc ministra sacītā, kabelis starp Zviedriju un Igauniju bojāts = 3
+Somu līcī pārraides jauda sakaru kabelim starp Igauniju un Zviedriju ir samazinājusies = 2
+Kabeļa īpašnieks veic tā remontu = 2
+
+[Total Weight] 10
+[Normalized Significance] 5
+
+[Topic] International cooperation
+[Weight] 3
+
+[Keywords]
+Junsons arī pauda solidaritāti ar Somiju un Igauniju = 2
+šī procesa laikā sadarbībā ar Somiju un Zviedriju tiks izpētīts iespējamais iemesls = 3
+Uzraudzības un aizsardzības līmeņa paaugstināšanai ir nepieciešama nozīmīga sadarbība ar mūsu kolēģiem no Somijas un Zviedrijas = 3
+
+[Total Weight] 8
+[Normalized Significance] 4
+
+[Topic] Communication provision
+[Weight] 2
+
+[Keywords]
+Sakari ir nepārtraukti nodrošināti = 3
+Somu līcī pārraides jauda sakaru kabelim starp Igauniju un Zviedriju ir samazinājusies = 2
+
+[Total Weight] 5
+[Normalized Significance] 2.5

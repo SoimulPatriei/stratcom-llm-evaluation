@@ -1,0 +1,108 @@
+Topic: International Cooperation=5=4
+  Keywords Assigned by Human but Not by Machine:
+   formally requested the opportunity to send representatives to China to investigate the Newnew Polar Bear=3
+   Finland, Sweden and Estonia will pursue public relations campaign against Chinese shipping=3
+   difficulty with the Chinese previously=2
+
+  Keywords Assigned by Machine but Not by Human:
+   Cooperation with Chinese authorities probing the case=3
+   UNCLOS (the United Nations Convention on the Law of the Sea)=2
+   International partners=2
+   NATO's involvement=2
+   A case that might be presented to the UN’s International Tribunal for the Law of the Sea (ITLOS)=2
+   Former president of Finland speaking with Chinese President Xi Jinping=2
+   Finnish Prime Minister initiating discussions with European Commission President=2
+
+
+Topic: NATO Response=3=4
+  Keywords Assigned by Human but Not by Machine:
+   The infrastructure under the Gulf’s waters will now connect one portion of NATO to what will soon be new NATO territories=3
+   NATO=3
+
+  Keywords Assigned by Machine but Not by Human:
+   NATO members Finland and Estonia=3
+   Minehunters, maritime patrol aircraft, and drones sent to the region=3
+   Statements on the matter pointing to adversarial treatment of its newest members by China and Russia=2
+   Finland joining NATO in April 2023=3
+   Gulf of Finland representing a way it can be cut off from the rest of NATO=2
+   NATO has stepped up its patrols of the Baltic Sea=3
+   detect suspicious movement near its critical undersea infrastructure=3
+
+
+Topic: Economic and Financial Impact=3=3
+  Keywords Assigned by Human but Not by Machine:
+   Finland will pursue an Admiralty-claim under international maritime law for damages done to its infrastructure by the Newnew Polar Bear=2
+   Finland and Estonia could restrict Chinese vessels from their territorial waters under UNCLOS=2
+   drawn-out process with China=2
+   endless appeals and a reticence to reach a settlement=2
+
+  Keywords Assigned by Machine but Not by Human:
+   Finland, Sweden, and Estonia pursuing public relations campaign against Chinese shipping=1
+   Restricting Chinese vessels from their territorial waters=1
+   Disruption of gas markets=2
+   Total cost of pipeline repair work, estimated at around 35 million euros ($38 million)=3
+   Multimillion-euro repair work=3
+   EU covering 75% of Balticconnector’s original construction cost=3
+   Who will pick up the bill=1
+
+
+Topic: Suspected Sabotage=5=5
+  Keywords Assigned by Human but Not by Machine:
+   external force or tampering=3
+   whether it was on purpose=3
+   investigation focus on Newnew Polar Bear, authorities confirmed=3
+   Newnew Polar Bear focus of investigation=3
+   possibly intentional=3
+   allegedly caused damage=3
+   prime suspect=3
+   Chinese vessel dragged its anchor over 100 nautical miles=3
+   intentional damage difficult to dismiss=3
+
+  Keywords Assigned by Machine but Not by Human:
+   Chinese vessel anchor causing damage=3
+   Cooperation with Chinese authorities probing the case=1
+   Baltic Sea gas pipeline damaged=3
+   Damage to gas pipeline and data cables=2
+   International partners investigating=3
+   Chinese vessel dragging anchor over 100 nautical miles=2
+   Human-made damage causing major drop in pressure=3
+   Failed to establish radio contact with vessel's captain=3
+   Damage allegedly caused by Chinese vessel=3
+   Disconnecting a crucial link between Nordic and Baltic gas markets=2
+   Finland and Estonia formally investigating=2
+   Former president of Finland speaking with Chinese President Xi Jinping=1
+   NATO's involvement=1
+
+
+Topic: Infrastructure Vulnerability=5=5
+  Keywords Assigned by Human but Not by Machine:
+   Owing to its geography, Finland in particular depends on the undersea communication and natural gas links=3
+   100 nautical miles drag=3
+   concern is that the Gulf of Finland represents a way that it can be cut off from the rest of NATO=2
+   damage to an undersea natural gas pipeline and two telecommunications cables took place=3
+   disruptive activity=3
+
+  Keywords Assigned by Machine but Not by Human:
+   Baltic Sea gas pipeline between NATO members Finland and Estonia=3
+   Several months' disruption=2
+   Critical undersea infrastructure=1
+   Telecom cables connecting Finland and Estonia, as well as Sweden and Estonia, were also damaged=3
+   Gulf of Finland representing a way it can be cut off from the rest of NATO=2
+   Undersea communication and natural gas links=1
+   Pipeline reopened after multimillion-euro repair work=2
+   Disconnecting a crucial link between Nordic and Baltic gas markets=3
+   Securing the area and detecting suspicious movement near critical undersea infrastructure=3
+   Damage to the gas pipeline and data cables=2
+
+
+Topics Assigned by Human but Not by Machine:
+Topic: Environmental and Technical Challenges=3
+Topic: Energy Security=4
+
+Statistics:
+Common Topics: 5
+Topics Assigned by Human: 7
+Topics Assigned by Machine: 5
+Common Keywords: 0
+Keywords Assigned by Human: 23
+Keywords Assigned by Machine: 44

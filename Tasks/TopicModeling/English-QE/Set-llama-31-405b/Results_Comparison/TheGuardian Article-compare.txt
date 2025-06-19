@@ -1,0 +1,107 @@
+Topic: Environmental and Technical Challenges=3=2
+  Keywords Assigned by Human but Not by Machine:
+   lifted from the seabed using a navy crane=2
+   Recovered a large ship’s anchor=2
+   take at least five months to repair the pipelines=1
+   tracks had been found on the seabed=2
+   deep drag marks on both sides of fractured pipeline=2
+
+  Keywords Assigned by Machine but Not by Human:
+   tracks found on the seabed nearby=1
+   deep drag marks found on both sides of the fractured pipeline=2
+   mechanical damage to the pipeline=2
+
+
+Topic: International Cooperation=2=3
+  Keywords Assigned by Human but Not by Machine:
+   working with the private sector=2
+   Sweden’s prime minister=2
+   Finland and Estonia=2
+
+  Keywords Assigned by Machine but Not by Human:
+   cooperation with the Chinese authorities probing the case=3
+   NATO's secretary general Jens Stoltenberg on undersea critical infrastructure=1
+   Sweden's prime minister Ulf Kristersson on the damage to the telecommunications cable=2
+   Finland's central criminal police working with international partners=2
+   NATO's involvement in the investigation=2
+
+
+Topic: Economic and Financial Impact=2=3
+  Keywords Assigned by Human but Not by Machine:
+   It is unlikely to come on stream again until April 2024=2
+
+  Keywords Assigned by Machine but Not by Human:
+   unlikely to come on stream again until April 2024=2
+   disruption of gas markets=1
+   pipeline will take at least five months to repair=2
+   Finland relies on gas for about 5% of its energy supplies=2
+   multimillion-euro repair work=3
+
+
+Topic: Suspected Sabotage=5=5
+  Keywords Assigned by Human but Not by Machine:
+   ruptured three of the four Nord Stream pipelines=3
+   damage was caused by external force=3
+   Pipeline damage was caused by sabotage=3
+   Investigation was now focused on whether the damage was deliberate=3
+   deliberate, motive, involvement of a state actor cannot be ruled out=2
+
+  Keywords Assigned by Machine but Not by Human:
+   purposeful damage to a second telecommunications cable=3
+   involvement of a state actor cannot be ruled out=3
+   deliberate damage=2
+   tracks found on the seabed nearby=2
+   NATO's united and determined response=1
+   external force that was mechanical, not an explosion=3
+   whether it was intentional, negligence, poor seamanship=2
+   damage to the Balticconnector gas pipeline=3
+
+
+Topic: NATO Response=5=4
+  Keywords Assigned by Human but Not by Machine:
+   Investigators seeking, investigation was now focused=3
+   transatlantic alliance has pledged a ‘united and determined response’=3
+   working with the private sector to protect undersea infrastructure=2
+   The alliance launched a new centre for protecting undersea pipelines=2
+   stepped up patrols in the Baltic=2
+
+  Keywords Assigned by Machine but Not by Human:
+   working with the private sector to protect undersea pipelines and cables=2
+   NATO stepped up patrols in the Baltic=3
+   NATO's secretary general Jens Stoltenberg=2
+   NATO launched a new centre for protecting undersea pipelines and cables=2
+   Finland joined NATO earlier this year=1
+   NATO's united and determined response=3
+
+
+Topic: Infrastructure Vulnerability=5=5
+  Keywords Assigned by Human but Not by Machine:
+   damage to the Balticconnector pipeline and parallel Estlink cable=3
+   tracks had been found on seabed nearby=2
+   These types of undersea critical infrastructure are vulnerable=3
+   vulnerable, undersea critical infrastructure, Nord Stream pipelines=3
+
+  Keywords Assigned by Machine but Not by Human:
+   pipeline reopened after multimillion-euro repair work=2
+   disconnecting a crucial link between the Nordic and Baltic gas markets=2
+   Baltic Sea gas pipeline between Finland and Estonia=3
+   NATO stepped up patrols in the Baltic=2
+   undersea critical infrastructure are vulnerable=3
+   secure the area and detect suspicious movement near its critical undersea infrastructure=2
+   transatlantic alliance has pledged a united and determined response=3
+   tens of thousands of kilometres of submarine internet cables, power cables, gas pipelines, and oil pipelines=3
+
+
+Topics Assigned by Human but Not by Machine:
+Topic: Energy Security=4
+
+Topics Assigned by Machine but Not by Human:
+Topic: Critical Infrastructure Weakness=4
+
+Statistics:
+Common Topics: 6
+Topics Assigned by Human: 7
+Topics Assigned by Machine: 7
+Common Keywords: 0
+Keywords Assigned by Human: 23
+Keywords Assigned by Machine: 35

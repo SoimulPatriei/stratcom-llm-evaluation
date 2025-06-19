@@ -1,0 +1,135 @@
+```
+[Topic] Suspected Sabotage
+[Weight] 5
+
+[Keywords]
+Russia is the prime suspect = 3
+Chinese-flagged ship is also thought to have been involved = 3
+Balticconnector gas pipeline and a communications cable between Finland and Estonia were damaged = 3
+external mechanical force = 2
+suspicious incidents = 2
+
+[Total Weight] 13
+[Normalized Significance] 6.5
+
+---
+
+[Topic] Infrastructure Vulnerability
+[Weight] 5
+
+[Keywords]
+Balticconnector gas pipeline and a communications cable between Finland and Estonia were damaged = 3
+external mechanical force = 3
+damage to the Balticconnector pipeline = 3
+difficulty of stopping potential attacks before they occur = 3
+identifying the perpetrators if they do = 2
+
+[Total Weight] 14
+[Normalized Significance] 7.0
+
+---
+
+[Topic] Critical Infrastructure Weakness
+[Weight] 5
+
+[Keywords]
+suspicious incidents that have given rise to fears = 3
+external activity = 3
+damage to the Balticconnector pipeline = 3
+difficulty of stopping potential attacks before they occur = 3
+identifying the perpetrators if they do = 2
+
+[Total Weight] 14
+[Normalized Significance] 7.0
+
+---
+
+[Topic] NATO Response
+[Weight] 4
+
+[Keywords]
+NATO has stepped up its patrols of the Baltic Sea = 3
+minehunters, maritime patrol aircraft, and drones sent to the region = 3
+NATO members Finland and Estonia = 2
+Finland acceded earlier this year = 2
+
+[Total Weight] 10
+[Normalized Significance] 5.0
+
+---
+
+[Topic] International Cooperation
+[Weight] 3
+
+[Keywords]
+allies in NATO and the European Union = 3
+NATO's involvement = 2
+military-intelligence agencies = 2
+
+[Total Weight] 7
+[Normalized Significance] 3.5
+
+---
+
+[Topic] Economic and Financial Impact
+[Weight] 3
+
+[Keywords]
+damage occurred at roughly the same time = 3
+damage was quickly repaired = 2
+investigation complicated by poor weather = 2
+
+[Total Weight] 7
+[Normalized Significance] 3.5
+
+---
+
+[Topic] Technological Resilience and Ecological Issues
+[Weight] 2
+
+[Keywords]
+underwater infrastructure in the Baltic Sea = 2
+damage to the Balticconnector pipeline = 2
+difficulty of stopping potential attacks before they occur = 2
+
+[Total Weight] 6
+[Normalized Significance] 3.0
+
+---
+
+[Topic] Global Diplomatic Engagement
+[Weight] 2
+
+[Keywords]
+allies in NATO and the European Union = 2
+Finland acceded earlier this year = 2
+
+[Total Weight] 4
+[Normalized Significance] 2.0
+
+---
+
+[Topic] Covert Disruptions
+[Weight] 2
+
+[Keywords]
+Russia is the prime suspect = 2
+Chinese-flagged ship is also thought to have been involved = 2
+
+[Total Weight] 4
+[Normalized Significance] 2.0
+
+---
+
+[Topic] Supply Chain Stability
+[Weight] 1
+
+[Keywords]
+damage to the Balticconnector pipeline = 2
+damage occurred at roughly the same time = 1
+
+[Total Weight] 3
+[Normalized Significance] 1.5
+
+---
+```

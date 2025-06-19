@@ -1,0 +1,132 @@
+[Topic] Infrastructure vulnerability  
+[Weight] 5  
+
+[Keywords]  
+sakaru kabelis starp Somiju un Igauniju = 3  
+zemūdens infrastruktūras bojājumi = 3  
+kritiskās infrastruktūras bojājumi = 3  
+"Balticconnector" gāzesvads = 2  
+zemūdens gāzesvadi, elektrības un sakaru kabeļi = 2  
+zemūdens infrastruktūras aizsardzība = 2  
+
+[Total Weight] 15  
+[Normalized Significance] 7.5  
+
+---
+
+[Topic] Security concerns  
+[Weight] 5  
+
+[Keywords]  
+sabotāža = 3  
+drošības pasākumi = 3  
+draudi = 2  
+aizsardzība = 2  
+patrulēšana Baltijas jūrā = 2  
+
+[Total Weight] 12  
+[Normalized Significance] 6  
+
+---
+
+[Topic] Investigation  
+[Weight] 5  
+
+[Keywords]  
+izmeklēšana = 3  
+izmeklētāji = 2  
+pārbaude = 2  
+pierādījumi = 1  
+analizēti = 1  
+
+[Total Weight] 9  
+[Normalized Significance] 4.5  
+
+---
+
+[Topic] Possible sabotage  
+[Weight] 4  
+
+[Keywords]  
+sabotāža = 3  
+cilvēka radīti = 2  
+apzināti = 2  
+mērķtiecīgi = 1  
+
+[Total Weight] 8  
+[Normalized Significance] 4  
+
+---
+
+[Topic] Geopolitical dynamics  
+[Weight] 3  
+
+[Keywords]  
+Krievijas karogs = 2  
+NATO = 2  
+sabiedrotie = 1  
+
+[Total Weight] 5  
+[Normalized Significance] 2.5  
+
+---
+
+[Topic] NATO action  
+[Weight] 3  
+
+[Keywords]  
+NATO = 3  
+sabiedrotie = 2  
+patrulēšana = 1  
+
+[Total Weight] 6  
+[Normalized Significance] 3  
+
+---
+
+[Topic] International cooperation  
+[Weight] 3  
+
+[Keywords]  
+Somija un Zviedrija = 2  
+NATO un sabiedrotie = 2  
+sadarbība = 1  
+
+[Total Weight] 5  
+[Normalized Significance] 2.5  
+
+---
+
+[Topic] Communication disruption  
+[Weight] 2  
+
+[Keywords]  
+sakaru kabeļu bojājumi = 2  
+sakaru pakalpojumu darbība = 1  
+
+[Total Weight] 3  
+[Normalized Significance] 1.5  
+
+---
+
+[Topic] Natural gas infrastructure  
+[Weight] 2  
+
+[Keywords]  
+gāzesvads "Balticconnector" = 2  
+zemūdens gāzesvadi = 1  
+
+[Total Weight] 3  
+[Normalized Significance] 1.5  
+
+---
+
+[Topic] Damage  
+[Weight] 2  
+
+[Keywords]  
+bojājums = 2  
+bojāti = 1  
+
+[Total Weight] 3  
+[Normalized Significance] 1.5  

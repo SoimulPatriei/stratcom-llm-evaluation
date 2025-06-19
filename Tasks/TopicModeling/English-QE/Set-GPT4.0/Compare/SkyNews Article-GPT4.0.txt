@@ -1,0 +1,65 @@
+[Topic] Infrastructure Vulnerability  
+[Weight] 5  
+
+[Keywords]  
+damage to the Balticconnector gas pipeline = 3  
+Chinese container ship's dislodged anchor = 3  
+undersea Balticconnector pipeline = 2  
+mechanical damage within the Finnish economic zone = 2  
+significant harm to the €300m (£260m) Balticconnector gas pipeline = 2  
+
+[Total Weight] 12  
+[Normalized Significance] 6.0  
+
+---
+
+[Topic] Suspected Sabotage  
+[Weight] 4  
+
+[Keywords]  
+investigation involving the ship Newnew Polar Bear = 3  
+Finnish navy has retrieved an anchor = 2  
+establishing if the damage was intentional, unintentional, or due to "bad seafaring" = 3  
+Finnish authorities identified the Newnew Polar Bear as the prime suspect = 2  
+
+[Total Weight] 10  
+[Normalized Significance] 5.0  
+
+---
+
+[Topic] Energy Security  
+[Weight] 4  
+
+[Keywords]  
+significant pressure drop in the pipeline = 3  
+48-mile pipeline linking the Finnish town of Inkoo and the Estonian port of Paldiski = 2  
+essential link between Finland and the European gas network = 2  
+Repairs are estimated to last until at least the end of April = 1  
+
+[Total Weight] 8  
+[Normalized Significance] 4.0  
+
+---
+
+[Topic] International Cooperation  
+[Weight] 4  
+
+[Keywords]  
+Finnish investigators are currently collaborating with Chinese authorities = 3  
+request for a fair and comprehensive investigation into the incident = 2  
+Chinese vessel was operating normally at the time = 1  
+
+[Total Weight] 6  
+[Normalized Significance] 3.0  
+
+---
+
+[Topic] Economic and Financial Impact  
+[Weight] 3  
+
+[Keywords]  
+significant harm to the €300m (£260m) Balticconnector gas pipeline = 3  
+Repairs are estimated to last until at least the end of April = 2  
+
+[Total Weight] 5  
+[Normalized Significance] 2.5  

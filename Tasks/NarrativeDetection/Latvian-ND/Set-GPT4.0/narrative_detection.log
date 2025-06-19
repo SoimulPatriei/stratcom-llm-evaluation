@@ -1,0 +1,420 @@
+2025-02-17 18:12:54,211 - INFO - Template content after formatting: ﻿Perform narrative detection on the article provided. The text is in a language specified as input.
+
+1. Named Entity Recognition:
+   - Identify entities such as actors, events, locations, and timelines that provide significant semantic insights into the narrative.
+   - The tags for the entities should be in English.
+   - The entities themselves should be in the language of the article.
+   - Assign a score to each entity found, reflecting its importance in the document.
+   - The entities should be ordered by their importance scores from highest to lowest.
+   - The total of all scores assigned to the entities should sum to one.
+   - Examples:
+Layer Output:
+Location: [Somija, Igaunija, Baltic-connector cauruļvads, Baltijas jūras krasts, Somijas Ekskluzīvā Ekonomiskā Zona, Eiropas Savienība, Apvienotā Karaliste, Izraēla, Tamāra, Vidusjūra, Nord Stream cauruļvads, Krievija]
+Actor: [Somijas premjerministrs, Petteri Orpo, BBC, Norsar, Somijas Nacionālais Izmeklēšanas Birojs (KRP), Jens Stoltenbergs, NATO, Hamās, Frenks Gārdners]
+Event: [Aizdomas par sabotāžu, Bojājumi Baltic-connector cauruļvadā, pēkšņs spiediena kritums, Noplūdes izmeklēšana, iespējams sprādziens, gāzes cenu pieaugums, Izraēlas Tamāras gāzes lauka slēgšana, Nord Stream cauruļvada sprādzieni]
+Timeline: [Svētdiena, Otrdiena, Šī gada aprīlis, 01:20 svētdien (22:20 GMT sestdienā), 2022. gada septembris, mēneši remontam, 2020. gads, Pagājušā gada maijs]
+Entities Ordered by Importance Score:
+1. Aizdomas par sabotāžu (Event): 0.06
+2. Bojājumi Baltic-connector cauruļvadā (Event): 0.05
+3. Somija (Location): 0.05
+4. Igaunija (Location): 0.05
+5. NATO (Actor): 0.05
+6. Somijas premjerministrs (Actor): 0.05
+7. Nord Stream cauruļvada sprādzieni (Event): 0.05
+8. Petteri Orpo (Actor): 0.04
+9. Eiropas Savienība (Location): 0.04
+10. Vidusjūra (Location): 0.04
+11. Nord Stream cauruļvads (Location): 0.04
+12. Šī gada aprīlis (Timeline): 0.04
+13. Pēkšņs spiediena kritums (Event): 0.04
+14. Noplūdes izmeklēšana (Event): 0.04
+15. Iespējams sprādziens (Event): 0.04
+16. Gāzes cenu pieaugums (Event): 0.04
+17. Izraēlas Tamāras gāzes lauka slēgšana (Event): 0.04
+18. Baltic-connector cauruļvads (Location): 0.04
+19. BBC (Actor): 0.03
+20. Somijas Nacionālais Izmeklēšanas Birojs (KRP) (Actor): 0.03
+21. Jens Stoltenbergs (Actor): 0.03
+22. Hamās (Actor): 0.03
+23. Frenks Gārdners (Actor): 0.03
+24. Baltijas jūras krasts (Location): 0.03
+25. Apvienotā Karaliste (Location): 0.03
+26. Krievija (Location): 0.03
+27. Svētdiena (Timeline): 0.03
+28. Otrdiena (Timeline): 0.03
+29. 01:20 svētdien (22:20 GMT sestdienā) (Timeline): 0.03
+30. Mēneši remontam (Timeline): 0.03
+31. 2020. gads (Timeline): 0.03
+32. Pagājušā gada maijs (Timeline): 0.03
+33. Norsar (Actor): 0.02
+34. Izraēla (Location): 0.02
+35. Tamāra (Location): 0.02
+36. Somijas Ekskluzīvā Ekonomiskā Zona (Location): 0.02
+
+2. Relationship Extraction:
+   - Extract binary semantic relationships between the entities identified in the Named Entity Recognition layer.
+   - The names of the relationships should be in English.
+   - The entities involved in the relationships should be in the language of the article.
+   - Examples:
+Layer Output:
+is detained [Latvijas-Baltkrievijas robežā, 100 cilvēki]
+attempts to cross [Latvijas-Baltkrievijas robeža, vairākas nelegālo imigrantu grupas]
+is prevented by [robežsardze, nelegālie imigranti]
+claims asylum in [Rietumeiropa, daudzi indivīdi]
+
+3. Plot Discovery:
+   - Identify the main components of the plot using Freytag's Pyramid, which includes the following stages:
+     - Exposition
+     - Rising Action
+     - Climax
+     - Falling Action
+     - Resolution
+   - Whenever possible, use entities identified in the Named Entity Recognition layer to describe the plot components.
+   - The stage names should be in English.
+   - The content within each stage should be in the language of the article.
+   - Examples:
+Layer Output:
+Exposition: [Nelegālie imigranti] mēģina šķērsot [Latvijas-Baltkrievijas robežu], un [robežsardze] ik dienu aiztur apmēram [100 cilvēkus].
+Rising Action: Spriedze pieaug, jo vairākas [nelegālo imigrantu] grupas atkārtoti mēģina šķērsot [Latvijas-Baltkrievijas robežu], kā rezultātā tiek pastiprinātas patruļas.
+Climax: Pie [Latvijas-Baltkrievijas robežas] notiek liela konfrontācija starp [robežsardzi] un lielu [nelegālo imigrantu] grupu, kā rezultātā notiek daudzas aizturēšanas.
+Falling Action: Pēc konfrontācijas pie [Latvijas-Baltkrievijas robežas] drošības pasākumi tiek pastiprināti un tiek izvietotas papildu patruļas.
+Resolution: [Latvijas valdība] paziņo par jaunām politikas iniciatīvām, lai risinātu situāciju pie [Latvijas-Baltkrievijas robežas], un mēģinājumi šķērsot robežu sāk samazināties.
+
+4. Story Evolution:
+   - This layer should include two components:
+     - Shift Detection: Recognize significant changes or deviations in the narrative.
+     - Causal Relation Extraction: Identify the reasons behind each significant event or decision in the story.
+   - Whenever possible, use entities identified in the Named Entity Recognition layer for these components.
+   - Examples:
+Layer Output:
+Shift Detection: Nozīmīgas izmaiņas stāstījumā notiek, kad [Latvijas premjerministrs] apsola uzstādīt [novērošanas ierīces] gar visu [austrumu robežu].
+Causal Relation Extraction: [Premjerministra] solījums uzstādīt [novērošanas ierīces] tiek dots, reaģējot uz pieaugošo [nelegālo robežšķērsošanas mēģinājumu] skaitu pie [Latvijas-Baltkrievijas robežas], lai uzlabotu drošību un kontroli.
+
+
+   
+
+Language of the article: {language}
+Article: {text}
+
+2025-02-17 18:12:54,212 - INFO - Processing file: LA_LV .txt
+2025-02-17 18:12:54,212 - INFO - Input data: {'language': 'English', 'text': 'Sabotāža? Lai gan Somijas un Igaunijas gāzesvads slēgts, Latvijas apgāde nav apdraudēta \n\n21:04, 11. oktobris 2023\n\nLai gan Somijas un Igaunijas gāzesvads “Balticconnector” patlaban ir slēgts, Latvijas apgāde nav apdraudēta, aģentūrai LETA norādīja ārlietu ministrs Krišjānis Kariņš (JV).\n\nĀrlietu ministrs sacīja, ka viņš ir runājis gan ar Somijas, gan ar Igaunijas kolēģiem. Kariņa ieskatā, patlaban ir pāragri nonākt pie skaidra secinājuma, kas noticis, taču izmeklēšana turpinās.\n\n“Nodarītie bojājumi zemūdens gāzesvadā “Balticconnector” tiek izmeklēti kā iespējams sabotāžas mēģinājums. Šis nav gadījums, kad būtu saplīsusi kāda blīve,” sacīja ārlietu ministrs.\nViņa ieskatā, ir jāsagaida izmeklēšanas rezultāti, lai varētu secināt, kā tas notika. Kariņš sacīja, ka Inčukalna pazemes gāzes krātuvē rezerves ir labas, tāpēc Latvijas piegādes nekādā veidā nav apdraudētas. Ārlietu ministrs pat uzsvēra, ka Latvija jau piegādā gāzi Igaunijai.\n\n“Latvijai paliek gāzes piegādes iespējas caur Lietuvu un Klaipēdas gāzes termināli. Jāpiebilst, ka uzņēmums “Latvenergo” ir panācis vienošanos. “Latvenergo” ir daudzu gadu tiesības importēt gāzi caur šo termināli,” skaidroja Kariņš.\n\nĀrlietu ministrs uzsvēra, ka notiekošais Somijā un Igaunijā nekādā veidā neapdraud Latvijas patērētājus un Latvijas tirgu. Pēc Kariņa paustā,\n\nja Somijas un Igaunijas gāzesvada darbība sabotēta, tas nozīmē, ka Baltijas jūras reģionā būs pastiprināti jāuzrauga visa zemūdens infrastruktūra.\nMinistrs atzīmēja, ka zem Baltijas jūras ir ne tikai gāzes vadi, bet arī elektrovadi un sakaru vadi.\n\nPēc Kariņa paustā, ja gāzesvads “Balticconnector”, iespējams, bija sabotāžas mērķis, jāseko līdzi, lai tas nevarētu iet plašumā. Latvija ir daļa no Eiropas Savienības un NATO, ārlietu ministra ieskatā, sabiedrotajām demokrātijām ir jāsadarbojas un vēl ciešāk jākāpina sadarbība, lai rūpētos par mūsu infrastruktūras drošību. Tas palīdzēs sekmēt drošību sabiedrībām kopumā.\n\nLETA jau rakstīja,\n\nlai salabotu Somiju un Igauniju savienojošā zemūdens gāzesvada “Balticconnector” bojāto posmu, būs nepieciešami vismaz pieci mēneši, līdz ar to gāzesvads varētu atsākt darboties ne agrāk kā nākamā gada aprīlī,\ntrešdien paziņoja Somijas gāzes pārvades tīklu operatorkompānija “Gasgrid Finland”.\n\nPamatojoties uz provizoriskiem ekspertu novērtējumiem, var pieņemt, ka remonta darbu plānošana, nepieciešamā zemūdens aprīkojuma sagādāšana, remonts, kā arī saremontētā cauruļvada posma pārbaude un nodošana ekspluatācijā ilgs vismaz piecus mēnešus, teikts “Gasgrid Finland” paziņojumā.\n\nTajā norādīts, ka tādējādi agrākais iespējamais cauruļvada “Balticconnector” nodošanas ekspluatācijā termiņš būtu 2024.gada aprīļa sākums,.\n\nJau vēstīts, ka Igaunijas pārvades sistēmu operators “Elering” un “Gasgrid Finland” slēdza “Balticconnector” naktī uz svētdienu, jo tika novērota spiediena krišanās cauruļvadā, kas liecina par iespējamu gāzes noplūdi. Tāpat konstatēti bojājumi abas valstis savienojošajā komunikāciju kabelī.\n\nSaskaņā ar līdz šim pieejamo informāciju bojājums gāzesvadā “Balticconnector” nevarēja rasties tā normālas darbības rezultātā vai normāla spiediena krituma dēļ,\notrdien paziņoja Somijas premjerministrs Peteri Orpo.\n\nSomijas prezidents Sauli Nīniste sacīja, ka noplūdi, iespējams, izraisījis “ārējs” elements.\n\nArī Igaunijas ārlietu ministrs Marguss Tsahkna un aizsardzības ministrs Hanno Pevkurs otrdien paziņoja, ka bojājums ir mehānisks un cilvēka izraisīts.\n\nNoplūdes izmeklēšanu vada Somijas Centrālā kriminālpolicija, kas ir paziņojusi, ka cauruļvads ir bojāts tīši.\n\n“Balticconnector” starp Paldiskiem un Inko ir 77 kilometru garš. Ekspluatācijā to nodeva 2020.gada sākumā. Tā kā cauruļvads stiepjas cauri visam Somu līcim, intensīvā kuģu satiksme apgrūtina iespējamās noplūdes cēloņa izmeklēšanu, norādīja Somijas robežsardze.\n\n“Balticconnector” slēgšana neietekmē gāzes piegādes patērētājiem Igaunijā, jo gāzi Igaunija joprojām var saņemt no Latvijas.\nPirms slēgšanas gāze pa “Balticconnector” plūda no Somijas uz Igauniju. Lielākā daļa no Somijas saņemtās gāzes tika nogādāta Latvijā, kur Inčukalnā ir gāzes krātuve.\n\n“Balticconnector” starp Paldiskiem un Inko ir 77 kilometru garš. Ekspluatācijā gāzesvadu, kura būvniecība izmaksāja vairāk nekā 300 miljonus eiro, nodeva 2020.gada sākumā.\n'}
+2025-02-17 18:13:59,325 - INFO - Template content after formatting: ﻿Perform narrative detection on the article provided. The text is in a language specified as input.
+
+1. Named Entity Recognition:
+   - Identify entities such as actors, events, locations, and timelines that provide significant semantic insights into the narrative.
+   - The tags for the entities should be in English.
+   - The entities themselves should be in the language of the article.
+   - Assign a score to each entity found, reflecting its importance in the document.
+   - The entities should be ordered by their importance scores from highest to lowest.
+   - The total of all scores assigned to the entities should sum to one.
+   - Examples:
+Layer Output:
+Location: [Somija, Igaunija, Baltic-connector cauruļvads, Baltijas jūras krasts, Somijas Ekskluzīvā Ekonomiskā Zona, Eiropas Savienība, Apvienotā Karaliste, Izraēla, Tamāra, Vidusjūra, Nord Stream cauruļvads, Krievija]
+Actor: [Somijas premjerministrs, Petteri Orpo, BBC, Norsar, Somijas Nacionālais Izmeklēšanas Birojs (KRP), Jens Stoltenbergs, NATO, Hamās, Frenks Gārdners]
+Event: [Aizdomas par sabotāžu, Bojājumi Baltic-connector cauruļvadā, pēkšņs spiediena kritums, Noplūdes izmeklēšana, iespējams sprādziens, gāzes cenu pieaugums, Izraēlas Tamāras gāzes lauka slēgšana, Nord Stream cauruļvada sprādzieni]
+Timeline: [Svētdiena, Otrdiena, Šī gada aprīlis, 01:20 svētdien (22:20 GMT sestdienā), 2022. gada septembris, mēneši remontam, 2020. gads, Pagājušā gada maijs]
+Entities Ordered by Importance Score:
+1. Aizdomas par sabotāžu (Event): 0.06
+2. Bojājumi Baltic-connector cauruļvadā (Event): 0.05
+3. Somija (Location): 0.05
+4. Igaunija (Location): 0.05
+5. NATO (Actor): 0.05
+6. Somijas premjerministrs (Actor): 0.05
+7. Nord Stream cauruļvada sprādzieni (Event): 0.05
+8. Petteri Orpo (Actor): 0.04
+9. Eiropas Savienība (Location): 0.04
+10. Vidusjūra (Location): 0.04
+11. Nord Stream cauruļvads (Location): 0.04
+12. Šī gada aprīlis (Timeline): 0.04
+13. Pēkšņs spiediena kritums (Event): 0.04
+14. Noplūdes izmeklēšana (Event): 0.04
+15. Iespējams sprādziens (Event): 0.04
+16. Gāzes cenu pieaugums (Event): 0.04
+17. Izraēlas Tamāras gāzes lauka slēgšana (Event): 0.04
+18. Baltic-connector cauruļvads (Location): 0.04
+19. BBC (Actor): 0.03
+20. Somijas Nacionālais Izmeklēšanas Birojs (KRP) (Actor): 0.03
+21. Jens Stoltenbergs (Actor): 0.03
+22. Hamās (Actor): 0.03
+23. Frenks Gārdners (Actor): 0.03
+24. Baltijas jūras krasts (Location): 0.03
+25. Apvienotā Karaliste (Location): 0.03
+26. Krievija (Location): 0.03
+27. Svētdiena (Timeline): 0.03
+28. Otrdiena (Timeline): 0.03
+29. 01:20 svētdien (22:20 GMT sestdienā) (Timeline): 0.03
+30. Mēneši remontam (Timeline): 0.03
+31. 2020. gads (Timeline): 0.03
+32. Pagājušā gada maijs (Timeline): 0.03
+33. Norsar (Actor): 0.02
+34. Izraēla (Location): 0.02
+35. Tamāra (Location): 0.02
+36. Somijas Ekskluzīvā Ekonomiskā Zona (Location): 0.02
+
+2. Relationship Extraction:
+   - Extract binary semantic relationships between the entities identified in the Named Entity Recognition layer.
+   - The names of the relationships should be in English.
+   - The entities involved in the relationships should be in the language of the article.
+   - Examples:
+Layer Output:
+is detained [Latvijas-Baltkrievijas robežā, 100 cilvēki]
+attempts to cross [Latvijas-Baltkrievijas robeža, vairākas nelegālo imigrantu grupas]
+is prevented by [robežsardze, nelegālie imigranti]
+claims asylum in [Rietumeiropa, daudzi indivīdi]
+
+3. Plot Discovery:
+   - Identify the main components of the plot using Freytag's Pyramid, which includes the following stages:
+     - Exposition
+     - Rising Action
+     - Climax
+     - Falling Action
+     - Resolution
+   - Whenever possible, use entities identified in the Named Entity Recognition layer to describe the plot components.
+   - The stage names should be in English.
+   - The content within each stage should be in the language of the article.
+   - Examples:
+Layer Output:
+Exposition: [Nelegālie imigranti] mēģina šķērsot [Latvijas-Baltkrievijas robežu], un [robežsardze] ik dienu aiztur apmēram [100 cilvēkus].
+Rising Action: Spriedze pieaug, jo vairākas [nelegālo imigrantu] grupas atkārtoti mēģina šķērsot [Latvijas-Baltkrievijas robežu], kā rezultātā tiek pastiprinātas patruļas.
+Climax: Pie [Latvijas-Baltkrievijas robežas] notiek liela konfrontācija starp [robežsardzi] un lielu [nelegālo imigrantu] grupu, kā rezultātā notiek daudzas aizturēšanas.
+Falling Action: Pēc konfrontācijas pie [Latvijas-Baltkrievijas robežas] drošības pasākumi tiek pastiprināti un tiek izvietotas papildu patruļas.
+Resolution: [Latvijas valdība] paziņo par jaunām politikas iniciatīvām, lai risinātu situāciju pie [Latvijas-Baltkrievijas robežas], un mēģinājumi šķērsot robežu sāk samazināties.
+
+4. Story Evolution:
+   - This layer should include two components:
+     - Shift Detection: Recognize significant changes or deviations in the narrative.
+     - Causal Relation Extraction: Identify the reasons behind each significant event or decision in the story.
+   - Whenever possible, use entities identified in the Named Entity Recognition layer for these components.
+   - Examples:
+Layer Output:
+Shift Detection: Nozīmīgas izmaiņas stāstījumā notiek, kad [Latvijas premjerministrs] apsola uzstādīt [novērošanas ierīces] gar visu [austrumu robežu].
+Causal Relation Extraction: [Premjerministra] solījums uzstādīt [novērošanas ierīces] tiek dots, reaģējot uz pieaugošo [nelegālo robežšķērsošanas mēģinājumu] skaitu pie [Latvijas-Baltkrievijas robežas], lai uzlabotu drošību un kontroli.
+
+
+   
+
+Language of the article: {language}
+Article: {text}
+
+2025-02-17 18:13:59,326 - INFO - Processing file: LA_LV .txt
+2025-02-17 18:13:59,326 - INFO - Input data: {'language': 'Latvian', 'text': 'Sabotāža? Lai gan Somijas un Igaunijas gāzesvads slēgts, Latvijas apgāde nav apdraudēta \n\n21:04, 11. oktobris 2023\n\nLai gan Somijas un Igaunijas gāzesvads “Balticconnector” patlaban ir slēgts, Latvijas apgāde nav apdraudēta, aģentūrai LETA norādīja ārlietu ministrs Krišjānis Kariņš (JV).\n\nĀrlietu ministrs sacīja, ka viņš ir runājis gan ar Somijas, gan ar Igaunijas kolēģiem. Kariņa ieskatā, patlaban ir pāragri nonākt pie skaidra secinājuma, kas noticis, taču izmeklēšana turpinās.\n\n“Nodarītie bojājumi zemūdens gāzesvadā “Balticconnector” tiek izmeklēti kā iespējams sabotāžas mēģinājums. Šis nav gadījums, kad būtu saplīsusi kāda blīve,” sacīja ārlietu ministrs.\nViņa ieskatā, ir jāsagaida izmeklēšanas rezultāti, lai varētu secināt, kā tas notika. Kariņš sacīja, ka Inčukalna pazemes gāzes krātuvē rezerves ir labas, tāpēc Latvijas piegādes nekādā veidā nav apdraudētas. Ārlietu ministrs pat uzsvēra, ka Latvija jau piegādā gāzi Igaunijai.\n\n“Latvijai paliek gāzes piegādes iespējas caur Lietuvu un Klaipēdas gāzes termināli. Jāpiebilst, ka uzņēmums “Latvenergo” ir panācis vienošanos. “Latvenergo” ir daudzu gadu tiesības importēt gāzi caur šo termināli,” skaidroja Kariņš.\n\nĀrlietu ministrs uzsvēra, ka notiekošais Somijā un Igaunijā nekādā veidā neapdraud Latvijas patērētājus un Latvijas tirgu. Pēc Kariņa paustā,\n\nja Somijas un Igaunijas gāzesvada darbība sabotēta, tas nozīmē, ka Baltijas jūras reģionā būs pastiprināti jāuzrauga visa zemūdens infrastruktūra.\nMinistrs atzīmēja, ka zem Baltijas jūras ir ne tikai gāzes vadi, bet arī elektrovadi un sakaru vadi.\n\nPēc Kariņa paustā, ja gāzesvads “Balticconnector”, iespējams, bija sabotāžas mērķis, jāseko līdzi, lai tas nevarētu iet plašumā. Latvija ir daļa no Eiropas Savienības un NATO, ārlietu ministra ieskatā, sabiedrotajām demokrātijām ir jāsadarbojas un vēl ciešāk jākāpina sadarbība, lai rūpētos par mūsu infrastruktūras drošību. Tas palīdzēs sekmēt drošību sabiedrībām kopumā.\n\nLETA jau rakstīja,\n\nlai salabotu Somiju un Igauniju savienojošā zemūdens gāzesvada “Balticconnector” bojāto posmu, būs nepieciešami vismaz pieci mēneši, līdz ar to gāzesvads varētu atsākt darboties ne agrāk kā nākamā gada aprīlī,\ntrešdien paziņoja Somijas gāzes pārvades tīklu operatorkompānija “Gasgrid Finland”.\n\nPamatojoties uz provizoriskiem ekspertu novērtējumiem, var pieņemt, ka remonta darbu plānošana, nepieciešamā zemūdens aprīkojuma sagādāšana, remonts, kā arī saremontētā cauruļvada posma pārbaude un nodošana ekspluatācijā ilgs vismaz piecus mēnešus, teikts “Gasgrid Finland” paziņojumā.\n\nTajā norādīts, ka tādējādi agrākais iespējamais cauruļvada “Balticconnector” nodošanas ekspluatācijā termiņš būtu 2024.gada aprīļa sākums,.\n\nJau vēstīts, ka Igaunijas pārvades sistēmu operators “Elering” un “Gasgrid Finland” slēdza “Balticconnector” naktī uz svētdienu, jo tika novērota spiediena krišanās cauruļvadā, kas liecina par iespējamu gāzes noplūdi. Tāpat konstatēti bojājumi abas valstis savienojošajā komunikāciju kabelī.\n\nSaskaņā ar līdz šim pieejamo informāciju bojājums gāzesvadā “Balticconnector” nevarēja rasties tā normālas darbības rezultātā vai normāla spiediena krituma dēļ,\notrdien paziņoja Somijas premjerministrs Peteri Orpo.\n\nSomijas prezidents Sauli Nīniste sacīja, ka noplūdi, iespējams, izraisījis “ārējs” elements.\n\nArī Igaunijas ārlietu ministrs Marguss Tsahkna un aizsardzības ministrs Hanno Pevkurs otrdien paziņoja, ka bojājums ir mehānisks un cilvēka izraisīts.\n\nNoplūdes izmeklēšanu vada Somijas Centrālā kriminālpolicija, kas ir paziņojusi, ka cauruļvads ir bojāts tīši.\n\n“Balticconnector” starp Paldiskiem un Inko ir 77 kilometru garš. Ekspluatācijā to nodeva 2020.gada sākumā. Tā kā cauruļvads stiepjas cauri visam Somu līcim, intensīvā kuģu satiksme apgrūtina iespējamās noplūdes cēloņa izmeklēšanu, norādīja Somijas robežsardze.\n\n“Balticconnector” slēgšana neietekmē gāzes piegādes patērētājiem Igaunijā, jo gāzi Igaunija joprojām var saņemt no Latvijas.\nPirms slēgšanas gāze pa “Balticconnector” plūda no Somijas uz Igauniju. Lielākā daļa no Somijas saņemtās gāzes tika nogādāta Latvijā, kur Inčukalnā ir gāzes krātuve.\n\n“Balticconnector” starp Paldiskiem un Inko ir 77 kilometru garš. Ekspluatācijā gāzesvadu, kura būvniecība izmaksāja vairāk nekā 300 miljonus eiro, nodeva 2020.gada sākumā.\n'}
+2025-02-17 18:14:50,340 - INFO - HTTP Request: POST https://tu-openai-api-management.azure-api.net/ltat-tartunlp/openai/deployments/gec/chat/completions?api-version=2023-05-15 "HTTP/1.1 200 OK"
+2025-02-17 18:14:50,346 - INFO - Output for file LA_LV .txt: 1. Named Entity Recognition:
+Location: [Somija, Igaunija, Balticconnector, Latvija, Lietuva, Klaipēdas gāzes termināls, Baltijas jūra, Eiropas Savienība, NATO, Inčukalna pazemes gāzes krātuve, Paldiski, Inko, Somu līcis]
+Actor: [ārlietu ministrs Krišjānis Kariņš, Latvenergo, Gasgrid Finland, Somijas premjerministrs Peteri Orpo, Somijas prezidents Sauli Nīniste, Igaunijas ārlietu ministrs Marguss Tsahkna, aizsardzības ministrs Hanno Pevkurs, Somijas Centrālā kriminālpolicija, Somijas robežsardze]
+Event: [Bojājumi Balticconnector, Izmeklēšana, Sabotāžas mēģinājums, Gāzes noplūde, Gāzes piegāde]
+Timeline: [11. oktobris 2023, naktī uz svētdienu, 2024.gada aprīļa sākums, 2020.gada sākumā]
+Entities Ordered by Importance Score:
+1. Balticconnector (Location): 0.08
+2. Bojājumi Balticconnector (Event): 0.08
+3. Somija (Location): 0.07
+4. Igaunija (Location): 0.07
+5. Latvija (Location): 0.06
+6. Izmeklēšana (Event): 0.06
+7. Sabotāžas mēģinājums (Event): 0.06
+8. Gāzes noplūde (Event): 0.05
+9. Gāzes piegāde (Event): 0.05
+10. ārlietu ministrs Krišjānis Kariņš (Actor): 0.04
+11. Latvenergo (Actor): 0.04
+12. Gasgrid Finland (Actor): 0.04
+13. Somijas premjerministrs Peteri Orpo (Actor): 0.04
+14. Lietuva (Location): 0.03
+15. Klaipēdas gāzes termināls (Location): 0.03
+16. Baltijas jūra (Location): 0.03
+17. Eiropas Savienība (Location): 0.03
+18. NATO (Location): 0.03
+19. Inčukalna pazemes gāzes krātuve (Location): 0.03
+20. Paldiski (Location): 0.03
+21. Inko (Location): 0.03
+22. Somu līcis (Location): 0.03
+23. Somijas prezidents Sauli Nīniste (Actor): 0.03
+24. Igaunijas ārlietu ministrs Marguss Tsahkna (Actor): 0.03
+25. aizsardzības ministrs Hanno Pevkurs (Actor): 0.03
+26. Somijas Centrālā kriminālpolicija (Actor): 0.02
+27. Somijas robežsardze (Actor): 0.02
+28. 11. oktobris 2023 (Timeline): 0.02
+29. naktī uz svētdienu (Timeline): 0.02
+30. 2024.gada aprīļa sākums (Timeline): 0.02
+31. 2020.gada sākumā (Timeline): 0.02
+
+2. Relationship Extraction:
+is closed [Balticconnector, Somija un Igaunija]
+is not threatened [Latvijas apgāde, Balticconnector slēgšanās]
+is investigated as [Nodarītie bojājumi zemūdens gāzesvadā “Balticconnector”, iespējams sabotāžas mēģinājums]
+is supplying [Latvija, gāze Igaunijai]
+
+3. Plot Discovery:
+Exposition: Somijas un Igaunijas gāzesvads “Balticconnector” tiek slēgts, bet [Latvijas apgāde] nav apdraudēta.
+Rising Action: Notiek izmeklēšana par iespējamo sabotāžu, kas varētu būt izraisījusi bojājumus gāzesvadā “Balticconnector”.
+Climax: Atklājās, ka bojājums gāzesvadā nevarēja rasties tā normālas darbības rezultātā vai normāla spiediena krituma dēļ, kas liek domāt par sabotāžu.
+Falling Action: Pēc atklājumiem, tiek uzsākta remonta darbu plānošana un nepieciešamā zemūdens aprīkojuma sagādāšana.
+Resolution: Pēc pieciem mēnešiem remonta, gāzesvads “Balticconnector” varētu atsākt darboties, atjaunojot gāzes piegādi starp Somiju un Igauniju.
+
+4. Story Evolution:
+Shift Detection: Stāstījuma nozīmīgas izmaiņas notiek, kad izmeklēšana atklāj, ka bojājumi gāzesvadā “Balticconnector” ir cilvēka izraisīti, nevis normālas darbības rezultātā.
+Causal Relation Extraction: Izmeklēšanas sākšana ir reakcija uz bojājumiem gāzesvadā “Balticconnector”, kas izraisa aizdomas par iespējamu sabotāžu.
+2025-02-17 18:14:50,364 - INFO - Processing file: TVNET.txt
+2025-02-17 18:14:50,364 - INFO - Input data: {'language': 'Latvian', 'text': 'Baltijas jūrā bojāts Igaunijas - Zviedrijas sakaru kabelis\n2023. gada 17. oktobris 17:58\nBojāts sakaru kabelis starp Zviedriju un Igauniju Baltijas jūrā, otrdien paziņojis Zviedrijas aizsardzības ministrs Pols Jonsons, vēsta Igaunijas laikraksts "Postimees".\n\nZviedrijas rīcībā ir informācija, kas liecina, ka bojāts komunikāciju kabelis, kas savieno abas valstis, taču šā incidenta cēlonis nav skaidrs, īpaši sasauktā preses konferencē Stokholmā sacīja Jonsons.\n\nViņš teica, ka bojājuma vieta nav Zviedrijas teritoriālajos ūdeņos, un ka kabelis joprioām ir izmantojams.\nPēc ministra sacītā, kabelis starp Zviedriju un Igauniju bojāts apmēram tajā pašā laikā, kad tika bojāts gāzesvads "Balticconnector" un sakaru kabelis, kas savieno Igauniju un Somiju, kas tika sabojāti 8.oktobrī. Junsons arī pauda solidaritāti ar Somiju un Igauniju.\n\nPēc Igaunijas Ekonomikas un komunikāciju ministrijas sniegtajām ziņām, bojājuma vieta atrodas Igaunijas teritoriālajos ūdeņos aptuveni 50 kilometru attālumā no Hījumā salas Zviedrijas virzienā.\n\nPirmdien ministrija un Igaunijas Patērētāju aizsardzības un tehniskā regulējuma pārvalde saņēma informāciju, ka Somu līcī pārraides jauda sakaru kabelim starp Igauniju un Zviedriju ir samazinājusies, pavēstīja ministrija.\n\nKabelis pieder Zviedrijas uzņēmumam, kas dažu dienu laikā atjaunoja kabeļa maksimālo pārraides jaudu, un sakaru nepārtrauktību tas nav ietekmējis. Sākotnējā informācija liecina, ka nav iemesla Igaunijas un Zviedrijas kabeļa bojājumu saistīt ar citiem kabeļiem, norādīja ministrija.\n\n"Līdzīgi nelieli bojājumi šim kabelim bijuši arī agrāk. Kāda iemesla dēļ samazinājās kabeļa pārraides jauda, pagaidām nav zināms. Kabeļa īpašnieks veic tā remontu, un šī procesa laikā sadarbībā ar Somiju un Zviedriju tiks izpētīts iespējamais iemesls, kā arī tas, vai tas varētu būt saistīts ar Igaunijas-Somijas sakaru kabeļa un gāzesvada bojājumiem," sacīts ministrijas paziņojumā.\n\nMinistrija piebilda, ka Igaunijas - Zviedrijas un Igaunijas - Somijas zemūdens sakaru kabeļu bojājumi nav ietekmējuši Igaunijas sakaru pakalpojumu darbību. Sakari ir nepārtraukti nodrošināti, jo Igaunijai ir vairāki savienojumi, un bojājumu gadījumā ir iespējams izmantot vai nu alternatīvi funkcionējošus zemūdens kabeļus, vai sauszemes kabeļus ar Latviju.\n\n"Pagājušās nedēļas incidenti parāda kritiskās zemūdens infrastruktūras neaizsargātību un nepieciešamību risināt šo jautājumu. Valdība ir devusi skaidrus norādījumus ministrijām un plāno un jau ir īstenojusi papildu pasākumus, lai pastiprinātu kritiskās infrastruktūras uzraudzību un aizsardzību gan jūrā, gan uz sauszemes. Uzraudzības un aizsardzības līmeņa paaugstināšanai ir nepieciešama nozīmīga sadarbība ar mūsu kolēģiem no Somijas un Zviedrijas, ar kuriem kopā mēs apsaimniekojam infrastruktūru jūrā, kā arī ar sabiedrotajiem Eiropas Savienībā un NATO, kuri arī ir piedāvājuši savu palīdzību," norādīja ministrija.'}
+2025-02-17 18:15:41,951 - INFO - HTTP Request: POST https://tu-openai-api-management.azure-api.net/ltat-tartunlp/openai/deployments/gec/chat/completions?api-version=2023-05-15 "HTTP/1.1 200 OK"
+2025-02-17 18:15:41,955 - INFO - Output for file TVNET.txt: 1. Named Entity Recognition:
+Location: [Baltijas jūra, Zviedrija, Igaunija, Stokholma, Igaunijas teritoriālie ūdeņi, Hījumā sala, Somu līcis, Latvija, Eiropas Savienība]
+Actor: [Zviedrijas aizsardzības ministrs Pols Jonsons, Igaunijas Ekonomikas un komunikāciju ministrija, Igaunijas Patērētāju aizsardzības un tehniskā regulējuma pārvalde, Zviedrijas uzņēmums, Igaunijas - Zviedrijas uzņēmums, Somija, NATO]
+Event: [Bojāts sakaru kabelis, cēloņa izpēte, kabeļa remonts, kritiskās infrastruktūras uzraudzības un aizsardzības paaugstināšana]
+Timeline: [2023. gada 17. oktobris 17:58, otrdiena, 8.oktobris, Pirmdien, dažu dienu laikā, pagājušā nedēļa]
+Entities Ordered by Importance Score:
+1. Bojāts sakaru kabelis (Event): 0.08
+2. Baltijas jūra (Location): 0.08
+3. Zviedrija (Location): 0.08
+4. Igaunija (Location): 0.08
+5. Zviedrijas aizsardzības ministrs Pols Jonsons (Actor): 0.08
+6. Igaunijas Ekonomikas un komunikāciju ministrija (Actor): 0.08
+7. cēloņa izpēte (Event): 0.08
+8. 2023. gada 17. oktobris 17:58 (Timeline): 0.08
+9. Stokholma (Location): 0.04
+10. Igaunijas teritoriālie ūdeņi (Location): 0.04
+11. Hījumā sala (Location): 0.04
+12. Somu līcis (Location): 0.04
+13. Latvija (Location): 0.04
+14. Eiropas Savienība (Location): 0.04
+15. Igaunijas Patērētāju aizsardzības un tehniskā regulējuma pārvalde (Actor): 0.04
+16. Zviedrijas uzņēmums (Actor): 0.04
+17. Igaunijas - Zviedrijas uzņēmums (Actor): 0.04
+18. Somija (Actor): 0.04
+19. NATO (Actor): 0.04
+20. kabeļa remonts (Event): 0.04
+21. kritiskās infrastruktūras uzraudzības un aizsardzības paaugstināšana (Event): 0.04
+22. otrdiena (Timeline): 0.04
+23. 8.oktobris (Timeline): 0.04
+24. Pirmdien (Timeline): 0.04
+25. dažu dienu laikā (Timeline): 0.04
+26. pagājušā nedēļa (Timeline): 0.04
+
+2. Relationship Extraction:
+Layer Output:
+is damaged [sakaru kabelis, Baltijas jūrā]
+is announced by [Bojāts sakaru kabelis, Zviedrijas aizsardzības ministrs Pols Jonsons]
+is located at [bojājuma vieta, Igaunijas teritoriālie ūdeņi]
+is owned by [Kabelis, Zviedrijas uzņēmums]
+is performed by [kabeļa remonts, Kabeļa īpašnieks]
+is increased by [Uzraudzības un aizsardzības līmeņa paaugstināšana, Valdība]
+
+3. Plot Discovery:
+Exposition: [Bojāts sakaru kabelis] starp [Zviedriju un Igauniju] Baltijas jūrā, kā to paziņo [Zviedrijas aizsardzības ministrs Pols Jonsons].
+Rising Action: [Igaunijas Ekonomikas un komunikāciju ministrija] saņem informāciju par bojājumu un sāk cēloņa izpēti.
+Climax: Atklājās, ka kabeļa bojājumi ir notikuši vienlaikus ar bojājumiem citos kabeļos un gāzesvados.
+Falling Action: [Kabeļa īpašnieks] veic kabeļa remontu un izpētīs iespējamo bojājumu cēloņus.
+Resolution: [Igaunijas Ekonomikas un komunikāciju ministrija] paziņo par nepieciešamību risināt kritiskās zemūdens infrastruktūras neaizsargātību un plāno pastiprināt kritiskās infrastruktūras uzraudzību un aizsardzību.
+
+4. Story Evolution:
+Shift Detection: Nozīmīga izmaiņa stāstā ir [Igaunijas Ekonomikas un komunikāciju ministrija] plānojums pastiprināt kritiskās infrastruktūras uzraudzību un aizsardzību.
+Causal Relation Extraction: Ministrijas lēmumu pastiprināt [kritiskās infrastruktūras uzraudzību un aizsardzību] izraisīja [sakaru kabeļa] bojājumi Baltijas jūrā, kas radīja jautājumus par infrastruktūras neaizsargātību.
+2025-02-17 18:15:41,977 - INFO - Processing file: Delfi.txt
+2025-02-17 18:15:41,977 - INFO - Input data: {'language': 'Latvian', 'text': 'Grūti spriest par \'Balticconnector\' bojājuma ietekmes ilgumu uz dabasgāzes tirgu, pauž ministrijā\n17.10.2023 164902\nŠobrīd dabasgāzes tirgus ir reaģējis uz ziņām par "Balticconnector" bojājumu, bet vai šī izmaiņa būs īslaicīga, kā tas nereti ir bijis, vai tomēr ilglaicīgāka, šobrīd vēl grūti spriest, sacīja Klimata un enerģētikas ministrija KEM.\n Pašreiz redzams, ka nelielas dabasgāzes cenas svārstības pēc "Balticconnector" gadījuma ir notikušas, taču šī gada 16. oktobrī tirgū bija redzamas ar pozitīvas pārmaiņas, dabasgāzes cenai Nīderlandes biržā "Title Transfer Facility" TTF) nokrītot līdz 48,47 eiro par megavatstundu MWh.\n Vienlaikus KEM norāda, ka 9. oktobrī Nīderlandes biržā TFF dabasgāzes cena bija 43,95 eiro par MWh, 10. oktobrī - 49,46 eiro par MWh, 11. oktobr - 46,07 eiro par MWh, 12. oktobr - 53,00 eiro par MWh, bet 13. oktobr - 54,00 eiro par MWh.\nSavukārt runājot par ietekmi uz siltumenerģijas tarifiem, KEM noradīja, ka siltumenerģijas komersanti apkures sezonai gatavojas laicīgi, izvērtējot kurināmā piegādes līgumu noslēgšanas brīdi un līguma darbības ilgumu. \nLīdz ar to ir daļa siltumenerģijas komersantu, kas slēdz līgumus par kurināmā iegādi uz vairākiem mēnešiem, lai kurināmā iegādes cenu nofiksētu ilgākam laikam. Ir tādi komersanti, kas slēdz kurināmā iegādes līgumus pa mēnešiem un seko dabasgāzes cenu tendencēm biržā.\n Attiecīgi pašlaik esošās dabasgāzes cenu svārstības biržā laikā no 9. oktobra līdz 16. oktobrim, ko izraisījis "Balticconnector" gadījums pāršķietami neatstāj ietekmi uz siltumenerģijas komersantiem, kuriem noslēgts ilgtermiņa piegādes līgums par fiksētu dabasgāzes cenu.\n Savukārt attiecībā uz siltumenerģijas komersantiem, kuriem dabasgāzes piegādes līgumi noslēgti par mainīgu cenu vai uz īsu termiņu, tūlītēja ietekme nav gaidāma, ņemot vērā, ka biržas cenu izmaiņas kurinām piegādes līgumos atspoguļojas ar zināmu laika nobīdi pēc pāris mēnešiem, tomēr šobrīd grūti prognozēt tā ietekmi uz visu apkures sezonu.\n Vienlaikus KEM atgādina, ka izskatīšanā Saeimā atrodas likumprojekts "Energoapgādes izmaksu atbalsta likums", kur mērķis ir sniegt atbalstu vidēji zemu un zemu ienākumu mājsaimniecībām energoapgādes izmaksu segšanai gadījumos, kad energoresursu cenas ir ārkārtēji augstas.\n Jau ziņots, ka Somiju un Igauniju savienojošais zemūdens gāzesvads 8. oktobrī slēgts, jo tajā konstatēts neierasts spiediena kritums, ko var tu būt izraisījusi gāzes noplūde, paziņojis Somijas gāzes sistēmu operators "Gasgrid" un Igaunijas operators "Elering".\n "Gasgrid" paziņoja, ka cēlonis vēl nav zināms, taču gāzes piegādes pagaidām ir stabilas. 77 kilometrs garais gāzesvads "Balticconnector", kas tika atklāts pirms vairāk nekā trim gadiem, pāri Somu jūras līcim savieno Paldisku un Inko termināļus. Spiediena kritumu gāzesvadā svētdien, 8. oktobrī īsi pirms plkst.2 pēc vietējā laika (plkst.1 pēc Latvijas laika) reģistrēja Somijas uzņēmums "Gasgrid" un Igaunijas gāzes pārvades sistēmas operators "Elering", paziņoja Somijas uzņēmums.'}
+2025-02-17 18:16:21,139 - INFO - HTTP Request: POST https://tu-openai-api-management.azure-api.net/ltat-tartunlp/openai/deployments/gec/chat/completions?api-version=2023-05-15 "HTTP/1.1 200 OK"
+2025-02-17 18:16:21,146 - INFO - Output for file Delfi.txt: 1. Named Entity Recognition:
+Location: [Somiju, Igauniju, Balticconnector, Nīderlandes biržā, Title Transfer Facility, Paldisku, Inko termināļus, Latvija]
+Actor: [Klimata un enerģētikas ministrija KEM, siltumenerģijas komersanti, Gasgrid, Elering]
+Event: [Balticconnector bojājums, dabasgāzes cenas svārstības, siltumenerģijas tarifiem, kurināmā iegādes līgumu, gāzes noplūde]
+Timeline: [šī gada 16. oktobris, 9. oktobris, 10. oktobris, 11. oktobris, 12. oktobris, 13. oktobris, 8. oktobris]
+Entities Ordered by Importance Score:
+1. Balticconnector bojājums (Event): 0.1
+2. Somiju (Location): 0.1
+3. Igauniju (Location): 0.1
+4. Klimata un enerģētikas ministrija KEM (Actor): 0.1
+5. dabasgāzes cenas svārstības (Event): 0.1
+6. siltumenerģijas tarifiem (Event): 0.08
+7. siltumenerģijas komersanti (Actor): 0.08
+8. kurināmā iegādes līgumu (Event): 0.08
+9. gāzes noplūde (Event): 0.08
+10. Gasgrid (Actor): 0.06
+11. Elering (Actor): 0.06
+12. Nīderlandes biržā (Location): 0.04
+13. Title Transfer Facility (Location): 0.04
+14. Paldisku (Location): 0.04
+15. Inko termināļus (Location): 0.04
+16. Latvija (Location): 0.04
+17. šī gada 16. oktobris (Timeline): 0.02
+18. 9. oktobris (Timeline): 0.02
+19. 10. oktobris (Timeline): 0.02
+20. 11. oktobris (Timeline): 0.02
+21. 12. oktobris (Timeline): 0.02
+22. 13. oktobris (Timeline): 0.02
+23. 8. oktobris (Timeline): 0.02
+
+2. Relationship Extraction:
+Layer Output:
+relates to [Balticconnector bojājums, dabasgāzes cenas svārstības]
+affected by [Balticconnector bojājums, siltumenerģijas tarifiem]
+signed by [siltumenerģijas komersanti, kurināmā iegādes līgumu]
+caused by [Balticconnector bojājums, gāzes noplūde]
+
+3. Plot Discovery:
+Layer Output:
+Exposition: "Balticconnector" bojājumu izraisa dabasgāzes cenas svārstības un siltumenerģijas tarifiem.
+Rising Action: Siltumenerģijas komersanti reaģē uz bojājumiem, noslēdzot kurināmā iegādes līgumus.
+Climax: 8. oktobrī gāzesvads "Balticconnector", kas savieno Somiju un Igauniju, tiek slēgts, jo tajā konstatēts neierasts spiediena kritums, ko var tu būt izraisījusi gāzes noplūde.
+Falling Action: "Gasgrid" un "Elering" paziņo, ka gāzes piegādes pagaidām ir stabilas, neskatoties uz bojājumiem.
+Resolution: Klimata un enerģētikas ministrija KEM analizē dabasgāzes cenu svārstības un būtiskās pārmaiņas tirgū.
+
+4. Story Evolution:
+Layer Output:
+Shift Detection: Nozīmīgas izmaiņas stāstījumā notiek, kad tiek slēgts "Balticconnector" gāzesvads, kas savieno Somiju un Igauniju.
+Causal Relation Extraction: "Balticconnector" gāzesvada slēgšana ir reakcija uz neierastu spiediena kritumu, ko var tu būt izraisījusi gāzes noplūde.
+2025-02-17 18:16:21,172 - INFO - Processing file: LSM.txt
+2025-02-17 18:16:21,172 - INFO - Input data: {'language': 'Latvian', 'text': 'Sākotnējā izmeklēšana: Igaunijas un Somijas sakaru kabeļa bojājums ir cilvēka radīts\n20. oktobris, 2023, 11:45\nSākotnējā pārbaude vietā, kur Baltijas jūrā bojāts sakaru kabelis starp Somiju un Igauniju, liecina, ka bojājums ir cilvēka radīts, secinājuši Igaunijas izmeklētāji, kas kopā ar Somijas un Igaunijas jūras spēku pārstāvjiem ir pabeiguši nepieciešamās procesuālās darbības izmeklēšanā par jūras dzelmē esošā kabeļa bojājumu.\nJau iepriekš kā galvenā versija tika izvirzīta cauruļvada iespējama sabotāža,\xa0ko tagad arī apstiprinājusi Igaunijas prokuratūra. Turpmāk tā veiks plašas pārbaudes, lai izskatītu visus iespējamos scenārijus kur varētu būt bijusi cilvēka līdzdarbība. Tiks arī pārbaudīta iespējamo citu valstu kuģu līdzdarbība cauruļvada bojāšanā.\n"Izmeklēšanas gaitā esam analizējuši to kuģu kustību, kas aptuvenajā notikuma brīdī bija šajos ūdeņos. Šobrīd esam identificējuši divus šādus kuģus – viens kuģo zem Krievijas karoga, bet otrs – zem Honkongas," sacīja Igaunijas valsts prokurore Trīnu Oleva.\xa0\nTurpmākajā izmeklēšanas gaitā tiks noskaidrots, vai sākotnējās aizdomas apstiprinās un vai bojājums radīts nolaidības vai cita iemesla dēļ.\nTāpat izmeklētāji pašlaik nevar apstiprināt, vai bojājums bijis apzināts, cita starpā mērķtiecīgs kritiskās infrastruktūras bojājums.\nTā kā sākotnējie pierādījumi no sakaru kabeļa starp Igauniju un Somiju ir savākti, tad ir iespējams sākt plānot kabeļa remontu. Gaidāms, ka remonta darbi sāksies nākamnedēļ.\nKriminālprocesa laikā izmeklētāji pārbaudīs arī Igaunijas un Zviedrijas sakaru kabeli, jo saskaņā ar sākotnējo informāciju arī tā bojājumus varētu būt izraisījusi cilvēka rīcība, tomēr tas ir jāpārbauda.\nIgaunijas–Zviedrijas un Igaunijas–Somijas zemūdens sakaru kabeļu bojājumi nav ietekmējuši Igaunijas sakaru pakalpojumu darbību.\nSakari ir nepārtraukti nodrošināti, jo Igaunijai ir deviņi dažādi savienojumi, un bojājumu gadījumā ir iespējams izmantot vai nu alternatīvi funkcionējošus zemūdens kabeļus, vai sauszemes kabeļus ar Latviju.\nOtrdien Zviedrijas aizsardzības ministrs Pols Junsons paziņoja, ka ir bojāts sakaru kabelis starp Zviedriju un Igauniju Baltijas jūrā.\nPēc ministra sacītā, kabelis starp Zviedriju un Igauniju bojāts apmēram tajā pašā laikā, kad tika bojāts gāzesvads "Balticconnector" un sakaru kabelis, kas savieno Igauniju un Somiju, kas tika sabojāti 8. oktobrī.\nCeturtdien savu izmeklēšanu "Balticconnector" pabeidza Somijas policijas ūdenslīdēji, kuri ir savākuši paraugus, kas nosūtīti uz laboratoriju, tomēr detalizēta informācija par izmeklēšanu netiek publiskota.\nNATO ceturtdien paziņoja, ka NATO un sabiedrotie nolēmuši pastiprināt patrulēšanu Baltijas jūrā pēc nesenajiem zemūdens infrastruktūras bojājumiem reģionā.\nPastiprinātie drošības pasākumi ietver papildu novērošanas un izlūkošanas lidojumus, tostarp ar jūras patruļlidmašīnām, NATO AWACS lidmašīnām un droniem. Uz šo reģionu nosūtīta arī četru NATO mīnu meklēšanas kuģu flote.\nBaltijas jūrā, kā arī Ziemeļjūrā ir blīvs infrastruktūras tīkls ar zemūdens gāzesvadiem, elektrības un sakaru kabeļiem.\nReģionam investējot aizvien jaunā infrastruktūrā, nākotnē šis tīkls kļūs tikai plašāks, un, pieaugot Rietumu atkarībai tieši no zemūdens infrastruktūras, tā kļūst arvien ievainojamāka.\nApzinoties jaunos draudus, Eiropas Savienības un NATO valstis stiprina zemūdens infrastruktūras aizsardzību, kurai iepriekš netika pievērsta tik liela uzmanība.\n'}
+2025-02-17 18:17:25,197 - INFO - HTTP Request: POST https://tu-openai-api-management.azure-api.net/ltat-tartunlp/openai/deployments/gec/chat/completions?api-version=2023-05-15 "HTTP/1.1 200 OK"
+2025-02-17 18:17:25,203 - INFO - Output for file LSM.txt: 1. Named Entity Recognition:
+   - Location: [Igaunija, Somija, Baltijas jūra, Krievija, Honkonga, Zviedrija, Latvija, Baltijas jūras reģionā, Ziemeļjūra, Rietumu]
+   - Actor: [Igaunijas izmeklētāji, Somijas un Igaunijas jūras spēki, Igaunijas prokuratūra, Trīnu Oleva, Zviedrijas aizsardzības ministrs Pols Junsons, Somijas policijas ūdenslīdēji, NATO, Eiropas Savienības valstis]
+   - Event: [sakaru kabeļa bojājums, iespējama sabotāža, izmeklēšanas darbības, remonta darbi, kriminālprocess, zemūdens infrastruktūras bojājumi, drošības pasākumi]
+   - Timeline: [20. oktobris, 2023, nākamnedēļ, 8. oktobris]
+   - Entities Ordered by Importance Score:
+     1. sakaru kabeļa bojājums (Event): 0.06
+     2. Igaunija (Location): 0.06
+     3. Somija (Location): 0.06
+     4. Igaunijas izmeklētāji (Actor): 0.06
+     5. iespējama sabotāža (Event): 0.05
+     6. izmeklēšanas darbības (Event): 0.05
+     7. remonta darbi (Event): 0.05
+     8. kriminālprocess (Event): 0.05
+     9. zemūdens infrastruktūras bojājumi (Event): 0.05
+     10. Somijas un Igaunijas jūras spēki (Actor): 0.04
+     11. Igaunijas prokuratūra (Actor): 0.04
+     12. Trīnu Oleva (Actor): 0.04
+     13. Zviedrijas aizsardzības ministrs Pols Junsons (Actor): 0.04
+     14. Somijas policijas ūdenslīdēji (Actor): 0.04
+     15. NATO (Actor): 0.04
+     16. Baltijas jūra (Location): 0.04
+     17. Krievija (Location): 0.04
+     18. Honkonga (Location): 0.04
+     19. Zviedrija (Location): 0.04
+     20. Latvija (Location): 0.04
+     21. Baltijas jūras reģionā (Location): 0.04
+     22. Ziemeļjūra (Location): 0.04
+     23. Rietumu (Location): 0.04
+     24. Eiropas Savienības valstis (Actor): 0.03
+     25. 20. oktobris, 2023 (Timeline): 0.03
+     26. nākamnedēļ (Timeline): 0.03
+     27. 8. oktobris (Timeline): 0.03
+     28. drošības pasākumi (Event): 0.03
+
+2. Relationship Extraction:
+   - is damaged by [sakaru kabelis starp Somiju un Igauniju, cilvēka rīcība]
+   - is investigated by [Igaunijas prokuratūra, sabotāža]
+   - is identified by [Igaunijas valsts prokurore Trīnu Oleva, kuģi]
+   - is planned [remonta darbi, kabeļa remonts]
+   - is announced by [Zviedrijas aizsardzības ministrs Pols Junsons, sakaru kabeļa bojājums]
+   - is intensified [drošības pasākumi, NATO un sabiedrotie]
+   - is sent [NATO mīnu meklēšanas kuģu flote, Baltijas jūras reģions]
+   - is strengthened [zemūdens infrastruktūras aizsardzība, Eiropas Savienības un NATO valstis]
+
+3. Plot Discovery:
+   - Exposition: Igaunijas izmeklētāji secina, ka sakaru kabelis starp Somiju un Igauniju ir bojāts cilvēka darbības rezultātā.
+   - Rising Action: Igaunijas prokuratūra apstiprina iespējamo sabotāžu un plāno veikt plašas pārbaudes, lai izskatītu visus iespējamos scenārijus un iespējamo citu valstu kuģu līdzdarbību.
+   - Climax: Izmeklētāji identificē divus kuģus, kas kuģo zem Krievijas un Honkongas karoga.
+   - Falling Action: Izplānoti kabeļa remonta darbi, bet turpinās izmeklēšanas darbības, lai noskaidrotu, vai sākotnējās aizdomas apstiprinās un vai bojājums radīts nolaidības vai cita iemesla dēļ.
+   - Resolution: NATO paziņo par drošības pasākumu pastiprināšanu Baltijas jūrā pēc nesenajiem zemūdens infrastruktūras bojājumiem reģionā. Eiropas Savienības un NATO valstis stiprina zemūdens infrastruktūras aizsardzību.
+
+4. Story Evolution:
+   - Shift Detection: Nozīmīga izmaiņa stāstā notiek, kad NATO paziņo par patrulēšanas pastiprināšanu Baltijas jūrā pēc nesenajiem zemūdens infrastruktūras bojājumiem reģionā, un Eiropas Savienības un NATO valstis stiprina zemūdens infrastruktūras aizsardzību.
+   - Causal Relation Extraction: NATO un Eiropas Savienības un NATO valstu lēmums pastiprināt drošības pasākumus un zemūdens infrastruktūras aizsardzību ir reakcija uz nesenajiem zemūdens infrastruktūras bojājumiem Baltijas jūras reģionā.

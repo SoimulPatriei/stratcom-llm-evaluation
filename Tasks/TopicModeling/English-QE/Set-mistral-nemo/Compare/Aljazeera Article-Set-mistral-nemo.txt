@@ -1,0 +1,71 @@
+[Topic] Assignment:
+
+[Topic] Suspected Sabotage 
+[Weight: 5]
+
+[Keywords]
+suspected sabotage of Finland-Estonia gas link = 5
+damage to the gas pipeline and data cables = 3
+investigation focused on the potential role of a Chinese ship = 3
+Chinese vessel was normal in the relevant waters at the time of the incident = 2
+no reason to believe the damage has been caused by an explosion = 2
+Estonian investigators looking into two ships concerning the incident = 2
+Russia’s Sevmorput = 1
+
+[Total Weight:] 21
+[Normalized Significance] 10.5
+
+---
+
+[Topic] International Cooperation 
+[Weight: 4]
+
+[Keywords]
+China and Finland have begun communication over the damage = 4
+cooperation with the Chinese authorities probing the case = 3
+Estonian Ministry of Foreign Affairs contacted Beijing = 3
+Chinese Foreign Ministry spokesperson Mao Ning's statement = 2
+NATO's involvement = 1
+
+[Total Weight:] 13
+[Normalized Significance] 6.5
+
+---
+
+[Topic] Energy Security 
+[Weight: 3]
+[Keywords]
+
+energy supplies in the wider Nordic region = 3
+energy security concerns in the EU = 3
+Baltic region is particularly vulnerable = 2
+Balticconnector’s original construction cost = 1
+
+[Total Weight:] 9
+[Normalized Significance] 4.5
+
+---
+
+[Topic] Critical Infrastructure Weakness 
+[Weight: 3]
+   
+[Keywords]
+gas pipeline and a telecoms cable were broken = 3
+disconnecting a crucial link between the Nordic and Baltic gas markets = 2
+security of cross-border infrastructure = 1
+
+[Total Weight:] 6
+[Normalized Significance] 3.0
+
+---
+
+[Topic] NATO Response 
+[Weight: 2]
+
+[Keywords]
+NATO has increased patrols in the Baltic Sea = 2
+minehunters, maritime patrol aircraft, and drones sent to the region = 1
+
+[Total Weight:] 3
+[Normalized Significance:] 1.5
+

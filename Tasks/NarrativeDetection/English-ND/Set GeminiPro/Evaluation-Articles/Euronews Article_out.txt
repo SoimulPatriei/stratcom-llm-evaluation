@@ -1,0 +1,111 @@
+## Narrative Analysis of "Finland investigating possible sabotage of Baltic gas pipeline to Estonia"
+
+**1. Named Entity Recognition:**
+
+**Location:**
+
+* Baltic Sea
+* Finland
+* Estonia
+* Helsinki
+* Tallinn
+* Europe
+* Eastern border
+
+**Actor:**
+
+* Finland's president, Sauli Niinistö
+* Gasgrid Finland
+* Estonia's Elering
+* NATO Secretary General, Jens Stoltenberg
+* System operators
+
+**Event:**
+
+* Leak in the Baltic Connector pipeline
+* Drop in pressure in the pipeline
+* Closure of the pipeline
+* Investigation of the leak
+* Possible sabotage
+* Damage to the pipeline and telecommunications cable
+* Sharing information with allies
+* Repairing the damage
+
+**Timeline:**
+
+* Sunday morning
+* Shortly before 02:00 EET
+* Tuesday afternoon
+* Several months
+
+**Entities Ordered by Importance Score:**
+
+1. Leak in the Baltic Connector pipeline (Event): 0.10
+2. Finland (Location): 0.08
+3. Estonia (Location): 0.08
+4. Baltic Sea (Location): 0.07
+5. Possible sabotage (Event): 0.07
+6. Gasgrid Finland (Actor): 0.06
+7. Estonia's Elering (Actor): 0.06
+8. Damage to the pipeline and telecommunications cable (Event): 0.06
+9. Investigation of the leak (Event): 0.05
+10. Sunday morning (Timeline): 0.05
+11. Shortly before 02:00 EET (Timeline): 0.05
+12. System operators (Actor): 0.04
+13. Drop in pressure in the pipeline (Event): 0.04
+14. Closure of the pipeline (Event): 0.04
+15. Sharing information with allies (Event): 0.04
+16. Repairing the damage (Event): 0.04
+17. Helsinki (Location): 0.03
+18. Tallinn (Location): 0.03
+19. Europe (Location): 0.03
+20. Eastern border (Location): 0.03
+21. Tuesday afternoon (Timeline): 0.03
+22. Several months (Timeline): 0.03
+23. Finland's president, Sauli Niinistö (Actor): 0.02
+24. NATO Secretary General, Jens Stoltenberg (Actor): 0.02
+
+**2. Relationship Extraction:**
+
+* **Leak in the Baltic Connector pipeline** is **investigated** by **Gasgrid Finland and Estonia's Elering**.
+* **Leak in the Baltic Connector pipeline** is **caused by** **possible sabotage**.
+* **Leak in the Baltic Connector pipeline** leads to **closure of the pipeline**.
+* **Leak in the Baltic Connector pipeline** causes **damage to the pipeline and telecommunications cable**.
+* **Finland's president, Sauli Niinistö** **shares information** with **NATO Secretary General, Jens Stoltenberg**.
+* **Repairing the damage** will take **several months**.
+
+**3. Plot Discovery:**
+
+**Exposition:**
+
+* The Baltic Connector pipeline, which supplies Finland with gas from Estonia, is closed due to a leak.
+* The cause of the leak is not yet clear, but authorities are investigating.
+
+**Rising Action:**
+
+* President Niinistö suggests the leak may be caused by "external activity."
+* NATO Secretary General, Jens Stoltenberg, is informed about the situation.
+
+**Climax:**
+
+* The investigation continues, and the possibility of sabotage is being considered.
+
+**Falling Action:**
+
+* Repairing the damage is expected to take several months.
+
+**Resolution:**
+
+* The investigation will continue to determine the cause of the leak and who is responsible.
+
+**4. Story Evolution:**
+
+**Shift Detection:**
+
+* President Niinistö's statement suggesting sabotage marks a significant shift in the narrative.
+
+**Causal Relation Extraction:**
+
+* The investigation into the leak is prompted by the discovery of the leak itself.
+* The consideration of sabotage as a cause is triggered by President Niinistö's statement.
+* The lengthy repair time is a consequence of the damage caused by the leak. 

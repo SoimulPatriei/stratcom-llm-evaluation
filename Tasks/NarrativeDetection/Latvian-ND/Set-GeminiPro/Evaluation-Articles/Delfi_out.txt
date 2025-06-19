@@ -1,0 +1,58 @@
+1. Named Entity Recognition:
+Location: [Balticconnector, Somija, Igaunija, Nīderlandes birža TTF (Title Transfer Facility), Somu jūras līcis, Paldisku, Inko, Saeima]
+Actor:[Klimata un enerģētikas ministrija (KEM), Gasgrid, Elering, siltumenerģijas komersanti]
+Event:[Energoapgādes izmaksu atbalsta likums, gāzes noplūde, spiediena kritums, dabasgāzes cenas svārstības, siltumenerģijas tarifi]
+Timeline:[8. oktobris, 9. oktobris, 10. oktobris, 11. oktobris, 12. oktobris, 13. oktobris, 16. oktobris, plkst.2 pēc vietējā laika (plkst.1 pēc Latvijas laika), apkures sezona, vairāki mēneši, pāris mēnešiem]
+Entities Ordered by Importance Score:
+1. Balticconnector (Location): 0.10
+2. Somija (Location): 0.08
+3. Igaunija (Location): 0.08
+4. Klimata un enerģētikas ministrija (KEM) (Actor): 0.07
+5. Nīderlandes birža TTF (Title Transfer Facility) (Location): 0.07
+6. 8. oktobris (Timeline): 0.06
+7. Gasgrid (Actor): 0.05
+8. Elering (Actor): 0.05
+9. Somu jūras līcis (Location): 0.05
+10. Paldisku (Location): 0.04
+11. Inko (Location): 0.04
+12. Saeima (Location): 0.04
+13. Energoapgādes izmaksu atbalsta likums (Event): 0.04
+14. gāzes noplūde (Event): 0.04
+15. spiediena kritums (Event): 0.04
+16. 9. oktobris (Timeline): 0.03
+17. 10. oktobris (Timeline): 0.03
+18. 11. oktobris (Timeline): 0.03
+19. 12. oktobris (Timeline): 0.03
+20. 13. oktobris (Timeline): 0.03
+21. 16. oktobris (Timeline): 0.03
+22. plkst.2 pēc vietējā laika (plkst.1 pēc Latvijas laika) (Timeline): 0.03
+23. dabasgāzes cenas svārstības (Event): 0.03
+24. siltumenerģijas tarifi (Event): 0.03
+25. siltumenerģijas komersanti (Actor): 0.03
+26. apkures sezona (Timeline): 0.02
+27. vairāki mēneši (Timeline): 0.01
+28. pāris mēnešiem (Timeline): 0.01
+
+2. Relationship Extraction:
+operates: [Gasgrid, Balticconnector]
+operates: [Elering, Balticconnector]
+connects: [Balticconnector, Somija]
+connects: [Balticconnector, Igaunija]
+locates in: [Balticconnector, Somu jūras līcis]
+connects: [Balticconnector, Paldisku]
+connects: [Balticconnector, Inko]
+reports: [KEM, dabasgāzes cenas svārstības]
+discusses: [KEM, siltumenerģijas tarifi]
+discusses: [Saeima, Energoapgādes izmaksu atbalsta likums]
+caused: [gāzes noplūde, spiediena kritums]
+
+3. Plot Discovery:
+Exposition:  Ziņas par bojājumu Balticconnector gāzesvadā rada neskaidrību par tā ietekmi uz dabasgāzes tirgu un siltumenerģijas tarifiem. Klimata un enerģētikas ministrija (KEM) analizē situāciju.
+Rising Action:  KEM ziņo par nelielām dabasgāzes cenu svārstībām Nīderlandes biržā TTF pēc Balticconnector incidenta. Tiek apspriesta ietekme uz siltumenerģijas komersantiem ar dažādiem līgumu veidiem.
+Climax:  Gasgrid un Elering ziņo par spiediena kritumu Balticconnector gāzesvadā 8. oktobrī, kas, iespējams, radies gāzes noplūdes dēļ.
+Falling Action:  Tiek ziņots, ka gāzes piegādes pagaidām ir stabilas. KEM skaidro, ka ietekme uz siltumenerģijas tarifiem būs atkarīga no līgumu veida un biržas cenu izmaiņām.
+Resolution:  Saeima izskata likumprojektu par energoapgādes izmaksu atbalstu mājsaimniecībām, kas varētu mazināt potenciālo negatīvo ietekmi.
+
+4. Story Evolution:
+Shift Detection: Nozīmīgākā stāstījuma maiņa notiek, kad tiek ziņots par spiediena kritumu un iespējamu gāzes noplūdi Balticconnector gāzesvadā.
+Causal Relation Extraction: Spiediena kritums Balticconnector gāzesvadā izraisīja dabasgāzes cenu svārstības un diskusijas par ietekmi uz siltumenerģijas tarifiem.  Šis incidents arī aktualizēja nepieciešamību pēc atbalsta mājsaimniecībām energoapgādes izmaksu segšanai, ko apliecina Saeimas izskatāmais likumprojekts.

@@ -1,0 +1,231 @@
+Topic: International Cooperation=2=4
+  Keywords Assigned by Human but Not by Machine:
+   Finland and Estonia=2
+   Sweden’s prime minister=2
+   working with the private sector=2
+
+  Keywords Assigned by Machine but Not by Human:
+   human-made damage=1
+   purposeful damage (Sweden cable)=1
+   international partners=3
+   intentional damage=2
+   poor seamanship=2
+   potential sabotage=1
+   motive=2
+   mechanical damage=1
+   NATO response=1
+   NATO involvement=3
+   Stoltenberg's statement=2
+   deliberate act=1
+   pressure drop=2
+   reliance on gas=2
+   EU involvement=3
+   united and determined response=3
+   external force=1
+   Sweden's cable damage=2
+   negligence=2
+   state actor involvement=1
+   cooperation with Chinese authorities=3
+   NBI statement=3
+   communication with NewNew Polar Bear=3
+   tracks on seabed=2
+   Finland's investigation=3
+   Investigation focus=2
+   Baltic Sea gas pipeline damage=1
+   Finnish Prime Minister's discussions=3
+
+
+Topic: NATO Response=5=2
+  Keywords Assigned by Human but Not by Machine:
+   The alliance launched a new centre for protecting undersea pipelines=2
+   transatlantic alliance has pledged a ‘united and determined response’=3
+   working with the private sector to protect undersea infrastructure=2
+   stepped up patrols in the Baltic=2
+   Investigators seeking, investigation was now focused=3
+
+  Keywords Assigned by Machine but Not by Human:
+   New center for protection=3
+   human-made damage=1
+   purposeful damage (Sweden cable)=1
+   intentional damage=2
+   April 2024 timeline=2
+   NATO patrols=3
+   poor seamanship=2
+   potential sabotage=1
+   motive=2
+   mechanical damage=1
+   deliberate act=1
+   pressure drop=2
+   United and determined response=3
+   reliance on gas=2
+   external force=1
+   negligence=2
+   Alliance involvement=3
+   state actor involvement=1
+   Investigation focus=2
+   Baltic Sea gas pipeline damage=1
+   Undersea infrastructure protection=3
+
+
+Topic: Economic and Financial Impact=2=3
+  Keywords Assigned by Human but Not by Machine:
+   It is unlikely to come on stream again until April 2024=2
+
+  Keywords Assigned by Machine but Not by Human:
+   human-made damage=1
+   purposeful damage (Sweden cable)=1
+   April 2024 timeline=2
+   disruption of gas markets=3
+   intentional damage=2
+   Multimillion-euro repair work=3
+   poor seamanship=2
+   potential sabotage=1
+   motive=2
+   mechanical damage=1
+   NATO response=1
+   who will pay=3
+   total cost estimation=3
+   financial burden=3
+   deliberate act=1
+   reliance on gas=2
+   EU's contribution=3
+   external force=1
+   investigation focus=2
+   negligence=2
+   state actor involvement=1
+   Pressure drop=2
+   Baltic Sea gas pipeline damage=1
+
+
+Topic: Suspected Sabotage=5=5
+  Keywords Assigned by Human but Not by Machine:
+   damage was caused by external force=3
+   ruptured three of the four Nord Stream pipelines=3
+   Pipeline damage was caused by sabotage=3
+   deliberate, motive, involvement of a state actor cannot be ruled out=2
+   Investigation was now focused on whether the damage was deliberate=3
+
+  Keywords Assigned by Machine but Not by Human:
+   human-made damage=3
+   purposeful damage (Sweden cable)=3
+   intentional damage=2
+   NewNew Polar Bear=2
+   poor seamanship=2
+   potential sabotage=3
+   NATO patrols=1
+   missing front anchor=2
+   motive=2
+   mechanical damage=3
+   NATO response=3
+   Stoltenberg's statement=1
+   deliberate act=3
+   pressure drop=1
+   reliance on gas=1
+   external force=3
+   deep drag marks=2
+   Sweden's cable damage=1
+   investigation focus=2
+   KRP statement=1
+   negligence=2
+   state actor involvement=3
+   NBI statement=1
+   undersea infrastructure vulnerability=1
+   tracks on seabed=1
+   Finland's investigation=1
+   April 2024=1
+   repair timeline=1
+   Chinese container vessel=2
+   Baltic Sea gas pipeline damage=3
+   anchor missing=2
+
+
+Topic: Environmental and Technical Challenges=3=2
+  Keywords Assigned by Human but Not by Machine:
+   tracks had been found on the seabed=2
+   Recovered a large ship’s anchor=2
+   lifted from the seabed using a navy crane=2
+   deep drag marks on both sides of fractured pipeline=2
+   take at least five months to repair the pipelines=1
+
+  Keywords Assigned by Machine but Not by Human:
+   human-made damage=1
+   purposeful damage (Sweden cable)=1
+   April 2024 timeline=2
+   intentional damage=2
+   poor seamanship=2
+   repair complexity=3
+   potential sabotage=1
+   motive=2
+   mechanical damage=3
+   NATO response=1
+   environmental impact assessment=3
+   technical investigation=3
+   deliberate act=1
+   Deep drag marks=3
+   external force=1
+   investigation focus=2
+   undersea infrastructure=2
+   negligence=2
+   state actor involvement=1
+   Pressure drop=2
+   Baltic Sea gas pipeline damage=1
+
+
+Topic: Infrastructure Vulnerability=5=5
+  Keywords Assigned by Human but Not by Machine:
+   damage to the Balticconnector pipeline and parallel Estlink cable=3
+   vulnerable, undersea critical infrastructure, Nord Stream pipelines=3
+   These types of undersea critical infrastructure are vulnerable=3
+   tracks had been found on seabed nearby=2
+
+  Keywords Assigned by Machine but Not by Human:
+   critical infrastructure=3
+   purposeful damage (Sweden cable)=2
+   intentional damage=2
+   poor seamanship=2
+   NewNew Polar Bear=1
+   motive=2
+   missing front anchor=1
+   Stoltenberg's statement=1
+   damage to cables and pipelines=3
+   deliberate act=2
+   reliance on gas=1
+   investigation focus=2
+   Mechanical damage=2
+   undersea infrastructure=3
+   state actor involvement=2
+   negligence=2
+   Chinese container vessel=1
+   Sweden's cable damage=1
+   human-made damage=2
+   vulnerability of undersea infrastructure=3
+   potential sabotage=2
+   NATO response=2
+   protection of undersea infrastructure=3
+   pressure drop=1
+   NATO's new center=3
+   deep drag marks=1
+   NBI statement=1
+   tracks on seabed=1
+   April 2024=3
+   repair timeline=3
+   Baltic Sea gas pipeline Estlink data cable=3
+   anchor missing=1
+
+
+Topics Assigned by Human but Not by Machine:
+Topic: Energy Security=4
+
+Topics Assigned by Machine but Not by Human:
+Topic: Global Diplomatic Engagement=2
+Topic: Allied Strategic Defence/Response=1
+Topic: Supply Chain Stability=1
+Topic: Covert Disruptions=1
+
+Statistics:
+Common Topics: 6
+Topics Assigned by Human: 7
+Topics Assigned by Machine: 10
+Common Keywords: 0
+Keywords Assigned by Human: 23
+Keywords Assigned by Machine: 156

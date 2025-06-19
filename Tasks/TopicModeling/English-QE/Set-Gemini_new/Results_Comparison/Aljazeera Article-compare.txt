@@ -1,0 +1,97 @@
+Topic: International Cooperation=3=2
+  Keywords Assigned by Human but Not by Machine:
+   China had always advocated that the international community strengthen cooperation=2
+   China has called for an “objective, fair and professional” investigation=3
+   cooperation in safeguarding infrastructure=2
+   jointly safeguard the security of cross-border infrastructure=2
+   China denies role=3
+   China and Finland have begun communication over the damage to the Balticconnector gas pipeline=3
+   Tallinn has contacted Beijing seeking “to encourage cooperation concerning the investigation”=2
+
+  Keywords Assigned by Machine but Not by Human:
+   Finnish Prime Minister initiated discussions with European Commission President=2
+   Cooperation with the Chinese authorities probing the case=3
+   International partners=2
+   NATO's involvement=1
+   Former president of Finland spoke with Chinese President Xi Jinping=3
+
+
+Topic: NATO Response=4=3
+  Keywords Assigned by Human but Not by Machine:
+   Latvian President Edgars Rinkevics said last week that NATO should close the Baltic Sea to ships if Russia were proven responsible=3
+   prompted NATO to increase patrols in the Baltic Sea=3
+   incident stoked concern about the security of energy supplies=2
+
+  Keywords Assigned by Machine but Not by Human:
+   NATO members Finland and Estonia=2
+   Minehunters, maritime patrol aircraft, and drones sent to the region=2
+   Detect suspicious movement near its critical undersea infrastructure=2
+   Finland joined NATO in April 2023=2
+   NATO has stepped up its patrols of the Baltic Sea=3
+
+
+Topic: Economic and Financial Impact=2=3
+  Keywords Assigned by Human but Not by Machine:
+   vulnerable energy supplies=3
+   impact on energy security=3
+   potential economic repercussions for energy markets=3
+   security of EU energy network=3
+
+  Keywords Assigned by Machine but Not by Human:
+   Total cost of the pipeline repair work, estimated at around 35 million euros ($38 million)=3
+   EU covered 75% of Balticconnector’s original construction cost=2
+   Disruption of gas markets=2
+   Multimillion-euro repair work=3
+   Who will pick up the bill=2
+
+
+Topic: Suspected Sabotage=4=5
+  Keywords Assigned by Human but Not by Machine:
+   they were looking into two ships concerning the incident=3
+   no abnormalities were found=3
+   it was studying how the NewNew Polar Bear container vessel might have been involved in the incident=2
+   investigation has confirmed that the damage has been caused by an external mechanical force=3
+   saw two telecom cables cut=3
+   may have been in any way connected to the Balticconnector pipeline incident=3
+   there is no reason to believe the damage has been caused by an explosion=3
+   potential role of a Chinese ship=3
+   heavy object was found near the pipeline damage=3
+   suspected sabotage of subsea gas pipeline=3
+
+  Keywords Assigned by Machine but Not by Human:
+   Failed to establish radio contact with Newnew Polar Bear’s captain=2
+   Human-made damage causing major drop in pressure=3
+   Anchor of the Hong Kong-flagged cargo vessel Newnew Polar Bear ship=3
+   Damage allegedly caused by the Chinese vessel=2
+   Baltic Sea gas pipeline damaged=3
+
+
+Topic: Infrastructure Vulnerability=4=4
+  Keywords Assigned by Human but Not by Machine:
+   Baltic region is particularly vulnerable=3
+   no reason to believe the damage has been caused by an explosion=2
+   limited number of energy links to the rest of the bloc=3
+   damage has been caused by an external mechanical force=2
+   gas pipeline and a telecoms cable were broken=3
+
+  Keywords Assigned by Machine but Not by Human:
+   Baltic Sea gas pipeline between NATO members Finland and Estonia=3
+   Several months' disruption=1
+   secure the area and detect suspicious movement near its critical undersea infrastructure=3
+   Telecom cables connecting Finland and Estonia, as well as Sweden and Estonia, were also damaged=3
+   Pipeline reopened this week after multimillion-euro repair work=3
+   Damage to the gas pipeline and data cables=2
+   Disconnecting a crucial link between the Nordic and Baltic gas markets=3
+
+
+Topics Assigned by Human but Not by Machine:
+Topic: Environmental and Technical Challenges=2
+Topic: Energy Security=4
+
+Statistics:
+Common Topics: 5
+Topics Assigned by Human: 7
+Topics Assigned by Machine: 5
+Common Keywords: 0
+Keywords Assigned by Human: 29
+Keywords Assigned by Machine: 27

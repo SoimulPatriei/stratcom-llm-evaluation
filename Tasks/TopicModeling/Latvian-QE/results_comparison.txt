@@ -1,0 +1,45 @@
+Statistics for Directory: GPT4.0
+  Files Processed: 4
+  Common Topics: 12
+  Topics Assigned by Human: 22
+  Topics Assigned by Machine: 26
+  Common Keywords: 2
+  Keywords Assigned by Human: 37
+  Keywords Assigned by Machine: 51
+
+Statistics for Directory: Mistral-large
+  Files Processed: 4
+  Common Topics: 15
+  Topics Assigned by Human: 22
+  Topics Assigned by Machine: 33
+  Common Keywords: 4
+  Keywords Assigned by Human: 46
+  Keywords Assigned by Machine: 68
+
+Statistics for Directory: Mistral-nemo
+  Files Processed: 4
+  Common Topics: 5
+  Topics Assigned by Human: 22
+  Topics Assigned by Machine: 17
+  Common Keywords: 0
+  Keywords Assigned by Human: 18
+  Keywords Assigned by Machine: 21
+
+Statistics for Directory: Llama-3.1
+  Files Processed: 4
+  Common Topics: 8
+  Topics Assigned by Human: 22
+  Topics Assigned by Machine: 20
+  Common Keywords: 0
+  Keywords Assigned by Human: 26
+  Keywords Assigned by Machine: 31
+
+Statistics for Directory: Gemini-pro
+  Files Processed: 4
+  Common Topics: 13
+  Topics Assigned by Human: 22
+  Topics Assigned by Machine: 38
+  Common Keywords: 0
+  Keywords Assigned by Human: 40
+  Keywords Assigned by Machine: 53
+

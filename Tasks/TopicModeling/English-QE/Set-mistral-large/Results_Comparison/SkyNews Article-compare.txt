@@ -1,0 +1,84 @@
+Topic: Suspected Sabotage=5=4
+  Common Keywords:
+   seabed trail leading to the point where the pipeline was broken=2=2
+
+  Keywords Assigned by Human but Not by Machine:
+   investigation involving the ship Newnew Polar Bear and a seabed trail=3
+   Chinese cargo vessel is believed to have caused damage=3
+   intentional or unintentional, focus of the next phase of the probe=3
+
+  Keywords Assigned by Machine but Not by Human:
+   Chinese ship's anchor caused damage=3
+   Newnew Polar Bear=3
+   Finnish navy retrieved an anchor=2
+   significant pressure drop in the pipeline=1
+   dislodged anchor=3
+
+
+Topic: Economic and Financial Impact=4=3
+  Keywords Assigned by Human but Not by Machine:
+   repairs are estimated to last until at least the end of April=2
+   essential link between Finland and European gas network=2
+   €300m Balticconnector pipeline=3
+
+  Keywords Assigned by Machine but Not by Human:
+   €300m Balticconnector gas pipeline=3
+   significant pressure drop in the pipeline=2
+   repairs estimated to last until at least the end of April=3
+   Newnew Polar Bear=2
+
+
+Topic: Infrastructure Vulnerability=5=5
+  Keywords Assigned by Human but Not by Machine:
+   48-mile pipeline linking the Finnish town of Inkoo and the Estonian port of Paldiski had suffered mechanical damage=3
+   displacement from its original position in the seabed=3
+   damaged at the same time as the pipeline=2
+
+  Keywords Assigned by Machine but Not by Human:
+   significant harm to the €300m Balticconnector gas pipeline=2
+   Finnish economic zone=3
+   repairs estimated to last until at least the end of April=1
+   Baltic Sea gas pipeline between Finland and Estonia=3
+   telecom cable damaged=3
+   Balticconnector gas pipeline=3
+   dislodged anchor from a Chinese cargo vessel=3
+
+
+Topic: International Cooperation=3=3
+  Keywords Assigned by Human but Not by Machine:
+   collaborating with Chinese authorities=2
+   Chinese foreign ministry=2
+   Beijing’s request for a fair and comprehensive investigation=2
+   multiple attempts to reach the ship's captain=2
+
+  Keywords Assigned by Machine but Not by Human:
+   Finnish investigators unable to establish contact=3
+   collaboration with Chinese authorities=3
+   Finnish authorities=2
+   Chinese foreign ministry reiterated Beijing's request=2
+
+
+Topic: NATO Response=0=2
+  Keywords Assigned by Machine but Not by Human:
+   Finnish navy retrieved an anchor=2
+   Finnish economic zone=1
+   Finnish authorities=2
+
+
+Topics Assigned by Human but Not by Machine:
+Topic: Energy Security=4
+Topic: Environmental and Technical Challenges=3
+
+Topics Assigned by Machine but Not by Human:
+Topic: Critical Infrastructure Weakness=3
+Topic: Covert Disruptions=2
+Topic: Supply Chain Stability=2
+Topic: Technological Resilience and Ecological Issues=1
+
+Statistics:
+Common Topics: 5
+Topics Assigned by Human: 7
+Topics Assigned by Machine: 9
+Common Keywords: 1
+Keywords Assigned by Human: 14
+Keywords Assigned by Machine: 24

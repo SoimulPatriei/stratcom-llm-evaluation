@@ -1,0 +1,90 @@
+[Topic] Suspected Sabotage  
+[Weight] 5  
+
+[Keywords]  
+Chinese cargo vessel is believed to have caused damage = 3  
+investigation involving the ship Newnew Polar Bear and a seabed trail = 3  
+intentional or unintentional, focus of the next phase of the probe = 3  
+seabed trail leading to the point where the pipeline was broken = 2  
+
+[Total Weight] 11  
+[Normalized Significance] 8.0  
+
+---
+
+[Topic] NATO Response  
+[Weight] 0  
+
+[Keywords]  
+N/A  
+
+[Total Weight] 0  
+[Normalized Significance] N/A  
+
+---
+
+[Topic] Infrastructure Vulnerability  
+[Weight] 5  
+
+[Keywords]  
+48-mile pipeline linking the Finnish town of Inkoo and the Estonian port of Paldiski had suffered mechanical damage = 3  
+displacement from its original position in the seabed = 3  
+damaged at the same time as the pipeline = 2  
+
+[Total Weight] 8  
+[Normalized Significance] 8.0  
+
+---
+
+[Topic] Energy Security  
+[Weight] 4  
+
+[Keywords]  
+mechanical damage within the Finnish economic zone, significant harm = 3  
+essential link between Finland and European gas network, Balticconnector pipeline = 3  
+repairs are estimated to last until at least the end of April = 2  
+significant harm to the 300m Balticconnector gas pipeline = 2  
+
+[Total Weight] 10  
+[Normalized Significance] 7.0  
+
+---
+
+[Topic] International Cooperation  
+[Weight] 3  
+
+[Keywords]  
+collaborating with Chinese authorities = 2  
+Chinese foreign ministry = 2  
+Beijing’s request for a fair and comprehensive investigation = 2  
+multiple attempts to reach the ship's captain = 2  
+
+[Total Weight] 8  
+[Normalized Significance] 6.0  
+
+---
+
+[Topic] Environmental and Technical Challenges  
+[Weight] 3  
+
+[Keywords]  
+1.5 to 4-meter-wide seabed trail = 2  
+indicate that it has been in contact with gas pipeline = 2  
+displacement from original position = 2  
+mechanical damage within the Finnish economic zone = 2  
+
+[Total Weight] 8  
+[Normalized Significance] 6.0  
+
+---
+
+[Topic] Economic and Financial Impact  
+[Weight] 4  
+
+[Keywords]  
+€300m Balticconnector pipeline = 3  
+essential link between Finland and European gas network = 2  
+repairs are estimated to last until at least the end of April = 2  
+
+[Total Weight] 7  
+[Normalized Significance] 7.0  

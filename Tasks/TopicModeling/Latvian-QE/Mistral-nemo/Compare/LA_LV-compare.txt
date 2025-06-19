@@ -1,0 +1,22 @@
+Topics Assigned by Human but Not by Machine:
+Topic: Natural gas infrastructure=5
+Topic: Security concerns=4
+Topic: Investigation=4
+Topic: Possible sabotage=3
+Topic: International cooperation=4
+Topic: Restoration=3
+
+Topics Assigned by Machine but Not by Human:
+Topic: Energy resources=2
+Topic: Security threat / State-sponsored disruption=5
+Topic: International cooperation / Investigation=3
+Topic: Geopolitical dynamics=1
+Topic: Infrastructure vulnerability / Weak points in public utilities=4
+
+Statistics:
+Common Topics: 0
+Topics Assigned by Human: 6
+Topics Assigned by Machine: 5
+Common Keywords: 0
+Keywords Assigned by Human: 0
+Keywords Assigned by Machine: 0

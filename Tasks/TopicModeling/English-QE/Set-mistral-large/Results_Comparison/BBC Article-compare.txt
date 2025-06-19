@@ -1,0 +1,127 @@
+Topic: Suspected Sabotage=5=4
+  Common Keywords:
+   Russian sabotage=3=3
+
+  Keywords Assigned by Human but Not by Machine:
+   deliberate, external activity=3
+   suspected sabotage=3
+   retribution for Finland joining NATO=2
+   caused by external activity=3
+   damage could not have been caused by normal use of the pipeline or pressure fluctuations=3
+
+  Keywords Assigned by Machine but Not by Human:
+   Baltic-connector pipeline damage=3
+   suspicion falls on Russian sabotage=2
+   external activity=3
+   seismological institute, Norsar=2
+   Finnish National Bureau of Investigation (KRP)=1
+   probable explosion=3
+
+
+Topic: Environmental and Technical Challenges=3=2
+  Keywords Assigned by Human but Not by Machine:
+   Damage was so serious=2
+   take months to repair=2
+   no indications that explosives had been used=1
+   seismic activity has already been ruled out=1
+
+  Keywords Assigned by Machine but Not by Human:
+   damage happened at two different spots=2
+   sudden drop in pressure=2
+   expected to take months to repair=3
+
+
+Topic: Economic and Financial Impact=3=3
+  Keywords Assigned by Human but Not by Machine:
+   pushed up European gas prices=2
+   pushed up European gas prices, UK prices jumped as much as 13.5%=2
+   UK prices=2
+   Nord Stream pipeline blasts=2
+
+  Keywords Assigned by Machine but Not by Human:
+   energy security=2
+   alternative sources of gas=2
+   UK prices jumped as much as 13.5%=3
+   expected to take months to repair=2
+   European gas prices pushed up=3
+
+
+Topic: Infrastructure Vulnerability=5=5
+  Keywords Assigned by Human but Not by Machine:
+   Telecoms cable was also damaged=2
+   so serious=3
+   Baltic-connector pipeline=3
+   two different spots in Finland’s Exclusive Economic Zone=3
+   Nord Stream pipeline blasts=3
+
+  Keywords Assigned by Machine but Not by Human:
+   Baltic-connector pipeline damage=3
+   energy security=2
+   telecoms cable damage=3
+   sudden drop in pressure=3
+   expected to take months to repair=3
+   Finland's only direct link to the wider European Union's gas network=2
+   damage happened at two different spots=3
+
+
+Topic: International Cooperation=3=3
+  Keywords Assigned by Human but Not by Machine:
+   Being investigated by both countries=2
+   investigated by both countries=2
+   support allies concerned=2
+   Stands ready to support Allies concerned=2
+   sharing information=2
+
+  Keywords Assigned by Machine but Not by Human:
+   Finland's prime minister said=2
+   NATO's involvement=2
+   investigation by both countries=3
+   international partners=1
+   cooperation with the Finnish authorities=3
+
+
+Topic: NATO Response=4=3
+  Keywords Assigned by Human but Not by Machine:
+   sharing information & stands ready to support Allies=2
+   retribution for Finland joining Nato=2
+   Nato=2
+   Nato military alliance=2
+   Jens Stoltenberg=2
+   support allies=2
+   sharing information=2
+
+  Keywords Assigned by Machine but Not by Human:
+   NATO military alliance=3
+   damage to the Baltic-connector pipeline=2
+   Nato sharing information & stands ready to support Allies=3
+   public statements from Helsinki=1
+   Finland and Estonia are members=2
+
+
+Topic: Energy Security=4=4
+  Common Keywords:
+   alternative sources of gas=2=3
+
+  Keywords Assigned by Human but Not by Machine:
+   pushed up European gas prices=2
+   energy security was not at risk=2
+   revived concerns about energy security=2
+   pipeline is Finland's only direct link to EU gas network=3
+
+  Keywords Assigned by Machine but Not by Human:
+   energy security=3
+   expected to take months to repair=2
+   Finland's only natural gas import channel=3
+   Nord Stream pipeline blasts=2
+
+
+Topics Assigned by Machine but Not by Human:
+Topic: Covert Disruptions=3
+
+Statistics:
+Common Topics: 7
+Topics Assigned by Human: 7
+Topics Assigned by Machine: 8
+Common Keywords: 2
+Keywords Assigned by Human: 36
+Keywords Assigned by Machine: 37

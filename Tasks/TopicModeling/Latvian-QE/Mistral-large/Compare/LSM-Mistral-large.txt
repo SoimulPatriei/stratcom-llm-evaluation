@@ -1,0 +1,137 @@
+[Topic] Infrastructure vulnerability  
+[Weight] 5  
+
+[Keywords]  
+sakaru kabelis starp Somiju un Igauniju = 3  
+bojājums ir cilvēks radīts = 3  
+sakaru pakalpojumu darbība = 2  
+zemūdens sakaru kabeļu bojājumi = 2  
+zemūdens infrastruktūras aizsardzība = 2  
+gāzesvads 'Balticconnector' = 1  
+
+[Total Weight] 13  
+[Normalized Significance] 6.5  
+
+---
+
+[Topic] Security concerns  
+[Weight] 4  
+
+[Keywords]  
+izmeklēšana par jūras dzelmes kabeļa bojājumu = 3  
+Igaunijas izmeklētāji = 2  
+Baltijas jūras sakaru kabeļa bojājums = 2  
+Igaunijas valsts prokurors = 1  
+citu valstu kuģu iesaiste = 1  
+
+[Total Weight] 9  
+[Normalized Significance] 4.5  
+
+---
+
+[Topic] Damage  
+[Weight] 5  
+
+[Keywords]  
+sakaru kabeļa bojājums = 3  
+cilvēka radīts bojājums = 3  
+Zviedrijas-Igaunijas kabeļa bojājums = 2  
+sakaru pakalpojumu traucējumi = 2  
+Somijas-Igaunijas kabeļa bojājums = 1  
+
+[Total Weight] 11  
+[Normalized Significance] 5.5  
+
+---
+
+[Topic] NATO action  
+[Weight] 4  
+
+[Keywords]  
+NATO un sabiedrotie nolēmuši pastiprināt patrulēšanu Baltijas jūrā = 3  
+pastiprinātie drošības pasākumi = 2  
+nosūtīta arī četru NATO mīnu meklēšanas kuģu flote = 1  
+zemūdens infrastruktūras bojājumiem reģionā = 1  
+
+[Total Weight] 7  
+[Normalized Significance] 3.5  
+
+---
+
+[Topic] Investigation  
+[Weight] 5  
+
+[Keywords]  
+sākotnējā izmeklēšana = 3  
+izmeklētāji pārbaudīs arī Igaunijas un Zviedrijas sakaru kabeli = 3  
+izmeklēšanas gaitā tiks noskaidrots, vai sākotnējās aizdomas apstiprinās = 2  
+izmeklēšanu 'Balticconnector' pabeidza Somijas policijas ūdenslīdēji = 1  
+izmeklēšanas par jūras dzelmē esošā kabeļa bojājumu = 1  
+
+[Total Weight] 10  
+[Normalized Significance] 5.0  
+
+---
+
+[Topic] Possible sabotage  
+[Weight] 4  
+
+[Keywords]  
+cauruļvada iespējama sabotāža = 3  
+bojājums radīts nolaidības vai cita iemesla dēļ = 2  
+bojājums bijis apzināts = 1  
+mērķtiecīgs kritiskās infrastruktūras bojājums = 1  
+
+[Total Weight] 7  
+[Normalized Significance] 3.5  
+
+---
+
+[Topic] Communication disruption  
+[Weight] 3  
+
+[Keywords]  
+sakaru kabelis starp Somiju un Igauniju = 2  
+bojājumi nav ietekmējuši Igaunijas sakaru pakalpojumu darbību = 2  
+zemūdens sakaru kabeļu bojājumi = 1  
+
+[Total Weight] 5  
+[Normalized Significance] 2.5  
+
+---
+
+[Topic] Geopolitical dynamics  
+[Weight] 3  
+
+[Keywords]  
+NATO un sabiedrotie nolēmuši pastiprināt patrulēšanu Baltijas jūrā = 2  
+zemūdens infrastruktūras aizsardzību = 2  
+sakaru kabelis starp Zviedriju un Igauniju = 1  
+
+[Total Weight] 5  
+[Normalized Significance] 2.5  
+
+---
+
+[Topic] International cooperation  
+[Weight] 3  
+
+[Keywords]  
+Igaunijas-Somijas sadarbība = 2  
+Zviedrijas iesaiste izmeklēšanā = 2  
+Eiropas un NATO infrastruktūras aizsardzība = 1  
+
+[Total Weight] 5  
+[Normalized Significance] 2.5  
+
+---
+
+[Topic] Energy resources  
+[Weight] 2  
+
+[Keywords]  
+gāzesvads 'Balticconnector' = 2  
+zemūdens gāzesvadiem = 1  
+
+[Total Weight] 3  
+[Normalized Significance] 1.5  

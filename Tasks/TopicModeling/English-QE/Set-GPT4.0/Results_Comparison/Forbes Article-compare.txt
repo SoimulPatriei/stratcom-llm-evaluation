@@ -1,0 +1,86 @@
+Topic: International Cooperation=5=3
+  Common Keywords:
+   Finland, Sweden and Estonia will pursue public relations campaign against Chinese shipping=3=2
+
+  Keywords Assigned by Human but Not by Machine:
+   difficulty with the Chinese previously=2
+   formally requested the opportunity to send representatives to China to investigate the Newnew Polar Bear=3
+
+  Keywords Assigned by Machine but Not by Human:
+   Estonia and Finland have formally requested the opportunity to send representatives to China to investigate=3
+   Finland and Estonia could restrict Chinese vessels from their territorial waters under UNCLOS=1
+   Sweden join the Alliance=2
+
+
+Topic: Suspected Sabotage=5=5
+  Keywords Assigned by Human but Not by Machine:
+   allegedly caused damage=3
+   prime suspect=3
+   investigation focus on Newnew Polar Bear, authorities confirmed=3
+   whether it was on purpose=3
+   possibly intentional=3
+   external force or tampering=3
+   Newnew Polar Bear focus of investigation=3
+   intentional damage difficult to dismiss=3
+   Chinese vessel dragged its anchor over 100 nautical miles=3
+
+  Keywords Assigned by Machine but Not by Human:
+   damaged an undersea natural gas pipeline and two telecommunications cables=3
+   damaged “by means of external force or tampering”=3
+   Vladmir Putin have rejected any assertion that Sevmorput was connected with the incidents=1
+   Estonian Defense Minister, Hanno Pevkur=2
+   Estonia and Finland have formally requested the opportunity to send representatives to China to investigate=2
+   Newnew Polar Bear is the prime suspect for the incident=3
+   Chinese vessel that drug its anchor over 100 nautical miles=3
+
+
+Topic: Infrastructure Vulnerability=5=4
+  Keywords Assigned by Human but Not by Machine:
+   100 nautical miles drag=3
+   damage to an undersea natural gas pipeline and two telecommunications cables took place=3
+   Owing to its geography, Finland in particular depends on the undersea communication and natural gas links=3
+   concern is that the Gulf of Finland represents a way that it can be cut off from the rest of NATO=2
+   disruptive activity=3
+
+  Keywords Assigned by Machine but Not by Human:
+   undersea natural gas pipeline and two telecommunications cables=3
+   The Gulf of Finland represents a way that it can be cut off from the rest of NATO=3
+   infrastructure under the Gulf’s waters will now connect one portion of NATO=1
+   Finland will pursue an Admiralty-claim under international maritime law for damages done to its infrastructure=2
+   Finland is in NATO, the concern is that the Gulf of Finland represents a way that it can be cut off from the rest of NATO=3
+
+
+Topic: NATO Response=3=2
+  Keywords Assigned by Human but Not by Machine:
+   NATO=3
+   The infrastructure under the Gulf’s waters will now connect one portion of NATO to what will soon be new NATO territories=3
+
+  Keywords Assigned by Machine but Not by Human:
+   NATO will likely issue statements on the matter pointing to adversarial treatment of its newest members by China and Russia=2
+   Finland and Sweden join the Alliance=3
+   gulf of Finland has become a “hot topic” within NATO=1
+
+
+Topic: Economic and Financial Impact=3=2
+  Keywords Assigned by Human but Not by Machine:
+   drawn-out process with China=2
+   Finland and Estonia could restrict Chinese vessels from their territorial waters under UNCLOS=2
+   endless appeals and a reticence to reach a settlement=2
+   Finland will pursue an Admiralty-claim under international maritime law for damages done to its infrastructure by the Newnew Polar Bear=2
+
+  Keywords Assigned by Machine but Not by Human:
+   pursue an Admiralty-claim under international maritime law for damages done to its infrastructure=3
+   shifting the ownership of the vessel to a new Chinese owner signals a very low probability that any wrongdoing will be acknowledged=2
+
+
+Topics Assigned by Human but Not by Machine:
+Topic: Energy Security=4
+Topic: Environmental and Technical Challenges=3
+
+Statistics:
+Common Topics: 5
+Topics Assigned by Human: 7
+Topics Assigned by Machine: 5
+Common Keywords: 1
+Keywords Assigned by Human: 23
+Keywords Assigned by Machine: 21

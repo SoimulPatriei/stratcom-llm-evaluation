@@ -1,0 +1,99 @@
+Topic: Infrastructure Vulnerability=5=5
+  Keywords Assigned by Human but Not by Machine:
+   damage to an undersea natural gas pipeline and two telecommunications cables took place=3
+   disruptive activity=3
+   Owing to its geography, Finland in particular depends on the undersea communication and natural gas links=3
+   100 nautical miles drag=3
+   concern is that the Gulf of Finland represents a way that it can be cut off from the rest of NATO=2
+
+  Keywords Assigned by Machine but Not by Human:
+   Undersea natural gas pipeline and telecom cables damaged=4
+   Damage to infrastructure within economic zones of Finland and Estonia=3
+   Impact on gas markets and communication links=2
+   Pipeline and cables crucial for connecting Nordic and Baltic markets=3
+   Extensive damage spanning over 100 nautical miles=3
+
+
+Topic: Economic and Financial Impact=3=3
+  Keywords Assigned by Human but Not by Machine:
+   Finland will pursue an Admiralty-claim under international maritime law for damages done to its infrastructure by the Newnew Polar Bear=2
+   endless appeals and a reticence to reach a settlement=2
+   Finland and Estonia could restrict Chinese vessels from their territorial waters under UNCLOS=2
+   drawn-out process with China=2
+
+  Keywords Assigned by Machine but Not by Human:
+   Impact on gas markets due to disrupted supply=2
+   Financial implications of alleged sabotage=2
+   Potential damages and costs associated with pipeline repair=3
+
+
+Topic: International Cooperation=5=3
+  Keywords Assigned by Human but Not by Machine:
+   Finland, Sweden and Estonia will pursue public relations campaign against Chinese shipping=3
+   difficulty with the Chinese previously=2
+   formally requested the opportunity to send representatives to China to investigate the Newnew Polar Bear=3
+
+  Keywords Assigned by Machine but Not by Human:
+   Cooperation between Finland, Estonia, Sweden, and China in investigation=3
+   Finland and Estonia requesting to send representatives to China=2
+   China's willingness to allow investigation on its territory=2
+
+
+Topic: NATO Response=3=2
+  Keywords Assigned by Human but Not by Machine:
+   NATO=3
+   The infrastructure under the Gulf’s waters will now connect one portion of NATO to what will soon be new NATO territories=3
+
+  Keywords Assigned by Machine but Not by Human:
+   Impact of incidents on NATO's strategic situation in the Baltic Sea=1
+   Potential NATO involvement in investigation=2
+   Finland's and Estonia's membership in NATO=2
+
+
+Topic: Environmental and Technical Challenges=3=2
+  Keywords Assigned by Human but Not by Machine:
+   dragged its anchor over 100 nautical miles=2
+   survey it=2
+   It’s not surprising that a Chinese ship would do this=2
+   AIS data [automatic identification system (AIS), an automatic satellite tracking system that uses transceivers on ships to track movements] for any ship=2
+   retrieved an anchor embedded in the seabed=2
+   We have mapped and filmed the seabed, have a very good overview of what happened=2
+
+  Keywords Assigned by Machine but Not by Human:
+   Underwater survey to determine the cause of damage=1
+   Shallow waters and flat bottom of Gulf of Finland making investigation easy=2
+
+
+Topic: Suspected Sabotage=5=5
+  Keywords Assigned by Human but Not by Machine:
+   prime suspect=3
+   Newnew Polar Bear focus of investigation=3
+   possibly intentional=3
+   whether it was on purpose=3
+   investigation focus on Newnew Polar Bear, authorities confirmed=3
+   Chinese vessel dragged its anchor over 100 nautical miles=3
+   intentional damage difficult to dismiss=3
+   external force or tampering=3
+   allegedly caused damage=3
+
+  Keywords Assigned by Machine but Not by Human:
+   Damage to pipeline and telecom cables caused by external force or tampering=3
+   Chinese-owned container ship, Newnew Polar Bear, allegedly caused damage=4
+   Suspicious behavior of Newnew Polar Bear's captain=2
+   Anchor of Newnew Polar Bear embedded in seabed next to damaged pipeline=3
+   Investigation focusing on Newnew Polar Bear=2
+
+
+Topics Assigned by Human but Not by Machine:
+Topic: Energy Security=4
+
+Topics Assigned by Machine but Not by Human:
+Topic: Covert Disruptions=2
+
+Statistics:
+Common Topics: 6
+Topics Assigned by Human: 7
+Topics Assigned by Machine: 7
+Common Keywords: 0
+Keywords Assigned by Human: 29
+Keywords Assigned by Machine: 21

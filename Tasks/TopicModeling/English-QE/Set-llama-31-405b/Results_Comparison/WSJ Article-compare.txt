@@ -1,0 +1,97 @@
+Topic: Environmental and Technical Challenges=3=2
+  Keywords Assigned by Human but Not by Machine:
+   seismic activity has already been ruled out=1
+   take months to repair=2
+   no indications that explosives had been used=1
+   Damage was so serious=2
+
+  Keywords Assigned by Machine but Not by Human:
+   Seismic monitoring system didn't detect any seismological events=1
+   Very little environmental damage to the surrounding Baltic Sea=2
+
+
+Topic: International Cooperation=4=2
+  Keywords Assigned by Human but Not by Machine:
+   sharing information=2
+   support allies concerned=2
+   investigated by both countries=2
+   Being investigated by both countries=2
+   Stands ready to support Allies concerned=2
+
+  Keywords Assigned by Machine but Not by Human:
+   Finnish and Estonian authorities investigating the incident=2
+   Cooperation with NATO and European Union=1
+
+
+Topic: Economic and Financial Impact=4=3
+  Keywords Assigned by Human but Not by Machine:
+   Nord Stream pipeline blasts=2
+   pushed up European gas prices=2
+   pushed up European gas prices, UK prices jumped as much as 13.5%=2
+   UK prices=2
+
+  Keywords Assigned by Machine but Not by Human:
+   Benchmark European gas futures contract rose 12%=3
+   Estonian gas consumers receiving gas from Latvia=1
+   Finnish gas supply secured through a floating liquefied natural-gas terminal=2
+
+
+Topic: Suspected Sabotage=5=5
+  Keywords Assigned by Human but Not by Machine:
+   damage could not have been caused by normal use of the pipeline or pressure fluctuations=3
+   caused by external activity=3
+   deliberate, external activity=3
+   Russian sabotage=3
+   retribution for Finland joining NATO=2
+   suspected sabotage=3
+
+  Keywords Assigned by Machine but Not by Human:
+   Damage to the Balticconnector pipeline and communications cable=3
+   Fault in a communication cable between Finland and Estonia=2
+   External activity likely caused the damage=3
+   Unusual drop in pressure shortly before 2 a.m. on Sunday=1
+   Leak in the 48-mile offshore section of the pipeline=2
+
+
+Topic: NATO Response=5=3
+  Keywords Assigned by Human but Not by Machine:
+   Nato military alliance=2
+   sharing information=2
+   support allies=2
+   Jens Stoltenberg=2
+   sharing information & stands ready to support Allies=2
+   retribution for Finland joining Nato=2
+   Nato=2
+
+  Keywords Assigned by Machine but Not by Human:
+   NATO ally Poland as an operating base=1
+   NATO stands ready to support concerned member states=2
+   NATO Secretary-General Jens Stoltenberg sharing information=3
+
+
+Topic: Infrastructure Vulnerability=5=5
+  Keywords Assigned by Human but Not by Machine:
+   Telecoms cable was also damaged=2
+   Nord Stream pipeline blasts=3
+   Baltic-connector pipeline=3
+   so serious=3
+   two different spots in Finland’s Exclusive Economic Zone=3
+
+  Keywords Assigned by Machine but Not by Human:
+   Damage to the underwater infrastructure=2
+   Sophisticated attack on Germany's rail network=2
+   Mysterious power outage in Denmark=1
+   Vulnerability of Europe's infrastructure to physical attacks=3
+   Balticconnector pipeline closure=3
+
+
+Topics Assigned by Human but Not by Machine:
+Topic: Energy Security=5
+
+Statistics:
+Common Topics: 6
+Topics Assigned by Human: 7
+Topics Assigned by Machine: 6
+Common Keywords: 0
+Keywords Assigned by Human: 31
+Keywords Assigned by Machine: 20

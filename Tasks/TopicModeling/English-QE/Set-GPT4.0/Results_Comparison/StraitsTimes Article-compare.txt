@@ -1,0 +1,75 @@
+Topic: Energy Security=4=4
+  Keywords Assigned by Human but Not by Machine:
+   natural gas accounts for around 5 per cent of Finland's energy consumption=2
+   Balticconnector pipeline incident, it would take at least five months to repair=3
+   Finland dependent on liquefied natural gas imports=2
+
+  Keywords Assigned by Machine but Not by Human:
+   major supply route to Europe from Russia=3
+   cutting off a major supply route=2
+   dependent on liquefied natural gas imports for the winter=3
+   Natural gas accounts for around 5 per cent of Finland’s energy consumption=3
+
+
+Topic: Suspected Sabotage=5=3
+  Common Keywords:
+   damaged by a Chinese vessel=3=3
+
+  Keywords Assigned by Human but Not by Machine:
+   incident came just over a year after underwater explosions=2
+   sabotage remains unknown=2
+   findings suggested it belonged to the Chinese cargo ship=3
+   anchor believed to have damaged, Finnish authorities believe it was damaged by a Chinese vessel=3
+   anchor believed to have damaged the Balticconnector pipeline=3
+
+  Keywords Assigned by Machine but Not by Human:
+   underwater explosions struck three of four Nord Stream gas pipelines=2
+   Chinese cargo ship Newnew Polar Bear=2
+   The cause of that sabotage remains unknown=2
+   Balticconnector pipeline incident=3
+
+
+Topic: International Cooperation=5=4
+  Keywords Assigned by Human but Not by Machine:
+   China’s role in achieving a just and lasting peace=3
+   China was cooperating in the investigation=3
+   Presidents’ video-link meeting=2
+   constructive dialogue=3
+   constructive dialogue over a Baltic Sea gas pipeline=3
+
+  Keywords Assigned by Machine but Not by Human:
+   constructive dialogue between the countries=3
+   China was cooperating in its investigation=3
+   stressed the role of China in achieving a just and lasting peace=2
+
+
+Topic: Infrastructure Vulnerability=5=2
+  Keywords Assigned by Human but Not by Machine:
+   Damaged the Balticconnector pipeline=3
+   damaged by a Chinese vessel=2
+   repair the pipeline=2
+   Underwater explosions struck three of four Nord Stream gas pipelines=2
+   underwater explosions=2
+   heightened tensions between Moscow and the West over the war in Ukraine=2
+
+  Keywords Assigned by Machine but Not by Human:
+   underwater explosions struck three of four Nord Stream gas pipelines=2
+   damaged the Balticconnector pipeline=3
+   it would take at least five months to repair the pipeline=2
+
+
+Topics Assigned by Human but Not by Machine:
+Topic: Environmental and Technical Challenges=3
+Topic: Economic and Financial Impact=2
+Topic: NATO Response=3
+
+Topics Assigned by Machine but Not by Human:
+Topic: Global Diplomatic Engagement=5
+
+Statistics:
+Common Topics: 4
+Topics Assigned by Human: 7
+Topics Assigned by Machine: 5
+Common Keywords: 1
+Keywords Assigned by Human: 20
+Keywords Assigned by Machine: 15

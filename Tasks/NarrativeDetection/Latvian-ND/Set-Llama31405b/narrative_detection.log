@@ -1,0 +1,339 @@
+2025-03-11 23:24:27,424 - INFO - Template content after formatting: \ufeffPerform narrative detection on the article provided. The text is in a language specified as input.
+
+1. Named Entity Recognition:
+   - Identify entities such as actors, events, locations, and timelines that provide significant semantic insights into the narrative.
+   - The tags for the entities should be in English.
+   - The entities themselves should be in the language of the article.
+   - Assign a score to each entity found, reflecting its importance in the document.
+   - The entities should be ordered by their importance scores from highest to lowest.
+   - The total of all scores assigned to the entities should sum to one.
+   - Examples:
+Layer Output:
+Location: [Somija, Igaunija, Baltic-connector cauru\u013cvads, Baltijas j\u016bras krasts, Somijas Ekskluz\u012bv\u0101 Ekonomisk\u0101 Zona, Eiropas Savien\u012bba, Apvienot\u0101 Karaliste, Izra\u0113la, Tam\u0101ra, Vidusj\u016bra, Nord Stream cauru\u013cvads, Krievija]
+Actor: [Somijas premjerministrs, Petteri Orpo, BBC, Norsar, Somijas Nacion\u0101lais Izmekl\u0113šanas Birojs (KRP), Jens Stoltenbergs, NATO, Ham\u0101s, Frenks G\u0101rdners]
+Event: [Aizdomas par sabot\u0101žu, Boj\u0101jumi Baltic-connector cauru\u013cvad\u0101, p\u0113kš\u0146s spiediena kritums, Nopl\u016bdes izmekl\u0113šana, iesp\u0113jams spr\u0101dziens, g\u0101zes cenu pieaugums, Izra\u0113las Tam\u0101ras g\u0101zes lauka sl\u0113gšana, Nord Stream cauru\u013cvada spr\u0101dzieni]
+Timeline: [Sv\u0113tdiena, Otrdiena, Š\u012b gada apr\u012blis, 01:20 sv\u0113tdien (22:20 GMT sestdien\u0101), 2022. gada septembris, m\u0113neši remontam, 2020. gads, Pag\u0101juš\u0101 gada maijs]
+Entities Ordered by Importance Score:
+1. Aizdomas par sabot\u0101žu (Event): 0.06
+2. Boj\u0101jumi Baltic-connector cauru\u013cvad\u0101 (Event): 0.05
+3. Somija (Location): 0.05
+4. Igaunija (Location): 0.05
+5. NATO (Actor): 0.05
+6. Somijas premjerministrs (Actor): 0.05
+7. Nord Stream cauru\u013cvada spr\u0101dzieni (Event): 0.05
+8. Petteri Orpo (Actor): 0.04
+9. Eiropas Savien\u012bba (Location): 0.04
+10. Vidusj\u016bra (Location): 0.04
+11. Nord Stream cauru\u013cvads (Location): 0.04
+12. Š\u012b gada apr\u012blis (Timeline): 0.04
+13. P\u0113kš\u0146s spiediena kritums (Event): 0.04
+14. Nopl\u016bdes izmekl\u0113šana (Event): 0.04
+15. Iesp\u0113jams spr\u0101dziens (Event): 0.04
+16. G\u0101zes cenu pieaugums (Event): 0.04
+17. Izra\u0113las Tam\u0101ras g\u0101zes lauka sl\u0113gšana (Event): 0.04
+18. Baltic-connector cauru\u013cvads (Location): 0.04
+19. BBC (Actor): 0.03
+20. Somijas Nacion\u0101lais Izmekl\u0113šanas Birojs (KRP) (Actor): 0.03
+21. Jens Stoltenbergs (Actor): 0.03
+22. Ham\u0101s (Actor): 0.03
+23. Frenks G\u0101rdners (Actor): 0.03
+24. Baltijas j\u016bras krasts (Location): 0.03
+25. Apvienot\u0101 Karaliste (Location): 0.03
+26. Krievija (Location): 0.03
+27. Sv\u0113tdiena (Timeline): 0.03
+28. Otrdiena (Timeline): 0.03
+29. 01:20 sv\u0113tdien (22:20 GMT sestdien\u0101) (Timeline): 0.03
+30. M\u0113neši remontam (Timeline): 0.03
+31. 2020. gads (Timeline): 0.03
+32. Pag\u0101juš\u0101 gada maijs (Timeline): 0.03
+33. Norsar (Actor): 0.02
+34. Izra\u0113la (Location): 0.02
+35. Tam\u0101ra (Location): 0.02
+36. Somijas Ekskluz\u012bv\u0101 Ekonomisk\u0101 Zona (Location): 0.02
+
+2. Relationship Extraction:
+   - Extract binary semantic relationships between the entities identified in the Named Entity Recognition layer.
+   - The names of the relationships should be in English.
+   - The entities involved in the relationships should be in the language of the article.
+   - Examples:
+Layer Output:
+is detained [Latvijas-Baltkrievijas robež\u0101, 100 cilv\u0113ki]
+attempts to cross [Latvijas-Baltkrievijas robeža, vair\u0101kas neleg\u0101lo imigrantu grupas]
+is prevented by [robežsardze, neleg\u0101lie imigranti]
+claims asylum in [Rietumeiropa, daudzi indiv\u012bdi]
+
+3. Plot Discovery:
+   - Identify the main components of the plot using Freytag's Pyramid, which includes the following stages:
+     - Exposition
+     - Rising Action
+     - Climax
+     - Falling Action
+     - Resolution
+   - Whenever possible, use entities identified in the Named Entity Recognition layer to describe the plot components.
+   - The stage names should be in English.
+   - The content within each stage should be in the language of the article.
+   - Examples:
+Layer Output:
+Exposition: [Neleg\u0101lie imigranti] m\u0113\u0123ina š\u0137\u0113rsot [Latvijas-Baltkrievijas robežu], un [robežsardze] ik dienu aiztur apm\u0113ram [100 cilv\u0113kus].
+Rising Action: Spriedze pieaug, jo vair\u0101kas [neleg\u0101lo imigrantu] grupas atk\u0101rtoti m\u0113\u0123ina š\u0137\u0113rsot [Latvijas-Baltkrievijas robežu], k\u0101 rezult\u0101t\u0101 tiek pastiprin\u0101tas patru\u013cas.
+Climax: Pie [Latvijas-Baltkrievijas robežas] notiek liela konfront\u0101cija starp [robežsardzi] un lielu [neleg\u0101lo imigrantu] grupu, k\u0101 rezult\u0101t\u0101 notiek daudzas aiztur\u0113šanas.
+Falling Action: P\u0113c konfront\u0101cijas pie [Latvijas-Baltkrievijas robežas] droš\u012bbas pas\u0101kumi tiek pastiprin\u0101ti un tiek izvietotas papildu patru\u013cas.
+Resolution: [Latvijas vald\u012bba] pazi\u0146o par jaun\u0101m politikas iniciat\u012bv\u0101m, lai risin\u0101tu situ\u0101ciju pie [Latvijas-Baltkrievijas robežas], un m\u0113\u0123in\u0101jumi š\u0137\u0113rsot robežu s\u0101k samazin\u0101ties.
+
+4. Story Evolution:
+   - This layer should include two components:
+     - Shift Detection: Recognize significant changes or deviations in the narrative.
+     - Causal Relation Extraction: Identify the reasons behind each significant event or decision in the story.
+   - Whenever possible, use entities identified in the Named Entity Recognition layer for these components.
+   - Examples:
+Layer Output:
+Shift Detection: Noz\u012bm\u012bgas izmai\u0146as st\u0101st\u012bjum\u0101 notiek, kad [Latvijas premjerministrs] apsola uzst\u0101d\u012bt [nov\u0113rošanas ier\u012bces] gar visu [austrumu robežu].
+Causal Relation Extraction: [Premjerministra] sol\u012bjums uzst\u0101d\u012bt [nov\u0113rošanas ier\u012bces] tiek dots, rea\u0123\u0113jot uz pieaugošo [neleg\u0101lo robežš\u0137\u0113rsošanas m\u0113\u0123in\u0101jumu] skaitu pie [Latvijas-Baltkrievijas robežas], lai uzlabotu droš\u012bbu un kontroli.
+
+
+   
+
+Language of the article: {language}
+Article: {text}
+
+2025-03-11 23:24:27,426 - INFO - Processing file: Delfi.txt
+2025-03-11 23:24:27,426 - INFO - Input data: {'language': 'Latvian', 'text': 'Gr\u016bti spriest par \'Balticconnector\' boj\u0101juma ietekmes ilgumu uz dabasg\u0101zes tirgu, pauž ministrij\u0101\n17.10.2023 164902\nŠobr\u012bd dabasg\u0101zes tirgus ir rea\u0123\u0113jis uz zi\u0146\u0101m par "Balticconnector" boj\u0101jumu, bet vai š\u012b izmai\u0146a b\u016bs \u012bslaic\u012bga, k\u0101 tas nereti ir bijis, vai tom\u0113r ilglaic\u012bg\u0101ka, šobr\u012bd v\u0113l gr\u016bti spriest, sac\u012bja Klimata un ener\u0123\u0113tikas ministrija KEM.\n Pašreiz redzams, ka nelielas dabasg\u0101zes cenas sv\u0101rst\u012bbas p\u0113c "Balticconnector" gad\u012bjuma ir notikušas, ta\u010du š\u012b gada 16. oktobr\u012b tirg\u016b bija redzamas ar pozit\u012bvas p\u0101rmai\u0146as, dabasg\u0101zes cenai N\u012bderlandes birž\u0101 "Title Transfer Facility" TTF) nokr\u012btot l\u012bdz 48,47 eiro par megavatstundu MWh.\n Vienlaikus KEM nor\u0101da, ka 9. oktobr\u012b N\u012bderlandes birž\u0101 TFF dabasg\u0101zes cena bija 43,95 eiro par MWh, 10. oktobr\u012b - 49,46 eiro par MWh, 11. oktobr - 46,07 eiro par MWh, 12. oktobr - 53,00 eiro par MWh, bet 13. oktobr - 54,00 eiro par MWh.\nSavuk\u0101rt run\u0101jot par ietekmi uz siltumener\u0123ijas tarifiem, KEM norad\u012bja, ka siltumener\u0123ijas komersanti apkures sezonai gatavojas laic\u012bgi, izv\u0113rt\u0113jot kurin\u0101m\u0101 pieg\u0101des l\u012bgumu nosl\u0113gšanas br\u012bdi un l\u012bguma darb\u012bbas ilgumu. \nL\u012bdz ar to ir da\u013ca siltumener\u0123ijas komersantu, kas sl\u0113dz l\u012bgumus par kurin\u0101m\u0101 ieg\u0101di uz vair\u0101kiem m\u0113nešiem, lai kurin\u0101m\u0101 ieg\u0101des cenu nofiks\u0113tu ilg\u0101kam laikam. Ir t\u0101di komersanti, kas sl\u0113dz kurin\u0101m\u0101 ieg\u0101des l\u012bgumus pa m\u0113nešiem un seko dabasg\u0101zes cenu tendenc\u0113m birž\u0101.\n Attiec\u012bgi pašlaik esoš\u0101s dabasg\u0101zes cenu sv\u0101rst\u012bbas birž\u0101 laik\u0101 no 9. oktobra l\u012bdz 16. oktobrim, ko izrais\u012bjis "Balticconnector" gad\u012bjums p\u0101rš\u0137ietami neatst\u0101j ietekmi uz siltumener\u0123ijas komersantiem, kuriem nosl\u0113gts ilgtermi\u0146a pieg\u0101des l\u012bgums par fiks\u0113tu dabasg\u0101zes cenu.\n Savuk\u0101rt attiec\u012bb\u0101 uz siltumener\u0123ijas komersantiem, kuriem dabasg\u0101zes pieg\u0101des l\u012bgumi nosl\u0113gti par main\u012bgu cenu vai uz \u012bsu termi\u0146u, t\u016bl\u012bt\u0113ja ietekme nav gaid\u0101ma, \u0146emot v\u0113r\u0101, ka biržas cenu izmai\u0146as kurin\u0101m pieg\u0101des l\u012bgumos atspogu\u013cojas ar zin\u0101mu laika nob\u012bdi p\u0113c p\u0101ris m\u0113nešiem, tom\u0113r šobr\u012bd gr\u016bti prognoz\u0113t t\u0101 ietekmi uz visu apkures sezonu.\n Vienlaikus KEM atg\u0101dina, ka izskat\u012bšan\u0101 Saeim\u0101 atrodas likumprojekts "Energoapg\u0101des izmaksu atbalsta likums", kur m\u0113r\u0137is ir sniegt atbalstu vid\u0113ji zemu un zemu ien\u0101kumu m\u0101jsaimniec\u012bb\u0101m energoapg\u0101des izmaksu segšanai gad\u012bjumos, kad energoresursu cenas ir \u0101rk\u0101rt\u0113ji augstas.\n Jau zi\u0146ots, ka Somiju un Igauniju savienojošais zem\u016bdens g\u0101zesvads 8. oktobr\u012b sl\u0113gts, jo taj\u0101 konstat\u0113ts neierasts spiediena kritums, ko var tu b\u016bt izrais\u012bjusi g\u0101zes nopl\u016bde, pazi\u0146ojis Somijas g\u0101zes sist\u0113mu operators "Gasgrid" un Igaunijas operators "Elering".\n "Gasgrid" pazi\u0146oja, ka c\u0113lonis v\u0113l nav zin\u0101ms, ta\u010du g\u0101zes pieg\u0101des pagaid\u0101m ir stabilas. 77 kilometrs garais g\u0101zesvads "Balticconnector", kas tika atkl\u0101ts pirms vair\u0101k nek\u0101 trim gadiem, p\u0101ri Somu j\u016bras l\u012bcim savieno Paldisku un Inko termin\u0101\u013cus. Spiediena kritumu g\u0101zesvad\u0101 sv\u0113tdien, 8. oktobr\u012b \u012bsi pirms plkst.2 p\u0113c viet\u0113j\u0101 laika (plkst.1 p\u0113c Latvijas laika) re\u0123istr\u0113ja Somijas uz\u0146\u0113mums "Gasgrid" un Igaunijas g\u0101zes p\u0101rvades sist\u0113mas operators "Elering", pazi\u0146oja Somijas uz\u0146\u0113mums.'}
+2025-03-11 23:24:28,850 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-11 23:26:34,435 - INFO - Output for file Delfi.txt: I'll perform the narrative detection on the article provided.
+
+**Named Entity Recognition (NER)**
+
+Here are the entities extracted from the article:
+
+1. Location:
+	* Somija (0.06)
+	* Igaunija (0.05)
+	* Balticconnector (0.05)
+	* N\u012bderlande (0.04)
+	* Latvija (0.03)
+	* Somu j\u016bras l\u012bcis (0.03)
+	* Paldisku (0.02)
+	* Inko (0.02)
+2. Actor:
+	* Klimata un ener\u0123\u0113tikas ministrija (KEM) (0.06)
+	* Somijas g\u0101zes sist\u0113mu operators "Gasgrid" (0.05)
+	* Igaunijas operators "Elering" (0.04)
+3. Event:
+	* "Balticconnector" boj\u0101jums (0.06)
+	* G\u0101zes nopl\u016bde (0.05)
+	* Spiediena kritums (0.04)
+4. Timeline:
+	* 8. oktobris (0.05)
+	* 9. oktobris (0.04)
+	* 16. oktobris (0.04)
+
+**Relationship Extraction**
+
+Here are the binary semantic relationships extracted from the article:
+
+1. is_connected_to [Balticconnector, Somija, Igaunija]
+2. is_operator_of [Gasgrid, Balticconnector]
+3. is_operator_of [Elering, Balticconnector]
+4. has_impact_on [Balticconnector boj\u0101jums, dabasg\u0101zes tirgus]
+5. has_impact_on [G\u0101zes nopl\u016bde, dabasg\u0101zes cena]
+
+**Plot Discovery**
+
+Here are the main components of the plot using Freytag's Pyramid:
+
+Exposition: [Balticconnector] boj\u0101jums izrais\u012bjis dabasg\u0101zes tirgus izmai\u0146as.
+Rising Action: [Gasgrid] un [Elering] pazi\u0146o par spiediena kritumu un g\u0101zes nopl\u016bdi.
+Climax: [Balticconnector] boj\u0101jums izrais\u012bjis dabasg\u0101zes cenu sv\u0101rst\u012bbas.
+Falling Action: [KEM] nor\u0101da, ka dabasg\u0101zes cena atgriez\u012bsies norm\u0101l\u0101 l\u012bmen\u012b.
+Resolution: [KEM] pazi\u0146o par likumprojektu "Energoapg\u0101des izmaksu atbalsta likums", lai sniegtu atbalstu vid\u0113ji zemu un zemu ien\u0101kumu m\u0101jsaimniec\u012bb\u0101m.
+
+**Story Evolution**
+
+Here are the significant changes or deviations in the narrative:
+
+Shift Detection: Noz\u012bm\u012bgas izmai\u0146as st\u0101st\u012bjum\u0101 notiek, kad [KEM] pazi\u0146o par likumprojektu "Energoapg\u0101des izmaksu atbalsta likums".
+Causal Relation Extraction: [KEM] pazi\u0146ojums par likumprojektu tiek dots, rea\u0123\u0113jot uz pieaugošo dabasg\u0101zes cenu un t\u0101s ietekmi uz vid\u0113ji zemu un zemu ien\u0101kumu m\u0101jsaimniec\u012bb\u0101m.
+2025-03-11 23:26:34,444 - INFO - Processing file: LA_LV .txt
+2025-03-11 23:26:34,448 - INFO - Input data: {'language': 'Latvian', 'text': 'Sabot\u0101ža? Lai gan Somijas un Igaunijas g\u0101zesvads sl\u0113gts, Latvijas apg\u0101de nav apdraud\u0113ta \n\n21:04, 11. oktobris 2023\n\nLai gan Somijas un Igaunijas g\u0101zesvads “Balticconnector” patlaban ir sl\u0113gts, Latvijas apg\u0101de nav apdraud\u0113ta, a\u0123ent\u016brai LETA nor\u0101d\u012bja \u0101rlietu ministrs Krišj\u0101nis Kari\u0146š (JV).\n\n\u0100rlietu ministrs sac\u012bja, ka vi\u0146š ir run\u0101jis gan ar Somijas, gan ar Igaunijas kol\u0113\u0123iem. Kari\u0146a ieskat\u0101, patlaban ir p\u0101ragri non\u0101kt pie skaidra secin\u0101juma, kas noticis, ta\u010du izmekl\u0113šana turpin\u0101s.\n\n“Nodar\u012btie boj\u0101jumi zem\u016bdens g\u0101zesvad\u0101 “Balticconnector” tiek izmekl\u0113ti k\u0101 iesp\u0113jams sabot\u0101žas m\u0113\u0123in\u0101jums. Šis nav gad\u012bjums, kad b\u016btu sapl\u012bsusi k\u0101da bl\u012bve,” sac\u012bja \u0101rlietu ministrs.\nVi\u0146a ieskat\u0101, ir j\u0101sagaida izmekl\u0113šanas rezult\u0101ti, lai var\u0113tu secin\u0101t, k\u0101 tas notika. Kari\u0146š sac\u012bja, ka In\u010dukalna pazemes g\u0101zes kr\u0101tuv\u0113 rezerves ir labas, t\u0101p\u0113c Latvijas pieg\u0101des nek\u0101d\u0101 veid\u0101 nav apdraud\u0113tas. \u0100rlietu ministrs pat uzsv\u0113ra, ka Latvija jau pieg\u0101d\u0101 g\u0101zi Igaunijai.\n\n“Latvijai paliek g\u0101zes pieg\u0101des iesp\u0113jas caur Lietuvu un Klaip\u0113das g\u0101zes termin\u0101li. J\u0101piebilst, ka uz\u0146\u0113mums “Latvenergo” ir pan\u0101cis vienošanos. “Latvenergo” ir daudzu gadu ties\u012bbas import\u0113t g\u0101zi caur šo termin\u0101li,” skaidroja Kari\u0146š.\n\n\u0100rlietu ministrs uzsv\u0113ra, ka notiekošais Somij\u0101 un Igaunij\u0101 nek\u0101d\u0101 veid\u0101 neapdraud Latvijas pat\u0113r\u0113t\u0101jus un Latvijas tirgu. P\u0113c Kari\u0146a paust\u0101,\n\nja Somijas un Igaunijas g\u0101zesvada darb\u012bba sabot\u0113ta, tas noz\u012bm\u0113, ka Baltijas j\u016bras re\u0123ion\u0101 b\u016bs pastiprin\u0101ti j\u0101uzrauga visa zem\u016bdens infrastrukt\u016bra.\nMinistrs atz\u012bm\u0113ja, ka zem Baltijas j\u016bras ir ne tikai g\u0101zes vadi, bet ar\u012b elektrovadi un sakaru vadi.\n\nP\u0113c Kari\u0146a paust\u0101, ja g\u0101zesvads “Balticconnector”, iesp\u0113jams, bija sabot\u0101žas m\u0113r\u0137is, j\u0101seko l\u012bdzi, lai tas nevar\u0113tu iet plašum\u0101. Latvija ir da\u013ca no Eiropas Savien\u012bbas un NATO, \u0101rlietu ministra ieskat\u0101, sabiedrotaj\u0101m demokr\u0101tij\u0101m ir j\u0101sadarbojas un v\u0113l cieš\u0101k j\u0101k\u0101pina sadarb\u012bba, lai r\u016bp\u0113tos par m\u016bsu infrastrukt\u016bras droš\u012bbu. Tas pal\u012bdz\u0113s sekm\u0113t droš\u012bbu sabiedr\u012bb\u0101m kopum\u0101.\n\nLETA jau rakst\u012bja,\n\nlai salabotu Somiju un Igauniju savienojoš\u0101 zem\u016bdens g\u0101zesvada “Balticconnector” boj\u0101to posmu, b\u016bs nepieciešami vismaz pieci m\u0113neši, l\u012bdz ar to g\u0101zesvads var\u0113tu ats\u0101kt darboties ne agr\u0101k k\u0101 n\u0101kam\u0101 gada apr\u012bl\u012b,\ntrešdien pazi\u0146oja Somijas g\u0101zes p\u0101rvades t\u012bklu operatorkomp\u0101nija “Gasgrid Finland”.\n\nPamatojoties uz provizoriskiem ekspertu nov\u0113rt\u0113jumiem, var pie\u0146emt, ka remonta darbu pl\u0101nošana, nepieciešam\u0101 zem\u016bdens apr\u012bkojuma sag\u0101d\u0101šana, remonts, k\u0101 ar\u012b saremont\u0113t\u0101 cauru\u013cvada posma p\u0101rbaude un nodošana ekspluat\u0101cij\u0101 ilgs vismaz piecus m\u0113nešus, teikts “Gasgrid Finland” pazi\u0146ojum\u0101.\n\nTaj\u0101 nor\u0101d\u012bts, ka t\u0101d\u0113j\u0101di agr\u0101kais iesp\u0113jamais cauru\u013cvada “Balticconnector” nodošanas ekspluat\u0101cij\u0101 termi\u0146š b\u016btu 2024.gada apr\u012b\u013ca s\u0101kums,.\n\nJau v\u0113st\u012bts, ka Igaunijas p\u0101rvades sist\u0113mu operators “Elering” un “Gasgrid Finland” sl\u0113dza “Balticconnector” nakt\u012b uz sv\u0113tdienu, jo tika nov\u0113rota spiediena krišan\u0101s cauru\u013cvad\u0101, kas liecina par iesp\u0113jamu g\u0101zes nopl\u016bdi. T\u0101pat konstat\u0113ti boj\u0101jumi abas valstis savienojošaj\u0101 komunik\u0101ciju kabel\u012b.\n\nSaska\u0146\u0101 ar l\u012bdz šim pieejamo inform\u0101ciju boj\u0101jums g\u0101zesvad\u0101 “Balticconnector” nevar\u0113ja rasties t\u0101 norm\u0101las darb\u012bbas rezult\u0101t\u0101 vai norm\u0101la spiediena krituma d\u0113\u013c,\notrdien pazi\u0146oja Somijas premjerministrs Peteri Orpo.\n\nSomijas prezidents Sauli N\u012bniste sac\u012bja, ka nopl\u016bdi, iesp\u0113jams, izrais\u012bjis “\u0101r\u0113js” elements.\n\nAr\u012b Igaunijas \u0101rlietu ministrs Marguss Tsahkna un aizsardz\u012bbas ministrs Hanno Pevkurs otrdien pazi\u0146oja, ka boj\u0101jums ir meh\u0101nisks un cilv\u0113ka izrais\u012bts.\n\nNopl\u016bdes izmekl\u0113šanu vada Somijas Centr\u0101l\u0101 krimin\u0101lpolicija, kas ir pazi\u0146ojusi, ka cauru\u013cvads ir boj\u0101ts t\u012bši.\n\n“Balticconnector” starp Paldiskiem un Inko ir 77 kilometru garš. Ekspluat\u0101cij\u0101 to nodeva 2020.gada s\u0101kum\u0101. T\u0101 k\u0101 cauru\u013cvads stiepjas cauri visam Somu l\u012bcim, intens\u012bv\u0101 ku\u0123u satiksme apgr\u016btina iesp\u0113jam\u0101s nopl\u016bdes c\u0113lo\u0146a izmekl\u0113šanu, nor\u0101d\u012bja Somijas robežsardze.\n\n“Balticconnector” sl\u0113gšana neietekm\u0113 g\u0101zes pieg\u0101des pat\u0113r\u0113t\u0101jiem Igaunij\u0101, jo g\u0101zi Igaunija joproj\u0101m var sa\u0146emt no Latvijas.\nPirms sl\u0113gšanas g\u0101ze pa “Balticconnector” pl\u016bda no Somijas uz Igauniju. Liel\u0101k\u0101 da\u013ca no Somijas sa\u0146emt\u0101s g\u0101zes tika nog\u0101d\u0101ta Latvij\u0101, kur In\u010dukaln\u0101 ir g\u0101zes kr\u0101tuve.\n\n“Balticconnector” starp Paldiskiem un Inko ir 77 kilometru garš. Ekspluat\u0101cij\u0101 g\u0101zesvadu, kura b\u016bvniec\u012bba izmaks\u0101ja vair\u0101k nek\u0101 300 miljonus eiro, nodeva 2020.gada s\u0101kum\u0101.\n'}
+2025-03-11 23:26:35,005 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-11 23:29:15,197 - INFO - Output for file LA_LV .txt: I'll perform the narrative detection on the article provided.
+
+**Named Entity Recognition**
+
+Here are the entities extracted from the article:
+
+* Location:
+	+ Somija (0.08)
+	+ Igaunija (0.07)
+	+ Latvija (0.06)
+	+ Baltic-connector cauru\u013cvads (0.05)
+	+ In\u010dukalna pazemes g\u0101zes kr\u0101tuve (0.04)
+	+ Klaip\u0113das g\u0101zes termin\u0101lis (0.04)
+	+ Lietuva (0.03)
+	+ Eiropas Savien\u012bba (0.03)
+	+ NATO (0.03)
+* Actor:
+	+ Krišj\u0101nis Kari\u0146š (0.08)
+	+ Peteri Orpo (0.06)
+	+ Sauli N\u012bniste (0.05)
+	+ Marguss Tsahkna (0.04)
+	+ Hanno Pevkurs (0.04)
+	+ Somijas Centr\u0101l\u0101 krimin\u0101lpolicija (0.04)
+* Event:
+	+ Sabot\u0101ža (0.09)
+	+ Boj\u0101jumi Baltic-connector cauru\u013cvad\u0101 (0.08)
+	+ Nopl\u016bdes izmekl\u0113šana (0.06)
+	+ G\u0101zes cenu pieaugums (0.05)
+	+ Iesp\u0113jams spr\u0101dziens (0.05)
+* Timeline:
+	+ 2023. gada oktobris (0.06)
+	+ 2024. gada apr\u012blis (0.05)
+	+ 2020. gads (0.04)
+
+**Relationship Extraction**
+
+Here are the relationships extracted from the article:
+
+* is located in [Baltic-connector cauru\u013cvads, Somija un Igaunija]
+* is connected to [In\u010dukalna pazemes g\u0101zes kr\u0101tuve, Klaip\u0113das g\u0101zes termin\u0101lis]
+* is investigating [Somijas Centr\u0101l\u0101 krimin\u0101lpolicija, nopl\u016bdes izmekl\u0113šana]
+* is a member of [Latvija, Eiropas Savien\u012bba un NATO]
+* is a suspect in [Sabot\u0101ža, Peteri Orpo]
+
+**Plot Discovery**
+
+Here are the plot components extracted from the article:
+
+* Exposition: Sabot\u0101ža tiek izmekl\u0113ta Somij\u0101 un Igaunij\u0101, un Latvijas apg\u0101de nav apdraud\u0113ta.
+* Rising Action: Boj\u0101jumi Baltic-connector cauru\u013cvad\u0101 tiek atkl\u0101ti, un izmekl\u0113šana tiek uzs\u0101kta.
+* Climax: Nopl\u016bdes izmekl\u0113šana tiek pabeigta, un tiek secin\u0101ts, ka sabot\u0101ža ir notikusi.
+* Falling Action: G\u0101zes pieg\u0101des tiek nodrošin\u0101tas Latvij\u0101 un Igaunij\u0101.
+* Resolution: Sabot\u0101ža tiek nosod\u012bta, un droš\u012bbas pas\u0101kumi tiek pastiprin\u0101ti.
+
+**Story Evolution**
+
+Here are the story evolution components extracted from the article:
+
+* Shift Detection: Noz\u012bm\u012bgas izmai\u0146as st\u0101st\u012bjum\u0101 notiek, kad tiek atkl\u0101ti boj\u0101jumi Baltic-connector cauru\u013cvad\u0101.
+* Causal Relation Extraction: Sabot\u0101ža tiek izdar\u012bta, lai izrais\u012btu nopl\u016bdi un ietekm\u0113tu g\u0101zes pieg\u0101des.
+2025-03-11 23:29:15,228 - INFO - Processing file: LSM.txt
+2025-03-11 23:29:15,228 - INFO - Input data: {'language': 'Latvian', 'text': 'S\u0101kotn\u0113j\u0101 izmekl\u0113šana: Igaunijas un Somijas sakaru kabe\u013ca boj\u0101jums ir cilv\u0113ka rad\u012bts\n20. oktobris, 2023, 11:45\nS\u0101kotn\u0113j\u0101 p\u0101rbaude viet\u0101, kur Baltijas j\u016br\u0101 boj\u0101ts sakaru kabelis starp Somiju un Igauniju, liecina, ka boj\u0101jums ir cilv\u0113ka rad\u012bts, secin\u0101juši Igaunijas izmekl\u0113t\u0101ji, kas kop\u0101 ar Somijas un Igaunijas j\u016bras sp\u0113ku p\u0101rst\u0101vjiem ir pabeiguši nepieciešam\u0101s procesu\u0101l\u0101s darb\u012bbas izmekl\u0113šan\u0101 par j\u016bras dzelm\u0113 esoš\u0101 kabe\u013ca boj\u0101jumu.\nJau iepriekš k\u0101 galven\u0101 versija tika izvirz\u012bta cauru\u013cvada iesp\u0113jama sabot\u0101ža,\xa0ko tagad ar\u012b apstiprin\u0101jusi Igaunijas prokurat\u016bra. Turpm\u0101k t\u0101 veiks plašas p\u0101rbaudes, lai izskat\u012btu visus iesp\u0113jamos scen\u0101rijus kur var\u0113tu b\u016bt bijusi cilv\u0113ka l\u012bdzdarb\u012bba. Tiks ar\u012b p\u0101rbaud\u012bta iesp\u0113jamo citu valstu ku\u0123u l\u012bdzdarb\u012bba cauru\u013cvada boj\u0101šan\u0101.\n"Izmekl\u0113šanas gait\u0101 esam analiz\u0113juši to ku\u0123u kust\u012bbu, kas aptuvenaj\u0101 notikuma br\u012bd\u012b bija šajos \u016bde\u0146os. Šobr\u012bd esam identific\u0113juši divus š\u0101dus ku\u0123us – viens ku\u0123o zem Krievijas karoga, bet otrs – zem Honkongas," sac\u012bja Igaunijas valsts prokurore Tr\u012bnu Oleva.\xa0\nTurpm\u0101kaj\u0101 izmekl\u0113šanas gait\u0101 tiks noskaidrots, vai s\u0101kotn\u0113j\u0101s aizdomas apstiprin\u0101s un vai boj\u0101jums rad\u012bts nolaid\u012bbas vai cita iemesla d\u0113\u013c.\nT\u0101pat izmekl\u0113t\u0101ji pašlaik nevar apstiprin\u0101t, vai boj\u0101jums bijis apzin\u0101ts, cita starp\u0101 m\u0113r\u0137tiec\u012bgs kritisk\u0101s infrastrukt\u016bras boj\u0101jums.\nT\u0101 k\u0101 s\u0101kotn\u0113jie pier\u0101d\u012bjumi no sakaru kabe\u013ca starp Igauniju un Somiju ir sav\u0101kti, tad ir iesp\u0113jams s\u0101kt pl\u0101not kabe\u013ca remontu. Gaid\u0101ms, ka remonta darbi s\u0101ksies n\u0101kamned\u0113\u013c.\nKrimin\u0101lprocesa laik\u0101 izmekl\u0113t\u0101ji p\u0101rbaud\u012bs ar\u012b Igaunijas un Zviedrijas sakaru kabeli, jo saska\u0146\u0101 ar s\u0101kotn\u0113jo inform\u0101ciju ar\u012b t\u0101 boj\u0101jumus var\u0113tu b\u016bt izrais\u012bjusi cilv\u0113ka r\u012bc\u012bba, tom\u0113r tas ir j\u0101p\u0101rbauda.\nIgaunijas–Zviedrijas un Igaunijas–Somijas zem\u016bdens sakaru kabe\u013cu boj\u0101jumi nav ietekm\u0113juši Igaunijas sakaru pakalpojumu darb\u012bbu.\nSakari ir nep\u0101rtraukti nodrošin\u0101ti, jo Igaunijai ir devi\u0146i daž\u0101di savienojumi, un boj\u0101jumu gad\u012bjum\u0101 ir iesp\u0113jams izmantot vai nu alternat\u012bvi funkcion\u0113jošus zem\u016bdens kabe\u013cus, vai sauszemes kabe\u013cus ar Latviju.\nOtrdien Zviedrijas aizsardz\u012bbas ministrs Pols Junsons pazi\u0146oja, ka ir boj\u0101ts sakaru kabelis starp Zviedriju un Igauniju Baltijas j\u016br\u0101.\nP\u0113c ministra sac\u012bt\u0101, kabelis starp Zviedriju un Igauniju boj\u0101ts apm\u0113ram taj\u0101 paš\u0101 laik\u0101, kad tika boj\u0101ts g\u0101zesvads "Balticconnector" un sakaru kabelis, kas savieno Igauniju un Somiju, kas tika saboj\u0101ti 8. oktobr\u012b.\nCeturtdien savu izmekl\u0113šanu "Balticconnector" pabeidza Somijas policijas \u016bdensl\u012bd\u0113ji, kuri ir sav\u0101kuši paraugus, kas nos\u016bt\u012bti uz laboratoriju, tom\u0113r detaliz\u0113ta inform\u0101cija par izmekl\u0113šanu netiek publiskota.\nNATO ceturtdien pazi\u0146oja, ka NATO un sabiedrotie nol\u0113muši pastiprin\u0101t patrul\u0113šanu Baltijas j\u016br\u0101 p\u0113c nesenajiem zem\u016bdens infrastrukt\u016bras boj\u0101jumiem re\u0123ion\u0101.\nPastiprin\u0101tie droš\u012bbas pas\u0101kumi ietver papildu nov\u0113rošanas un izl\u016bkošanas lidojumus, tostarp ar j\u016bras patru\u013clidmaš\u012bn\u0101m, NATO AWACS lidmaš\u012bn\u0101m un droniem. Uz šo re\u0123ionu nos\u016bt\u012bta ar\u012b \u010detru NATO m\u012bnu mekl\u0113šanas ku\u0123u flote.\nBaltijas j\u016br\u0101, k\u0101 ar\u012b Zieme\u013cj\u016br\u0101 ir bl\u012bvs infrastrukt\u016bras t\u012bkls ar zem\u016bdens g\u0101zesvadiem, elektr\u012bbas un sakaru kabe\u013ciem.\nRe\u0123ionam invest\u0113jot aizvien jaun\u0101 infrastrukt\u016br\u0101, n\u0101kotn\u0113 šis t\u012bkls k\u013c\u016bs tikai plaš\u0101ks, un, pieaugot Rietumu atkar\u012bbai tieši no zem\u016bdens infrastrukt\u016bras, t\u0101 k\u013c\u016bst arvien ievainojam\u0101ka.\nApzinoties jaunos draudus, Eiropas Savien\u012bbas un NATO valstis stiprina zem\u016bdens infrastrukt\u016bras aizsardz\u012bbu, kurai iepriekš netika piev\u0113rsta tik liela uzman\u012bba.\n'}
+2025-03-11 23:29:15,859 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-11 23:29:42,221 - INFO - Output for file LSM.txt: **Named Entity Recognition (NER)**
+
+* **Location**
+	+ Igaunija (0.08)
+	+ Somija (0.07)
+	+ Baltijas j\u016bra (0.06)
+	+ Zviedrija (0.05)
+	+ Latvija (0.04)
+	+ Krievija (0.03)
+	+ Honkonga (0.02)
+	+ Eiropas Savien\u012bba (0.02)
+	+ NATO (0.02)
+* **Actor**
+	+ Igaunijas izmekl\u0113t\u0101ji (0.08)
+	+ Somijas policijas \u016bdensl\u012bd\u0113ji (0.06)
+	+ NATO (0.05)
+	+ Eiropas Savien\u012bba (0.04)
+	+ Igaunijas valsts prokurore Tr\u012bnu Oleva (0.03)
+	+ Zviedrijas aizsardz\u012bbas ministrs Pols Junsons (0.03)
+* **Event**
+	+ Sakaru kabe\u013ca boj\u0101jums (0.09)
+	+ Izmekl\u0113šana (0.08)
+	+ Sabot\u0101ža (0.06)
+	+ Remonts (0.05)
+	+ Patrul\u0113šana (0.04)
+	+ Droš\u012bbas pas\u0101kumi (0.03)
+* **Timeline**
+	+ 20. oktobris, 2023 (0.05)
+	+ 8. oktobris (0.04)
+	+ N\u0101kamned\u0113\u013c (0.03)
+	+ Ceturtdien (0.02)
+
+**Relationship Extraction**
+
+* Igaunijas izmekl\u0113t\u0101ji veic izmekl\u0113šanu par sakaru kabe\u013ca boj\u0101jumu.
+* Sakaru kabe\u013ca boj\u0101jums ir cilv\u0113ka rad\u012bts.
+* Igaunijas valsts prokurore Tr\u012bnu Oleva apstiprina, ka boj\u0101jums ir cilv\u0113ka rad\u012bts.
+* NATO pastiprina patrul\u0113šanu Baltijas j\u016br\u0101 p\u0113c nesenajiem zem\u016bdens infrastrukt\u016bras boj\u0101jumiem.
+* Eiropas Savien\u012bba un NATO valstis stiprina zem\u016bdens infrastrukt\u016bras aizsardz\u012bbu.
+
+**Plot Discovery**
+
+* **Exposition**: Sakaru kabe\u013ca boj\u0101jums starp Igauniju un Somiju ir cilv\u0113ka rad\u012bts.
+* **Rising Action**: Igaunijas izmekl\u0113t\u0101ji veic izmekl\u0113šanu par sakaru kabe\u013ca boj\u0101jumu.
+* **Climax**: Igaunijas valsts prokurore Tr\u012bnu Oleva apstiprina, ka boj\u0101jums ir cilv\u0113ka rad\u012bts.
+* **Falling Action**: NATO pastiprina patrul\u0113šanu Baltijas j\u016br\u0101 p\u0113c nesenajiem zem\u016bdens infrastrukt\u016bras boj\u0101jumiem.
+* **Resolution**: Eiropas Savien\u012bba un NATO valstis stiprina zem\u016bdens infrastrukt\u016bras aizsardz\u012bbu.
+
+**Story Evolution**
+
+* **Shift Detection**: Noz\u012bm\u012bgas izmai\u0146as st\u0101st\u012bjum\u0101 notiek, kad NATO pastiprina patrul\u0113šanu Baltijas j\u016br\u0101 p\u0113c nesenajiem zem\u016bdens infrastrukt\u016bras boj\u0101jumiem.
+* **Causal Relation Extraction**: NATO pastiprina patrul\u0113šanu Baltijas j\u016br\u0101, jo nesenajiem zem\u016bdens infrastrukt\u016bras boj\u0101jumiem ir cilv\u0113ka rad\u012bti.
+2025-03-11 23:29:42,236 - INFO - Processing file: TVNET.txt
+2025-03-11 23:29:42,237 - INFO - Input data: {'language': 'Latvian', 'text': 'Baltijas j\u016br\u0101 boj\u0101ts Igaunijas - Zviedrijas sakaru kabelis\n2023. gada 17. oktobris 17:58\nBoj\u0101ts sakaru kabelis starp Zviedriju un Igauniju Baltijas j\u016br\u0101, otrdien pazi\u0146ojis Zviedrijas aizsardz\u012bbas ministrs Pols Jonsons, v\u0113sta Igaunijas laikraksts "Postimees".\n\nZviedrijas r\u012bc\u012bb\u0101 ir inform\u0101cija, kas liecina, ka boj\u0101ts komunik\u0101ciju kabelis, kas savieno abas valstis, ta\u010du š\u0101 incidenta c\u0113lonis nav skaidrs, \u012bpaši sasaukt\u0101 preses konferenc\u0113 Stokholm\u0101 sac\u012bja Jonsons.\n\nVi\u0146š teica, ka boj\u0101juma vieta nav Zviedrijas teritori\u0101lajos \u016bde\u0146os, un ka kabelis joprio\u0101m ir izmantojams.\nP\u0113c ministra sac\u012bt\u0101, kabelis starp Zviedriju un Igauniju boj\u0101ts apm\u0113ram taj\u0101 paš\u0101 laik\u0101, kad tika boj\u0101ts g\u0101zesvads "Balticconnector" un sakaru kabelis, kas savieno Igauniju un Somiju, kas tika saboj\u0101ti 8.oktobr\u012b. Junsons ar\u012b pauda solidarit\u0101ti ar Somiju un Igauniju.\n\nP\u0113c Igaunijas Ekonomikas un komunik\u0101ciju ministrijas sniegtaj\u0101m zi\u0146\u0101m, boj\u0101juma vieta atrodas Igaunijas teritori\u0101lajos \u016bde\u0146os aptuveni 50 kilometru att\u0101lum\u0101 no H\u012bjum\u0101 salas Zviedrijas virzien\u0101.\n\nPirmdien ministrija un Igaunijas Pat\u0113r\u0113t\u0101ju aizsardz\u012bbas un tehnisk\u0101 regul\u0113juma p\u0101rvalde sa\u0146\u0113ma inform\u0101ciju, ka Somu l\u012bc\u012b p\u0101rraides jauda sakaru kabelim starp Igauniju un Zviedriju ir samazin\u0101jusies, pav\u0113st\u012bja ministrija.\n\nKabelis pieder Zviedrijas uz\u0146\u0113mumam, kas dažu dienu laik\u0101 atjaunoja kabe\u013ca maksim\u0101lo p\u0101rraides jaudu, un sakaru nep\u0101rtraukt\u012bbu tas nav ietekm\u0113jis. S\u0101kotn\u0113j\u0101 inform\u0101cija liecina, ka nav iemesla Igaunijas un Zviedrijas kabe\u013ca boj\u0101jumu saist\u012bt ar citiem kabe\u013ciem, nor\u0101d\u012bja ministrija.\n\n"L\u012bdz\u012bgi nelieli boj\u0101jumi šim kabelim bijuši ar\u012b agr\u0101k. K\u0101da iemesla d\u0113\u013c samazin\u0101j\u0101s kabe\u013ca p\u0101rraides jauda, pagaid\u0101m nav zin\u0101ms. Kabe\u013ca \u012bpašnieks veic t\u0101 remontu, un š\u012b procesa laik\u0101 sadarb\u012bb\u0101 ar Somiju un Zviedriju tiks izp\u0113t\u012bts iesp\u0113jamais iemesls, k\u0101 ar\u012b tas, vai tas var\u0113tu b\u016bt saist\u012bts ar Igaunijas-Somijas sakaru kabe\u013ca un g\u0101zesvada boj\u0101jumiem," sac\u012bts ministrijas pazi\u0146ojum\u0101.\n\nMinistrija piebilda, ka Igaunijas - Zviedrijas un Igaunijas - Somijas zem\u016bdens sakaru kabe\u013cu boj\u0101jumi nav ietekm\u0113juši Igaunijas sakaru pakalpojumu darb\u012bbu. Sakari ir nep\u0101rtraukti nodrošin\u0101ti, jo Igaunijai ir vair\u0101ki savienojumi, un boj\u0101jumu gad\u012bjum\u0101 ir iesp\u0113jams izmantot vai nu alternat\u012bvi funkcion\u0113jošus zem\u016bdens kabe\u013cus, vai sauszemes kabe\u013cus ar Latviju.\n\n"Pag\u0101juš\u0101s ned\u0113\u013cas incidenti par\u0101da kritisk\u0101s zem\u016bdens infrastrukt\u016bras neaizsarg\u0101t\u012bbu un nepieciešam\u012bbu risin\u0101t šo jaut\u0101jumu. Vald\u012bba ir devusi skaidrus nor\u0101d\u012bjumus ministrij\u0101m un pl\u0101no un jau ir \u012bstenojusi papildu pas\u0101kumus, lai pastiprin\u0101tu kritisk\u0101s infrastrukt\u016bras uzraudz\u012bbu un aizsardz\u012bbu gan j\u016br\u0101, gan uz sauszemes. Uzraudz\u012bbas un aizsardz\u012bbas l\u012bme\u0146a paaugstin\u0101šanai ir nepieciešama noz\u012bm\u012bga sadarb\u012bba ar m\u016bsu kol\u0113\u0123iem no Somijas un Zviedrijas, ar kuriem kop\u0101 m\u0113s apsaimniekojam infrastrukt\u016bru j\u016br\u0101, k\u0101 ar\u012b ar sabiedrotajiem Eiropas Savien\u012bb\u0101 un NATO, kuri ar\u012b ir pied\u0101v\u0101juši savu pal\u012bdz\u012bbu," nor\u0101d\u012bja ministrija.'}
+2025-03-11 23:29:42,604 - INFO - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-11 23:30:21,233 - INFO - Output for file TVNET.txt: **Named Entity Recognition:**
+
+1. Location: 
+   - Igaunija (0.08)
+   - Zviedrija (0.07)
+   - Baltijas j\u016bra (0.06)
+   - Somija (0.06)
+   - H\u012bjum\u0101 sala (0.04)
+   - Somu l\u012bcis (0.04)
+   - Latvija (0.03)
+   - Eiropas Savien\u012bba (0.03)
+   - NATO (0.03)
+   - Stokholma (0.02)
+
+2. Actor: 
+   - Pols Jonsons (0.08)
+   - Igaunijas Ekonomikas un komunik\u0101ciju ministrija (0.06)
+   - Igaunijas Pat\u0113r\u0113t\u0101ju aizsardz\u012bbas un tehnisk\u0101 regul\u0113juma p\u0101rvalde (0.05)
+   - Zviedrijas aizsardz\u012bbas ministrs (0.05)
+   - Zviedrijas uz\u0146\u0113mums (0.04)
+   - Igaunijas vald\u012bba (0.04)
+   - Somijas vald\u012bba (0.03)
+
+3. Event: 
+   - Sakaru kabe\u013ca boj\u0101jums (0.09)
+   - G\u0101zesvada "Balticconnector" boj\u0101jums (0.07)
+   - Igaunijas-Somijas sakaru kabe\u013ca boj\u0101jums (0.06)
+   - P\u0101rraides jaudas samazin\u0101jums (0.05)
+   - Kabe\u013ca remonts (0.04)
+   - Uzraudz\u012bbas un aizsardz\u012bbas l\u012bme\u0146a paaugstin\u0101šana (0.04)
+
+4. Timeline: 
+   - 2023. gada 17. oktobris (0.06)
+   - 8. oktobris (0.05)
+   - Pag\u0101juš\u0101 ned\u0113\u013ca (0.04)
+
+**Relationship Extraction:**
+
+- is damaged [Sakaru kabelis, starp Zviedriju un Igauniju]
+- is located [Boj\u0101juma vieta, Igaunijas teritori\u0101lie \u016bde\u0146i]
+- is owned [Kabelis, Zviedrijas uz\u0146\u0113mums]
+- is reduced [P\u0101rraides jauda, sakaru kabelim]
+- is restored [Kabe\u013ca maksim\u0101l\u0101 p\u0101rraides jauda, atjaunoja kabe\u013ca \u012bpašnieks]
+- is cooperated [Igaunijas vald\u012bba, Somijas vald\u012bba, Zviedrijas vald\u012bba]
+- is affected [Igaunijas sakaru pakalpojumi, nav ietekm\u0113ti]
+
+**Plot Discovery:**
+
+Exposition: Igaunijas un Zviedrijas sakaru kabelis ir boj\u0101ts Baltijas j\u016br\u0101.
+
+Rising Action: Boj\u0101juma vieta atrodas Igaunijas teritori\u0101lajos \u016bde\u0146os, un kabelis joprio\u0101m ir izmantojams. P\u0113c ministra sac\u012bt\u0101, kabelis starp Zviedriju un Igauniju boj\u0101ts apm\u0113ram taj\u0101 paš\u0101 laik\u0101, kad tika boj\u0101ts g\u0101zesvads "Balticconnector" un sakaru kabelis, kas savieno Igauniju un Somiju.
+
+Climax: Igaunijas Ekonomikas un komunik\u0101ciju ministrija sa\u0146\u0113ma inform\u0101ciju, ka Somu l\u012bc\u012b p\u0101rraides jauda sakaru kabelim starp Igauniju un Zviedriju ir samazin\u0101jusies.
+
+Falling Action: Kabe\u013ca \u012bpašnieks veic t\u0101 remontu, un š\u012b procesa laik\u0101 sadarb\u012bb\u0101 ar Somiju un Zviedriju tiks izp\u0113t\u012bts iesp\u0113jamais iemesls, k\u0101 ar\u012b tas, vai tas var\u0113tu b\u016bt saist\u012bts ar Igaunijas-Somijas sakaru kabe\u013ca un g\u0101zesvada boj\u0101jumiem.
+
+Resolution: Igaunijas vald\u012bba ir devusi skaidrus nor\u0101d\u012bjumus ministrij\u0101m un pl\u0101no un jau ir \u012bstenojusi papildu pas\u0101kumus, lai pastiprin\u0101tu kritisk\u0101s infrastrukt\u016bras uzraudz\u012bbu un aizsardz\u012bbu gan j\u016br\u0101, gan uz sauszemes.
+
+**Story Evolution:**
+
+Shift Detection: Noz\u012bm\u012bgas izmai\u0146as st\u0101st\u012bjum\u0101 notiek, kad Igaunijas vald\u012bba pazi\u0146o par jaun\u0101m politikas iniciat\u012bv\u0101m, lai risin\u0101tu kritisk\u0101s zem\u016bdens infrastrukt\u016bras neaizsarg\u0101t\u012bbu.
+
+Causal Relation Extraction: Igaunijas vald\u012bbas l\u0113mums pastiprin\u0101t kritisk\u0101s infrastrukt\u016bras uzraudz\u012bbu un aizsardz\u012bbu tiek dots, rea\u0123\u0113jot uz pieaugošo kritisko zem\u016bdens infrastrukt\u016bras boj\u0101jumu skaitu, lai uzlabotu droš\u012bbu un kontroli.

@@ -1,0 +1,76 @@
+**Named Entity Recognition:**
+
+Entities Ordered by Importance Score:
+
+1. Suspected sabotage (Event): 0.08
+2. Damage to Baltic-connector pipeline (Event): 0.07
+3. Finland (Location): 0.06
+4. Estonia (Location): 0.06
+5. NATO (Actor): 0.05
+6. Finland's prime minister (Actor): 0.05
+7. Petteri Orpo (Actor): 0.04
+8. Baltic-connector pipeline (Location): 0.04
+9. European Union (Location): 0.04
+10. Russia (Location): 0.04
+11. Sudden drop in pressure (Event): 0.03
+12. Investigation of leak (Event): 0.03
+13. Probable explosion (Event): 0.03
+14. Rise in gas prices (Event): 0.03
+15. Closure of Israel's Tamar gas field (Event): 0.03
+16. Nord Stream pipeline blasts (Event): 0.03
+17. BBC (Actor): 0.02
+18. Finland's National Bureau of Investigation (KRP) (Actor): 0.02
+19. Jens Stoltenberg (Actor): 0.02
+20. Frank Gardner (Actor): 0.02
+21. UK (Location): 0.02
+22. Israel (Location): 0.02
+23. Tamar (Location): 0.02
+24. Mediterranean Sea (Location): 0.02
+25. Norsar (Actor): 0.01
+26. Hamas (Actor): 0.01
+27. Sunday (Timeline): 0.01
+28. Tuesday (Timeline): 0.01
+29. April this year (Timeline): 0.01
+30. 01:20 on Sunday (22:20GMT on Saturday) (Timeline): 0.01
+31. Months to repair (Timeline): 0.01
+32. 2020 (Timeline): 0.01
+33. May last year (Timeline): 0.01
+34. Finland's Exclusive Economic Zone (Location): 0.01
+35. Baltic Sea coast (Location): 0.01
+
+**Relationship Extraction:**
+
+1. investigates [Finland, suspected sabotage]
+2. is suspected of [Russia, sabotage]
+3. has damaged [Baltic-connector pipeline, suspected sabotage]
+4. is a member of [Finland, NATO]
+5. is a member of [Estonia, NATO]
+6. is the prime minister of [Petteri Orpo, Finland]
+7. has detected [Norsar, probable explosion]
+8. is the head of [Jens Stoltenberg, NATO]
+9. is sharing information with [NATO, Finland]
+10. is sharing information with [NATO, Estonia]
+
+**Plot Discovery:**
+
+Exposition: [Finland] is investigating [suspected sabotage] of the [Baltic-connector pipeline], which was damaged in a [probable explosion] on [Sunday].
+
+Rising Action: Tensions rise as [Finland] and [Estonia] investigate the [damage to the Baltic-connector pipeline], with [NATO] offering support and sharing information.
+
+Climax: A major confrontation occurs between [Finland] and [Russia] as [Finland] accuses [Russia] of [sabotage], leading to a rise in [gas prices].
+
+Falling Action: Following the confrontation, [Finland] and [Estonia] continue to investigate the [damage to the Baltic-connector pipeline], with [NATO] providing support and [Russia] denying any involvement.
+
+Resolution: The investigation into the [damage to the Baltic-connector pipeline] is ongoing, with [Finland] and [Estonia] working together to ensure [energy security].
+
+**Story Evolution:**
+
+Shift Detection: A significant change occurs in the narrative when [Finland] accuses [Russia] of [sabotage], leading to a rise in tensions between the two countries.
+
+Causal Relation Extraction:
+
+1. The [damage to the Baltic-connector pipeline] was caused by [suspected sabotage].
+2. The [suspected sabotage] was motivated by [Russia]'s desire for [retribution] against [Finland] for joining [NATO].
+3. The [rise in gas prices] was caused by the [damage to the Baltic-connector pipeline] and the subsequent [investigation].
+4. The [closure of Israel's Tamar gas field] contributed to the [rise in gas prices].
+5. The [Nord Stream pipeline blasts] last year contributed to concerns about [energy security].

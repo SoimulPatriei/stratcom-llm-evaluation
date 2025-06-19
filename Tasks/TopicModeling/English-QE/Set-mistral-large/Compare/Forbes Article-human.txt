@@ -1,0 +1,99 @@
+[Topic] Suspected Sabotage  
+[Weight] 5  
+
+[Keywords]  
+Chinese vessel dragged its anchor over 100 nautical miles = 3  
+investigation focus on Newnew Polar Bear, authorities confirmed = 3  
+Newnew Polar Bear focus of investigation = 3  
+allegedly caused damage = 3  
+prime suspect = 3  
+external force or tampering = 3  
+intentional damage difficult to dismiss = 3  
+possibly intentional = 3  
+whether it was on purpose = 3  
+
+[Total Weight] 27  
+[Normalized Significance] 9.0  
+  
+
+---
+
+[Topic] NATO Response  
+[Weight] 3  
+
+[Keywords]  
+NATO = 3  
+The infrastructure under the Gulf’s waters will now connect one portion of NATO to what will soon be new NATO territories = 3  
+
+[Total Weight] 6  
+[Normalized Significance] 3.0  
+
+---
+
+[Topic] Infrastructure Vulnerability  
+[Weight] 5  
+
+[Keywords]  
+damage to an undersea natural gas pipeline and two telecommunications cables took place = 3  
+100 nautical miles drag = 3  
+disruptive activity = 3  
+Owing to its geography, Finland in particular depends on the undersea communication and natural gas links = 3  
+concern is that the Gulf of Finland represents a way that it can be cut off from the rest of NATO = 2  
+
+[Total Weight] 14  
+[Normalized Significance] 8.0  
+
+---
+
+[Topic] Energy Security  
+[Weight] 4  
+
+[Keywords]  
+damage to an undersea natural gas pipeline and two telecommunications cables took place = 3  
+incidents with the (Balticconnector) pipeline and the two communications cables in the Gulf of Finland are connected = 2  
+
+[Total Weight] 5  
+[Normalized Significance] 7.0  
+
+---
+
+[Topic] International Cooperation  
+[Weight] 5  
+
+[Keywords]  
+formally requested the opportunity to send representatives to China to investigate the Newnew Polar Bear = 3  
+difficulty with the Chinese previously = 2  
+Finland, Sweden and Estonia will pursue public relations campaign against Chinese shipping = 3  
+
+[Total Weight] 8  
+[Normalized Significance] 8.0  
+
+---
+
+[Topic] Environmental and Technical Challenges  
+[Weight] 3  
+
+[Keywords]  
+dragged its anchor over 100 nautical miles = 2  
+retrieved an anchor embedded in the seabed = 2  
+survey it = 2  
+It’s not surprising that a Chinese ship would do this = 2  
+We have mapped and filmed the seabed, have a very good overview of what happened = 2  
+AIS data [automatic identification system (AIS), an automatic satellite tracking system that uses transceivers on ships to track movements] for any ship = 2  
+
+[Total Weight] 12  
+[Normalized Significance] 6.0  
+
+---
+
+[Topic] Economic and Financial Impact  
+[Weight] 3  
+
+[Keywords]  
+Finland will pursue an Admiralty-claim under international maritime law for damages done to its infrastructure by the Newnew Polar Bear = 2  
+endless appeals and a reticence to reach a settlement = 2  
+drawn-out process with China = 2  
+Finland and Estonia could restrict Chinese vessels from their territorial waters under UNCLOS = 2  
+
+[Total Weight] 8  
+[Normalized Significance] 6.0  

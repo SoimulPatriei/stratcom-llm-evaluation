@@ -1,0 +1,74 @@
+Topic: Suspected Sabotage=5=5
+  Keywords Assigned by Human but Not by Machine:
+   No culprit has been identified for the Nord Stream attack despite an international investigation=3
+   nobody has admitted it yet=3
+   everything indicates that it was intentional=3
+   Chinese container ship Newnew Polar Bear, dragging an anchor, main suspect=3
+   in touch with Chinese authorities=3
+   vessel’s imminent return to China raises some questions=3
+   hard to believe sabotage to the undersea gas pipeline was accidental=3
+   nobody has admitted to it=3
+
+  Keywords Assigned by Machine but Not by Human:
+   dragged its anchor across the Baltic Sea seabed=3
+   the anchor — which weighs 6,000 kilograms — was retrieved a few meters from the site of the damage=2
+   intentional damage to the undersea gas pipeline=3
+   Chinese ship Newnew Polar Bear=3
+   the vessel’s imminent return to China raises some questions=3
+   the captain of the ship surely "understood that there was something wrong"=2
+
+
+Topic: International Cooperation=4=3
+  Common Keywords:
+   Finland and Estonia have been investigating=3=3
+
+  Keywords Assigned by Human but Not by Machine:
+   seeking their cooperation with the investigation=2
+   asked to send representatives to Beijing=2
+   Finland and Estonia have since been in touch with Chinese authorities seeking their cooperation with the investigation=2
+
+  Keywords Assigned by Machine but Not by Human:
+   in touch with Chinese authorities=3
+   asked to send representatives to Beijing to investigate the vessel=2
+
+
+Topic: Infrastructure Vulnerability=5=4
+  Keywords Assigned by Human but Not by Machine:
+   dragging an anchor for over 180 kilometers, cutting through the cables and gas lines=2
+   critical infrastructure, Balticconnector pipeline damaged=3
+   safety of undersea critical infrastructure, two telecoms cables damaged=3
+
+  Keywords Assigned by Machine but Not by Human:
+   safety of undersea critical infrastructure=3
+   better surveillance of suspicious ships=2
+   Balticconnector, a 77-kilometer-long gas pipeline=2
+   there should be "more protection" of these types of infrastructure=2
+   two telecoms cables connecting Estonia to Finland and Sweden=2
+   possible measures to protect them from external sabotage=3
+
+
+Topic: NATO Response=3=2
+  Keywords Assigned by Human but Not by Machine:
+   concerns over the safety of undersea critical infrastructure and possible measures to protect them from external sabotage=3
+   pipeline that connects the two NATO members beneath the Baltic Sea=3
+
+  Keywords Assigned by Machine but Not by Human:
+   Balticconnector connects the two NATO members=3
+   international investigation into the Nord Stream attack=2
+
+
+Topics Assigned by Human but Not by Machine:
+Topic: Energy Security=4
+Topic: Environmental and Technical Challenges=3
+Topic: Economic and Financial Impact=0
+
+Topics Assigned by Machine but Not by Human:
+Topic: Critical Infrastructure Weakness=5
+
+Statistics:
+Common Topics: 4
+Topics Assigned by Human: 7
+Topics Assigned by Machine: 5
+Common Keywords: 1
+Keywords Assigned by Human: 17
+Keywords Assigned by Machine: 17

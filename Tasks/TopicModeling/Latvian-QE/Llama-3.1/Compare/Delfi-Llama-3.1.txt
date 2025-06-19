@@ -1,0 +1,51 @@
+[Topic] Energy resources  
+[Weight] 5  
+
+[Keywords]  
+dabasgāzes tirgus = 3  
+dabasgāzes cena = 3  
+kurināmā piegādes līgumi = 2  
+siltumenerģijas komersanti = 2  
+Balticconnector = 3  
+
+[Total Weight] 13  
+[Normalized Significance] 8.7  
+
+---
+
+[Topic] Infrastructure vulnerability  
+[Weight] 4  
+
+[Keywords]  
+Balticconnector bojājums = 3  
+gāzes noplūde = 2  
+spiediena kritums = 2  
+zemūdens gāzesvads = 2  
+
+[Total Weight] 9  
+[Normalized Significance] 6  
+
+---
+
+[Topic] Economic ties in Northern Europe  
+[Weight] 3  
+
+[Keywords]  
+Somiju un Igauniju savienojošais zemūdens gāzesvads = 2  
+Nīderlandes biržā TTF = 2  
+Saeimā atrodas likumprojekts "Energoapgādes izmaksu atbalsta likums" = 1  
+
+[Total Weight] 5  
+[Normalized Significance] 3.3  
+
+---
+
+[Topic] Security concerns  
+[Weight] 2  
+
+[Keywords]  
+gāzes piegādes stabilitāte = 2  
+ārkārtēji augstas energoresursu cenas = 1  
+
+[Total Weight] 3  
+[Normalized Significance] 2  

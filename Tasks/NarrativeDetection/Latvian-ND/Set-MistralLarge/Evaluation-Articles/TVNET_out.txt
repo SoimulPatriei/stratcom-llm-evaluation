@@ -1,0 +1,104 @@
+Certainly! Let's perform narrative detection on the provided article in Latvian.
+
+### 1. Named Entity Recognition
+
+**Location:**
+- Baltijas jūrā
+- Zviedrija
+- Igaunija
+- Hījumā sala
+- Somu līcis
+- Somija
+- Latvija
+- Eiropas Savienība
+- NATO
+
+**Actor:**
+- Zviedrijas aizsardzības ministrs Pols Jonsons
+- Igaunijas Ekonomikas un komunikāciju ministrija
+- Igaunijas Patērētāju aizsardzības un tehniskā regulējuma pārvalde
+- Zviedrijas uzņēmums
+
+**Event:**
+- Bojāts sakaru kabelis
+- Sakaru kabeļa bojājuma izpēte
+- Gāzesvada "Balticconnector" bojājums
+- Sakaru kabeļa bojājums starp Igauniju un Somiju
+- Sakaru kabeļa remonts
+- Kritiskās zemūdens infrastruktūras aizsardzība
+
+**Timeline:**
+- 2023. gada 17. oktobris
+- 8. oktobris
+- Dažu dienu laikā
+- Pagājušās nedēļas incidenti
+
+### Entities Ordered by Importance Score:
+1. Bojāts sakaru kabelis (Event): 0.12
+2. Zviedrija (Location): 0.10
+3. Igaunija (Location): 0.10
+4. Zviedrijas aizsardzības ministrs Pols Jonsons (Actor): 0.08
+5. Gāzesvada "Balticconnector" bojājums (Event): 0.08
+6. Sakaru kabeļa bojājums starp Igauniju un Somiju (Event): 0.08
+7. Baltijas jūrā (Location): 0.06
+8. Sakaru kabeļa bojājuma izpēte (Event): 0.06
+9. Igaunijas Ekonomikas un komunikāciju ministrija (Actor): 0.05
+10. Sakaru kabeļa remonts (Event): 0.05
+11. 2023. gada 17. oktobris (Timeline): 0.04
+12. Kritiskās zemūdens infrastruktūras aizsardzība (Event): 0.04
+13. Hījumā sala (Location): 0.04
+14. Somu līcis (Location): 0.03
+15. Somija (Location): 0.03
+16. Latvija (Location): 0.03
+17. 8. oktobris (Timeline): 0.03
+18. Dažu dienu laikā (Timeline): 0.03
+19. Pagājušās nedēļas incidenti (Timeline): 0.03
+20. Igaunijas Patērētāju aizsardzības un tehniskā regulējuma pārvalde (Actor): 0.02
+21. Zviedrijas uzņēmums (Actor): 0.02
+22. Eiropas Savienība (Location): 0.02
+23. NATO (Location): 0.02
+
+### 2. Relationship Extraction
+
+**Layer Output:**
+- is damaged [sakaru kabelis starp Zviedriju un Igauniju, Baltijas jūrā]
+- is unknown [bojājuma cēlonis, sakaru kabelis starp Zviedriju un Igauniju]
+- is located [bojājuma vieta, Igaunijas teritoriālajos ūdeņos]
+- is reduced [pārraides jauda, sakaru kabelis starp Igauniju un Zviedriju]
+- is repaired [sakaru kabelis, Zviedrijas uzņēmums]
+- expresses solidarity [Pols Jonsons, Somija un Igaunija]
+- is investigated [bojājuma vieta, Igaunijas Ekonomikas un komunikāciju ministrija]
+- is not affected [sakaru pakalpojumu darbība, bojājumi]
+- is increased [infrastruktūras uzraudzība, valdība]
+- cooperates with [Igaunija, Somija un Zviedrija]
+
+### 3. Plot Discovery
+
+**Layer Output:**
+
+**Exposition:**
+Zviedrijas aizsardzības ministrs Pols Jonsons paziņoja par bojātu sakaru kabeli starp Zviedriju un Igauniju Baltijas jūrā.
+
+**Rising Action:**
+Bojājuma cēlonis nav skaidrs, un ministrija paziņoja, ka bojājuma vieta atrodas Igaunijas teritoriālajos ūdeņos.
+
+**Climax:**
+Sakaru kabeļa bojājuma izpēte sākas, un ministrija norāda, ka bojājumi nav ietekmējuši sakaru pakalpojumu darbību.
+
+**Falling Action:**
+Zviedrijas uzņēmums sāk remontēt kabeli, un ministrija apsver iespējamos bojājuma iemeslus.
+
+**Resolution:**
+Valdība pieņem papildu pasākumus, lai pastiprinātu kritiskās zemūdens infrastruktūras uzraudzību un aizsardzību gan jūrā, gan uz sauszemes.
+
+### 4. Story Evolution
+
+**Layer Output:**
+
+**Shift Detection:**
+Nozīmīgas izmaiņas stāstījumā notiek, kad ministrija norāda, ka bojājumi nav ietekmējuši sakaru pakalpojumu darbību un sāk izpētīt iespējamos iemeslus.
+
+**Causal Relation Extraction:**
+- Bojājuma izpēte sākas, reaģējot uz bojātu sakaru kabeli.
+- Sakaru kabeļa remonts tiek veikts, lai atjaunotu kabeļa maksimālo pārraides jaudu.
+- Valdība pieņem papildu pasākumus, lai uzlabotu kritiskās zemūdens infrastruktūras uzraudzību un aizsardzību, reaģējot uz incidentiem.

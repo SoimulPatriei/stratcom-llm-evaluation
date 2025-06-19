@@ -1,0 +1,119 @@
+[Topic] Suspected Sabotage
+[Weight] 4
+
+[Keywords]
+Baltic-connector pipeline damage = 3
+external activity = 3
+Russian sabotage = 3
+probable explosion = 3
+suspicion falls on Russian sabotage = 2
+seismological institute, Norsar = 2
+Finnish National Bureau of Investigation (KRP) = 1
+
+[Total Weight] 17
+[Normalized Significance] 8.5
+
+---
+
+[Topic] Infrastructure Vulnerability
+[Weight] 5
+
+[Keywords]
+Baltic-connector pipeline damage = 3
+telecoms cable damage = 3
+sudden drop in pressure = 3
+damage happened at two different spots = 3
+expected to take months to repair = 3
+Finland's only direct link to the wider European Union's gas network = 2
+energy security = 2
+
+[Total Weight] 19
+[Normalized Significance] 9.5
+
+---
+
+[Topic] Economic and Financial Impact
+[Weight] 3
+
+[Keywords]
+European gas prices pushed up = 3
+UK prices jumped as much as 13.5% = 3
+expected to take months to repair = 2
+alternative sources of gas = 2
+energy security = 2
+
+[Total Weight] 12
+[Normalized Significance] 6.0
+
+---
+
+[Topic] NATO Response
+[Weight] 3
+
+[Keywords]
+NATO military alliance = 3
+Nato sharing information & stands ready to support Allies = 3
+Finland and Estonia are members = 2
+damage to the Baltic-connector pipeline = 2
+public statements from Helsinki = 1
+
+[Total Weight] 11
+[Normalized Significance] 5.5
+
+---
+
+[Topic] International Cooperation
+[Weight] 3
+
+[Keywords]
+investigation by both countries = 3
+cooperation with the Finnish authorities = 3
+NATO's involvement = 2
+Finland's prime minister said = 2
+international partners = 1
+
+[Total Weight] 11
+[Normalized Significance] 5.5
+
+---
+
+[Topic] Energy Security
+[Weight] 4
+
+[Keywords]
+Finland's only natural gas import channel = 3
+alternative sources of gas = 3
+energy security = 3
+expected to take months to repair = 2
+Nord Stream pipeline blasts = 2
+
+[Total Weight] 13
+[Normalized Significance] 6.5
+
+---
+
+[Topic] Covert Disruptions
+[Weight] 3
+
+[Keywords]
+suspicion falls on Russian sabotage = 3
+probable explosion = 3
+damage happened at two different spots = 2
+external activity = 2
+blame at Moscow = 1
+
+[Total Weight] 11
+[Normalized Significance] 5.5
+
+---
+
+[Topic] Environmental and Technical Challenges
+[Weight] 2
+
+[Keywords]
+expected to take months to repair = 3
+damage happened at two different spots = 2
+sudden drop in pressure = 2
+
+[Total Weight] 7
+[Normalized Significance] 3.5

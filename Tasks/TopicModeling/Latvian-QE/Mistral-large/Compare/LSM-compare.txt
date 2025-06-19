@@ -1,0 +1,74 @@
+Topic: NATO action=3=4
+  Keywords Assigned by Human but Not by Machine:
+   Eiropas Savienības un NATO valstis stiprina zemūdens infrastruktūras aizsardzību=3
+   NATO un sabiedrotie nolēmuši pastiprināt patrulēšanu Baltijas jūrā pēc nesenajiem zemūdens infrastruktūras bojājumiem reģionā=3
+   drošības pasākumi ietver papildu novērošanas un izlūkošanas lidojumus=2
+
+  Keywords Assigned by Machine but Not by Human:
+   zemūdens infrastruktūras bojājumiem reģionā=1
+   nosūtīta arī četru NATO mīnu meklēšanas kuģu flote=1
+   pastiprinātie drošības pasākumi=2
+   NATO un sabiedrotie nolēmuši pastiprināt patrulēšanu Baltijas jūrā=3
+
+
+Topic: Investigation=4=5
+  Keywords Assigned by Human but Not by Machine:
+   Jau iepriekš kā galvenā versija tika izvirzīta cauruļvada iespējama sabotāža=3
+   detalizēta informācija par izmeklēšanu netiek publiskota=3
+   sākotnējie pierādījumi no sakaru kabeļa starp Igauniju un Somiju ir savākti, tad ir iespējams sākt plānot kabeļa remontu=2
+   Turpmāk tā veiks plašas pārbaudes, lai izskatītu visus iespējamos scenārijus kur varētu būt bijusi cilvēka līdzdarbība. Šobrīd esam identificējuši divus šādus kuģus – viens kuģo zem Krievijas karoga, bet otrs – zem Honkongas=2
+
+  Keywords Assigned by Machine but Not by Human:
+   sākotnējā izmeklēšana=3
+   izmeklēšanas par jūras dzelmē esošā kabeļa bojājumu=1
+   izmeklētāji pārbaudīs arī Igaunijas un Zviedrijas sakaru kabeli=3
+   izmeklēšanas gaitā tiks noskaidrots, vai sākotnējās aizdomas apstiprinās=2
+   izmeklēšanu 'Balticconnector' pabeidza Somijas policijas ūdenslīdēji=1
+
+
+Topic: Damage=5=5
+  Keywords Assigned by Human but Not by Machine:
+   Baltijas jūrā bojāts sakaru kabelis starp Somiju un Igauniju, liecina, ka bojājums ir cilvēka radīts, secinājuši Igaunijas izmeklētāji=3
+
+  Keywords Assigned by Machine but Not by Human:
+   sakaru kabeļa bojājums=3
+   cilvēka radīts bojājums=3
+   sakaru pakalpojumu traucējumi=2
+   Zviedrijas-Igaunijas kabeļa bojājums=2
+   Somijas-Igaunijas kabeļa bojājums=1
+
+
+Topic: Infrastructure vulnerability=5=5
+  Keywords Assigned by Human but Not by Machine:
+   izmeklētāji pašlaik nevar apstiprināt, vai bojājums bijis apzināts, cita starpā mērķtiecīgs kritiskās infrastruktūras bojājums=2
+   pieaugot Rietumu atkarībai tieši no zemūdens infrastruktūras, tā kļūst arvien ievainojamāka=3
+   Baltijas jūrā, kā arī Ziemeļjūrā ir blīvs infrastruktūras tīkls ar zemūdens gāzesvadiem, elektrības un sakaru kabeļiem=3
+
+  Keywords Assigned by Machine but Not by Human:
+   zemūdens sakaru kabeļu bojājumi=2
+   zemūdens infrastruktūras aizsardzība=2
+   gāzesvads 'Balticconnector'=1
+   sakaru kabelis starp Somiju un Igauniju=3
+   sakaru pakalpojumu darbība=2
+   bojājums ir cilvēks radīts=3
+
+
+Topics Assigned by Human but Not by Machine:
+Topic: Baltic Sea region cooperation=3
+Topic: Communication provision=2
+
+Topics Assigned by Machine but Not by Human:
+Topic: International cooperation=3
+Topic: Possible sabotage=4
+Topic: Energy resources=2
+Topic: Communication disruption=3
+Topic: Geopolitical dynamics=3
+Topic: Security concerns=4
+
+Statistics:
+Common Topics: 4
+Topics Assigned by Human: 6
+Topics Assigned by Machine: 10
+Common Keywords: 0
+Keywords Assigned by Human: 11
+Keywords Assigned by Machine: 20

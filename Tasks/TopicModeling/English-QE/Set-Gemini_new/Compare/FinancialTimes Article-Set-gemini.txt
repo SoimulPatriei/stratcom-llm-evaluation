@@ -1,0 +1,100 @@
+[Topic] Suspected Sabotage
+[Weight] 5
+
+[Keywords]
+human-made damage = 3
+potential sabotage = 3
+investigation = 3
+cooperation with Chinese authorities = 2
+external mechanical force = 2
+explosion = 1
+
+[Total Weight] 16
+[Normalized Significance] 8.0
+
+---
+
+[Topic] Infrastructure Vulnerability
+[Weight] 4
+
+[Keywords]
+Baltic Sea gas pipeline = 3
+data cable = 3
+critical undersea infrastructure = 3
+multimillion-euro repair work = 3
+disruption of gas markets = 2
+damage to the pipeline and data cables = 2
+Telecom cables = 1
+
+[Total Weight] 16
+[Normalized Significance] 8.0
+
+---
+
+[Topic] International Cooperation
+[Weight] 3
+
+[Keywords]
+Finnish investigation = 3
+Chinese authorities = 3
+international partners = 2
+European Commission President = 2
+
+[Total Weight] 10
+[Normalized Significance] 5.0
+
+---
+
+[Topic] NATO Response
+[Weight] 3
+
+[Keywords]
+NATO patrols = 3
+Baltic Sea = 3
+minehunters = 2
+maritime patrol aircraft = 2
+drones = 2
+NATO members Finland and Estonia = 2
+
+[Total Weight] 9
+[Normalized Significance] 4.5
+
+---
+
+[Topic] Economic and Financial Impact
+[Weight] 3
+
+[Keywords]
+multimillion-euro repair work = 3
+total cost of the pipeline repair work = 3
+disruption of gas markets = 2
+who will pick up the bill = 2
+
+[Total Weight] 10
+[Normalized Significance] 5.0
+
+---
+
+[Topic] Covert Disruptions
+[Weight] 2
+
+[Keywords]
+potential sabotage = 2
+critical infrastructure = 2
+undersea infrastructure = 1
+
+[Total Weight] 4
+[Normalized Significance] 2.0
+
+---
+
+[Topic] Environmental and Technical Challenges
+[Weight] 1
+
+[Keywords]
+Northern Sea Route = 1
+safety concerns = 1
+
+[Total Weight] 2
+[Normalized Significance] 1.0
+```

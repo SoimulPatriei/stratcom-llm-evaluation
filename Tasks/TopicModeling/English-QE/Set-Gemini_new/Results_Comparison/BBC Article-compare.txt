@@ -1,0 +1,118 @@
+Topic: International Cooperation=3=3
+  Keywords Assigned by Human but Not by Machine:
+   support allies concerned=2
+   sharing information=2
+   Being investigated by both countries=2
+   investigated by both countries=2
+   Stands ready to support Allies concerned=2
+
+  Keywords Assigned by Machine but Not by Human:
+   Finnish Prime Minister initiated discussions with European Commission President=2
+   Jens Stoltenberg: sharing information & stands ready to support Allies=3
+   international partners=2
+   cooperation with the Chinese authorities=3
+   former president of Finland spoke with Chinese President Xi Jinping=3
+   NATO's involvement=1
+
+
+Topic: NATO Response=4=3
+  Keywords Assigned by Human but Not by Machine:
+   sharing information=2
+   sharing information & stands ready to support Allies=2
+   Nato military alliance=2
+   Jens Stoltenberg=2
+   Nato=2
+   retribution for Finland joining Nato=2
+   support allies=2
+
+  Keywords Assigned by Machine but Not by Human:
+   minehunters, maritime patrol aircraft, and drones sent to the region=2
+   NATO members Finland and Estonia=2
+   Jens Stoltenberg: sharing information & stands ready to support Allies=3
+   Finland joined NATO in April 2023=2
+   NATO has stepped up its patrols of the Baltic Sea=3
+   detect suspicious movement near its critical undersea infrastructure=2
+
+
+Topic: Economic and Financial Impact=3=3
+  Keywords Assigned by Human but Not by Machine:
+   pushed up European gas prices=2
+   pushed up European gas prices, UK prices jumped as much as 13.5%=2
+   UK prices=2
+   Nord Stream pipeline blasts=2
+
+  Keywords Assigned by Machine but Not by Human:
+   total cost of the pipeline repair work, estimated at around 35 million euros ($38 million)=3
+   disruption of gas markets=2
+   prices were already rising=2
+   multimillion-euro repair work=3
+   Israel closed its largest gas field=2
+   EU covered 75% of Balticconnector’s original construction cost=2
+   gas prices jumped as much as 13.5% on Tuesday=2
+   who will pick up the bill=2
+
+
+Topic: Suspected Sabotage=5=5
+  Keywords Assigned by Human but Not by Machine:
+   Russian sabotage=3
+   deliberate, external activity=3
+   caused by external activity=3
+   damage could not have been caused by normal use of the pipeline or pressure fluctuations=3
+   suspected sabotage=3
+   retribution for Finland joining NATO=2
+
+  Keywords Assigned by Machine but Not by Human:
+   damage to Baltic-connector pipeline=3
+   serious damage, taking months to repair=3
+   pipeline reopened after repair work=2
+   suspicion falls on Russian sabotage=3
+   "no indications" that explosives had been used=2
+   Finnish sources suspect Russian sabotage=3
+   deliberate act=3
+   external activity=3
+   probable explosion=3
+   Finland's only direct link to the EU gas network=2
+   damage could not have been caused by normal use=3
+   prospect of deliberate damage pushed up gas prices=2
+   Baltic-connector pipeline shut down=2
+   damage at two different spots=2
+   revived concerns about energy security=2
+   source of the leak=2
+
+
+Topic: Infrastructure Vulnerability=5=4
+  Keywords Assigned by Human but Not by Machine:
+   so serious=3
+   Telecoms cable was also damaged=2
+   Baltic-connector pipeline=3
+   two different spots in Finland’s Exclusive Economic Zone=3
+   Nord Stream pipeline blasts=3
+
+  Keywords Assigned by Machine but Not by Human:
+   alternative sources of gas=2
+   damage to Baltic-connector pipeline=3
+   telecoms cable also damaged=3
+   damage to the gas pipeline and data cables=2
+   damage found and being investigated=2
+   damage to the pipeline could not have been caused by normal use=2
+   multimillion-euro repair work=3
+   pipeline reopened this week after repair work=3
+   other possible causes ruled out=2
+   pipeline is Finland's only direct link to the EU gas network=2
+   critical undersea infrastructure=3
+   EU covered 75% of Balticconnector’s original construction cost=2
+   source of the leak not yet clear=2
+   several months' disruption=3
+
+
+Topics Assigned by Human but Not by Machine:
+Topic: Environmental and Technical Challenges=3
+Topic: Energy Security=4
+
+Statistics:
+Common Topics: 5
+Topics Assigned by Human: 7
+Topics Assigned by Machine: 5
+Common Keywords: 0
+Keywords Assigned by Human: 27
+Keywords Assigned by Machine: 50

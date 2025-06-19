@@ -1,0 +1,102 @@
+[Topic] Suspected Sabotage  
+[Weight] 5  
+
+[Keywords]  
+damage to a gas pipeline = 3  
+they were looking into the Chinese vessel, the NewNew Polar Bear, and a Russian-flagged ship, the Sevmorput = 3  
+as well as other vessels present = 3  
+incident was due to “outside activity” = 3  
+A Norwegian Navy ship shadowed a Chinese container ship investigated over damage to a gas pipeline = 2  
+KV Sortland followed the NewNew Polar Bear = 2  
+
+[Total Weight] 16  
+[Normalized Significance] 8.0  
+
+---
+
+[Topic] NATO Response  
+[Weight] 3  
+
+[Keywords]  
+Norwegian Navy monitoring = 3  
+role in maintaining security of gas platforms = 3  
+coast guard’s role in maritime security = 3  
+NATO response context after Nord Stream sabotage = 3  
+
+[Total Weight] 12  
+[Normalized Significance] 3.0  
+
+---
+
+[Topic] Infrastructure Vulnerability  
+[Weight] 5  
+
+[Keywords]  
+Baltic Sea pipeline was damaged = 3  
+incident was due to “outside activity” = 3  
+near Norway’s gas pipelines and key oil platforms = 3  
+offshore oil and gas platforms = 2  
+network of gas pipelines under the North Sea, which spread over 8,000 km (4,971 miles) = 2  
+protect its offshore oil and gas platform = 2  
+
+[Total Weight] 15  
+[Normalized Significance] 8.0  
+
+---
+
+[Topic] Energy Security  
+[Weight] 4  
+
+[Keywords]  
+Norway, Europe’s largest gas supplier = 3  
+protect its offshore oil and gas platform = 2  
+network of gas pipelines, damage to a gas pipeline = 2  
+8,000 km network of gas pipelines under the North Sea = 2  
+
+[Total Weight] 9  
+[Normalized Significance] 7.0  
+
+---
+
+[Topic] International Cooperation  
+[Weight] 3  
+
+[Keywords]  
+sailed along the western coast of Norway on Monday = 2  
+vessel tracking data showed = 2  
+The Norwegian military’s operational command center declined to comment on Monday’s operation = 2  
+monitoring of shipping activities = 2  
+shadowed the NewNew Polar Bear = 2  
+maritime activities in the region = 2  
+Oslo is closely monitoring the progress of the probe in the Baltic Sea incident = 2  
+
+[Total Weight] 14  
+[Normalized Significance] 4.0  
+
+---
+
+[Topic] Environmental and Technical Challenges  
+[Weight] 3  
+
+[Keywords]  
+shadowed a Chinese container ship investigated over damage to a gas pipeline in the Gulf of Finland for about 15 hours = 2  
+The KV Sortland followed the NewNew Polar Bear = 2  
+vessel tracking data showed = 1  
+
+[Total Weight] 5  
+[Normalized Significance] 5.0  
+
+---
+
+[Topic] Economic and Financial Impact  
+[Weight] 4  
+
+[Keywords]  
+Norway, Europe’s largest gas supplier = 3  
+Norway’s gas exports critical to Europe = 3  
+economic significance of pipeline damage = 2  
+potential disruption to key oil and gas platforms = 2  
+ensuring safe maritime operations = 1  
+
+[Total Weight] 11  
+[Normalized Significance] 6.0  

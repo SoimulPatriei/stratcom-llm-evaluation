@@ -1,0 +1,45 @@
+Topic: Infrastructure vulnerability=5=4
+  Keywords Assigned by Human but Not by Machine:
+   pieaugot Rietumu atkarībai tieši no zemūdens infrastruktūras, tā kļūst arvien ievainojamāka=3
+   izmeklētāji pašlaik nevar apstiprināt, vai bojājums bijis apzināts, cita starpā mērķtiecīgs kritiskās infrastruktūras bojājums=2
+   Baltijas jūrā, kā arī Ziemeļjūrā ir blīvs infrastruktūras tīkls ar zemūdens gāzesvadiem, elektrības un sakaru kabeļiem=3
+
+  Keywords Assigned by Machine but Not by Human:
+   kritiskās infrastruktūras bojājums=2
+   aizsardzība=1
+   zemūdens infrastruktūras bojājumi=1
+   sakaru kabeļa bojājums=2
+
+
+Topic: Investigation=4=4
+  Keywords Assigned by Human but Not by Machine:
+   Turpmāk tā veiks plašas pārbaudes, lai izskatītu visus iespējamos scenārijus kur varētu būt bijusi cilvēka līdzdarbība. Šobrīd esam identificējuši divus šādus kuģus – viens kuģo zem Krievijas karoga, bet otrs – zem Honkongas=2
+   sākotnējie pierādījumi no sakaru kabeļa starp Igauniju un Somiju ir savākti, tad ir iespējams sākt plānot kabeļa remontu=2
+   detalizēta informācija par izmeklēšanu netiek publiskota=3
+   Jau iepriekš kā galvenā versija tika izvirzīta cauruļvada iespējama sabotāža=3
+
+  Keywords Assigned by Machine but Not by Human:
+   izmeklētāji=1
+   izmeklēšana=2
+   izmeklēšanas gaitā=1
+   prokuratūra=2
+
+
+Topics Assigned by Human but Not by Machine:
+Topic: Damage=5
+Topic: Baltic Sea region cooperation=3
+Topic: Communication provision=2
+Topic: NATO action=3
+
+Topics Assigned by Machine but Not by Human:
+Topic: Criminal inquiry=3
+Topic: Security threat=5
+Topic: Geopolitical dynamics=3
+
+Statistics:
+Common Topics: 2
+Topics Assigned by Human: 6
+Topics Assigned by Machine: 5
+Common Keywords: 0
+Keywords Assigned by Human: 7
+Keywords Assigned by Machine: 8

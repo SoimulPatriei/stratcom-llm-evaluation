@@ -1,0 +1,55 @@
+[Topic] Suspected Sabotage
+[Weight] 4
+
+[Keywords]
+Chinese ship's anchor caused damage to Baltic gas pipeline = 3
+dislodged anchor from a Chinese cargo vessel = 3
+investigators suspect intentional or unintentional damage = 2
+damage to the Balticconnector gas pipeline = 2
+Finnish authorities unable to establish contact with ship's captain = 1
+
+[Total Weight] 11
+[Normalized Significance] 5.5
+
+---
+
+[Topic] Infrastructure Vulnerability
+[Weight] 5
+
+[Keywords]
+Balticconnector gas pipeline between Finland and Estonia = 3
+mechanical damage to the pipeline = 3
+pipeline linking the Finnish town of Inkoo and the Estonian port of Paldiski = 3
+damage to the €300m (£260m) Balticconnector gas pipeline = 3
+repairs estimated to last until at least the end of April = 2
+connection to the Chinese vessel suspected = 1
+
+[Total Weight] 15
+[Normalized Significance] 7.5
+
+---
+
+[Topic] International Cooperation
+[Weight] 3
+
+[Keywords]
+Finnish investigators collaborating with Chinese authorities = 3
+Chinese foreign ministry requests a fair and comprehensive investigation = 2
+Finnish authorities seeking to establish contact with ship's captain = 2
+international partners involved in the investigation = 1
+
+[Total Weight] 8
+[Normalized Significance] 4
+
+---
+
+[Topic] Economic and Financial Impact
+[Weight] 2
+
+[Keywords]
+€300m (£260m) Balticconnector gas pipeline damaged = 2
+repairs estimated to last until at least the end of April = 1
+impact on the European gas network = 1
+
+[Total Weight] 4
+[Normalized Significance] 2

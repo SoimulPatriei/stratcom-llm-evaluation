@@ -1,0 +1,77 @@
+Topic: Economic and Financial Impact=2=3
+  Keywords Assigned by Human but Not by Machine:
+   Leaving Finland dependent on liquefied natural gas imports for the winter=2
+
+  Keywords Assigned by Machine but Not by Human:
+   Total cost of the pipeline repair work, estimated at around 35 million euros ($38 million)=3
+   EU covered 75% of Balticconnector’s original construction cost=2
+   Disruption of gas markets=2
+   Multimillion-euro repair work=3
+   Who will pick up the bill=2
+
+
+Topic: Suspected Sabotage=5=5
+  Keywords Assigned by Human but Not by Machine:
+   anchor believed to have damaged, Finnish authorities believe it was damaged by a Chinese vessel=3
+   anchor believed to have damaged the Balticconnector pipeline=3
+   incident came just over a year after underwater explosions=2
+   findings suggested it belonged to the Chinese cargo ship=3
+   sabotage remains unknown=2
+   damaged by a Chinese vessel=3
+
+  Keywords Assigned by Machine but Not by Human:
+   Failed to establish radio contact with Newnew Polar Bear’s captain=2
+   Damage allegedly caused by the Chinese vessel=2
+   Finnish maritime authorities=1
+   Anchor of the Hong Kong-flagged cargo vessel Newnew Polar Bear=3
+   Human-made damage=3
+   Damaged Baltic Sea gas pipeline=3
+
+
+Topic: Infrastructure Vulnerability=5=4
+  Keywords Assigned by Human but Not by Machine:
+   repair the pipeline=2
+   heightened tensions between Moscow and the West over the war in Ukraine=2
+   Damaged the Balticconnector pipeline=3
+   underwater explosions=2
+   Underwater explosions struck three of four Nord Stream gas pipelines=2
+   damaged by a Chinese vessel=2
+
+  Keywords Assigned by Machine but Not by Human:
+   Baltic Sea gas pipeline between NATO members Finland and Estonia=3
+   Several months' disruption=1
+   Telecom cables connecting Finland and Estonia, as well as Sweden and Estonia, were also damaged=3
+   Pipeline reopened this week after multimillion-euro repair work=3
+   Secure the area and detect suspicious movement near its critical undersea infrastructure=3
+   Disconnecting a crucial link between the Nordic and Baltic gas markets=3
+   Damage to the gas pipeline and data cables=2
+
+
+Topic: International Cooperation=5=3
+  Keywords Assigned by Human but Not by Machine:
+   constructive dialogue=3
+   constructive dialogue over a Baltic Sea gas pipeline=3
+   Presidents’ video-link meeting=2
+   China’s role in achieving a just and lasting peace=3
+   China was cooperating in the investigation=3
+
+  Keywords Assigned by Machine but Not by Human:
+   Finnish Prime Minister initiated discussions with European Commission President=2
+   Cooperation with the Chinese authorities probing the case=3
+   International partners=2
+   NATO's involvement=1
+   Former president of Finland spoke with Chinese President Xi Jinping=3
+
+
+Topics Assigned by Human but Not by Machine:
+Topic: Environmental and Technical Challenges=3
+Topic: Energy Security=4
+Topic: NATO Response=3
+
+Statistics:
+Common Topics: 4
+Topics Assigned by Human: 7
+Topics Assigned by Machine: 4
+Common Keywords: 0
+Keywords Assigned by Human: 18
+Keywords Assigned by Machine: 23

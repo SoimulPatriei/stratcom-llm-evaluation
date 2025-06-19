@@ -1,0 +1,77 @@
+Topic: International Cooperation=3=4
+  Keywords Assigned by Human but Not by Machine:
+   multiple attempts to reach the ship's captain=2
+   Chinese foreign ministry=2
+   Beijing’s request for a fair and comprehensive investigation=2
+   collaborating with Chinese authorities=2
+
+  Keywords Assigned by Machine but Not by Human:
+   request for a fair and comprehensive investigation into the incident=2
+   Finnish investigators are currently collaborating with Chinese authorities=3
+   Chinese vessel was operating normally at the time=1
+
+
+Topic: Energy Security=4=4
+  Keywords Assigned by Human but Not by Machine:
+   mechanical damage within the Finnish economic zone, significant harm=3
+   significant harm to the 300m Balticconnector gas pipeline=2
+   essential link between Finland and European gas network, Balticconnector pipeline=3
+   repairs are estimated to last until at least the end of April=2
+
+  Keywords Assigned by Machine but Not by Human:
+   48-mile pipeline linking the Finnish town of Inkoo and the Estonian port of Paldiski=2
+   essential link between Finland and the European gas network=2
+   Repairs are estimated to last until at least the end of April=1
+   significant pressure drop in the pipeline=3
+
+
+Topic: Suspected Sabotage=5=4
+  Keywords Assigned by Human but Not by Machine:
+   seabed trail leading to the point where the pipeline was broken=2
+   Chinese cargo vessel is believed to have caused damage=3
+   investigation involving the ship Newnew Polar Bear and a seabed trail=3
+   intentional or unintentional, focus of the next phase of the probe=3
+
+  Keywords Assigned by Machine but Not by Human:
+   Finnish authorities identified the Newnew Polar Bear as the prime suspect=2
+   establishing if the damage was intentional, unintentional, or due to "bad seafaring"=3
+   Finnish navy has retrieved an anchor=2
+   investigation involving the ship Newnew Polar Bear=3
+
+
+Topic: Infrastructure Vulnerability=5=5
+  Keywords Assigned by Human but Not by Machine:
+   damaged at the same time as the pipeline=2
+   48-mile pipeline linking the Finnish town of Inkoo and the Estonian port of Paldiski had suffered mechanical damage=3
+   displacement from its original position in the seabed=3
+
+  Keywords Assigned by Machine but Not by Human:
+   undersea Balticconnector pipeline=2
+   Chinese container ship's dislodged anchor=3
+   mechanical damage within the Finnish economic zone=2
+   significant harm to the €300m (£260m) Balticconnector gas pipeline=2
+   damage to the Balticconnector gas pipeline=3
+
+
+Topic: Economic and Financial Impact=4=3
+  Keywords Assigned by Human but Not by Machine:
+   essential link between Finland and European gas network=2
+   €300m Balticconnector pipeline=3
+   repairs are estimated to last until at least the end of April=2
+
+  Keywords Assigned by Machine but Not by Human:
+   significant harm to the €300m (£260m) Balticconnector gas pipeline=3
+   Repairs are estimated to last until at least the end of April=2
+
+
+Topics Assigned by Human but Not by Machine:
+Topic: Environmental and Technical Challenges=3
+Topic: NATO Response=0
+
+Statistics:
+Common Topics: 5
+Topics Assigned by Human: 7
+Topics Assigned by Machine: 5
+Common Keywords: 0
+Keywords Assigned by Human: 18
+Keywords Assigned by Machine: 18

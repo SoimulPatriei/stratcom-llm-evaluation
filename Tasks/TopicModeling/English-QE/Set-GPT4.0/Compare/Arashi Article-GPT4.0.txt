@@ -1,0 +1,58 @@
+[Topic] Suspected Sabotage  
+[Weight] 5  
+
+[Keywords]  
+damage to a gas pipeline = 3  
+they were looking into the Chinese vessel, the NewNew Polar Bear, and a Russian-flagged ship, the Sevmorput = 3  
+as well as other vessels present = 3  
+incident was due to “outside activity” = 3  
+A Norwegian Navy ship shadowed a Chinese container ship investigated over damage to a gas pipeline = 2  
+KV Sortland followed the NewNew Polar Bear = 2  
+
+[Total Weight] 16  
+[Normalized Significance] 8.0  
+
+[Topic] Energy Security  
+[Weight] 4  
+
+[Keywords]  
+Norway, Europe’s largest gas supplier = 3  
+Nord Stream sabotage = 3  
+protection of its offshore oil and gas platforms = 2  
+network of gas pipelines under the North Sea = 2  
+
+[Total Weight] 10  
+[Normalized Significance] 5.0  
+
+[Topic] International Cooperation  
+[Weight] 3  
+
+[Keywords]  
+Finnish investigators on Tuesday said they were looking into the Chinese vessel = 3  
+Norwegian military’s operational command center = 2  
+Oslo is closely monitoring the progress of the probe in the Baltic Sea incident = 2  
+
+[Total Weight] 7  
+[Normalized Significance] 3.5  
+
+[Topic] Infrastructure Vulnerability  
+[Weight] 3  
+
+[Keywords]  
+damage to a gas pipeline = 3  
+area where most of Norway’s exporting gas pipelines are located = 2  
+network of gas pipelines under the North Sea = 2  
+
+[Total Weight] 7  
+[Normalized Significance] 3.5  
+
+[Topic] Allied Strategic Defence/Response  
+[Weight] 2  
+
+[Keywords]  
+Norwegian Navy ship shadowed a Chinese container ship = 3  
+Norway, Europe’s largest gas supplier, deployed its Navy = 2  
+KV Sortland followed the NewNew Polar Bear = 2  
+
+[Total Weight] 7  
+[Normalized Significance] 3.5  

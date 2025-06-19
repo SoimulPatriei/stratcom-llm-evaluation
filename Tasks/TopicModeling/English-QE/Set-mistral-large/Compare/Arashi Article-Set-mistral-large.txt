@@ -1,0 +1,114 @@
+[Topic] Suspected Sabotage
+[Weight] 4
+
+[Keywords]
+outside activity caused the damage = 3
+could have been deliberate = 3
+Nord Stream sabotage = 3
+damage to a gas pipeline = 2
+Baltic Sea pipeline = 2
+investigated over damage = 1
+
+[Total Weight] 14
+[Normalized Significance] 7.0
+
+---
+
+[Topic] Infrastructure Vulnerability
+[Weight] 5
+
+[Keywords]
+Baltic Sea pipeline damaged = 3
+most of Norway’s exporting gas pipelines = 3
+network of gas pipelines under the North Sea = 3
+Norwegian Navy deployed to protect offshore oil and gas platforms = 3
+maritime activities in the region = 2
+monitoring of shipping activities = 1
+
+[Total Weight] 15
+[Normalized Significance] 7.5
+
+---
+
+[Topic] NATO Response
+[Weight] 3
+
+[Keywords]
+Norwegian Navy ship shadowed a Chinese vessel = 3
+Norway deployed its Navy = 2
+protect its offshore oil and gas platforms = 2
+Norwegian coast guard patrol vessel = 2
+monitoring the progress of the probe = 1
+
+[Total Weight] 10
+[Normalized Significance] 5.0
+
+---
+
+[Topic] International Cooperation
+[Weight] 3
+
+[Keywords]
+Finnish investigators looking into the Chinese vessel = 3
+Norwegian Navy shadowed the Chinese vessel = 3
+investigated over damage to a gas pipeline = 2
+monitoring the progress of the probe = 1
+
+[Total Weight] 9
+[Normalized Significance] 4.5
+
+---
+
+[Topic] Energy Security
+[Weight] 3
+
+[Keywords]
+Europe’s largest gas supplier = 3
+Norway deployed its Navy to protect its offshore oil and gas platforms = 3
+network of gas pipelines under the North Sea = 2
+most of Norway’s exporting gas pipelines = 1
+
+[Total Weight] 9
+[Normalized Significance] 4.5
+
+---
+
+[Topic] Covert Disruptions
+[Weight] 2
+
+[Keywords]
+outside activity caused the damage = 3
+could have been deliberate = 2
+damage to a gas pipeline = 1
+
+[Total Weight] 6
+[Normalized Significance] 3.0
+
+---
+
+[Topic] Critical Infrastructure Weakness
+[Weight] 3
+
+[Keywords]
+Baltic Sea pipeline damaged = 3
+most of Norway’s exporting gas pipelines = 3
+network of gas pipelines under the North Sea = 2
+protect its offshore oil and gas platforms = 1
+
+[Total Weight] 9
+[Normalized Significance] 4.5
+
+---
+
+[Topic] Allied Strategic Defence/Response
+[Weight] 3
+
+[Keywords]
+Norwegian Navy ship shadowed a Chinese vessel = 3
+Norway deployed its Navy = 2
+protect its offshore oil and gas platforms = 2
+Norwegian coast guard patrol vessel = 2
+monitoring the progress of the probe = 1
+
+[Total Weight] 10
+[Normalized Significance] 5.0

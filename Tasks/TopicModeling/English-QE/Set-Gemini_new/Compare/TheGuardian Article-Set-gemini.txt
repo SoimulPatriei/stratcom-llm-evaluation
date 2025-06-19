@@ -1,0 +1,340 @@
+[Topic] Suspected Sabotage
+[Weight] 5
+
+[Keywords]
+Baltic Sea gas pipeline damage = 3
+human-made damage = 3
+potential sabotage = 3
+external force = 3
+mechanical damage = 3
+state actor involvement = 3
+NATO response = 3
+deliberate act = 3
+purposeful damage (Sweden cable) = 3
+Chinese container vessel = 2
+NewNew Polar Bear = 2
+anchor missing = 2
+deep drag marks = 2
+missing front anchor = 2
+investigation focus = 2
+motive = 2
+intentional damage = 2
+negligence = 2
+poor seamanship = 2
+Finland's investigation = 1 
+NBI statement = 1
+KRP statement = 1
+pressure drop = 1
+repair timeline = 1
+April 2024 = 1
+reliance on gas = 1
+Sweden's cable damage = 1
+tracks on seabed = 1
+Stoltenberg's statement = 1 
+undersea infrastructure vulnerability = 1
+NATO patrols = 1
+
+[Total Weight] 18
+[Normalized Significance] 9.0
+
+---
+
+[Topic] Infrastructure Vulnerability
+[Weight] 5
+
+[Keywords]
+Baltic Sea gas pipeline Estlink data cable = 3
+critical infrastructure = 3
+undersea infrastructure = 3
+NATO's new center = 3
+damage to cables and pipelines = 3
+vulnerability of undersea infrastructure = 3
+protection of undersea infrastructure = 3
+repair timeline = 3
+April 2024 = 3 
+Mechanical damage = 2
+human-made damage = 2
+potential sabotage = 2
+deliberate act = 2
+purposeful damage (Sweden cable) = 2
+state actor involvement = 2
+NATO response = 2
+investigation focus = 2
+motive = 2
+intentional damage = 2
+negligence = 2
+poor seamanship = 2
+Chinese container vessel = 1
+NewNew Polar Bear = 1
+anchor missing = 1
+deep drag marks = 1
+missing front anchor = 1
+NBI statement = 1
+pressure drop = 1
+reliance on gas = 1
+Sweden's cable damage = 1
+tracks on seabed = 1
+Stoltenberg's statement = 1
+
+[Total Weight] 17
+[Normalized Significance] 8.5
+
+---
+
+[Topic] International Cooperation
+[Weight] 4
+
+[Keywords]
+Finland's investigation = 3
+NBI statement = 3 
+cooperation with Chinese authorities = 3
+communication with NewNew Polar Bear = 3
+international partners = 3
+NATO involvement = 3
+EU involvement = 3
+Finnish Prime Minister's discussions = 3
+united and determined response = 3
+Investigation focus = 2
+motive = 2
+intentional damage = 2
+negligence = 2
+poor seamanship = 2
+pressure drop = 2
+reliance on gas = 2
+Sweden's cable damage = 2
+tracks on seabed = 2
+Stoltenberg's statement = 2
+Loosely related (Score 1):** 
+Baltic Sea gas pipeline damage = 1
+human-made damage = 1
+potential sabotage = 1
+external force = 1
+mechanical damage = 1
+state actor involvement = 1
+NATO response = 1
+deliberate act = 1
+purposeful damage (Sweden cable) = 1
+
+[Total Weight] 14
+[Normalized Significance] 7.0
+
+---
+
+[Topic] Economic and Financial Impact
+[Weight] 3
+
+[Keywords]
+Multimillion-euro repair work = 3
+total cost estimation = 3
+EU's contribution = 3
+disruption of gas markets = 3
+who will pay = 3
+financial burden = 3
+Pressure drop = 2
+reliance on gas = 2
+April 2024 timeline = 2
+investigation focus = 2
+motive = 2
+intentional damage = 2
+negligence = 2
+poor seamanship = 2
+Baltic Sea gas pipeline damage = 1
+human-made damage = 1
+potential sabotage = 1
+external force = 1
+mechanical damage = 1
+state actor involvement = 1
+NATO response = 1
+deliberate act = 1
+purposeful damage (Sweden cable) = 1
+
+[Total Weight] 11
+[Normalized Significance] 5.5
+
+---
+
+[Topic] Environmental and Technical Challenges
+[Weight] 2
+
+[Keywords]
+Deep drag marks = 3
+mechanical damage = 3
+technical investigation = 3
+environmental impact assessment = 3
+repair complexity = 3
+Pressure drop = 2
+undersea infrastructure = 2
+April 2024 timeline = 2
+investigation focus = 2
+motive = 2
+intentional damage = 2
+negligence = 2
+poor seamanship = 2
+Baltic Sea gas pipeline damage = 1
+human-made damage = 1
+potential sabotage = 1
+external force = 1
+state actor involvement = 1
+NATO response = 1
+deliberate act = 1
+purposeful damage (Sweden cable) = 1
+
+[Total Weight] 8
+[Normalized Significance] 4.0
+
+---
+
+[Topic] Global Diplomatic Engagement
+[Weight] 2
+
+[Keywords]
+Communication with Chinese authorities = 3
+Finnish Prime Minister's discussions = 3
+EU involvement = 3
+international partners = 3
+potential diplomatic consequences = 3
+Investigation focus = 2
+motive = 2
+intentional damage = 2
+negligence = 2
+poor seamanship = 2
+pressure drop = 2
+reliance on gas = 2
+April 2024 timeline = 2
+Baltic Sea gas pipeline damage = 1
+human-made damage = 1
+potential sabotage = 1
+external force = 1
+mechanical damage = 1
+state actor involvement = 1
+NATO response = 1
+deliberate act = 1
+purposeful damage (Sweden cable) = 1
+
+[Total Weight] 8
+[Normalized Significance] 4.0
+
+---
+
+[Topic] NATO Response
+[Weight] 2
+
+[Keywords]
+NATO patrols = 3
+United and determined response = 3
+Alliance involvement = 3
+Undersea infrastructure protection = 3
+New center for protection = 3
+Investigation focus = 2
+motive = 2
+intentional damage = 2
+negligence = 2
+poor seamanship = 2
+pressure drop = 2
+reliance on gas = 2
+April 2024 timeline = 2 
+Baltic Sea gas pipeline damage = 1
+human-made damage = 1
+potential sabotage = 1
+external force = 1
+mechanical damage = 1
+state actor involvement = 1
+deliberate act = 1
+purposeful damage (Sweden cable) = 1
+
+[Total Weight] 7
+[Normalized Significance] 6.3
+
+---
+
+[Topic] Supply Chain Stability
+[Weight] 1
+
+[Keywords]
+Disruption of gas markets = 3
+reliance on gas = 3
+potential supply chain disruptions = 3
+impact on energy security = 3 
+Investigation focus = 2
+motive = 2
+intentional damage = 2
+negligence = 2
+poor seamanship = 2
+pressure drop = 2
+April 2024 timeline = 2 
+Baltic Sea gas pipeline damage = 1
+human-made damage = 1
+potential sabotage = 1
+external force = 1
+mechanical damage = 1
+state actor involvement = 1
+NATO response = 1
+deliberate act = 1
+purposeful damage (Sweden cable) = 1
+
+[Total Weight] 5
+[Normalized Significance] 2.5
+
+---
+
+[Topic] Covert Disruptions
+[Weight] 1
+
+[Keywords] 
+Potential sabotage = 3 
+deliberate act = 3 
+purposeful damage (Sweden cable) = 3 
+state actor involvement = 3 
+covert operation = 3  
+Investigation focus = 2
+motive = 2
+intentional damage = 2
+negligence = 2
+poor seamanship = 2
+pressure drop = 2
+April 2024 timeline = 2
+Baltic Sea gas pipeline damage = 1
+human-made damage = 1
+external force = 1
+mechanical damage = 1
+NATO response = 1
+
+Potential sabotage = 3
+Deliberate act = 3
+Purposeful damage (Sweden cable) = 3
+State actor involvement = 3
+Covert operation = 3
+
+[Total Weight] 5
+[Normalized Significance] 2.5
+
+---
+
+[Topic] Allied Strategic Defence/Response
+[Weight] 1
+
+[Keywords]
+NATO patrols = 3
+united and determined response = 3
+alliance involvement = 3
+undersea infrastructure protection = 3
+new center for protection = 2
+Investigation focus = 2
+motive = 2
+intentional damage = 2
+negligence = 2
+poor seamanship = 2
+pressure drop = 2
+reliance on gas = 2
+April 2024 timeline = 2
+Baltic Sea gas pipeline damage = 1
+human-made damage = 1
+potential sabotage = 1
+external force = 1
+mechanical damage = 1
+state actor involvement = 1
+deliberate act = 1
+purposeful damage (Sweden cable) = 1
+
+[Total Weight] 5
+[Normalized Significance] 2.5

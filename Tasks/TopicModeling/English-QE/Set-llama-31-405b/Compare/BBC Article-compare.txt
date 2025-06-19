@@ -1,0 +1,115 @@
+Topic: Economic and Financial Impact=3=3
+  Keywords Assigned by Human but Not by Machine:
+   pushed up European gas prices, UK prices jumped as much as 13.5%=2
+   UK prices=2
+   pushed up European gas prices=2
+   Nord Stream pipeline blasts=2
+
+  Keywords Assigned by Machine but Not by Human:
+   energy consumption=2
+   damage could be deliberate has pushed up European gas prices=2
+   months to repair=1
+   gas prices jumped as much as 13.5% on Tuesday=3
+   UK prices jumped to 124 pence per therm=3
+
+
+Topic: Energy Security=4=4
+  Common Keywords:
+   alternative sources of gas=2=2
+
+  Keywords Assigned by Human but Not by Machine:
+   pipeline is Finland's only direct link to EU gas network=3
+   pushed up European gas prices=2
+   revived concerns about energy security=2
+   energy security was not at risk=2
+
+  Keywords Assigned by Machine but Not by Human:
+   ensure the country's energy security was not at risk=3
+   energy security following the Nord Stream pipeline blasts last year=2
+   gas prices jumped as much as 13.5% on Tuesday=2
+   natural gas accounts for about 5% of Finland's energy consumption=2
+   Israel closed one of its largest gas fields, Tamar=1
+
+
+Topic: Suspected Sabotage=5=5
+  Common Keywords:
+   damage could not have been caused by normal use of the pipeline or pressure fluctuations=3=2
+
+  Keywords Assigned by Human but Not by Machine:
+   retribution for Finland joining NATO=2
+   Russian sabotage=3
+   suspected sabotage=3
+   deliberate, external activity=3
+   caused by external activity=3
+
+  Keywords Assigned by Machine but Not by Human:
+   damage may have been deliberate and probably caused by "external activity"=3
+   Finland investigates suspected sabotage of Baltic-connector gas pipeline=3
+   Finland's National Bureau of Investigation=1
+   suspicion falls on Russian sabotage as "retribution" for Finland joining Nato=3
+   probable explosion along Finland's Baltic Sea coast=2
+   damage was so serious it was expected to take months to repair=2
+
+
+Topic: NATO Response=4=3
+  Keywords Assigned by Human but Not by Machine:
+   sharing information & stands ready to support Allies=2
+   Jens Stoltenberg=2
+   Nato=2
+   sharing information=2
+   retribution for Finland joining Nato=2
+   support allies=2
+   Nato military alliance=2
+
+  Keywords Assigned by Machine but Not by Human:
+   Nato military alliance of which both Finland and Estonia are members=3
+   Jens Stoltenberg, the head of the Nato military alliance=1
+   Finland joining Nato in April this year=2
+   sharing information & stands ready to support Allies concerned=2
+   Nato's involvement=1
+
+
+Topic: International Cooperation=3=3
+  Keywords Assigned by Human but Not by Machine:
+   Stands ready to support Allies concerned=2
+   Being investigated by both countries=2
+   support allies concerned=2
+   investigated by both countries=2
+   sharing information=2
+
+  Keywords Assigned by Machine but Not by Human:
+   public statements from Helsinki have carefully avoided directing blame at Moscow=2
+   Finland's prime minister said the source of the leak had been found and was being investigated by both countries=3
+   cooperation between Finland and Estonia=3
+   European Union's gas network=1
+   international partners=2
+
+
+Topic: Infrastructure Vulnerability=5=5
+  Keywords Assigned by Human but Not by Machine:
+   so serious=3
+   Baltic-connector pipeline=3
+   Nord Stream pipeline blasts=3
+   two different spots in Finland’s Exclusive Economic Zone=3
+   Telecoms cable was also damaged=2
+
+  Keywords Assigned by Machine but Not by Human:
+   secure the country's energy security=2
+   pipeline has been Finland's only natural gas import channel since Russian imports were halted=3
+   damage to the cable and pipeline damage happened at two different spots=3
+   only direct link to the wider European Union's gas network=3
+   underwater natural gas pipeline with Estonia=3
+   Baltic-connector pipeline was shut down after a sudden drop in pressure=3
+   revived concerns about energy security following the Nord Stream pipeline blasts last year=2
+
+
+Topics Assigned by Human but Not by Machine:
+Topic: Environmental and Technical Challenges=3
+
+Statistics:
+Common Topics: 6
+Topics Assigned by Human: 7
+Topics Assigned by Machine: 6
+Common Keywords: 2
+Keywords Assigned by Human: 32
+Keywords Assigned by Machine: 35

@@ -1,0 +1,99 @@
+Topic: Suspected Sabotage=5=4
+  Common Keywords:
+   damage to a gas pipeline=3=2
+
+  Keywords Assigned by Human but Not by Machine:
+   incident was due to “outside activity”=3
+   they were looking into the Chinese vessel, the NewNew Polar Bear, and a Russian-flagged ship, the Sevmorput=3
+   as well as other vessels present=3
+   A Norwegian Navy ship shadowed a Chinese container ship investigated over damage to a gas pipeline=2
+   KV Sortland followed the NewNew Polar Bear=2
+
+  Keywords Assigned by Machine but Not by Human:
+   Baltic Sea pipeline=2
+   could have been deliberate=3
+   investigated over damage=1
+   Nord Stream sabotage=3
+   outside activity caused the damage=3
+
+
+Topic: Infrastructure Vulnerability=5=5
+  Keywords Assigned by Human but Not by Machine:
+   incident was due to “outside activity”=3
+   protect its offshore oil and gas platform=2
+   offshore oil and gas platforms=2
+   Baltic Sea pipeline was damaged=3
+   near Norway’s gas pipelines and key oil platforms=3
+   network of gas pipelines under the North Sea, which spread over 8,000 km (4,971 miles)=2
+
+  Keywords Assigned by Machine but Not by Human:
+   Baltic Sea pipeline damaged=3
+   most of Norway’s exporting gas pipelines=3
+   Norwegian Navy deployed to protect offshore oil and gas platforms=3
+   network of gas pipelines under the North Sea=3
+   monitoring of shipping activities=1
+   maritime activities in the region=2
+
+
+Topic: International Cooperation=3=3
+  Keywords Assigned by Human but Not by Machine:
+   shadowed the NewNew Polar Bear=2
+   The Norwegian military’s operational command center declined to comment on Monday’s operation=2
+   Oslo is closely monitoring the progress of the probe in the Baltic Sea incident=2
+   vessel tracking data showed=2
+   monitoring of shipping activities=2
+   maritime activities in the region=2
+   sailed along the western coast of Norway on Monday=2
+
+  Keywords Assigned by Machine but Not by Human:
+   monitoring the progress of the probe=1
+   investigated over damage to a gas pipeline=2
+   Norwegian Navy shadowed the Chinese vessel=3
+   Finnish investigators looking into the Chinese vessel=3
+
+
+Topic: NATO Response=3=3
+  Keywords Assigned by Human but Not by Machine:
+   Norwegian Navy monitoring=3
+   NATO response context after Nord Stream sabotage=3
+   coast guard’s role in maritime security=3
+   role in maintaining security of gas platforms=3
+
+  Keywords Assigned by Machine but Not by Human:
+   protect its offshore oil and gas platforms=2
+   Norway deployed its Navy=2
+   monitoring the progress of the probe=1
+   Norwegian coast guard patrol vessel=2
+   Norwegian Navy ship shadowed a Chinese vessel=3
+
+
+Topic: Energy Security=4=3
+  Keywords Assigned by Human but Not by Machine:
+   Norway, Europe’s largest gas supplier=3
+   network of gas pipelines, damage to a gas pipeline=2
+   8,000 km network of gas pipelines under the North Sea=2
+   protect its offshore oil and gas platform=2
+
+  Keywords Assigned by Machine but Not by Human:
+   network of gas pipelines under the North Sea=2
+   Norway deployed its Navy to protect its offshore oil and gas platforms=3
+   most of Norway’s exporting gas pipelines=1
+   Europe’s largest gas supplier=3
+
+
+Topics Assigned by Human but Not by Machine:
+Topic: Environmental and Technical Challenges=3
+Topic: Economic and Financial Impact=4
+
+Topics Assigned by Machine but Not by Human:
+Topic: Critical Infrastructure Weakness=3
+Topic: Covert Disruptions=2
+Topic: Allied Strategic Defence/Response=3
+
+Statistics:
+Common Topics: 5
+Topics Assigned by Human: 7
+Topics Assigned by Machine: 8
+Common Keywords: 1
+Keywords Assigned by Human: 27
+Keywords Assigned by Machine: 25

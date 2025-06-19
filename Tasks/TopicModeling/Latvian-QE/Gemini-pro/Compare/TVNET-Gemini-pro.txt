@@ -1,0 +1,123 @@
+[Topic] Infrastructure vulnerability  
+[Weight] 5  
+
+[Keywords]  
+Bojāts sakaru kabelis starp Zviedriju un Igauniju = 3  
+Kritiskās zemūdens infrastruktūras neaizsargātība = 3  
+Bojājuma vieta = 2  
+Kabeļa bojājumi = 2  
+
+[Total Weight] 15  
+[Normalized Significance] 7.5  
+
+---
+
+[Topic] Damage  
+[Weight] 4  
+
+[Keywords]  
+Bojāts = 3  
+Bojājumi = 2  
+Bojājuma vieta = 2  
+Samazinājās kabeļa pārraides jauda = 1  
+
+[Total Weight] 12  
+[Normalized Significance] 6  
+
+---
+
+[Topic] Security concern  
+[Weight] 4  
+
+[Keywords]  
+Uzraudzības un aizsardzības līmeņa paaugstināšana = 3  
+Kritiskās infrastruktūras uzraudzība un aizsardzība = 3  
+Neaizsargātība = 2  
+
+[Total Weight] 12  
+[Normalized Significance] 6  
+
+---
+
+[Topic] Communication disruption  
+[Weight] 3  
+
+[Keywords]  
+Sakaru kabelis = 2  
+Sakaru nepārtrauktība (nav ietekmēta) = 2  
+Sakaru pakalpojumu darbība = 1  
+
+[Total Weight] 8  
+[Normalized Significance] 4  
+
+---
+
+[Topic] Unexplained technical failure  
+[Weight] 3  
+
+[Keywords]  
+Incidenta cēlonis nav skaidrs = 2  
+Kabeļa pārraides jaudas samazināšanās (nezināms iemesls) = 2  
+Iespējamais iemesls = 1  
+
+[Total Weight] 8  
+[Normalized Significance] 4  
+
+---
+
+[Topic] Suspicion of damage  
+[Weight] 2  
+
+[Keywords]  
+Incidenta cēlonis nav skaidrs = 2  
+Iespējamais iemesls = 1  
+
+[Total Weight] 5  
+[Normalized Significance] 2.5  
+
+---
+
+[Topic] International cooperation  
+[Weight] 2  
+
+[Keywords]  
+Sadarbība ar Somiju un Zviedriju = 2  
+Sadarbība ar Somijas un Zviedrijas kolēģiem = 1  
+
+[Total Weight] 4  
+[Normalized Significance] 2  
+
+---
+
+[Topic] Geopolitical dynamics  
+[Weight] 2  
+
+[Keywords]  
+Sabiedrotie (Eiropas Savienība un NATO) = 2  
+
+[Total Weight] 2  
+[Normalized Significance] 1  
+
+---
+
+[Topic] Digital infrastructure instability  
+[Weight] 2  
+
+[Keywords]  
+Sakaru kabelis = 2  
+Kabeļa pārraides jaudas samazināšanās = 1  
+
+[Total Weight] 3  
+[Normalized Significance] 1.5  
+
+---
+
+[Topic] Communication provision  
+[Weight] 1  
+
+[Keywords]  
+Sakaru pakalpojumu darbība = 1  
+Nepārtraukta sakaru nodrošināšana = 1  
+
+[Total Weight] 2  
+[Normalized Significance] 1  

@@ -1,0 +1,148 @@
+[Topic] Suspected Sabotage
+[Weight] 5
+
+[Keywords]
+damage to a natural-gas pipeline and communications cable = 3
+likely resulted from sabotage = 3
+external activity = 3
+Nord Stream pipelines blasts = 2
+deliberate attack = 2
+unusual drop in pressure = 2
+not caused by normal use or pressure fluctuations = 1
+unexplained failures affecting European infrastructure = 1
+
+[Total Weight] 17
+[Normalized Significance] 8.5
+
+---
+
+[Topic] Infrastructure Vulnerability
+[Weight] 5
+
+[Keywords]
+damage to underwater infrastructure = 3
+critical infrastructure = 3
+Balticconnector between Finland and Estonia = 3
+communications cable between Finland and Estonia = 2
+telecommunications cable linking Estonia to Finland = 2
+rupture of cable = 2
+vulnerability of Europe’s infrastructure = 1
+
+[Total Weight] 16
+[Normalized Significance] 8.0
+
+---
+
+[Topic] Economic and Financial Impact
+[Weight] 3
+
+[Keywords]
+benchmark European gas futures contract rose 12% = 3
+jump in energy prices = 3
+repair work may take at least several months = 2
+Finnish gas supply secured through a floating liquefied natural-gas terminal = 2
+gas delivery for winter months = 1
+
+[Total Weight] 11
+[Normalized Significance] 5.5
+
+---
+
+[Topic] NATO Response
+[Weight] 4
+
+[Keywords]
+NATO Secretary-General Jens Stoltenberg = 3
+NATO sharing information and stands ready to support = 3
+NATO members Finland and Estonia = 2
+Finland joined NATO = 2
+NATO's involvement = 1
+
+[Total Weight] 11
+[Normalized Significance] 5.5
+
+---
+
+[Topic] International Cooperation
+[Weight] 3
+
+[Keywords]
+cooperation between Finland and Estonia = 3
+Finnish and Estonian gas authorities launched an operation = 3
+Finnish Prime Minister Petteri Orpo = 2
+Estonian Defense Minister Hanno Pevkur = 2
+NATO's support = 1
+
+[Total Weight] 11
+[Normalized Significance] 5.5
+
+---
+
+[Topic] Environmental and Technical Challenges
+[Weight] 3
+
+[Keywords]
+very little environmental damage to the Baltic Sea = 3
+no explosion = 3
+gas leak caused by the damage to the pipeline = 2
+seismic monitoring system didn’t detect any seismological events = 2
+repair work may take at least several months = 1
+
+[Total Weight] 11
+[Normalized Significance] 5.5
+
+---
+
+[Topic] Supply Chain Stability
+[Weight] 2
+
+[Keywords]
+Finnish gas supply secured = 3
+Estonian gas consumers receiving gas from Latvia = 3
+gas delivery for winter months = 2
+Balticconnector pipeline closure not expected to affect supply = 1
+
+[Total Weight] 9
+[Normalized Significance] 4.5
+
+---
+
+[Topic] Covert Disruptions
+[Weight] 2
+
+[Keywords]
+sabotage = 3
+unexplained failures affecting European infrastructure = 3
+deliberate attack = 2
+external activity = 1
+
+[Total Weight] 9
+[Normalized Significance] 4.5
+
+---
+
+[Topic] Global Diplomatic Engagement
+[Weight] 2
+
+[Keywords]
+Finland and Estonia said damage likely sabotage = 3
+NATO Secretary-General Jens Stoltenberg = 3
+Finnish Prime Minister Petteri Orpo = 2
+Estonian Defense Minister Hanno Pevkur = 1
+
+[Total Weight] 9
+[Normalized Significance] 4.5
+
+---
+
+[Topic] Critical Infrastructure Weakness
+[Weight] 2
+
+[Keywords]
+damage to natural-gas pipeline and communications cable = 3
+Balticconnector between Finland and Estonia = 3
+telecommunications cable linking Estonia to Finland = 2
+rupture of cable = 1
+
+[Total Weight] 9
+[Normalized Significance] 4.5

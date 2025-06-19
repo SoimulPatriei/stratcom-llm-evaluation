@@ -1,0 +1,357 @@
+### OUTPUT:
+
+`# LOCATION Entities Analysis:`
+
+1. Entity: `Finland` (Category: LOCATION)
+    - Aspect: `Geopolitical Importance/Significance`
+      - Excerpt: "Finland's president said in a statement Tuesday."
+      - Explanation: The involvement of Finland's president indicates the geopolitical significance of the incident.
+      - Confidence Level: `high`
+      - Polarity: `neutral`
+      - Polarity Score: `0.5`
+
+    - Aspect: `Economic Impact/Value`
+      - Excerpt: "The Baltic Connector pipeline, which supplies Finland with gas from Estonia, and also carries telecoms links, was closed on Sunday after a leak was discovered."
+      - Explanation: The mention of the pipeline supplying gas to Finland suggests economic value and potential economic impact.
+      - Confidence Level: `high`
+      - Polarity: `negative`
+      - Polarity Score: `0.3`
+
+    - Aspect: `Security Concerns/Status`
+      - Excerpt: "It is likely that the damage caused to the gas pipeline and the telecommunications cable is the result of external activity."
+      - Explanation: The potential sabotage indicates security concerns.
+      - Confidence Level: `high`
+      - Polarity: `negative`
+      - Polarity Score: `0.2`
+
+    - Aspect: `Strategic Importance`
+      - Excerpt: "NATO Secretary General Jens Stoltenberg wrote on X, formerly Twitter, that he had spoken with Niinistö about the damage to the Baltic Connector and is sharing information with its allies."
+      - Explanation: NATO's involvement highlights the strategic importance of the incident.
+      - Confidence Level: `high`
+      - Polarity: `neutral`
+      - Polarity Score: `0.5`
+
+    - Aspect: `Infrastructure`
+      - Excerpt: "Repairing damage to the pipeline could take 'at least several months' depending on the nature of the damage."
+      - Explanation: The mention of repairing the pipeline indicates the presence and importance of infrastructure.
+      - Confidence Level: `high`
+      - Polarity: `negative`
+      - Polarity Score: `0.3`
+
+    - Aspect: `International Relations`
+      - Excerpt: "NATO Secretary General Jens Stoltenberg wrote on X, formerly Twitter, that he had spoken with Niinistö about the damage to the Baltic Connector and is sharing information with its allies."
+      - Explanation: The involvement of NATO and the mention of international allies indicate international relations.
+      - Confidence Level: `high`
+      - Polarity: `neutral`
+      - Polarity Score: `0.5`
+
+2. Entity: `Estonia` (Category: LOCATION)
+    - Aspect: `Economic Impact/Value`
+      - Excerpt: "The Baltic Connector pipeline, which supplies Finland with gas from Estonia, and also carries telecoms links, was closed on Sunday after a leak was discovered."
+      - Explanation: The pipeline supplying gas from Estonia indicates economic value.
+      - Confidence Level: `high`
+      - Polarity: `negative`
+      - Polarity Score: `0.3`
+
+    - Aspect: `Security Concerns/Status`
+      - Excerpt: "It is likely that the damage caused to the gas pipeline and the telecommunications cable is the result of external activity."
+      - Explanation: The potential sabotage indicates security concerns.
+      - Confidence Level: `high`
+      - Polarity: `negative`
+      - Polarity Score: `0.2`
+
+    - Aspect: `Infrastructure`
+      - Excerpt: "The Baltic Connector pipeline, which supplies Finland with gas from Estonia, and also carries telecoms links, was closed on Sunday after a leak was discovered."
+      - Explanation: The mention of the pipeline and telecoms links indicates the presence of infrastructure.
+      - Confidence Level: `high`
+      - Polarity: `negative`
+      - Polarity Score: `0.3`
+
+3. Entity: `Baltic Sea` (Category: LOCATION)
+    - Aspect: `Security Concerns/Status`
+      - Excerpt: "A gas pipeline in the Baltic Sea that was shut due to an apparent leak, was likely 'caused by external activity,' Finland's president said in a statement Tuesday."
+      - Explanation: The potential sabotage in the Baltic Sea indicates security concerns.
+      - Confidence Level: `high`
+      - Polarity: `negative`
+      - Polarity Score: `0.2`
+
+    - Aspect: `Geographical Features`
+      - Excerpt: "A gas pipeline in the Baltic Sea that was shut due to an apparent leak."
+      - Explanation: The mention of the Baltic Sea indicates geographical features.
+      - Confidence Level: `high`
+      - Polarity: `neutral`
+      - Polarity Score: `0.5`
+
+4. Entity: `Baltic Connector pipeline` (Category: LOCATION)
+    - Aspect: `Economic Impact/Value`
+      - Excerpt: "The Baltic Connector pipeline, which supplies Finland with gas from Estonia, and also carries telecoms links, was closed on Sunday after a leak was discovered."
+      - Explanation: The pipeline supplying gas and telecoms links indicates economic value.
+      - Confidence Level: `high`
+      - Polarity: `negative`
+      - Polarity Score: `0.3`
+
+    - Aspect: `Security Concerns/Status`
+      - Excerpt: "It is likely that the damage caused to the gas pipeline and the telecommunications cable is the result of external activity."
+      - Explanation: The potential sabotage indicates security concerns.
+      - Confidence Level: `high`
+      - Polarity: `negative`
+      - Polarity Score: `0.2`
+
+    - Aspect: `Infrastructure`
+      - Excerpt: "The Baltic Connector pipeline, which supplies Finland with gas from Estonia, and also carries telecoms links, was closed on Sunday after a leak was discovered."
+      - Explanation: The mention of the pipeline and telecoms links indicates the presence of infrastructure.
+      - Confidence Level: `high`
+      - Polarity: `negative`
+      - Polarity Score: `0.3`
+
+5. Entity: `Helsinki` (Category: LOCATION)
+    - Aspect: `International Relations`
+      - Excerpt: "investigations were continuing between authorities in Helsinki and Tallinn."
+      - Explanation: The involvement of authorities in Helsinki indicates international relations.
+      - Confidence Level: `medium`
+      - Polarity: `neutral`
+      - Polarity Score: `0.5`
+
+6. Entity: `Tallinn` (Category: LOCATION)
+    - Aspect: `International Relations`
+      - Excerpt: "investigations were continuing between authorities in Helsinki and Tallinn."
+      - Explanation: The involvement of authorities in Tallinn indicates international relations.
+      - Confidence Level: `medium`
+      - Polarity: `neutral`
+      - Polarity Score: `0.5`
+
+### OUTPUT:
+
+`# ACTOR Entities Analysis:`
+
+1. Entity: `Finland's president` (Category: ACTOR)
+    - Aspect: `Communication`
+      - Excerpt: "Finland's president said in a statement Tuesday"
+      - Explanation: This excerpt indicates that Finland's president has made a public statement, demonstrating their ability to convey information.
+      - Confidence Level: `high`
+      - Polarity: `positive`
+      - Polarity Score: `0.8`
+    - Aspect: `Leadership/Authority`
+      - Excerpt: "It is likely that the damage caused to the gas pipeline and the telecommunications cable is the result of external activity," said President Sauli Niinistö
+      - Explanation: This excerpt shows the president making a significant statement about a critical incident, demonstrating their leadership and authority.
+      - Confidence Level: `high`
+      - Polarity: `positive`
+      - Polarity Score: `0.9`
+    - Aspect: `Investigation/Analysis`
+      - Excerpt: "The cause of the leak was not yet clear and that investigations were continuing between authorities in Helsinki and Tallinn."
+      - Explanation: This excerpt indicates the president's involvement in ongoing investigations, showcasing their role in analyzing the situation.
+      - Confidence Level: `medium`
+      - Polarity: `neutral`
+      - Polarity Score: `0.5`
+
+2. Entity: `Sauli Niinistö` (Category: ACTOR)
+    - Aspect: `Communication`
+      - Excerpt: "It is likely that the damage caused to the gas pipeline and the telecommunications cable is the result of external activity," said President Sauli Niinistö
+      - Explanation: This excerpt shows Sauli Niinistö making a public statement, indicating their ability to communicate.
+      - Confidence Level: `high`
+      - Polarity: `positive`
+      - Polarity Score: `0.8`
+    - Aspect: `Leadership/Authority`
+      - Excerpt: "It is likely that the damage caused to the gas pipeline and the telecommunications cable is the result of external activity," said President Sauli Niinistö
+      - Explanation: This excerpt demonstrates Sauli Niinistö's leadership role in addressing a significant issue.
+      - Confidence Level: `high`
+      - Polarity: `positive`
+      - Polarity Score: `0.9`
+
+3. Entity: `NATO Secretary General Jens Stoltenberg` (Category: ACTOR)
+    - Aspect: `International Relations`
+      - Excerpt: "NATO Secretary General Jens Stoltenberg wrote on X, formerly Twitter, that he had spoken with Niinistö about the damage to the Baltic Connector and is sharing information with its allies."
+      - Explanation: This excerpt shows Stoltenberg's involvement in global politics and diplomacy, discussing the incident with other leaders.
+      - Confidence Level: `high`
+      - Polarity: `positive`
+      - Polarity Score: `0.9`
+    - Aspect: `Communication`
+      - Excerpt: "NATO Secretary General Jens Stoltenberg wrote on X, formerly Twitter, that he had spoken with Niinistö about the damage to the Baltic Connector and is sharing information with its allies."
+      - Explanation: This excerpt indicates Stoltenberg's ability to convey information and make public statements.
+      - Confidence Level: `high`
+      - Polarity: `positive`
+      - Polarity Score: `0.8`
+
+4. Entity: `Gasgrid Finland` (Category: ACTOR)
+    - Aspect: `Investigation/Analysis`
+      - Excerpt: "The Finnish operator gave no reason for the suspected leak and said it was investigating the incident together with Elering."
+      - Explanation: This excerpt shows Gasgrid Finland's involvement in investigating the incident, demonstrating their analytical capability.
+      - Confidence Level: `high`
+      - Polarity: `neutral`
+      - Polarity Score: `0.5`
+    - Aspect: `Crisis Management`
+      - Excerpt: "The valves in the offshore pipeline are now closed and the leak is thus stopped."
+      - Explanation: This excerpt indicates Gasgrid Finland's ability to handle an emergency situation by taking immediate action to stop the leak.
+      - Confidence Level: `high`
+      - Polarity: `positive`
+      - Polarity Score: `0.7`
+
+5. Entity: `Estonia's Elering` (Category: ACTOR)
+    - Aspect: `Investigation/Analysis`
+      - Excerpt: "The Finnish operator gave no reason for the suspected leak and said it was investigating the incident together with Elering."
+      - Explanation: This excerpt shows Estonia's Elering's involvement in the investigation, demonstrating their analytical capability.
+      - Confidence Level: `high`
+      - Polarity: `neutral`
+      - Polarity Score: `0.5`
+    - Aspect: `Crisis Management`
+      - Excerpt: "System operators Gasgrid Finland and Estonia's Elering said they noted an unusual drop in pressure in the pipeline shortly before 02:00 EET Sunday morning, after which they shut down the gas flow."
+      - Explanation: This excerpt indicates Estonia's Elering's ability to handle an emergency situation by taking immediate action to shut down the gas flow.
+      - Confidence Level: `high`
+      - Polarity: `positive`
+      - Polarity Score: `0.7`
+
+```
+# EVENT Entities Analysis:
+1. Entity: `Drop in pressure` (Category: EVENT)
+    - Aspect: `Cause/Origin`
+      - Excerpt: `Engineers first noticed a drop in pressure in the early hours of Sunday morning and decided to cut off the flow of gas.`
+      - Explanation: `The drop in pressure was the initial observation that triggered subsequent events.`
+      - Confidence Level: `high`
+      - Polarity: `negative`
+      - Polarity Score: `0.2`
+    - Aspect: `Timing`
+      - Excerpt: `in the early hours of Sunday morning`
+      - Explanation: `The specific time when the drop in pressure was first noticed.`
+      - Confidence Level: `high`
+      - Polarity: `neutral`
+      - Polarity Score: `0.5`
+    - Aspect: `Response/Resolution Efforts`
+      - Excerpt: `decided to cut off the flow of gas.`
+      - Explanation: `The immediate action taken in response to the drop in pressure.`
+      - Confidence Level: `high`
+      - Polarity: `negative`
+      - Polarity Score: `0.3`
+
+2. Entity: `Cut off gas flow` (Category: EVENT)
+    - Aspect: `Cause/Origin`
+      - Excerpt: `Engineers first noticed a drop in pressure in the early hours of Sunday morning and decided to cut off the flow of gas.`
+      - Explanation: `The decision to cut off the gas flow was in response to the drop in pressure.`
+      - Confidence Level: `high`
+      - Polarity: `negative`
+      - Polarity Score: `0.3`
+    - Aspect: `Participants/Responsibility`
+      - Excerpt: `Engineers first noticed a drop in pressure in the early hours of Sunday morning and decided to cut off the flow of gas.`
+      - Explanation: `Engineers were responsible for the decision to cut off the gas flow.`
+      - Confidence Level: `high`
+      - Polarity: `neutral`
+      - Polarity Score: `0.5`
+    - Aspect: `Timing`
+      - Excerpt: `in the early hours of Sunday morning`
+      - Explanation: `The time when the decision to cut off the gas flow was made.`
+      - Confidence Level: `high`
+      - Polarity: `neutral`
+      - Polarity Score: `0.5`
+
+3. Entity: `Leak in Baltic Connector pipeline` (Category: EVENT)
+    - Aspect: `Cause/Origin`
+      - Excerpt: `A gas pipeline in the Baltic Sea that was shut due to an apparent leak, was likely "caused by external activity," Finland's president said in a statement Tuesday.`
+      - Explanation: `The leak was suspected to be caused by external activity.`
+      - Confidence Level: `high`
+      - Polarity: `negative`
+      - Polarity Score: `0.2`
+    - Aspect: `Impact/Consequences`
+      - Excerpt: `The Baltic Connector pipeline, which supplies Finland with gas from Estonia, and also carries telecoms links, was closed on Sunday after a leak was discovered.`
+      - Explanation: `The leak resulted in the closure of the pipeline.`
+      - Confidence Level: `high`
+      - Polarity: `negative`
+      - Polarity Score: `0.2`
+    - Aspect: `Location`
+      - Excerpt: `A gas pipeline in the Baltic Sea`
+      - Explanation: `The geographical location of the leak.`
+      - Confidence Level: `high`
+      - Polarity: `neutral`
+      - Polarity Score: `0.5`
+    - Aspect: `Severity/Intensity`
+      - Excerpt: `The Baltic Connector pipeline, which supplies Finland with gas from Estonia, and also carries telecoms links, was closed on Sunday after a leak was discovered.`
+      - Explanation: `The leak was significant enough to warrant the closure of the pipeline.`
+      - Confidence Level: `high`
+      - Polarity: `negative`
+      - Polarity Score: `0.2`
+    - Aspect: `Response/Resolution Efforts`
+      - Excerpt: `The valves in the offshore pipeline are now closed and the leak is thus stopped.`
+      - Explanation: `The immediate action taken to stop the leak.`
+      - Confidence Level: `high`
+      - Polarity: `neutral`
+      - Polarity Score: `0.5`
+
+4. Entity: `External activity causing damage` (Category: EVENT)
+    - Aspect: `Cause/Origin`
+      - Excerpt: `The Baltic Connector pipeline, which supplies Finland with gas from Estonia, and also carries telecoms links, was closed on Sunday after a leak was discovered.`
+      - Explanation: `The leak was suspected to be caused by external activity.`
+      - Confidence Level: `high`
+      - Polarity: `negative`
+      - Polarity Score: `0.2`
+    - Aspect: `Severity/Intensity`
+      - Excerpt: `It is likely that the damage caused to the gas pipeline and the telecommunications cable is the result of external activity`
+      - Explanation: `The damage was significant and affected both the gas pipeline and telecommunications cable.`
+      - Confidence Level: `high`
+      - Polarity: `negative`
+      - Polarity Score: `0.2`
+    - Aspect: `International Impact`
+      - Excerpt: `NATO Secretary General Jens Stoltenberg wrote on X, formerly Twitter, that he had spoken with Niinistö about the damage to the Baltic Connector and is sharing information with its allies.`
+      - Explanation: `The incident has international implications involving NATO.`
+      - Confidence Level: `high`
+      - Polarity: `negative`
+      - Polarity Score: `0.3`
+    - Aspect: `Public Reaction/Communication`
+      - Excerpt: `President Sauli Niinistö, stressing that the cause of the leak was not yet clear and that investigations were continuing between authorities in Helsinki and Tallinn.`
+      - Explanation: `Public statements and ongoing communication about the incident.`
+      - Confidence Level: `high`
+      - Polarity: `neutral`
+      - Polarity Score: `0.5`
+
+5. Entity: `Investigation` (Category: EVENT)
+    - Aspect: `Cause/Origin`
+      - Excerpt: `The Finnish operator gave no reason for the suspected leak and said it was investigating the incident together with Elering.`
+      - Explanation: `The investigation is focused on determining the cause of the leak.`
+      - Confidence Level: `high`
+      - Polarity: `negative`
+      - Polarity Score: `0.3`
+    - Aspect: `Participants/Responsibility`
+      - Excerpt: `Gasgrid Finland and Estonia's Elering said they noted an unusual drop in pressure in the pipeline shortly before 02:00 EET Sunday morning, after which they shut down the gas flow.`
+      - Explanation: `Gasgrid Finland and Elering are responsible for the investigation.`
+      - Confidence Level: `high`
+      - Polarity: `neutral`
+      - Polarity Score: `0.5`
+    - Aspect: `Response/Resolution Efforts`
+      - Excerpt: `The investigation will continue.`
+      - Explanation: `Ongoing efforts to investigate the incident.`
+      - Confidence Level: `high`
+      - Polarity: `neutral`
+      - Polarity Score: `0.5`
+
+6. Entity: `Repair to pipeline` (Category: EVENT)
+    - Aspect: `Severity/Intensity`
+      - Excerpt: `Repairing damage to the pipeline could take "at least several months" depending on the nature of the damage.`
+      - Explanation: `The repair process is expected to be extensive and time-consuming.`
+      - Confidence Level: `high`
+      - Polarity: `negative`
+      - Polarity Score: `0.2`
+    - Aspect: `Timing`
+      - Excerpt: `Repairing damage to the pipeline could take "at least several months"`
+      - Explanation: `The expected duration of the repair process.`
+      - Confidence Level: `high`
+      - Polarity: `negative`
+      - Polarity Score: `0.3`
+    - Aspect: `Response/Resolution Efforts`
+      - Excerpt: `Repairing damage to the pipeline could take "at least several months"`
+      - Explanation: `The planned actions to repair the pipeline.`
+      - Confidence Level: `high`
+      - Polarity: `neutral`
+      - Polarity Score: `0.5`
+```
+
+### OUTPUT:
+
+`## Entities Without Aspect Terms:`
+- Location: `['Baltic Sea']`
+- Actor: `[]`
+- Event: `[]`
+
+`## Significant Findings:`
+- The Baltic Connector pipeline, critical for gas supply between Finland and Estonia, was suspected to be damaged due to external activity, indicating potential sabotage and significant security concerns.
+- The incident has international implications, as evidenced by the involvement of NATO and ongoing investigations between authorities in Helsinki and Tallinn.
+- The repair of the pipeline is expected to take several months, highlighting the severity of the damage and its impact on the region's infrastructure and economic stability.
+
+`## Conclusion:`
+Implicit aspects such as economic impact, security concerns, and strategic importance enhance our understanding of the geopolitical situation described in the article. The suspected sabotage of the Baltic Connector pipeline not only underscores the vulnerability of critical infrastructure but also highlights the potential for international tension and cooperation in response to hostile situations. The involvement of NATO and the ongoing investigations further illustrate the strategic significance of the incident and the necessity of robust international collaboration to address such threats.

@@ -1,0 +1,191 @@
+# LOCATION Entities Analysis:
+1. Entity: Baltijas jūra (Category: LOCATION)  
+    - Aspect: Infrastructure  
+      - Excerpt: "Bojāts sakaru kabelis starp Zviedriju un Igauniju Baltijas jūrā..."  
+      - Explanation: This excerpt implies that the Baltic Sea is a route for infrastructure such as communication cables connecting Sweden and Estonia, which has currently been damaged.  
+      - Confidence Level: High  
+      - Polarity: Negative  
+      - Polarity Score: 0.3  
+
+    - Aspect: Security Concerns/Status  
+      - Excerpt: "Pagājušās nedēļas incidenti parāda kritiskās zemūdens infrastruktūras neaizsargātību..."  
+      - Explanation: This excerpt shows the vulnerability of the underwater infrastructure in the Baltic Sea, indicating security concerns.  
+      - Confidence Level: High  
+      - Polarity: Negative  
+      - Polarity Score: 0.3  
+
+2. Entity: Zviedrija (Category: LOCATION)  
+    - Aspect: International Relations  
+      - Excerpt: "Uzraudzības un aizsardzības līmeņa paaugstināšanai ir nepieciešama nozīmīga sadarbība ar mūsu kolēģiem no Somijas un Zviedrijas..."  
+      - Explanation: This excerpt emphasizes the need for significant cooperation with Sweden for enhancing surveillance and defense levels, signifying the international relations aspect.  
+      - Confidence Level: High  
+      - Polarity: Positive  
+      - Polarity Score: 0.9  
+
+3. Entity: Igaunija (Category: LOCATION)  
+    - Aspect: Infrastructure  
+      - Excerpt: "Kabelis pieder Zviedrijas uzņēmumam, kas dažu dienu laikā atjaunoja kabeļa maksimālo pārraides jaudu, un sakaru nepārtrauktību tas nav ietekmējis."  
+      - Explanation: This excerpt shows the resilience of the infrastructure in Estonia, as despite the damage to the cable, the communications were not disrupted.  
+      - Confidence Level: High  
+      - Polarity: Positive  
+      - Polarity Score: 0.8  
+
+    - Aspect: Security Concerns/Status  
+      - Excerpt: "Pēc Igaunijas Ekonomikas un komunikāciju ministrijas sniegtajām ziņām, bojājuma vieta atrodas Igaunijas teritoriālajos ūdeņos..."  
+      - Explanation: This excerpt highlights a security concern as the damage to the cable occurred in the territorial waters of Estonia.  
+      - Confidence Level: Medium  
+      - Polarity: Negative  
+      - Polarity Score: 0.4  
+
+4. Entity: Igaunijas teritoriālie ūdeņi (Category: LOCATION)  
+    - Aspect: Security Concerns/Status  
+      - Excerpt: "Pēc Igaunijas Ekonomikas un komunikāciju ministrijas sniegtajām ziņām, bojājuma vieta atrodas Igaunijas teritoriālajos ūdeņos..."  
+      - Explanation: This excerpt implies that Estonia's territorial waters have security risks, as evidenced by the damaged cable.  
+      - Confidence Level: High  
+      - Polarity: Negative  
+      - Polarity Score: 0.3  
+
+5. Entity: Latvija (Category: LOCATION)  
+    - Aspect: Infrastructure  
+      - Excerpt: "Sakari ir nepārtraukti nodrošināti, jo Igaunijai ir vairāki savienojumi, un bojājumu gadījumā ir iespējams izmantot vai nu alternatīvi funkcionējošus zemūdens kabeļus, vai sauszemes kabeļus ar Latviju."  
+      - Explanation: This excerpt suggests that Latvia is part of the infrastructure network for communications, acting as an alternative in case of damage.  
+      - Confidence Level: High  
+      - Polarity: Positive  
+      - Polarity Score: 0.8  
+
+6. Entity: Eiropas Savienība (Category: LOCATION)  
+    - Aspect: International Relations  
+      - Excerpt: "...kā arī ar sabiedrotajiem Eiropas Savienībā un NATO, kuri arī ir piedāvājuši savu palīdzību."  
+      - Explanation: This excerpt implies that the European Union has offered assistance, indicating active international relations.  
+      - Confidence Level: High  
+      - Polarity: Positive  
+      - Polarity Score: 0.9  
+
+
+# ACTOR Entities Analysis:
+1. Entity: Zviedrijas aizsardzības ministrs Pols Jonsons (Category: ACTOR)
+    - Aspect: Communication
+      - Excerpt: "Bojāts sakaru kabelis starp Zviedriju un Igauniju Baltijas jūrā, otrdien paziņojis Zviedrijas aizsardzības ministrs Pols Jonsons, vēsta Igaunijas laikraksts "Postimees"."
+      - Explanation: This excerpt implies that Zviedrijas aizsardzības ministrs Pols Jonsons has made a public statement about the damaged communication cable between Sweden and Estonia.
+      - Confidence Level: High
+      - Polarity: Neutral
+      - Polarity Score: 0.5
+    - Aspect: Leadership/Authority
+      - Excerpt: "Zviedrijas rīcībā ir informācija, kas liecina, ka bojāts komunikāciju kabelis, kas savieno abas valstis, taču šā incidenta cēlonis nav skaidrs, īpaši sasauktā preses konferencē Stokholmā sacīja Jonsons."
+      - Explanation: The excerpt indicates that Zviedrijas aizsardzības ministrs Pols Jonsons has the authority to hold a press conference and make statements about the incident.
+      - Confidence Level: High
+      - Polarity: Neutral
+      - Polarity Score: 0.5
+
+2. Entity: Igaunijas Ekonomikas un komunikāciju ministrija (Category: ACTOR)
+    - Aspect: Communication
+      - Excerpt: "Pēc Igaunijas Ekonomikas un komunikāciju ministrijas sniegtajām ziņām, bojājuma vieta atrodas Igaunijas teritoriālajos ūdeņos aptuveni 50 kilometru attālumā no Hījumā salas Zviedrijas virzienā."
+      - Explanation: The Igaunijas Ekonomikas un komunikāciju ministrija has communicated information about the location of the damage.
+      - Confidence Level: High
+      - Polarity: Neutral
+      - Polarity Score: 0.5
+    - Aspect: Investigation/Analysis
+      - Excerpt: "Kabeļa īpašnieks veic tā remontu, un šī procesa laikā sadarbībā ar Somiju un Zviedriju tiks izpētīts iespējamais iemesls, kā arī tas, vai tas varētu būt saistīts ar Igaunijas-Somijas sakaru kabeļa un gāzesvada bojājumiem," sacīts ministrijas paziņojumā."
+      - Explanation: The Igaunijas Ekonomikas un komunikāciju ministrija is part of the investigation process into the cause of the cable damage and its possible connection to other damages.
+      - Confidence Level: High
+      - Polarity: Neutral
+      - Polarity Score: 0.5
+
+3. Entity: Igaunijas Patērētāju aizsardzības un tehniskā regulējuma pārvalde (Category: ACTOR)
+    - Aspect: Communication
+      - Excerpt: "Pirmdien ministrija un Igaunijas Patērētāju aizsardzības un tehniskā regulējuma pārvalde saņēma informāciju, ka Somu līcī pārraides jauda sakaru kabelim starp Igauniju un Zviedriju ir samazinājusies, pavēstīja ministrija."
+      - Explanation: The Igaunijas Patērētāju aizsardzības un tehniskā regulējuma pārvalde is involved in receiving information about the reduced transmission power of the communication cable. This implies their involvement in communication about this incident.
+      - Confidence Level: High
+      - Polarity: Neutral
+      - Polarity Score: 0.5
+
+(And so on for the remaining ACTOR entities...)
+
+# EVENT Entities Analysis:
+
+1. Entity: Bojāts sakaru kabelis (Category: EVENT)
+    - Aspect: Cause/Origin
+        - Excerpt: "Zviedrijas rīcībā ir informācija, kas liecina, ka bojāts komunikāciju kabelis, kas savieno abas valstis, taču šā incidenta cēlonis nav skaidrs."
+        - Explanation: The cause of the damaged communication cable between Sweden and Estonia is unclear, and the responsible parties are conducting an investigation.
+        - Confidence Level: High
+        - Polarity: Negative
+        - Polarity Score: 0.2
+    - Aspect: Impact/Consequences
+        - Excerpt: "Sakaru nepārtrauktību tas nav ietekmējis."
+        - Explanation: Despite the damage to the cable, communications were not interrupted, indicating that the impact was not severe.
+        - Confidence Level: High
+        - Polarity: Neutral
+        - Polarity Score: 0.7
+    - Aspect: Location
+        - Excerpt: "bojājuma vieta atrodas Igaunijas teritoriālajos ūdeņos aptuveni 50 kilometru attālumā no Hījumā salas Zviedrijas virzienā."
+        - Explanation: The location of the damaged cable is specified as being within Estonian territorial waters, approximately 50 kilometers away from the island of Hiiumaa in the direction of Sweden.
+        - Confidence Level: High
+        - Polarity: Neutral
+        - Polarity Score: 0.7
+    - Aspect: Response/Resolution Efforts
+        - Excerpt: "Kabeļa īpašnieks veic tā remontu."
+        - Explanation: The owner of the cable is undertaking its repair, demonstrating their response and resolution efforts for the situation.
+        - Confidence Level: High
+        - Polarity: Positive
+        - Polarity Score: 0.8
+    - Aspect: Infrastructure Involvement
+        - Excerpt: "Bojāts sakaru kabelis starp Zviedriju un Igauniju Baltijas jūrā."
+        - Explanation: This event involves the damage to the communication cable, which is a critical part of the infrastructure between Sweden and Estonia.
+        - Confidence Level: High
+        - Polarity: Negative
+        - Polarity Score: 0.2
+
+2. Entity: cēloņa izpēte (Category: EVENT)
+    - Aspect: Participants/Responsibility
+        - Excerpt: "Zviedrijas aizsardzības ministrs Pols Jonsons"
+        - Explanation: The Swedish Defense Minister, Pols Jonsons, is involved in the investigation of the event's cause, indicating his responsibility and participation in the event.
+        - Confidence Level: High
+        - Polarity: Neutral
+        - Polarity Score: 0.7
+    - Aspect: Timing
+        - Excerpt: "2023. gada 17. oktobris 17:58"
+        - Explanation: The time of the announcement about the investigation into the cause of the damage is specified as October 17, 2023.
+        - Confidence Level: High
+        - Polarity: Neutral
+        - Polarity Score: 0.7
+
+3. Entity: kabeļa remonts (Category: EVENT)
+    - Aspect: Participants/Responsibility
+        - Excerpt: "Kabeļa īpašnieks veic tā remontu."
+        - Explanation: The owner of the cable is responsible for its repair, indicating their involvement and accountability in the event.
+        - Confidence Level: High
+        - Polarity: Positive
+        - Polarity Score: 0.8
+
+4. Entity: kritiskās infrastruktūras uzraudzības un aizsardzības paaugstināšana (Category: EVENT)
+    - Aspect: Strategic Importance
+        - Excerpt: "Pagājušās nedēļas incidenti parāda kritiskās zemūdens infrastruktūras neaizsargātību un nepieciešamību risināt šo jautājumu."
+        - Explanation: The events of the past week highlight the vulnerability of critical underwater infrastructure and the need to address this issue, indicating the strategic importance of the infrastructure.
+        - Confidence Level: High
+        - Polarity: Negative
+        - Polarity Score: 0.2
+    - Aspect: Response/Resolution Efforts
+        - Excerpt: "Valdība ir devusi skaidrus norādījumus ministrijām un plāno un jau ir īstenojusi papildu pasākumus, lai pastiprinātu kritiskās infrastruktūras uzraudzību un aizsardzību gan jūrā, gan uz sauszemes."
+        - Explanation: The government has given clear instructions to ministries and has already implemented additional measures to enhance the monitoring and protection of critical infrastructure, demonstrating their response and resolution efforts.
+        - Confidence Level: High
+        - Polarity: Positive
+        - Polarity Score: 0.9
+    - Aspect: Infrastructure Involvement
+        - Excerpt: "kritiskās infrastruktūras uzraudzības un aizsardzības paaugstināšana"
+        - Explanation: This event directly involves the enhancement of monitoring and protection of critical infrastructure.
+        - Confidence Level: High
+        - Polarity: Positive
+        - Polarity Score: 0.9
+
+## Entities Without Aspect Terms:
+- Location: None
+- Actor: ['Igaunijas Patērētāju aizsardzības un tehniskā regulējuma pārvalde', 'Zviedrijas uzņēmums', 'Igaunijas - Zviedrijas uzņēmums', 'Somija', 'NATO']
+- Event: None
+
+## Significant Findings:
+- The damage to the communication cable, which is a crucial part of the infrastructure between Sweden and Estonia, occurred within the territorial waters of Estonia, marking a security concern. Despite the damage, the resilience of Estonia's infrastructure maintained uninterrupted communications.
+- The Baltic Sea, being a route for crucial infrastructure like communication cables, has been identified as vulnerable, raising security concerns. Latvia is included in the alternative network for communications in case of damage, highlighting the interconnectivity of the region's infrastructure.
+- There is a strong emphasis on international cooperation, specifically with Sweden and the European Union, for enhancing surveillance and defense levels. The European Union has even offered its assistance, indicating active and positive international relations.
+
+## Conclusion:
+The aspect-based sentiment analysis of the news article provides a more nuanced understanding of the geopolitical situation, especially concerning potential hostile situations. The damage to the communication cable within Estonian territorial waters, and the subsequent investigation, could imply a potential security threat, highlighting the vulnerability of critical infrastructure in the region. The analysis also underscores the strategic importance of international relations and alliances, as evidenced by the call for significant cooperation with Sweden and the European Union for enhanced surveillance and defense. This type of detailed analysis allows for a granular understanding of not just the events themselves, but also the actors involved, the locations impacted, and the broader geopolitical implications.

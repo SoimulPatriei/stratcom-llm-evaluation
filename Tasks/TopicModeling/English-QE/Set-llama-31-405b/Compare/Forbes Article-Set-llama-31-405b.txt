@@ -1,0 +1,177 @@
+
+[Topic] Suspected Sabotage
+[Weight] 5
+
+[Keywords]
+Chinese vessel dragged its anchor over 100 nautical miles = 3
+damage to an undersea natural gas pipeline and two telecommunications cables = 3
+Newnew Polar Bear is the prime suspect for the incident = 3
+anchor embedded in the seabed next to the damaged pipeline = 3
+human-made damage that caused a major drop in pressure = 2
+damage allegedly caused by the Chinese vessel = 2
+Finnish National Bureau of Investigation announced investigation = 1
+
+[Total Weight] 17
+[Normalized Significance] 8.5
+
+---
+
+[Topic] Infrastructure Vulnerability
+[Weight] 5
+
+[Keywords]
+undersea natural gas pipeline and two telecommunications cables damaged = 3
+disconnecting a crucial link between the Nordic and Baltic gas markets = 3
+Gulf of Finland has become a “hot topic” within NATO = 3
+Finland depends on the undersea communication and natural gas links = 3
+infrastructure under the Gulf’s waters will now connect one portion of NATO to new NATO territories = 2
+Chinese ship dragged its anchor over 100 nautical miles = 2
+damage to the gas pipeline and data cables = 1
+
+[Total Weight] 17
+[Normalized Significance] 8.5
+
+---
+
+[Topic] International Cooperation
+[Weight] 4
+
+[Keywords]
+cooperation with the Chinese authorities probing the case = 3
+Finland and Estonia formally requested to send representatives to China to investigate = 3
+NATO's involvement in the investigation = 2
+Finnish Prime Minister initiated discussions with European Commission President = 2
+Sweden confirmed damage to an undersea telecommunications cable = 1
+
+[Total Weight] 11
+[Normalized Significance] 5.5
+
+---
+
+[Topic] NATO Response
+[Weight] 4
+
+[Keywords]
+NATO has stepped up its patrols of the Baltic Sea = 3
+minehunters, maritime patrol aircraft, and drones sent to the region = 2
+NATO members Finland and Estonia = 2
+Finland joined NATO in April 2023 = 2
+NATO will likely issue statements on the matter pointing to adversarial treatment of its newest members = 1
+
+[Total Weight] 10
+[Normalized Significance] 5.0
+
+---
+
+[Topic] Economic and Financial Impact
+[Weight] 3
+
+[Keywords]
+multimillion-euro repair work = 3
+total cost of the pipeline repair work = 2
+EU covered 75% of Balticconnector’s original construction cost = 2
+disruption of gas markets = 1
+who will pick up the bill = 1
+
+[Total Weight] 9
+[Normalized Significance] 4.5
+
+---
+
+[Topic] Critical Infrastructure Weakness
+[Weight] 3
+
+[Keywords]
+undersea natural gas pipeline and two telecommunications cables damaged = 3
+disconnecting a crucial link between the Nordic and Baltic gas markets = 2
+infrastructure under the Gulf’s waters will now connect one portion of NATO to new NATO territories = 2
+Chinese ship dragged its anchor over 100 nautical miles = 1
+damage to the gas pipeline and data cables = 1
+
+[Total Weight] 9
+[Normalized Significance] 4.5
+
+---
+
+[Topic] Environmental and Technical Challenges
+[Weight] 2
+
+[Keywords]
+undersea natural gas pipeline and two telecommunications cables damaged = 2
+disconnecting a crucial link between the Nordic and Baltic gas markets = 1
+infrastructure under the Gulf’s waters will now connect one portion of NATO to new NATO territories = 1
+
+[Total Weight] 4
+[Normalized Significance] 2.0
+
+---
+
+[Topic] Technological Resilience and Ecological Issues
+[Weight] 2
+
+[Keywords]
+undersea natural gas pipeline and two telecommunications cables damaged = 2
+infrastructure under the Gulf’s waters will now connect one portion of NATO to new NATO territories = 1
+
+[Total Weight] 3
+[Normalized Significance] 1.5
+
+---
+
+[Topic] Market Stability and Financial Risks
+[Weight] 2
+
+[Keywords]
+multimillion-euro repair work = 2
+total cost of the pipeline repair work = 1
+
+[Total Weight] 3
+[Normalized Significance] 1.5
+
+---
+
+[Topic] Allied Strategic Defence/Response
+[Weight] 2
+
+[Keywords]
+NATO has stepped up its patrols of the Baltic Sea = 2
+minehunters, maritime patrol aircraft, and drones sent to the region = 1
+
+[Total Weight] 3
+[Normalized Significance] 1.5
+
+---
+
+[Topic] Global Diplomatic Engagement
+[Weight] 2
+
+[Keywords]
+cooperation with the Chinese authorities probing the case = 2
+Finland and Estonia formally requested to send representatives to China to investigate = 1
+
+[Total Weight] 3
+[Normalized Significance] 1.5
+
+---
+
+[Topic] Supply Chain Stability
+[Weight] 1
+
+[Keywords]
+multimillion-euro repair work = 1
+total cost of the pipeline repair work = 1
+
+[Total Weight] 2
+[Normalized Significance] 1.0
+
+---
+
+[Topic] Covert Disruptions
+[Weight] 1
+
+[Keywords]
+Chinese ship dragged its anchor over 100 nautical miles = 1
+damage to the gas pipeline and data cables = 1
+
+[Total Weight] 2
+[Normalized Significance] 1.0

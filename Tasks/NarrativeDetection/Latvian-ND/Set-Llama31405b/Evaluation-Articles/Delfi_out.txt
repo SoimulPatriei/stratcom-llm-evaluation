@@ -1,0 +1,54 @@
+I'll perform the narrative detection on the article provided.
+
+**Named Entity Recognition (NER)**
+
+Here are the entities extracted from the article:
+
+1. Location:
+	* Somija (0.06)
+	* Igaunija (0.05)
+	* Balticconnector (0.05)
+	* Nīderlande (0.04)
+	* Latvija (0.03)
+	* Somu jūras līcis (0.03)
+	* Paldisku (0.02)
+	* Inko (0.02)
+2. Actor:
+	* Klimata un enerģētikas ministrija (KEM) (0.06)
+	* Somijas gāzes sistēmu operators "Gasgrid" (0.05)
+	* Igaunijas operators "Elering" (0.04)
+3. Event:
+	* "Balticconnector" bojājums (0.06)
+	* Gāzes noplūde (0.05)
+	* Spiediena kritums (0.04)
+4. Timeline:
+	* 8. oktobris (0.05)
+	* 9. oktobris (0.04)
+	* 16. oktobris (0.04)
+
+**Relationship Extraction**
+
+Here are the binary semantic relationships extracted from the article:
+
+1. is_connected_to [Balticconnector, Somija, Igaunija]
+2. is_operator_of [Gasgrid, Balticconnector]
+3. is_operator_of [Elering, Balticconnector]
+4. has_impact_on [Balticconnector bojājums, dabasgāzes tirgus]
+5. has_impact_on [Gāzes noplūde, dabasgāzes cena]
+
+**Plot Discovery**
+
+Here are the main components of the plot using Freytag's Pyramid:
+
+Exposition: [Balticconnector] bojājums izraisījis dabasgāzes tirgus izmaiņas.
+Rising Action: [Gasgrid] un [Elering] paziņo par spiediena kritumu un gāzes noplūdi.
+Climax: [Balticconnector] bojājums izraisījis dabasgāzes cenu svārstības.
+Falling Action: [KEM] norāda, ka dabasgāzes cena atgriezīsies normālā līmenī.
+Resolution: [KEM] paziņo par likumprojektu "Energoapgādes izmaksu atbalsta likums", lai sniegtu atbalstu vidēji zemu un zemu ienākumu mājsaimniecībām.
+
+**Story Evolution**
+
+Here are the significant changes or deviations in the narrative:
+
+Shift Detection: Nozīmīgas izmaiņas stāstījumā notiek, kad [KEM] paziņo par likumprojektu "Energoapgādes izmaksu atbalsta likums".
+Causal Relation Extraction: [KEM] paziņojums par likumprojektu tiek dots, reaģējot uz pieaugošo dabasgāzes cenu un tās ietekmi uz vidēji zemu un zemu ienākumu mājsaimniecībām.

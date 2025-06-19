@@ -1,0 +1,123 @@
+[Topic] Suspected Sabotage
+[Weight] 5
+
+[Keywords]
+Baltic Sea gas pipeline damage = 3
+Outside activity and deliberate sabotage = 3
+Finnish investigation of Chinese vessel = 3
+Human-made damage causing pressure drop = 3
+Sevmorput and other vessels of interest = 2
+NewNew Polar Bear's anchor and radio contact = 2
+
+[Total Weight] 16
+[Normalized Significance] 8.0
+
+---
+
+[Topic] Infrastructure Vulnerability
+[Weight] 4
+
+[Keywords]
+Critical undersea infrastructure vulnerability = 3
+Baltic Sea gas pipeline between NATO members = 3
+Disconnecting gas markets and multimillion-euro repair = 3
+Damage to data cables and disruption = 2
+Securing the area and monitoring = 2
+
+[Total Weight] 13
+[Normalized Significance] 6.5
+
+---
+
+[Topic] International Cooperation
+[Weight] 4
+
+[Keywords]
+Cooperation with Chinese authorities = 3
+Finnish President's discussion with Xi Jinping = 3
+Discussions with European Commission President = 2
+International partners involved in investigation = 2
+Potential NATO involvement = 1
+
+[Total Weight] 11
+[Normalized Significance] 5.5
+
+---
+
+[Topic] Economic and Financial Impact
+[Weight] 3
+
+[Keywords]
+Multimillion-euro repair cost of the pipeline = 3
+EU funding for Balticconnector construction = 2
+Disruption of gas markets and financial burden = 2
+Cost of securing and monitoring infrastructure = 1
+
+[Total Weight] 8
+[Normalized Significance] 4.0
+
+---
+
+[Topic] Allied Strategic Defence/Response
+[Weight] 3
+
+[Keywords]
+Norwegian Navy shadowing Chinese vessel = 3
+Protecting gas pipelines and platforms = 2
+Increased security measures after Nord Stream sabotage = 2
+NATO patrols in the Baltic Sea = 2
+Collaboration with international partners = 1
+
+[Total Weight] 10
+[Normalized Significance] 5.0
+
+---
+
+[Topic] Market Stability and Financial Risks
+[Weight] 2
+
+[Keywords]
+Disruption of gas markets and potential price fluctuations = 2
+Uncertainty surrounding repair costs and financial burden = 2
+Potential impact on energy security and market stability = 1
+
+[Total Weight] 5
+[Normalized Significance] 2.5
+
+---
+
+[Topic] Global Diplomatic Engagement
+[Weight] 2
+
+[Keywords]
+Finnish President's discussion with Xi Jinping = 2
+Discussions with European Commission President = 2
+Potential international cooperation and diplomacy = 1
+
+[Total Weight] 5
+[Normalized Significance] 2.5
+
+---
+
+[Topic] Covert Disruptions
+[Weight] 2
+
+[Keywords]
+Outside activity and possible deliberate sabotage = 2
+Sevmorput and other vessels of interest = 1
+NewNew Polar Bear's anchor and radio contact = 1
+
+[Total Weight] 4
+[Normalized Significance] 2.0
+
+---
+
+[Topic] Environmental and Technical Challenges
+[Weight] 1
+
+[Keywords]
+Environmental impact of gas pipeline damage = 1
+Technical challenges of repair and monitoring = 1
+
+[Total Weight] 2
+[Normalized Significance] 1.0

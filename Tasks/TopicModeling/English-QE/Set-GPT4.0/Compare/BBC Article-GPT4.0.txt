@@ -1,0 +1,68 @@
+[Topic] Suspected Sabotage  
+[Weight] 5  
+
+[Keywords]  
+damage to an underwater natural gas pipeline = 3  
+suspected Russian sabotage = 3  
+Baltic-connector pipeline was shut down = 3  
+probable explosion detected by Norsar = 2  
+under investigation by Finland and Estonia = 1  
+
+[Total Weight] 12  
+[Normalized Significance] 6.0  
+
+[Topic] Energy Security  
+[Weight] 4  
+
+[Keywords]  
+direct link to the wider European Union's gas network = 3  
+alternative sources of gas to ensure the country's energy security = 3  
+concerns about energy security revived = 2  
+natural gas accounts for about 5% of Finland's energy consumption = 2  
+UK prices jumped as much as 13.5% = 1  
+
+[Total Weight] 11  
+[Normalized Significance] 5.5  
+
+[Topic] NATO Response  
+[Weight] 2  
+
+[Keywords]  
+Finland joining Nato in April = 3  
+Nato military alliance of which both Finland and Estonia are members = 2  
+bloc was "sharing information & stands ready to support Allies concerned" = 1  
+
+[Total Weight] 6  
+[Normalized Significance] 3.0  
+
+[Topic] Economic and Financial Impact  
+[Weight] 3  
+
+[Keywords]  
+damage pushed up European gas prices = 3  
+UK prices jumped as much as 13.5% = 2  
+damage was so serious it was expected to take months to repair = 1  
+
+[Total Weight] 6  
+[Normalized Significance] 3.0  
+
+[Topic] Infrastructure Vulnerability  
+[Weight] 3  
+
+[Keywords]  
+damage to an underwater natural gas pipeline = 3  
+Baltic-connector pipeline was shut down = 2  
+damage happened at two different spots in Finland's Exclusive Economic Zone = 1  
+
+[Total Weight] 6  
+[Normalized Significance] 3.0  
+
+[Topic] International Cooperation  
+[Weight] 2  
+
+[Keywords]  
+investigated by both countries = 3  
+Nato military alliance of which both Finland and Estonia are members = 2  
+
+[Total Weight] 5  
+[Normalized Significance] 2.5

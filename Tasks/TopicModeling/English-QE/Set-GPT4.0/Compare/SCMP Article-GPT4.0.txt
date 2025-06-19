@@ -1,0 +1,69 @@
+[Topic] Suspected Sabotage  
+[Weight] 4  
+
+[Keywords]  
+damage to Baltic gas pipeline = 3  
+Chinese ship suspected of causing the damage = 3  
+dragging its anchor across the seabed = 2  
+too early to conclude if it was an accident or a deliberate act = 2  
+full cooperation with the investigation = 1  
+
+[Total Weight] 11  
+[Normalized Significance] 5.5  
+
+---
+
+[Topic] Infrastructure Vulnerability  
+[Weight] 4  
+
+[Keywords]  
+damage to Baltic gas pipeline = 3  
+critical infrastructures cut through = 2  
+incident led to the pipeline being shut down = 2  
+two telecoms cables were also damaged = 2  
+
+[Total Weight] 9  
+[Normalized Significance] 4.5  
+
+---
+
+[Topic] Global Diplomatic Engagement  
+[Weight] 5  
+
+[Keywords]  
+Xi Jinping and Sauli Niinisto held constructive talks = 3  
+Beijing promised full cooperation with the investigation = 3  
+talks touched on the war between Russia and Ukraine = 2  
+China's role in bringing about a just and lasting peace = 2  
+the EU-China relations = 2  
+tensions between China and Europe = 1  
+seeking to foster ties with individual members of the European Union = 1  
+
+[Total Weight] 14  
+[Normalized Significance] 7.0  
+
+---
+
+[Topic] International Cooperation  
+[Weight] 3  
+
+[Keywords]  
+Beijing promised full cooperation with the investigation = 3  
+seeking to foster ties with individual members of the European Union = 2  
+China would like to deepen mutually beneficial cooperation with Finland = 2  
+
+[Total Weight] 7  
+[Normalized Significance] 3.5  
+
+---
+
+[Topic] Energy Security  
+[Weight] 2  
+
+[Keywords]  
+damage to Baltic gas pipeline = 3  
+incident led to the pipeline being shut down = 2  
+cooperation in areas such as energy = 1  
+
+[Total Weight] 6  
+[Normalized Significance] 3.0  

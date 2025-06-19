@@ -1,0 +1,93 @@
+Topic: International Cooperation=2=2
+  Keywords Assigned by Human but Not by Machine:
+   Sweden’s prime minister=2
+   Finland and Estonia=2
+   working with the private sector=2
+
+  Keywords Assigned by Machine but Not by Human:
+   The alliance launched a new centre for protecting undersea pipelines and cables=2
+   Nato – working with the private sector, which “owns most of this critical infrastructure”=2
+
+
+Topic: Energy Security=4=3
+  Common Keywords:
+   Finland relies on gas for about 5% of its energy supplies=2=2
+
+  Keywords Assigned by Human but Not by Machine:
+   take at least five months to repair the pipeline=2
+   gas accounts for 5% of Finland’s energy=1
+   gas pipeline was extensively damaged=3
+   gas to western Europe=2
+
+  Keywords Assigned by Machine but Not by Human:
+   it will take at least five months to repair the pipeline=2
+   damage to the Balticconnector gas pipeline=3
+
+
+Topic: Suspected Sabotage=5=5
+  Keywords Assigned by Human but Not by Machine:
+   ruptured three of the four Nord Stream pipelines=3
+   damage was caused by external force=3
+   deliberate, motive, involvement of a state actor cannot be ruled out=2
+   Pipeline damage was caused by sabotage=3
+   Investigation was now focused on whether the damage was deliberate=3
+
+  Keywords Assigned by Machine but Not by Human:
+   damage to a Baltic Sea gas pipeline=3
+   the involvement of a state actor “cannot be ruled out”=2
+   damage to a second telecommunications cable running under the Baltic Sea=1
+   investigation now focused on whether the damage was deliberate=3
+   investigation focused on the Hong Kong-flagged, Chinese-owned NewNew Polar Bear=3
+   the vessel's movements coincided with the pipeline damage=3
+
+
+Topic: Infrastructure Vulnerability=5=5
+  Keywords Assigned by Human but Not by Machine:
+   These types of undersea critical infrastructure are vulnerable=3
+   vulnerable, undersea critical infrastructure, Nord Stream pipelines=3
+   tracks had been found on seabed nearby=2
+   damage to the Balticconnector pipeline and parallel Estlink cable=3
+
+  Keywords Assigned by Machine but Not by Human:
+   ruptured three of the four Nord Stream pipelines=2
+   damaged Estlink data communications cable=3
+   damage was caused by “an external force”=2
+   undersea critical infrastructure are vulnerable=3
+   new centre for protecting undersea pipelines and cables=2
+   extensively damaged Baltic Sea gas pipeline=3
+
+
+Topic: NATO Response=5=4
+  Keywords Assigned by Human but Not by Machine:
+   Investigators seeking, investigation was now focused=3
+   transatlantic alliance has pledged a ‘united and determined response’=3
+   working with the private sector to protect undersea infrastructure=2
+   The alliance launched a new centre for protecting undersea pipelines=2
+   stepped up patrols in the Baltic=2
+
+  Keywords Assigned by Machine but Not by Human:
+   Nato has pledged a “united and determined response”=3
+   Nato’s secretary general, Jens Stoltenberg, mentioned the vulnerability of undersea critical infrastructure=2
+   Nato stepped up patrols in the Baltic after the incidents=3
+   Finland joined Nato earlier this year=2
+
+
+Topic: Economic and Financial Impact=2=2
+  Keywords Assigned by Human but Not by Machine:
+   It is unlikely to come on stream again until April 2024=2
+
+  Keywords Assigned by Machine but Not by Human:
+   pipeline unlikely to come on stream again until April 2024=2
+   Finland relies on gas for about 5% of its energy supplies=2
+
+
+Topics Assigned by Human but Not by Machine:
+Topic: Environmental and Technical Challenges=3
+
+Statistics:
+Common Topics: 6
+Topics Assigned by Human: 7
+Topics Assigned by Machine: 6
+Common Keywords: 1
+Keywords Assigned by Human: 23
+Keywords Assigned by Machine: 23

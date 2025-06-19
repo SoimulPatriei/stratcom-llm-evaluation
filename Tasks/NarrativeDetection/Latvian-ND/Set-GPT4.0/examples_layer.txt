@@ -1,0 +1,64 @@
+Layer: Named Entity Recognition  
+Layer Output:  
+Location: [Somija, Igaunija, Baltic-connector cauruļvads, Baltijas jūras krasts, Somijas Ekskluzīvā Ekonomiskā Zona, Eiropas Savienība, Apvienotā Karaliste, Izraēla, Tamāra, Vidusjūra, Nord Stream cauruļvads, Krievija]  
+Actor: [Somijas premjerministrs, Petteri Orpo, BBC, Norsar, Somijas Nacionālais Izmeklēšanas Birojs (KRP), Jens Stoltenbergs, NATO, Hamās, Frenks Gārdners]  
+Event: [Aizdomas par sabotāžu, Bojājumi Baltic-connector cauruļvadā, pēkšņs spiediena kritums, Noplūdes izmeklēšana, iespējams sprādziens, gāzes cenu pieaugums, Izraēlas Tamāras gāzes lauka slēgšana, Nord Stream cauruļvada sprādzieni]  
+Timeline: [Svētdiena, Otrdiena, Šī gada aprīlis, 01:20 svētdien (22:20 GMT sestdienā), 2022. gada septembris, mēneši remontam, 2020. gads, Pagājušā gada maijs]  
+Entities Ordered by Importance Score:  
+1. Aizdomas par sabotāžu (Event): 0.06  
+2. Bojājumi Baltic-connector cauruļvadā (Event): 0.05  
+3. Somija (Location): 0.05  
+4. Igaunija (Location): 0.05  
+5. NATO (Actor): 0.05  
+6. Somijas premjerministrs (Actor): 0.05  
+7. Nord Stream cauruļvada sprādzieni (Event): 0.05  
+8. Petteri Orpo (Actor): 0.04  
+9. Eiropas Savienība (Location): 0.04  
+10. Vidusjūra (Location): 0.04  
+11. Nord Stream cauruļvads (Location): 0.04  
+12. Šī gada aprīlis (Timeline): 0.04  
+13. Pēkšņs spiediena kritums (Event): 0.04  
+14. Noplūdes izmeklēšana (Event): 0.04  
+15. Iespējams sprādziens (Event): 0.04  
+16. Gāzes cenu pieaugums (Event): 0.04  
+17. Izraēlas Tamāras gāzes lauka slēgšana (Event): 0.04  
+18. Baltic-connector cauruļvads (Location): 0.04  
+19. BBC (Actor): 0.03  
+20. Somijas Nacionālais Izmeklēšanas Birojs (KRP) (Actor): 0.03  
+21. Jens Stoltenbergs (Actor): 0.03  
+22. Hamās (Actor): 0.03  
+23. Frenks Gārdners (Actor): 0.03  
+24. Baltijas jūras krasts (Location): 0.03  
+25. Apvienotā Karaliste (Location): 0.03  
+26. Krievija (Location): 0.03  
+27. Svētdiena (Timeline): 0.03  
+28. Otrdiena (Timeline): 0.03  
+29. 01:20 svētdien (22:20 GMT sestdienā) (Timeline): 0.03  
+30. Mēneši remontam (Timeline): 0.03  
+31. 2020. gads (Timeline): 0.03  
+32. Pagājušā gada maijs (Timeline): 0.03  
+33. Norsar (Actor): 0.02  
+34. Izraēla (Location): 0.02  
+35. Tamāra (Location): 0.02  
+36. Somijas Ekskluzīvā Ekonomiskā Zona (Location): 0.02
+
+Layer: Relationship Extraction  
+Layer Output:  
+is detained [Latvijas-Baltkrievijas robežā, 100 cilvēki]  
+attempts to cross [Latvijas-Baltkrievijas robeža, vairākas nelegālo imigrantu grupas]  
+is prevented by [robežsardze, nelegālie imigranti]  
+claims asylum in [Rietumeiropa, daudzi indivīdi]
+
+
+Layer: Plot Discovery  
+Layer Output:  
+Exposition: [Nelegālie imigranti] mēģina šķērsot [Latvijas-Baltkrievijas robežu], un [robežsardze] ik dienu aiztur apmēram [100 cilvēkus].  
+Rising Action: Spriedze pieaug, jo vairākas [nelegālo imigrantu] grupas atkārtoti mēģina šķērsot [Latvijas-Baltkrievijas robežu], kā rezultātā tiek pastiprinātas patruļas.  
+Climax: Pie [Latvijas-Baltkrievijas robežas] notiek liela konfrontācija starp [robežsardzi] un lielu [nelegālo imigrantu] grupu, kā rezultātā notiek daudzas aizturēšanas.  
+Falling Action: Pēc konfrontācijas pie [Latvijas-Baltkrievijas robežas] drošības pasākumi tiek pastiprināti un tiek izvietotas papildu patruļas.  
+Resolution: [Latvijas valdība] paziņo par jaunām politikas iniciatīvām, lai risinātu situāciju pie [Latvijas-Baltkrievijas robežas], un mēģinājumi šķērsot robežu sāk samazināties.
+
+Layer: Story Evolution  
+Layer Output:  
+Shift Detection: Nozīmīgas izmaiņas stāstījumā notiek, kad [Latvijas premjerministrs] apsola uzstādīt [novērošanas ierīces] gar visu [austrumu robežu].  
+Causal Relation Extraction: [Premjerministra] solījums uzstādīt [novērošanas ierīces] tiek dots, reaģējot uz pieaugošo [nelegālo robežšķērsošanas mēģinājumu] skaitu pie [Latvijas-Baltkrievijas robežas], lai uzlabotu drošību un kontroli.

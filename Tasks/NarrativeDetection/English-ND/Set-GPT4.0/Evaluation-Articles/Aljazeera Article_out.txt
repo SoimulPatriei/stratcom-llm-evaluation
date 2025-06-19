@@ -1,0 +1,71 @@
+1. Named Entity Recognition:
+Layer Output:
+Location: [China, Finland, Estonia, Balticconector gas pipeline, European Union, Beijing, Helsinki, Baltic Sea, Gulf of Finland, Moscow, Latvia]
+Actor: [Chinese ship, NewNew Polar Bear vessel, Estonian Ministry of Foreign Affairs, Mao Ning (Chinese Foreign Ministry spokesperson), Finnish National Bureau of Investigation (NBI), Detective Superintendent Risto Lohi, NATO, Estonian investigators, Russia’s Sevmorput, Rosatom (Russia’s state-controlled energy company), Latvian President Edgars Rinkevics, Kremlin spokesperson Dmitry Peskov]
+Event: [Suspected sabotage, Investigation of pipeline damage, Leak in Balticconector gas pipeline, Cutting of telecom cables, Discovery of "heavy object" near pipeline, Increase of NATO patrols in Baltic Sea]
+Timeline: [October 8, October 9, Friday, Monday, February 2022, Last week]
+Entities Ordered by Importance Score:
+1. Suspected sabotage (Event): 0.08
+2. China (Location): 0.08
+3. Finland (Location): 0.07
+4. Estonia (Location): 0.07
+5. Balticconector gas pipeline (Location): 0.07
+6. Investigation of pipeline damage (Event): 0.07
+7. NewNew Polar Bear vessel (Actor): 0.05
+8. Finnish National Bureau of Investigation (NBI) (Actor): 0.05
+9. NATO (Actor): 0.05
+10. Leak in Balticconector gas pipeline (Event): 0.04
+11. Cutting of telecom cables (Event): 0.04
+12. Increase of NATO patrols in Baltic Sea (Event): 0.04
+13. European Union (Location): 0.03
+14. Beijing (Location): 0.03
+15. Helsinki (Location): 0.03
+16. Baltic Sea (Location): 0.03
+17. Gulf of Finland (Location): 0.03
+18. Moscow (Location): 0.03
+19. Chinese ship (Actor): 0.03
+20. Estonian Ministry of Foreign Affairs (Actor): 0.03
+21. Mao Ning (Chinese Foreign Ministry spokesperson) (Actor): 0.03
+22. Detective Superintendent Risto Lohi (Actor): 0.03
+23. Estonian investigators (Actor): 0.03
+24. Russia’s Sevmorput (Actor): 0.03
+25. Rosatom (Russia’s state-controlled energy company) (Actor): 0.03
+26. Latvian President Edgars Rinkevics (Actor): 0.03
+27. Kremlin spokesperson Dmitry Peskov (Actor): 0.03
+28. Discovery of "heavy object" near pipeline (Event): 0.03
+29. October 8 (Timeline): 0.02
+30. October 9 (Timeline): 0.02
+31. Friday (Timeline): 0.02
+32. Monday (Timeline): 0.02
+33. February 2022 (Timeline): 0.02
+34. Last week (Timeline): 0.02
+35. Latvia (Location): 0.01
+
+2. Relationship Extraction:
+Layer Output:
+is investigating [Finland, suspected sabotage of a subsea gas pipeline]
+begun communication over [China and Finland, the damage to the Balticconector gas pipeline]
+is focused on [Helsinki's investigation, the potential role of a Chinese ship]
+was studying [NBI, how the NewNew Polar Bear container vessel]
+contacted [Tallinn, Beijing]
+rejected [Mao Ning, any suggestion that China was responsible]
+found [NBI, a "heavy object" near the pipeline damage]
+increased [NATO, patrols in the Baltic Sea]
+invaded [Russia, Ukraine]
+looking into [Estonian investigators, two ships concerning the incident]
+said [Rosatom, its ship had no link to the pipeline damage]
+remain suspicious [officials in the Baltic region, Moscow]
+said [Kremlin spokesperson Dmitry Peskov, threats made towards Russia were unacceptable]
+
+3. Plot Discovery:
+Layer Output:
+Exposition: A gas pipeline that links [Finland] to [Estonia] and wider [European Union] networks is damaged in a suspected sabotage.
+Rising Action: [Finland] begins its investigation focusing on the potential role of a [Chinese ship]. Meanwhile, [Estonia] contacts [Beijing] to encourage cooperation in the investigation.
+Climax: The [Finnish National Bureau of Investigation (NBI)] finds a "heavy object" near the pipeline damage and studies how the [NewNew Polar Bear vessel] might have been involved in the incident. [NATO] increases patrols in the [Baltic Sea].
+Falling Action: [Estonian investigators] are looking into two ships concerning the incident, including the [Chinese vessel] and [Russia’s Sevmorput]. However, [Rosatom] denies any link of its ship to the pipeline damage.
+Resolution: Despite [China's] denial of responsibility, officials in the [Baltic region] remain suspicious regarding [Moscow]. [Latvian President Edgars Rinkevics] suggests action if [Russia] were proven responsible.
+
+4. Story Evolution:
+Layer Output:
+Shift Detection: A significant change occurs in the narrative when the [Finnish National Bureau of Investigation (NBI)] discovers a "heavy object" near the pipeline damage.
+Causal Relation Extraction: The discovery of the "heavy object" by the [NBI] leads to increased patrols by [NATO] in the [Baltic Sea]. The potential involvement of a [Chinese ship] and [Russia’s Sevmorput] in the incident prompts [Estonian investigators] to look into these two vessels.

@@ -1,0 +1,140 @@
+[Topic] Security concerns  
+[Weight] 5  
+
+[Keywords]  
+iespējams sabotāžas mēģinājums = 3  
+zemūdens infrastruktūra = 3  
+infrastruktūras drošību = 3  
+bojājumi zemūdens gāzesvadā = 2  
+drošību sabiedrībām = 2  
+bojājums ir mehānisks un cilvēka izraisīts = 2  
+bojāts tīši = 2  
+spiediena krišanās cauruļvadā = 1  
+iespējamu gāzes noplūdi = 1  
+bojājumi abas valstis savienojošajā komunikāciju kabelī = 1  
+
+[Total Weight] 22  
+[Normalized Significance] 10  
+
+---
+
+[Topic] Natural gas infrastructure  
+[Weight] 5  
+
+[Keywords]  
+zemūdens gāzesvadā “Balticconnector” = 3  
+gāzesvads = 3  
+gāzes piegādes = 2  
+gāzes krātuvē = 2  
+Klaipēdas gāzes termināli = 2  
+gāzes noplūdi = 1  
+cauruļvadā = 1  
+
+[Total Weight] 16  
+[Normalized Significance] 7.3  
+
+---
+
+[Topic] Infrastructure vulnerability  
+[Weight] 4  
+
+[Keywords]  
+bojājumi zemūdens gāzesvadā = 3  
+zemūdens infrastruktūra = 2  
+bojājums gāzesvadā = 2  
+spiediena krišanās = 1  
+noplūdi = 1  
+bojājumi komunikāciju kabelī = 1  
+
+[Total Weight] 13  
+[Normalized Significance] 5.9  
+
+---
+
+[Topic] Investigation  
+[Weight] 4  
+
+[Keywords]  
+izmeklēšana turpinās = 3  
+izmeklēšanas rezultāti = 2  
+izmeklēšanu vada = 2  
+ekspertu novērtējumiem = 1  
+
+[Total Weight] 11  
+[Normalized Significance] 5  
+
+---
+
+[Topic] International cooperation  
+[Weight] 3  
+
+[Keywords]  
+sadarbībā ar Somiju un Zviedriju = 2  
+sabiedrotajām demokrātijām ir jāsadarbojas = 2  
+Somijas un Igaunijas = 1  
+
+[Total Weight] 7  
+[Normalized Significance] 3.2  
+
+---
+
+[Topic] Disaster impact  
+[Weight] 3  
+
+[Keywords]  
+Latvijas apgāde nav apdraudēta = 2  
+neietekmē gāzes piegādes patērētājiem = 2  
+slēgšana neietekmē = 1  
+
+[Total Weight] 7  
+[Normalized Significance] 3.2  
+
+---
+
+[Topic] Damage  
+[Weight] 3  
+
+[Keywords]  
+bojājumi = 2  
+bojājums = 2  
+noplūdes = 1  
+
+[Total Weight] 7  
+[Normalized Significance] 3.2  
+
+---
+
+[Topic] Possible sabotage  
+[Weight] 3  
+
+[Keywords]  
+sabotāžas mēģinājums = 3  
+sabotāžas mērķis = 2  
+tīši = 1  
+
+[Total Weight] 9  
+[Normalized Significance] 4.1  
+
+---
+
+[Topic] Energy resources  
+[Weight] 2  
+
+[Keywords]  
+gāzes = 2  
+energoresursu drošību = 1  
+
+[Total Weight] 3  
+[Normalized Significance] 1.4  
+
+---
+
+[Topic] Geopolitical dynamics  
+[Weight] 2  
+
+[Keywords]  
+Baltijas jūras reģionā = 1  
+Eiropas Savienības un NATO = 1  
+
+[Total Weight] 2  
+[Normalized Significance] 0.9  

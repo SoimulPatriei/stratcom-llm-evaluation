@@ -1,0 +1,94 @@
+[Topic] Suspected Sabotage  
+[Weight] 5  
+
+[Keywords]  
+anchor believed to have damaged the Balticconnector pipeline = 3  
+damaged by a Chinese vessel = 3  
+anchor believed to have damaged, Finnish authorities believe it was damaged by a Chinese vessel = 3  
+findings suggested it belonged to the Chinese cargo ship = 3  
+incident came just over a year after underwater explosions = 2  
+sabotage remains unknown = 2  
+
+[Total Weight] 16  
+[Normalized Significance] 8.0  
+
+---
+
+[Topic] NATO Response  
+[Weight] 3  
+
+[Keywords]  
+tensions between Moscow and the West = 2  
+war in Ukraine = 2  
+Niinisto raised issue of war in Ukraine = 2  
+constructive dialogue between countries = 1  
+
+[Total Weight] 7  
+[Normalized Significance] 3.0  
+
+---
+
+[Topic] Infrastructure Vulnerability  
+[Weight] 5  
+
+[Keywords]  
+Damaged the Balticconnector pipeline = 3  
+Underwater explosions struck three of four Nord Stream gas pipelines = 2  
+underwater explosions = 2  
+damaged by a Chinese vessel = 2  
+repair the pipeline = 2  
+heightened tensions between Moscow and the West over the war in Ukraine = 2  
+
+[Total Weight] 13  
+[Normalized Significance] 7.0  
+
+---
+
+[Topic] Energy Security  
+[Weight] 4  
+
+[Keywords]  
+Balticconnector pipeline incident, it would take at least five months to repair = 3  
+Finland dependent on liquefied natural gas imports = 2  
+natural gas accounts for around 5 per cent of Finland's energy consumption = 2  
+
+[Total Weight] 7  
+[Normalized Significance] 7.0  
+
+---
+
+[Topic] International Cooperation  
+[Weight] 5  
+
+[Keywords]  
+constructive dialogue over a Baltic Sea gas pipeline = 3  
+China was cooperating in the investigation = 3  
+constructive dialogue = 3  
+China’s role in achieving a just and lasting peace = 3  
+Presidents’ video-link meeting = 2  
+
+[Total Weight] 14  
+[Normalized Significance] 8.0  
+
+---
+
+[Topic] Environmental and Technical Challenges  
+[Weight] 3  
+
+[Keywords]  
+underwater explosions struck three of four Nord Stream pipelines = 2  
+Take at least five months to repair the pipeline = 2  
+
+[Total Weight] 4  
+[Normalized Significance] 4.0  
+
+---
+
+[Topic] Economic and Financial Impact  
+[Weight] 2  
+
+[Keywords]  
+Leaving Finland dependent on liquefied natural gas imports for the winter = 2  
+
+[Total Weight] 2  
+[Normalized Significance] 2.0  

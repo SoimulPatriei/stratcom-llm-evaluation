@@ -1,0 +1,54 @@
+1. Named Entity Recognition:
+Location: [Somija, Igaunija, Balticconnector, Latvija, Lietuva, Klaipēdas gāzes termināls, Baltijas jūra, Eiropas Savienība, NATO, Inčukalna pazemes gāzes krātuve, Paldiski, Inko, Somu līcis]
+Actor: [ārlietu ministrs Krišjānis Kariņš, Latvenergo, Gasgrid Finland, Somijas premjerministrs Peteri Orpo, Somijas prezidents Sauli Nīniste, Igaunijas ārlietu ministrs Marguss Tsahkna, aizsardzības ministrs Hanno Pevkurs, Somijas Centrālā kriminālpolicija, Somijas robežsardze]
+Event: [Bojājumi Balticconnector, Izmeklēšana, Sabotāžas mēģinājums, Gāzes noplūde, Gāzes piegāde]
+Timeline: [11. oktobris 2023, naktī uz svētdienu, 2024.gada aprīļa sākums, 2020.gada sākumā]
+Entities Ordered by Importance Score:
+1. Balticconnector (Location): 0.08
+2. Bojājumi Balticconnector (Event): 0.08
+3. Somija (Location): 0.07
+4. Igaunija (Location): 0.07
+5. Latvija (Location): 0.06
+6. Izmeklēšana (Event): 0.06
+7. Sabotāžas mēģinājums (Event): 0.06
+8. Gāzes noplūde (Event): 0.05
+9. Gāzes piegāde (Event): 0.05
+10. ārlietu ministrs Krišjānis Kariņš (Actor): 0.04
+11. Latvenergo (Actor): 0.04
+12. Gasgrid Finland (Actor): 0.04
+13. Somijas premjerministrs Peteri Orpo (Actor): 0.04
+14. Lietuva (Location): 0.03
+15. Klaipēdas gāzes termināls (Location): 0.03
+16. Baltijas jūra (Location): 0.03
+17. Eiropas Savienība (Location): 0.03
+18. NATO (Location): 0.03
+19. Inčukalna pazemes gāzes krātuve (Location): 0.03
+20. Paldiski (Location): 0.03
+21. Inko (Location): 0.03
+22. Somu līcis (Location): 0.03
+23. Somijas prezidents Sauli Nīniste (Actor): 0.03
+24. Igaunijas ārlietu ministrs Marguss Tsahkna (Actor): 0.03
+25. aizsardzības ministrs Hanno Pevkurs (Actor): 0.03
+26. Somijas Centrālā kriminālpolicija (Actor): 0.02
+27. Somijas robežsardze (Actor): 0.02
+28. 11. oktobris 2023 (Timeline): 0.02
+29. naktī uz svētdienu (Timeline): 0.02
+30. 2024.gada aprīļa sākums (Timeline): 0.02
+31. 2020.gada sākumā (Timeline): 0.02
+
+2. Relationship Extraction:
+is closed [Balticconnector, Somija un Igaunija]
+is not threatened [Latvijas apgāde, Balticconnector slēgšanās]
+is investigated as [Nodarītie bojājumi zemūdens gāzesvadā “Balticconnector”, iespējams sabotāžas mēģinājums]
+is supplying [Latvija, gāze Igaunijai]
+
+3. Plot Discovery:
+Exposition: Somijas un Igaunijas gāzesvads “Balticconnector” tiek slēgts, bet [Latvijas apgāde] nav apdraudēta.
+Rising Action: Notiek izmeklēšana par iespējamo sabotāžu, kas varētu būt izraisījusi bojājumus gāzesvadā “Balticconnector”.
+Climax: Atklājās, ka bojājums gāzesvadā nevarēja rasties tā normālas darbības rezultātā vai normāla spiediena krituma dēļ, kas liek domāt par sabotāžu.
+Falling Action: Pēc atklājumiem, tiek uzsākta remonta darbu plānošana un nepieciešamā zemūdens aprīkojuma sagādāšana.
+Resolution: Pēc pieciem mēnešiem remonta, gāzesvads “Balticconnector” varētu atsākt darboties, atjaunojot gāzes piegādi starp Somiju un Igauniju.
+
+4. Story Evolution:
+Shift Detection: Stāstījuma nozīmīgas izmaiņas notiek, kad izmeklēšana atklāj, ka bojājumi gāzesvadā “Balticconnector” ir cilvēka izraisīti, nevis normālas darbības rezultātā.
+Causal Relation Extraction: Izmeklēšanas sākšana ir reakcija uz bojājumiem gāzesvadā “Balticconnector”, kas izraisa aizdomas par iespējamu sabotāžu.

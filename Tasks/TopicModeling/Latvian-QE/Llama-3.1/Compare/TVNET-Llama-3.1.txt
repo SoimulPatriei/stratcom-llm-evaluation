@@ -1,0 +1,62 @@
+[Topic] Infrastructure vulnerability  
+[Weight] 5  
+
+[Keywords]  
+kritiskās zemūdens infrastruktūras neaizsargātība = 3  
+zemūdens sakaru kabeļu bojājumi = 2  
+kritiskās infrastruktūras uzraudzība un aizsardzība = 2  
+infrastruktūras neaizsargātība = 1  
+
+[Total Weight] 8  
+[Normalized Significance] 8  
+
+---
+
+[Topic] Communication disruption  
+[Weight] 4  
+
+[Keywords]  
+sakaru kabelis starp Zviedriju un Igauniju bojāts = 3  
+sakaru nepārtrauktība = 2  
+sakaru pakalpojumu darbība = 1  
+
+[Total Weight] 6  
+[Normalized Significance] 6  
+
+---
+
+[Topic] International cooperation  
+[Weight] 3  
+
+[Keywords]  
+sadarbība ar Somiju un Zviedriju = 2  
+sadarbība ar Somijas un Zviedrijas kolēģiem = 2  
+Eiropas Savienība un NATO = 1  
+
+[Total Weight] 5  
+[Normalized Significance] 5  
+
+---
+
+[Topic] Investigation  
+[Weight] 3  
+
+[Keywords]  
+iespējamais iemesls = 2  
+kabeļa remonts = 2  
+izpētīts iespējamais iemesls = 1  
+
+[Total Weight] 5  
+[Normalized Significance] 5  
+
+---
+
+[Topic] Security concerns  
+[Weight] 2  
+
+[Keywords]  
+kritiskās infrastruktūras uzraudzība un aizsardzība = 2  
+aizsardzības līmeņa paaugstināšana = 1  
+
+[Total Weight] 3  
+[Normalized Significance] 3  

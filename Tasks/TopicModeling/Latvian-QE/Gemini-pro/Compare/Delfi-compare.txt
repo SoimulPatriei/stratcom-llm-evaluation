@@ -1,0 +1,24 @@
+Topics Assigned by Human but Not by Machine:
+Topic: Natural gas infrastructure=5
+Topic: Security threats=2
+Topic: Energy resources=3
+Topic: Infrastructure vulnerability=4
+Topic: International cooperation=2
+
+Topics Assigned by Machine but Not by Human:
+Topic: Infrastructure Vulnerability=4
+Topic: Economic Ties in Northern Europe=2
+Topic: Natural Gas Infrastructure=5
+Topic: International Cooperation=1
+Topic: Disaster Impact=3
+Topic: Investigation=2
+Topic: Damage=3
+Topic: Energy Resources=5
+
+Statistics:
+Common Topics: 0
+Topics Assigned by Human: 5
+Topics Assigned by Machine: 8
+Common Keywords: 0
+Keywords Assigned by Human: 0
+Keywords Assigned by Machine: 0

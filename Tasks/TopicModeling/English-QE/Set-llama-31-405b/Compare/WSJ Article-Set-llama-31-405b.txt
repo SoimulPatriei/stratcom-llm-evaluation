@@ -1,0 +1,77 @@
+[Topic] Suspected Sabotage
+[Weight] 5
+
+[Keywords]
+ Damage to the Balticconnector pipeline and communications cable = 3
+ External activity likely caused the damage = 3
+ Leak in the 48-mile offshore section of the pipeline = 2
+ Fault in a communication cable between Finland and Estonia = 2
+ Unusual drop in pressure shortly before 2 a.m. on Sunday = 1
+
+[Total Weight] 11
+[Normalized Significance] 9.2
+
+---
+
+[Topic] Infrastructure Vulnerability
+[Weight] 5
+
+[Keywords]
+ Vulnerability of Europe's infrastructure to physical attacks = 3
+ Balticconnector pipeline closure = 3
+ Damage to the underwater infrastructure = 2
+ Sophisticated attack on Germany's rail network = 2
+ Mysterious power outage in Denmark = 1
+
+[Total Weight] 11
+[Normalized Significance] 9.2
+
+---
+
+[Topic] NATO Response
+[Weight] 3
+
+[Keywords]
+ NATO Secretary-General Jens Stoltenberg sharing information = 3
+ NATO stands ready to support concerned member states = 2
+ NATO ally Poland as an operating base = 1
+
+[Total Weight] 6
+[Normalized Significance] 5.0
+
+---
+
+[Topic] Economic and Financial Impact
+[Weight] 3
+
+[Keywords]
+ Benchmark European gas futures contract rose 12% = 3
+ Finnish gas supply secured through a floating liquefied natural-gas terminal = 2
+ Estonian gas consumers receiving gas from Latvia = 1
+
+[Total Weight] 6
+[Normalized Significance] 5.0
+
+---
+
+[Topic] International Cooperation
+[Weight] 2
+
+[Keywords]
+ Finnish and Estonian authorities investigating the incident = 2
+ Cooperation with NATO and European Union = 1
+
+[Total Weight] 3
+[Normalized Significance] 2.5
+
+---
+
+[Topic] Environmental and Technical Challenges
+[Weight] 2
+
+[Keywords]
+ Very little environmental damage to the surrounding Baltic Sea = 2
+ Seismic monitoring system didn't detect any seismological events = 1
+
+[Total Weight] 3
+[Normalized Significance] 2.5

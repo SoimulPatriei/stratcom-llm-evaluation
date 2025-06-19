@@ -1,0 +1,98 @@
+Topic: International Cooperation=5=3
+  Keywords Assigned by Human but Not by Machine:
+   getting financing from the European Union to repair the pipeline=3
+   there has been cooperation with the Chinese authorities probing the case=2
+   pending further information from technical studies and data from NBI’s international partners=3
+   cooperation with Chinese authorities in investigation=3
+   Finnish Prime Minister Petteri Orpo initiated discussions with European Commission President Ursula von der Leyen=3
+   NBI said that an initial inquiry by investigators=2
+
+  Keywords Assigned by Machine but Not by Human:
+   former president of Finland spoke with Chinese President Xi Jinping=3
+   Finnish Prime Minister initiated discussions with European Commission President=2
+   NATO's involvement=1
+   cooperation with the Chinese authorities probing the case=3
+   international partners=2
+
+
+Topic: Suspected Sabotage=5=4
+  Keywords Assigned by Human but Not by Machine:
+   investigation has progressed=3
+   human-made damage=3
+   anchor of the Hong Kong-flagged cargo vessel Newnew Polar Bear ship, which was on its way to St. Petersburg, Russia, was dislodged and caused the damage=3
+   Chinese container ship remains the focus of the investigation=3
+   substantial, human-made damage that caused a major drop in pressure=3
+   pending further information from technical studies and data from NBI’s international partners=3
+   damage allegedly caused by the Chinese vessel was done intentionally=3
+   anchor of Newnew Polar Bear caused the damage=3
+   anchor of the Hong Kong-flagged cargo vessel Newnew Polar Bear ship, which was on its way to St. Petersburg, Russia, was dislodged=3
+
+  Keywords Assigned by Machine but Not by Human:
+   failed to establish radio contact with Newnew Polar Bear’s captain=2
+   damage allegedly caused by the Chinese vessel=2
+   Baltic Sea gas pipeline damaged=3
+   anchor of the Hong Kong-flagged cargo vessel Newnew Polar Bear ship=3
+   human-made damage that caused a major drop in pressure=3
+   Finnish maritime authorities=1
+
+
+Topic: Infrastructure Vulnerability=5=5
+  Keywords Assigned by Human but Not by Machine:
+   gas started flowing again after repairs=3
+   gas markets disconnected=3
+   repair of submarine infrastructure took six months=3
+   Balticconnector pipeline shut down=3
+   cost of repairs=3
+   trail on seabed leading to pipeline damage=3
+   gas pipeline and telecom cables damaged=3
+
+  Keywords Assigned by Machine but Not by Human:
+   pipeline reopened this week after multimillion-euro repair work=3
+   several months' disruption=1
+   damage to the gas pipeline and data cables=2
+   disconnecting a crucial link between the Nordic and Baltic gas markets=3
+   secure the area and detect suspicious movement near its critical undersea infrastructure=3
+   Telecom cables connecting Finland and Estonia, as well as Sweden and Estonia, were also damaged=3
+   Baltic Sea gas pipeline between NATO members Finland and Estonia=3
+
+
+Topic: NATO Response=3=3
+  Common Keywords:
+   NATO has stepped up its patrols of the Baltic Sea=3=3
+   detect suspicious movement near its critical undersea infrastructure=3=2
+
+  Keywords Assigned by Human but Not by Machine:
+   alliance has sent minehunters, maritime patrol aircraft, and drones to the region=3
+
+  Keywords Assigned by Machine but Not by Human:
+   minehunters, maritime patrol aircraft, and drones sent to the region=2
+   Finland joined NATO in April 2023=2
+   NATO members Finland and Estonia=2
+
+
+Topic: Economic and Financial Impact=4=3
+  Keywords Assigned by Human but Not by Machine:
+   Finnish Prime Minister Petteri Orpo initiated discussions with European Commission President Ursula von der Leyen on getting financing from the European Union to repair the pipeline=3
+   total cost of the pipeline repair work, performed entirely by remote-controlled equipment at a depth of 60 meters (around 200 feet), is estimated at around 35 million euros ($38 million)=3
+   who will pick up the bill remains open=2
+   The EU covered 75% of Balticconnector’s original construction cost of around 300 million euros=3
+
+  Keywords Assigned by Machine but Not by Human:
+   disruption of gas markets=2
+   EU covered 75% of Balticconnector’s original construction cost=2
+   multimillion-euro repair work=3
+   total cost of the pipeline repair work, estimated at around 35 million euros ($38 million)=3
+   who will pick up the bill=2
+
+
+Topics Assigned by Human but Not by Machine:
+Topic: Energy Security=4
+Topic: Environmental and Technical Challenges=3
+
+Statistics:
+Common Topics: 5
+Topics Assigned by Human: 7
+Topics Assigned by Machine: 5
+Common Keywords: 2
+Keywords Assigned by Human: 29
+Keywords Assigned by Machine: 28

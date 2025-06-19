@@ -1,0 +1,49 @@
+[Topic] Infrastructure vulnerability  
+[Weight] 5  
+
+[Keywords]  
+sakaru kabelis = 1  
+bojāts = 1  
+zemūdens sakaru kabeļu bojājumi = 2  
+kritiskās zemūdens infrastruktūras neaizsargātība = 3  
+
+[Total Weight] 11  
+[Normalized Significance] 10  
+
+---
+
+[Topic] Geopolitical dynamics  
+[Weight] 3  
+
+[Keywords]  
+Zviedrija = 1  
+Igaunija = 1  
+sadarbība = 2  
+NATO = 1  
+
+[Total Weight] 7  
+[Normalized Significance] 6.36  
+
+---
+
+[Topic] Security threat  
+[Weight] 4  
+
+[Keywords]  
+neaizsargātība = 2  
+uzraudzības un aizsardzības līmeņa paaugstināšana = 3  
+papildu pasākumi = 2  
+
+[Total Weight] 9  
+[Normalized Significance] 8.18  
+
+---
+
+[Topic] Cultural heritage preservation  
+[Weight] 1  
+
+[Keywords]  
+sakaru kabelis = 1  
+
+[Total Weight] 1  
+[Normalized Significance] 0.91  

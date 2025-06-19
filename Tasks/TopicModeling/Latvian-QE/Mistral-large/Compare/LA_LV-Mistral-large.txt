@@ -1,0 +1,122 @@
+[Topic] Infrastructure vulnerability  
+[Weight] 5  
+
+[Keywords]  
+zemūdens gāzesvada “Balticconnector” bojājumi tiek izmeklēti kā iespējams sabotāžas mēģinājums = 3  
+Baltijas jūras reģionā būs pastiprināti jāuzrauga visa zemūdens infrastruktūra = 3  
+gāzesvads “Balticconnector” slēgts = 2  
+gāzesvada bojājumi nevarēja rasties tā normālas darbības rezultātā = 2  
+gāzesvads “Balticconnector” varētu atsākt darboties ne agrāk kā nākamā gada aprīlī = 2  
+gāzesvada “Balticconnector” slēgšana neietekmē gāzes piegādes patērētājiem Igaunijā = 1  
+
+[Total Weight] 13  
+[Normalized Significance] 8.67  
+
+---
+
+[Topic] Natural gas infrastructure  
+[Weight] 5  
+
+[Keywords]  
+zemūdens gāzesvada “Balticconnector” bojājumi tiek izmeklēti kā iespējams sabotāžas mēģinājums = 3  
+gāzesvads “Balticconnector” slēgts = 3  
+gāzesvada bojājumi nevarēja rasties tā normālas darbības rezultātā = 2  
+gāzesvads “Balticconnector” varētu atsākt darboties ne agrāk kā nākamā gada aprīlī = 2  
+Inčukalna pazemes gāzes krātuvē rezerves ir labas = 2  
+gāzesvada “Balticconnector” slēgšana neietekmē gāzes piegādes patērētājiem Igaunijā = 1  
+
+[Total Weight] 13  
+[Normalized Significance] 8.67  
+
+---
+
+[Topic] Security concerns  
+[Weight] 4  
+
+[Keywords]  
+Baltijas jūras reģionā būs pastiprināti jāuzrauga visa zemūdens infrastruktūra = 3  
+zemūdens gāzesvada “Balticconnector” bojājumi tiek izmeklēti kā iespējams sabotāžas mēģinājums = 2  
+gāzesvads “Balticconnector” slēgts = 2  
+sabiedrotajām demokrātijām ir jāsadarbojas un vēl ciešāk jākāpina sadarbība, lai rūpētos par mūsu infrastruktūras drošību = 2  
+gāzesvada bojājumi nevarēja rasties tā normālas darbības rezultātā = 1  
+
+[Total Weight] 10  
+[Normalized Significance] 6.67  
+
+---
+
+[Topic] Possible sabotage  
+[Weight] 4  
+
+[Keywords]  
+zemūdens gāzesvada “Balticconnector” bojājumi tiek izmeklēti kā iespējams sabotāžas mēģinājums = 3  
+gāzesvads “Balticconnector” slēgts = 2  
+gāzesvada bojājumi nevarēja rasties tā normālas darbības rezultātā = 2  
+Baltijas jūras reģionā būs pastiprināti jāuzrauga visa zemūdens infrastruktūra = 2  
+sabiedrotajām demokrātijām ir jāsadarbojas un vēl ciešāk jākāpina sadarbība, lai rūpētos par mūsu infrastruktūras drošību = 1  
+
+[Total Weight] 10  
+[Normalized Significance] 6.67  
+
+---
+
+[Topic] International cooperation  
+[Weight] 3  
+
+[Keywords]  
+sabiedrotajām demokrātijām ir jāsadarbojas un vēl ciešāk jākāpina sadarbība, lai rūpētos par mūsu infrastruktūras drošību = 3  
+uzraudzības un aizsardzības līmeņa paaugstināšanai ir nepieciešama nozīmīga sadarbība ar mūsu kolēģiem no Somijas un Zviedrijas = 2  
+Kariņš sacīja, ka Inčukalna pazemes gāzes krātuvē rezerves ir labas, tāpēc Latvijas piegādes nekādā veidā nav apdraudētas. Ārlietu ministrs pat uzsvēra, ka Latvija jau piegādā gāzi Igaunijai = 1  
+
+[Total Weight] 6  
+[Normalized Significance] 4  
+
+---
+
+[Topic] Investigation  
+[Weight] 3  
+
+[Keywords]  
+zemūdens gāzesvada “Balticconnector” bojājumi tiek izmeklēti kā iespējams sabotāžas mēģinājums = 3  
+gāzesvada bojājumi nevarēja rasties tā normālas darbības rezultātā = 2  
+Baltijas jūras reģionā būs pastiprināti jāuzrauga visa zemūdens infrastruktūra = 1  
+
+[Total Weight] 6  
+[Normalized Significance] 4  
+
+---
+
+[Topic] NATO action  
+[Weight] 2  
+
+[Keywords]  
+Latvija ir daļa no Eiropas Savienības un NATO, ārlietu ministra ieskatā, sabiedrotajām demokrātijām ir jāsadarbojas un vēl ciešāk jākāpina sadarbība, lai rūpētos par mūsu infrastruktūras drošību = 3  
+Baltijas jūras reģionā būs pastiprināti jāuzrauga visa zemūdens infrastruktūra = 1  
+
+[Total Weight] 4  
+[Normalized Significance] 2.67  
+
+---
+
+[Topic] Energy resources  
+[Weight] 2  
+
+[Keywords]  
+gāzesvads “Balticconnector” slēgts = 2  
+Inčukalna pazemes gāzes krātuvē rezerves ir labas = 2  
+gāzesvada “Balticconnector” slēgšana neietekmē gāzes piegādes patērētājiem Igaunijā = 1  
+
+[Total Weight] 5  
+[Normalized Significance] 3.33  
+
+---
+
+[Topic] Geopolitical dynamics  
+[Weight] 2  
+
+[Keywords]  
+sabiedrotajām demokrātijām ir jāsadarbojas un vēl ciešāk jākāpina sadarbība, lai rūpētos par mūsu infrastruktūras drošību = 2  
+Latvija ir daļa no Eiropas Savienības un NATO, ārlietu ministra ieskatā, sabiedrotajām demokrātijām ir jāsadarbojas un vēl ciešāk jākāpina sadarbība, lai rūpētos par mūsu infrastruktūras drošību = 1  
+
+[Total Weight] 3  
+[Normalized Significance] 2  

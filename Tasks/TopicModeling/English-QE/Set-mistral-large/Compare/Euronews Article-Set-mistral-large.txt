@@ -1,0 +1,77 @@
+---
+
+[Topic] Suspected Sabotage
+[Weight] 4
+
+[Keywords]
+damage caused to the gas pipeline and the telecommunications cable = 3
+external activity = 3
+possible sabotage = 3
+unusual drop in pressure = 2
+investigations were continuing = 2
+NATO Secretary General Jens Stoltenberg = 1
+
+[Total Weight] 14
+[Normalized Significance] 7.0
+
+---
+
+[Topic] Infrastructure Vulnerability
+[Weight] 5
+
+[Keywords]
+Baltic Connector pipeline = 3
+gas pipeline and the telecommunications cable = 3
+leak in the pipeline = 3
+unusual drop in pressure = 3
+offshore pipeline between Finland and Estonia = 3
+leak is thus stopped = 2
+repairing damage to the pipeline = 1
+
+[Total Weight] 18
+[Normalized Significance] 9.0
+
+---
+
+[Topic] Economic and Financial Impact
+[Weight] 3
+
+[Keywords]
+repairing damage to the pipeline = 3
+pipeline could take at least several months = 3
+investigating the incident = 2
+gas flow shut down = 2
+
+[Total Weight] 10
+[Normalized Significance] 5.0
+
+---
+
+[Topic] NATO Response
+[Weight] 3
+
+[Keywords]
+NATO Secretary General Jens Stoltenberg = 3
+damage to the Baltic Connector = 3
+sharing information with its allies = 2
+spoke with Niinistö = 2
+Finland's president = 1
+
+[Total Weight] 11
+[Normalized Significance] 5.5
+
+---
+
+[Topic] International Cooperation
+[Weight] 3
+
+[Keywords]
+investigations were continuing between authorities in Helsinki and Tallinn = 3
+sharing information with its allies = 3
+NATO's involvement = 2
+cooperation between Finland and Estonia = 2
+
+[Total Weight] 10
+[Normalized Significance] 5.0
+
+---

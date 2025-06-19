@@ -1,0 +1,80 @@
+[Topic] Infrastructure Vulnerability
+[Weight] 5
+
+[Keywords]
+- Submarine gas pipeline between Finland and Estonia = 3
+- Data cable between Finland and Estonia = 3
+- Damage caused by external mechanical force = 3
+- Investigation into potential sabotage = 3
+- Increase in Nato patrols in the Baltic Sea = 2
+- Concerns about safety in the Arctic route = 2
+
+[Total Weight] 19
+[Normalized Significance] 9.5
+
+---
+
+[Topic] Suspected Sabotage
+[Weight] 4
+
+[Keywords]
+- Potential sabotage of gas pipeline and data cable = 3
+- Chinese container ship Newnew Polar Bear under investigation = 3
+- Damage caused by an external mechanical force = 3
+- No reason to believe the damage was caused by an explosion = 2
+- Latvian president's suggestion to close the Baltic Sea to Russian shipping = 2
+
+[Total Weight] 13
+[Normalized Significance] 6.5
+
+---
+
+[Topic] International Cooperation
+[Weight] 3
+
+[Keywords]
+- Cooperation with Chinese authorities in the investigation = 3
+- Finnish foreign ministry reaching out to China = 3
+- Potential role of Chinese and Russian vessels = 2
+- Increase in Nato's involvement in the Baltic Sea = 2
+
+[Total Weight] 11
+[Normalized Significance] 5.5
+
+---
+
+[Topic] NATO Response
+[Weight] 3
+
+[Keywords]
+- Nato increasing patrols in the Baltic Sea = 3
+- Deployment of minesweepers, drones, and surveillance aircraft = 2
+- Finland's NATO membership = 2
+- Latvia's suggestion to close the Baltic Sea to Russian shipping = 2
+
+[Total Weight] 9
+[Normalized Significance] 4.5
+
+---
+
+[Topic] Economic and Financial Impact
+[Weight] 2
+
+[Keywords]
+- Potential repair costs for the damaged infrastructure = 2
+- Disruptions to gas and data markets = 2
+- Concerns about safety leading to potential increased costs for Arctic shipping = 1
+
+[Total Weight] 5
+[Normalized Significance] 2.5
+
+---
+
+[Topic] Human Rights Violations (Minimally relevant)
+[Weight] 1
+
+[Keywords]
+- No relevant keywords found in the article
+
+[Total Weight] 0
+[Normalized Significance] 0

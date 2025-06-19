@@ -1,0 +1,60 @@
+1. Named Entity Recognition:
+Layer Output:
+Location: [Finland, Estonia, Baltic Sea, Baltic Connector pipeline, Helsinki, Tallinn]
+Actor: [Finland's president, Sauli Niinistö, NATO Secretary General Jens Stoltenberg, Gasgrid Finland, Estonia's Elering]
+Event: [Drop in pressure, Cut off gas flow, Leak in Baltic Connector pipeline, External activity causing damage, Investigation, Repair to pipeline]
+Timeline: [Sunday morning, Tuesday, shortly before 02:00 EET Sunday morning, several months, Tuesday afternoon]
+Entities Ordered by Importance Score:
+1. Leak in Baltic Connector pipeline (Event): 0.15
+2. Finland (Location): 0.15
+3. Estonia (Location): 0.15
+4. Finland's president (Actor): 0.1
+5. Sauli Niinistö (Actor): 0.1
+6. Baltic Connector pipeline (Location): 0.1
+7. External activity causing damage (Event): 0.05
+8. NATO Secretary General Jens Stoltenberg (Actor): 0.05
+9. Gasgrid Finland (Actor): 0.05
+10. Estonia's Elering (Actor): 0.05
+11. Sunday morning (Timeline): 0.02
+12. Tuesday (Timeline): 0.02
+13. shortly before 02:00 EET Sunday morning (Timeline): 0.02
+14. several months (Timeline): 0.02
+15. Tuesday afternoon (Timeline): 0.02
+16. Baltic Sea (Location): 0.02
+17. Helsinki (Location): 0.02
+18. Tallinn (Location): 0.02
+19. Drop in pressure (Event): 0.02
+20. Cut off gas flow (Event): 0.02
+21. Investigation (Event): 0.02
+22. Repair to pipeline (Event): 0.02
+
+2. Relationship Extraction:
+Layer Output:
+noticed [Engineers, a drop in pressure]
+cut off [Engineers, the flow of gas]
+shut due to [A gas pipeline in the Baltic Sea, an apparent leak]
+caused by [leak, external activity]
+closed [The Baltic Connector pipeline, on Sunday]
+is the result of [damage caused to the gas pipeline and the telecommunications cable, external activity]
+investigations were continuing between [the cause of the leak, authorities in Helsinki and Tallinn]
+spoken with [Jens Stoltenberg, Niinistö]
+noted [System operators Gasgrid Finland and Estonia's Elering, an unusual drop in pressure in the pipeline]
+shut down [System operators Gasgrid Finland and Estonia's Elering, the gas flow]
+leaking [offshore pipeline between Finland and Estonia, suspected]
+closed [The valves in the offshore pipeline, now]
+stopped [leak, thus]
+investigating [The Finnish operator, the incident]
+Repairing [Gasgrid Finland, damage to the pipeline]
+
+3. Plot Discovery:
+Layer Output:
+Exposition: Engineers noticed a drop in pressure in the Baltic Connector pipeline and decided to cut off the gas flow.
+Rising Action: The pipeline, which supplies Finland with gas from Estonia, was shut due to an apparent leak, with suspicions of external activity causing the damage.
+Climax: Finnish authorities, in collaboration with their Estonian counterparts, launch an investigation into the cause of the leak.
+Falling Action: The NATO Secretary General shares information with allies about the damage and possible external sabotage.
+Resolution: Repairs on the pipeline are ongoing, which could take several months.
+
+4. Story Evolution:
+Layer Output:
+Shift Detection: A significant narrative change occurs when the possibility of external activity causing the damage to the pipeline is revealed.
+Causal Relation Extraction: The drop in pipeline pressure and subsequent shutdown of the gas flow was a direct result of the suspected leak, which is currently under investigation for potential external sabotage.

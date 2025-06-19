@@ -1,0 +1,48 @@
+Topic: Communication disruption=3=4
+  Common Keywords:
+   Somu līcī pārraides jauda sakaru kabelim starp Igauniju un Zviedriju ir samazinājusies=3=3
+
+  Keywords Assigned by Human but Not by Machine:
+   dažu dienu laikā atjaunoja kabeļa maksimālo pārraides jaudu, un sakaru nepārtrauktību tas nav ietekmējis=3
+   Sakari ir nepārtraukti nodrošināti, jo Igaunijai ir vairāki savienojumi, un bojājumu gadījumā ir iespējams izmantot vai nu alternatīvi funkcionējošus zemūdens kabeļus=3
+
+  Keywords Assigned by Machine but Not by Human:
+   Kabeļa īpašnieks veic tā remontu=2
+   Sakari ir nepārtraukti nodrošināti=1
+   Pēc ministra sacītā, kabelis starp Zviedriju un Igauniju bojāts=3
+   Bojāts sakaru kabelis starp Zviedriju un Igauniju Baltijas jūrā=3
+
+
+Topic: Infrastructure vulnerability=5=5
+  Keywords Assigned by Human but Not by Machine:
+   bojājuma vieta nav Zviedrijas teritoriālajos ūdeņos, un ka kabelis joprojām ir izmantojams=2
+   Kāda iemesla dēļ samazinājās kabeļa pārraides jauda, pagaidām nav zināms=3
+
+  Keywords Assigned by Machine but Not by Human:
+   kritiskās zemūdens infrastruktūras neaizsargātību un nepieciešamību risināt šo jautājumu=3
+   Kabeļa īpašnieks veic tā remontu=2
+   Pēc Igaunijas Ekonomikas un komunikāciju ministrijas sniegtajām ziņām, bojājuma vieta atrodas Igaunijas teritoriālajos ūdeņos=2
+   Sakari ir nepārtraukti nodrošināti=1
+   Bojāts sakaru kabelis starp Zviedriju un Igauniju Baltijas jūrā=3
+   Pēc ministra sacītā, kabelis starp Zviedriju un Igauniju bojāts=3
+   Somu līcī pārraides jauda sakaru kabelim starp Igauniju un Zviedriju ir samazinājusies=3
+   pastiprinātu kritiskās infrastruktūras uzraudzību=3
+
+
+Topics Assigned by Human but Not by Machine:
+Topic: Geopolitical dynamics=4
+Topic: Suspicion of damage=4
+Topic: Concerns about defense=5
+
+Topics Assigned by Machine but Not by Human:
+Topic: Damage=3
+Topic: Communication provision=2
+Topic: International cooperation=3
+
+Statistics:
+Common Topics: 2
+Topics Assigned by Human: 5
+Topics Assigned by Machine: 5
+Common Keywords: 1
+Keywords Assigned by Human: 5
+Keywords Assigned by Machine: 13

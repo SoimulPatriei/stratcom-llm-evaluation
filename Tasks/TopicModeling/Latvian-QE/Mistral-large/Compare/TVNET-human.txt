@@ -1,0 +1,61 @@
+[Topic] Geopolitical dynamics  
+[Weight] 4  
+
+[Keywords]  
+nav iemesla Igaunijas un Zviedrijas kabeļa bojājumu saistīt ar citiem kabeļiem, norādīja ministrija = 2  
+Kabeļa īpašnieks veic tā remontu, un šī procesa laikā sadarbībā ar Somiju un Zviedriju tiks izpētīts iespējamais iemesls = 2  
+Igaunijas - Zviedrijas un Igaunijas - Somijas zemūdens sakaru kabeļu bojājumi nav ietekmējuši Igaunijas sakaru pakalpojumu darbību = 1  
+Uzraudzības un aizsardzības līmeņa paaugstināšanai ir nepieciešama nozīmīga sadarbība ar mūsu kolēģiem no Somijas un Zviedrijas = 3  
+
+[Total Weight] 8  
+[Normalized Significance] 6  
+
+---
+
+[Topic] Suspicion of damage  
+[Weight] 4  
+
+[Keywords]  
+bojāts komunikāciju kabelis, kas savieno abas valstis, taču šā incidenta cēlonis nav skaidrs = 3  
+kabelis starp Zviedriju un Igauniju bojāts apmēram tajā pašā laikā, kad tika bojāts gāzesvads "Balticconnector" un sakaru kabelis = 2  
+"Līdzīgi nelieli bojājumi šim kabelim bijuši arī agrāk = 3  
+
+[Total Weight] 8  
+[Normalized Significance] 8  
+
+---
+
+[Topic] Infrastructure vulnerability  
+[Weight] 5  
+
+[Keywords]  
+bojājuma vieta nav Zviedrijas teritoriālajos ūdeņos, un ka kabelis joprojām ir izmantojams = 2  
+Kāda iemesla dēļ samazinājās kabeļa pārraides jauda, pagaidām nav zināms = 3  
+
+[Total Weight] 5  
+[Normalized Significance] 8  
+
+---
+
+[Topic] Communication disruption  
+[Weight] 3  
+
+[Keywords]  
+Somu līcī pārraides jauda sakaru kabelim starp Igauniju un Zviedriju ir samazinājusies = 3  
+dažu dienu laikā atjaunoja kabeļa maksimālo pārraides jaudu, un sakaru nepārtrauktību tas nav ietekmējis = 3  
+Sakari ir nepārtraukti nodrošināti, jo Igaunijai ir vairāki savienojumi, un bojājumu gadījumā ir iespējams izmantot vai nu alternatīvi funkcionējošus zemūdens kabeļus = 3  
+
+[Total Weight] 9  
+[Normalized Significance] 10  
+
+---
+
+[Topic] Concerns about defense  
+[Weight] 5  
+
+[Keywords]  
+incidenti parāda kritiskās zemūdens infrastruktūras neaizsargātību un nepieciešamību risināt šo jautājumu = 3  
+Valdība ir devusi skaidrus norādījumus ministrijām un plāno un jau ir īstenojusi papildu pasākumus = 2  
+
+[Total Weight] 5  
+[Normalized Significance] 8  

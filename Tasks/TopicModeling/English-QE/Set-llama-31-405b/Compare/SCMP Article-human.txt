@@ -1,0 +1,91 @@
+[Topic] Suspected Sabotage  
+[Weight] 5  
+
+[Keywords]  
+blamed on Chinese ship, suspected of causing the damage = 3  
+Chinese container ship identified by Finnish police as the main suspect = 3  
+NewNew Polar Bear accused of dragging its anchor = 3  
+too early to conclude if it was an accident or deliberate = 2  
+
+[Total Weight] 11  
+[Normalized Significance] 8.0  
+
+---
+
+[Topic] NATO Response  
+[Weight] 0  
+
+[Keywords]  
+N/A  
+
+[Total Weight] 0  
+[Normalized Significance] N/A  
+
+---
+
+[Topic] Infrastructure Vulnerability  
+[Weight] 5  
+
+[Keywords]  
+77km-long (48-mile) Balticconnector pipeline between Finland and Estonia, critical infrastructures = 3  
+two telecoms cables were also damaged = 2  
+Cutting through critical infrastructures, dragging its anchor across the seabed = 2  
+
+[Total Weight] 7  
+[Normalized Significance] 7.0  
+
+---
+
+[Topic] Energy Security  
+[Weight] 3  
+
+[Keywords]  
+pipeline between Finland and Estonia was shut down last October = 2  
+critical infrastructures = 2  
+full cooperation with the investigation = 2  
+
+[Total Weight] 6  
+[Normalized Significance] 6.0  
+
+---
+
+[Topic] International Cooperation  
+[Weight] 5  
+
+[Keywords]  
+constructive dialogues between the sides, video call between Xi and Niinisto, EU-China relations, China's role in bringing about a just and lasting peace = 3  
+jointly advocate multilateralism, safeguard free trade, and make positive contributions to world peace and stability = 3  
+China cooperating with investigation = 3  
+China would like to deepen mutually beneficial cooperation with Finland = 3  
+China is willing to work with European countries, strategic and long-term perspective = 3  
+China promised full cooperation with investigation = 3  
+global impact of China-Europe relations have become more prominent = 3  
+
+[Total Weight] 18  
+[Normalized Significance] 6.0  
+
+---
+
+[Topic] Environmental and Technical Challenges  
+[Weight] 3  
+
+[Keywords]  
+causing the damage by dragging its anchor across the seabed = 2  
+accused of dragging its anchor across the seabed, cutting through the critical infrastructures = 2  
+cutting through critical infrastructure = 1  
+
+[Total Weight] 5  
+[Normalized Significance] 3.0  
+
+---
+
+[Topic] Economic and Financial Impact  
+[Weight] 3  
+
+[Keywords]  
+impact on EU-China relations = 2  
+tensions between China and Europe are growing over a host of issues from trade to security = 2  
+Beijing is seeking to foster ties with individual members of the 27-nation European Union = 2  
+
+[Total Weight] 6  
+[Normalized Significance] 6.0  

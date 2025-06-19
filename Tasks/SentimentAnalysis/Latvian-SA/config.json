@@ -1,0 +1,30 @@
+{
+    "openrouter": {
+      "api_key": "XXXXXX",
+      "api_base": "https://openrouter.ai/api/v1"
+    },
+    "model": {
+      "mistral-nemo": "mistralai/mistral-nemo",
+      "mistral-large": "mistralai/mistral-large",
+      "mistral-7b": "mistralai/mistral-7b-instruct:free",
+      "gpt-4": "openai/gpt-4",
+      "gpt-4o":"openai/gpt-4o-2024-08-06",
+      "gpt-4o-mini": "openai/gpt-4o-mini", 
+      "llama-3.1": "meta-llama/llama-3.1-405b-instruct",
+      "gemini-pro": "google/gemini-pro",
+      "gemini-pro-free": "google/gemini-pro-1.5",
+      "claude": "anthropic/claude-3.5-sonnet",
+      "llama-free": "meta-llama/llama-3.2-3b-instruct:free"
+    },
+    "dir": {
+        "in-dir": "",
+        "out-dir": ""
+    },
+    "prompt-files":{
+        "subtask": "Sentiment_Analysis_subtask_lt.prompt",
+        "maintask": "Sentiment_Analysis_main_en.prompt"
+    },
+    "prop_aspects": "proposed_aspects.json",
+    "language": "Latvian"
+
+}

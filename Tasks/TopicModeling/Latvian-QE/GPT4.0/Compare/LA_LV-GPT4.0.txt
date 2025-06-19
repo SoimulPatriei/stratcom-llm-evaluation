@@ -1,0 +1,90 @@
+[Topic] Infrastructure vulnerability  
+[Weight] 5  
+
+[Keywords]  
+zemūdens gāzesvads “Balticconnector” = 3  
+vismaz pieci mēneši = 2  
+Latvijas apgāde nav apdraudēta = 2  
+ja gāzesvads “Balticconnector”, iespējams, bija sabotāžas mērķis = 3  
+spiediena krišanās cauruļvadā = 3  
+gāzes noplūdi = 3  
+
+[Total Weight] 16  
+[Normalized Significance] 5.3
+
+[Topic] Possible sabotage  
+[Weight] 5  
+
+[Keywords]  
+sabotāžas mēģinājums = 3  
+nodarītie bojājumi zemūdens gāzesvadā “Balticconnector” = 3  
+cauruļvads ir bojāts tīši = 3  
+
+[Total Weight] 9  
+[Normalized Significance] 6
+
+[Topic] Investigation  
+[Weight] 4  
+
+[Keywords]  
+izmeklēšana turpinās = 3  
+izmeklēšanas rezultāti = 2  
+noplūdes izmeklēšanu vada Somijas Centrālā kriminālpolicija = 3  
+
+[Total Weight] 8  
+[Normalized Significance] 5.3
+
+[Topic] Security concerns  
+[Weight] 3  
+
+[Keywords]  
+pastiprināti jāuzrauga visa zemūdens infrastruktūra = 3  
+rūpētos par mūsu infrastruktūras drošību = 2  
+sekmēt drošību sabiedrībām kopumā = 1  
+
+[Total Weight] 6  
+[Normalized Significance] 4
+
+[Topic] International cooperation  
+[Weight] 2  
+
+[Keywords]  
+runājis gan ar Somijas, gan ar Igaunijas kolēģiem = 2  
+sabiedrotajām demokrātijām ir jāsadarbojas = 2  
+vēl ciešāk jākāpina sadarbība = 1  
+
+[Total Weight] 5  
+[Normalized Significance] 5
+
+[Topic] Energy resources  
+[Weight] 3  
+
+[Keywords]  
+Inčukalna pazemes gāzes krātuve = 2  
+gāzes piegādes iespējas caur Lietuvu un Klaipēdas gāzes termināli = 3  
+Latvija jau piegādā gāzi Igaunijai = 2  
+
+[Total Weight] 7  
+[Normalized Significance] 4.7
+
+[Topic] Geopolitical dynamics  
+[Weight] 2  
+
+[Keywords]  
+Somijas un Igaunijas gāzesvads “Balticconnector” = 2  
+Latvija ir daļa no Eiropas Savienības un NATO = 2  
+Somijas pārvades sistēmu operators “Elering” un “Gasgrid Finland” = 1  
+
+[Total Weight] 5  
+[Normalized Significance] 5
+
+[Topic] Damage  
+[Weight] 3  
+
+[Keywords]  
+nodarītie bojājumi = 3  
+bojājums ir mehānisks un cilvēka izraisīts = 3  
+bojājums gāzesvadā “Balticconnector” = 3  
+
+[Total Weight] 9  
+[Normalized Significance] 6

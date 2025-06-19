@@ -1,0 +1,72 @@
+Topic: Suspected Sabotage=5=5
+  Common Keywords:
+   Chinese-flagged ship is also thought to have been involved=3=3
+   Russia is the prime suspect=3=3
+
+  Keywords Assigned by Human but Not by Machine:
+   Baltic connector gas pipeline and a communications cable between Finland and Estonia were damaged=3
+   external mechanical force=3
+   Russia is making mischief underwater=3
+   China attempting to sabotage=2
+   what Sauli Niinisto, Finland’s president, called ‘external activity’=3
+
+  Keywords Assigned by Machine but Not by Human:
+   damaged communications cable between Sweden and Estonia=3
+   investigation of the Sevmorput, a Russian nuclear-powered cargo ship, and the Newnew Polar Bear, a Chinese container ship=2
+   underwater infrastructure in the Baltic Sea=3
+   Russia’s Main Directorate of Deep-Sea Research=2
+   Balticconnector gas pipeline and a communications cable between Finland and Estonia were damaged=2
+
+
+Topic: International Cooperation=3=3
+  Keywords Assigned by Machine but Not by Human:
+   limited information-sharing between countries=2
+   European allies have grown increasingly concerned=2
+   Joint Expeditionary Force, a British-led alliance of ten northern European countries=3
+
+
+Topic: Infrastructure Vulnerability=5=5
+  Common Keywords:
+   threats to critical undersea infrastructure are real=3=2
+
+  Keywords Assigned by Human but Not by Machine:
+   Nord Stream I and II gas pipelines from Russia to Germany were damaged by a pair of explosions=3
+   high levels of background noise, temperature and salinity=3
+   difficult to prevent Russian [underwater drones]=3
+   lack of surveillance platforms=3
+   difficulty of stopping potential attacks=3
+
+  Keywords Assigned by Machine but Not by Human:
+   limited grasp of what was going on under the Baltic Sea=2
+   communications cable between Sweden and Estonia had been partially damaged=3
+   the danger is more tangible=2
+   Balticconnector gas pipeline and a communications cable between Finland and Estonia were damaged=3
+
+
+Topic: NATO Response=4=4
+  Keywords Assigned by Human but Not by Machine:
+   Russia is currently treating Finland as an unfriendly country=2
+   Joint Expeditionary Force, discussed the issue during summit=2
+   stepping up air and maritime patrols=3
+   Finland applied to join NATO, military non-alignment=2
+   Russian military robotics=2
+
+  Keywords Assigned by Machine but Not by Human:
+   Sweden, along with Finland, applied to join NATO last year=2
+   NATO, having established an underwater protection cell earlier in the year, said it had stepped up air and maritime patrols in the Baltic Sea=3
+   what its allies in NATO and the European Union would be willing to do in response=3
+
+
+Topics Assigned by Human but Not by Machine:
+Topic: Energy Security=2
+
+Topics Assigned by Machine but Not by Human:
+Topic: Critical Infrastructure Weakness=4
+
+Statistics:
+Common Topics: 4
+Topics Assigned by Human: 5
+Topics Assigned by Machine: 5
+Common Keywords: 3
+Keywords Assigned by Human: 18
+Keywords Assigned by Machine: 18

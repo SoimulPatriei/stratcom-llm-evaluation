@@ -1,0 +1,72 @@
+Topic: Suspected Sabotage=5=5
+  Keywords Assigned by Human but Not by Machine:
+   no reason to believe it was caused by an explosion=3
+   man-made but have not yet established if it was deliberate or accidental=3
+   damage to the pipeline and cable=3
+   they had found what appeared to be “an extremely heavy object” near the scene during an inspection on Thursday=3
+   Russian ship Sevmorput, operated by the state nuclear-powered icebreaker company Atomflot, was also in the area at the time=3
+   separate undersea data cable connecting it to Estonia was also damaged around the same time=3
+   Chinese container ship is at the centre of a Finnish investigation=3
+   focusing only on the Chinese vessel=3
+
+  Keywords Assigned by Machine but Not by Human:
+   Sevmorput, operated by the state nuclear-powered icebreaker company Atomflot=2
+   potential sabotage of a gas pipeline and data cable=3
+   damage was man-made=2
+   investigation into the potential sabotage=2
+   damage has been caused by an external mechanical force=3
+   Newnew Polar Bear, a Hong Kong-registered container ship=3
+
+
+Topic: Environmental and Technical Challenges=3=2
+  Keywords Assigned by Human but Not by Machine:
+   The number of vessels using the Arctic route between Russian and Chinese ports has increased substantially this year=2
+   would now try to recover it=2
+   they had found what appeared to be “an extremely heavy object” near the scene during an inspection=2
+
+  Keywords Assigned by Machine but Not by Human:
+   increase in non-ice-reinforced ships=2
+   safety concerns in the remote far north=2
+
+
+Topic: Economic and Financial Impact=3=2
+  Keywords Assigned by Human but Not by Machine:
+   The number of vessels using the Arctic route between Russian and Chinese ports has increased substantially this year=2
+   substantial increase in vessels using the Arctic route=2
+   a quicker maritime passage between the Russian Arctic and Asia=2
+
+  Keywords Assigned by Machine but Not by Human:
+   quicker maritime passage between the Russian Arctic and Asia=1
+   increase in vessels using the Arctic route=2
+
+
+Topic: NATO Response=5=3
+  Keywords Assigned by Human but Not by Machine:
+   four minesweepers to the area=2
+   Latvian president Edgars Rinkēvičs went so far as to suggest on Friday that if Russia should be proven to be behind the potential sabotage then Nato should close the Baltic Sea to Russian shipping=3
+   potential sabotage of undersea infrastructure has led Nato to increase its patrols=3
+   additional flights by drones as well as surveillance and reconnaissance aircraft=3
+
+  Keywords Assigned by Machine but Not by Human:
+   Latvian president suggestion on Russian shipping=2
+   Nato to increase its patrols in the Baltic Sea=3
+   sent four minesweepers to the area=3
+
+
+Topics Assigned by Human but Not by Machine:
+Topic: Energy Security=4
+Topic: International Cooperation=5
+Topic: Infrastructure Vulnerability=5
+
+Topics Assigned by Machine but Not by Human:
+Topic: Global Diplomatic Engagement=3
+Topic: Supply Chain Stability=1
+Topic: Critical Infrastructure Weakness=5
+
+Statistics:
+Common Topics: 4
+Topics Assigned by Human: 7
+Topics Assigned by Machine: 7
+Common Keywords: 0
+Keywords Assigned by Human: 18
+Keywords Assigned by Machine: 13

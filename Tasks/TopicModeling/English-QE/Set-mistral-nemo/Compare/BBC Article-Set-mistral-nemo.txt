@@ -1,0 +1,90 @@
+[Topic] Suspected Sabotage
+[Weight] 5
+
+[Keywords:]
+suspected sabotage of Baltic-connector gas pipeline = 5
+deliberate damage = 4
+external activity = 3
+cause of the leak = 3
+probable explosion = 3
+Russian sabotage = 2
+retribution for Finland joining Nato = 2
+damage could not have been caused by normal use = 2
+damage was so serious it was expected to take months to repair = 1
+
+[Total Weight] 31
+[Normalized Significance] 10.0
+
+---
+
+[Topic] Infrastructure Vulnerability
+[Weight] 4
+
+[Keywords:]
+underwater natural gas pipeline with Estonia = 4
+pipeline was shut down after a sudden drop in pressure = 4
+telecoms cable was also damaged = 3
+pipeline reopened this week after multimillion-euro repair work = 3
+damage to the cable and pipeline happened at two different spots = 3
+pipeline is Finland's only direct link to the wider European Union's gas network = 2
+alternative sources of gas to ensure the country's energy security = 1
+
+[Total Weight] 20
+[Normalized Significance] 10.0
+
+---
+
+[Topic] Economic and Financial Impact
+[Weight] 3
+
+[Keywords:]
+multimillion-euro repair work = 3
+total cost of the pipeline repair work, estimated at around 35 million euros ($38 million) = 3
+EU covered 75% of Balticconnector’s original construction cost = 2
+disruption of gas markets = 2
+who will pick up the bill = 1
+
+[Total Weight] 11
+[Normalized Significance] 5.5
+
+---
+
+[Topic] NATO Response
+[Weight] 3
+
+[Keywords:]
+NATO has stepped up its patrols of the Baltic Sea = 3
+NATO members Finland and Estonia = 3
+Finland joined NATO in April 2023 = 2
+Nato military alliance = 2
+sharing information & stands ready to support Allies concerned = 2
+bloc is monitoring the situation = 1
+
+[Total Weight] 13
+[Normalized Significance] 6.5
+
+---
+
+[Topic] Global Diplomatic Engagement
+[Weight] 3
+
+[Keywords:]
+international cooperation = 3
+Finland's prime minister discussed the incident with European Commission President = 3
+former president of Finland spoke with Chinese President Xi Jinping = 2
+cooperation with the Chinese authorities probing the case = 2
+European Union's response = 1
+
+[Total Weight] 11
+[Normalized Significance] 5.5
+
+---
+
+[Topic] Climate Change and Agriculture (Minimally relevant, mentioned once in passing)
+[Weight] 1
+
+[Keywords:]
+natural gas accounts for about 5% of Finland's energy consumption = 1
+
+[Total Weight] 1
+[Normalized Significance] 1.0

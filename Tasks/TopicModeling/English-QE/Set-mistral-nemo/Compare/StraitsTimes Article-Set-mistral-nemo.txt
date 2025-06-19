@@ -1,0 +1,60 @@
+[Topic] Suspected Sabotage
+[Weight] 4
+
+[Keywords]
+anchor of the Hong Kong-flagged cargo vessel Newnew Polar Bear ship = 3
+damage allegedly caused by the Chinese vessel = 2
+findings suggested it belonged to the Chinese cargo ship Newnew Polar Bear = 1
+
+[Total Weight] 6
+[Normalized Significance] 3.0
+
+---
+
+[Topic] Infrastructure Vulnerability
+[Weight] 4
+
+[Keywords]
+Baltic Sea gas pipeline between Finland and Estonia = 3
+pipeline reopened this week after multimillion-euro repair work = 2
+damage to the gas pipeline = 1
+
+[Total Weight] 6
+[Normalized Significance] 3.0
+
+---
+
+[Topic] International Cooperation
+[Weight] 3
+
+[Keywords]
+cooperation with the Chinese authorities probing the case = 3
+former president of Finland spoke with Chinese President Xi Jinping = 2
+constructive dialogue between the countries regarding the Balticconnector pipeline incident = 1
+
+[Total Weight] 6
+[Normalized Significance] 3.0
+
+---
+
+[Topic] NATO Response
+[Weight] 2
+
+[Keywords]
+Finland joined NATO in 2023 = 1
+no direct keywords related to NATO's response to the incident = 0
+
+[Total Weight] 1
+[Normalized Significance] 0.5
+
+---
+
+[Topic] Economic and Financial Impact
+[Weight] 2
+
+[Keywords]
+multimillion-euro repair work = 2
+no direct keywords related to the economic and financial impact = 0
+
+[Total Weight] 2
+[Normalized Significance] 1.0

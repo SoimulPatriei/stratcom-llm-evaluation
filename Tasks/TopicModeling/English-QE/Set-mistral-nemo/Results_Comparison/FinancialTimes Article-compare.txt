@@ -1,0 +1,92 @@
+Topic: Infrastructure Vulnerability=5=5
+  Keywords Assigned by Human but Not by Machine:
+   damage to the pipeline and cable, which occurred two weeks ago in the Gulf of Finland=3
+   damage has been caused by an external mechanical force=3
+   man-made but have not yet established if it was deliberate or accidental=3
+   separate undersea data cable connecting it to Estonia was also damaged around the same time=3
+   potential sabotage of undersea infrastructure=3
+   external mechanical force=3
+   no reason to believe the damage has been caused by an explosion=3
+
+  Keywords Assigned by Machine but Not by Human:
+   - Increase in Nato patrols in the Baltic Sea=2
+   - Submarine gas pipeline between Finland and Estonia=3
+   - Data cable between Finland and Estonia=3
+   - Concerns about safety in the Arctic route=2
+   - Damage caused by external mechanical force=3
+   - Investigation into potential sabotage=3
+
+
+Topic: Economic and Financial Impact=3=2
+  Keywords Assigned by Human but Not by Machine:
+   The number of vessels using the Arctic route between Russian and Chinese ports has increased substantially this year=2
+   substantial increase in vessels using the Arctic route=2
+   a quicker maritime passage between the Russian Arctic and Asia=2
+
+  Keywords Assigned by Machine but Not by Human:
+   - Disruptions to gas and data markets=2
+   - Concerns about safety leading to potential increased costs for Arctic shipping=1
+   - Potential repair costs for the damaged infrastructure=2
+
+
+Topic: International Cooperation=5=3
+  Keywords Assigned by Human but Not by Machine:
+   Latvian president Edgars Rinkēvičs went so far as to suggest on Friday that if Russia should be proven to be behind the potential sabotage then Nato should close the Baltic Sea to Russian shipping=3
+   reached out to China diplomatically to try to get in touch with the Newnew Polar Bear=2
+   cooperation with Chinese authorities=3
+   Finland’s foreign ministry said it had reached out to China diplomatically=3
+
+  Keywords Assigned by Machine but Not by Human:
+   - Cooperation with Chinese authorities in the investigation=3
+   - Finnish foreign ministry reaching out to China=3
+   - Potential role of Chinese and Russian vessels=2
+   - Increase in Nato's involvement in the Baltic Sea=2
+
+
+Topic: NATO Response=5=3
+  Keywords Assigned by Human but Not by Machine:
+   Latvian president Edgars Rinkēvičs went so far as to suggest on Friday that if Russia should be proven to be behind the potential sabotage then Nato should close the Baltic Sea to Russian shipping=3
+   four minesweepers to the area=2
+   additional flights by drones as well as surveillance and reconnaissance aircraft=3
+   potential sabotage of undersea infrastructure has led Nato to increase its patrols=3
+
+  Keywords Assigned by Machine but Not by Human:
+   - Deployment of minesweepers, drones, and surveillance aircraft=2
+   - Nato increasing patrols in the Baltic Sea=3
+   - Finland's NATO membership=2
+   - Latvia's suggestion to close the Baltic Sea to Russian shipping=2
+
+
+Topic: Suspected Sabotage=5=4
+  Keywords Assigned by Human but Not by Machine:
+   Russian ship Sevmorput, operated by the state nuclear-powered icebreaker company Atomflot, was also in the area at the time=3
+   man-made but have not yet established if it was deliberate or accidental=3
+   they had found what appeared to be “an extremely heavy object” near the scene during an inspection on Thursday=3
+   damage to the pipeline and cable=3
+   Chinese container ship is at the centre of a Finnish investigation=3
+   separate undersea data cable connecting it to Estonia was also damaged around the same time=3
+   focusing only on the Chinese vessel=3
+   no reason to believe it was caused by an explosion=3
+
+  Keywords Assigned by Machine but Not by Human:
+   - Damage caused by an external mechanical force=3
+   - Latvian president's suggestion to close the Baltic Sea to Russian shipping=2
+   - Potential sabotage of gas pipeline and data cable=3
+   - Chinese container ship Newnew Polar Bear under investigation=3
+   - No reason to believe the damage was caused by an explosion=2
+
+
+Topics Assigned by Human but Not by Machine:
+Topic: Environmental and Technical Challenges=3
+Topic: Energy Security=4
+
+Topics Assigned by Machine but Not by Human:
+Topic: Human Rights Violations (Minimally relevant)=1
+
+Statistics:
+Common Topics: 5
+Topics Assigned by Human: 7
+Topics Assigned by Machine: 6
+Common Keywords: 0
+Keywords Assigned by Human: 26
+Keywords Assigned by Machine: 22

@@ -1,0 +1,71 @@
+[Topic] Critical Infrastructure Weakness  
+[Weight] 5  
+
+[Keywords]  
+damage to Baltic Sea critical infrastructure = 3  
+undersea gas pipeline sabotage = 3  
+Balticconnector, a 77-kilometer-long gas pipeline = 3  
+rupture of the Balticconnector = 3  
+the pipeline was damaged = 2  
+two telecoms cables connecting Estonia to Finland and Sweden = 2  
+dragged its anchor across the Baltic Sea seabed = 2  
+
+[Total Weight] 18  
+[Normalized Significance] 9.0  
+
+---
+
+[Topic] Suspected Sabotage  
+[Weight] 5  
+
+[Keywords]  
+intentional damage to the undersea gas pipeline = 3  
+Chinese ship Newnew Polar Bear = 3  
+dragged its anchor across the Baltic Sea seabed = 3  
+the vessel’s imminent return to China raises some questions = 3  
+the captain of the ship surely "understood that there was something wrong" = 2  
+the anchor — which weighs 6,000 kilograms — was retrieved a few meters from the site of the damage = 2  
+
+[Total Weight] 16  
+[Normalized Significance] 8.0  
+
+---
+
+[Topic] Infrastructure Vulnerability  
+[Weight] 4  
+
+[Keywords]  
+safety of undersea critical infrastructure = 3  
+possible measures to protect them from external sabotage = 3  
+Balticconnector, a 77-kilometer-long gas pipeline = 2  
+two telecoms cables connecting Estonia to Finland and Sweden = 2  
+there should be "more protection" of these types of infrastructure = 2  
+better surveillance of suspicious ships = 2  
+
+[Total Weight] 14  
+[Normalized Significance] 7.0  
+
+---
+
+[Topic] International Cooperation  
+[Weight] 3  
+
+[Keywords]  
+Finland and Estonia have been investigating = 3  
+in touch with Chinese authorities = 3  
+asked to send representatives to Beijing to investigate the vessel = 2  
+
+[Total Weight] 8  
+[Normalized Significance] 4.0  
+
+---
+
+[Topic] NATO Response  
+[Weight] 2  
+
+[Keywords]  
+Balticconnector connects the two NATO members = 3  
+international investigation into the Nord Stream attack = 2  
+
+[Total Weight] 5  
+[Normalized Significance] 2.5  

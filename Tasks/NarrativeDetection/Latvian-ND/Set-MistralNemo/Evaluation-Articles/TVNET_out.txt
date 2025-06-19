@@ -1,0 +1,86 @@
+**1. Named Entity Recognition**
+
+- Locations:
+  - Baltijas jūras krasts (0.05)
+  - Zviedrija (0.04)
+  - Igaunija (0.04)
+  - Hījumā sala (0.03)
+  - Somijas līcis (0.03)
+  - Eiropas Savienība (0.03)
+  - NATO (0.03)
+  - Somija (0.02)
+
+- Actors:
+  - Zviedrijas aizsardzības ministrs Pols Jonsons (0.05)
+  - Igaunijas Ekonomikas un komunikāciju ministrija (0.04)
+  - Igaunijas Patērētāju aizsardzības un tehniskā regulējuma pārvalde (0.04)
+  - Zviedrijas uzņēmums (0.03)
+  - Somija (0.03)
+  - Igaunija (0.03)
+
+- Events:
+  - Sakaru kabelis bojāts (0.05)
+  - Bojājums gāzesvada "Balticconnector" (0.04)
+  - Sakaru kabelis bojāts starp Igauniju un Somiju (0.04)
+  - Kabelis atjaunots (0.03)
+  - Bojājumu izmeklēšana (0.03)
+  - Valdības pasākumi (0.03)
+  - NATO un Eiropas Savienības sadarbība (0.03)
+
+- Timeline:
+  - 2023. gads (0.05)
+  - 17. oktobris (0.04)
+  - 8. oktobris (0.03)
+  - Agrāk (0.03)
+  - Pārdien (0.03)
+  - Nedēļa (0.03)
+
+**Entities Ordered by Importance Score:**
+
+1. Sakaru kabelis bojāts (Event): 0.05
+2. Zviedrijas aizsardzības ministrs Pols Jonsons (Actor): 0.05
+3. Baltijas jūras krasts (Location): 0.05
+4. Igaunijas Ekonomikas un komunikāciju ministrija (Actor): 0.04
+5. Bojājums gāzesvada "Balticconnector" (Event): 0.04
+6. Sakaru kabelis bojāts starp Igauniju un Somiju (Event): 0.04
+7. Zviedrija (Location): 0.04
+8. Igaunija (Location): 0.04
+9. Kabelis atjaunots (Event): 0.03
+10. Bojājumu izmeklēšana (Event): 0.03
+11. Zviedrijas uzņēmums (Actor): 0.03
+12. Somija (Location & Actor): 0.03
+13. Igaunijas Patērētāju aizsardzības un tehniskā regulējuma pārvalde (Actor): 0.04
+14. Hījumā sala (Location): 0.03
+15. Somijas līcis (Location): 0.03
+16. Eiropas Savienība (Location): 0.03
+17. NATO (Location): 0.03
+18. 2023. gads (Timeline): 0.05
+19. 17. oktobris (Timeline): 0.04
+20. 8. oktobris (Timeline): 0.03
+21. Agrāk (Timeline): 0.03
+22. Pārdien (Timeline): 0.03
+23. Nedēļa (Timeline): 0.03
+24. Valdības pasākumi (Event): 0.03
+25. NATO un Eiropas Savienības sadarbība (Event): 0.03
+
+**2. Relationship Extraction**
+
+- is located at [Baltijas jūras krasts, Zviedrija, Igaunija, Hījumā sala, Somijas līcis]
+- was damaged [Zviedrijas - Igaunijas sakaru kabelis, gāzesvads "Balticconnector", sakaru kabelis Igaunija - Somija]
+- was damaged around the same time [Zviedrijas - Igaunijas sakaru kabelis, gāzesvads "Balticconnector"]
+- was investigated by [Zviedrijas aizsardzības ministrs Pols Jonsons, Igaunijas Ekonomikas un komunikāciju ministrija, Igaunijas Patērētāju aizsardzības un tehniskā regulējuma pārvalde]
+- was repaired by [Zviedrijas uzņēmums]
+- is connected to [Eiropas Savienība, NATO]
+
+**3. Plot Discovery**
+
+- **Exposition**: A communication cable between Sweden and Estonia in the Baltic Sea has been damaged, but the cause is still unclear.
+- **Rising Action**: The damage occurred around the same time as the damage to the gas pipeline "Balticconnector" and the communication cable between Estonia and Finland. Investigations are underway.
+- **Climax**: The repairs are completed, and the cause of the damage is still unknown. The governments of Estonia, Sweden, and Finland, along with NATO and the European Union, are working together to ensure the safety and security of critical infrastructure.
+- **Falling Action**: The communication services are not affected, and there is no evidence that the damage is connected to other cables.
+- **Resolution**: The governments are taking measures to strengthen the monitoring and protection of critical infrastructure, both at sea and on land.
+
+**4. Story Evolution**
+
+- **Shift Detection**: The story evolves as new details about the damaged cables emerge, and the investigation continues.
+- **Causal Relation Extraction**: The cause of the damage to the cables is unknown, and further investigation is needed to determine if there is a connection between the incidents.

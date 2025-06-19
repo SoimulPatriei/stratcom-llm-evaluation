@@ -1,0 +1,113 @@
+[Topic] Suspected Sabotage  
+[Weight] 5  
+
+[Keywords]  
+damage to a natural-gas pipeline and communications cable = 3  
+sabotage = 3  
+external activity = 3  
+Finland and Estonia = 2  
+undersea Balticconnector = 2  
+Nord Stream pipelines linking Germany and Russia = 2  
+
+[Total Weight] 15  
+[Normalized Significance] 7.5  
+
+---
+
+[Topic] Critical Infrastructure Weakness  
+[Weight] 4  
+
+[Keywords]  
+safety of Europe’s critical infrastructure = 3  
+vulnerability of Europe’s infrastructure = 3  
+pipelines, energy grids and natural-gas terminals = 2  
+underwater infrastructure = 2  
+Nord Stream pipelines = 2  
+
+[Total Weight] 12  
+[Normalized Significance] 6.0  
+
+---
+
+[Topic] Infrastructure Vulnerability  
+[Weight] 4  
+
+[Keywords]  
+damage to a natural-gas pipeline and communications cable = 3  
+pipelines, energy grids and natural-gas terminals = 2  
+Nord Stream pipelines = 2  
+undersea Balticconnector = 2  
+communication cable between Finland and Estonia = 2  
+
+[Total Weight] 11  
+[Normalized Significance] 5.5  
+
+---
+
+[Topic] Energy Security  
+[Weight] 4  
+
+[Keywords]  
+gas pipeline = 3  
+Europe’s energy map = 3  
+security of supply = 3  
+Finnish and Estonian gas system operators = 2  
+gas transmission = 2  
+Gasgrid Finland = 2  
+
+[Total Weight] 13  
+[Normalized Significance] 6.5  
+
+---
+
+[Topic] NATO Response  
+[Weight] 3  
+
+[Keywords]  
+North Atlantic Treaty Organization members = 3  
+NATO Secretary-General Jens Stoltenberg = 2  
+alliance was sharing information = 2  
+stands ready to support concerned member states = 2  
+
+[Total Weight] 9  
+[Normalized Significance] 6.0  
+
+---
+
+[Topic] Environmental and Technical Challenges  
+[Weight] 3  
+
+[Keywords]  
+leak in the 48-mile offshore section of the pipeline = 3  
+gas leak caused by the damage = 2  
+Finnish-Estonian seismic monitoring system = 2  
+no seismic signs of a blast or an explosion = 2  
+
+[Total Weight] 9  
+[Normalized Significance] 6.0  
+
+---
+
+[Topic] Economic and Financial Impact  
+[Weight] 2  
+
+[Keywords]  
+benchmark European gas futures contract rose 12% = 3  
+outbreak of fighting in Israel and Gaza spurred a jump in energy prices = 2  
+Russia cut off gas flows to Finland = 2  
+
+[Total Weight] 7  
+[Normalized Significance] 4.5  
+
+---
+
+[Topic] Supply Chain Stability  
+[Weight] 2  
+
+[Keywords]  
+supply in the region = 2  
+floating liquefied natural-gas terminal = 2  
+gas from Latvia = 2  
+
+[Total Weight] 6  
+[Normalized Significance] 4.0  

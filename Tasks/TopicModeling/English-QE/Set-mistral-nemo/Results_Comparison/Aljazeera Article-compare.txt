@@ -1,0 +1,82 @@
+Topic: NATO Response=4=0
+  Keywords Assigned by Human but Not by Machine:
+   prompted NATO to increase patrols in the Baltic Sea=3
+   Latvian President Edgars Rinkevics said last week that NATO should close the Baltic Sea to ships if Russia were proven responsible=3
+   incident stoked concern about the security of energy supplies=2
+
+  Keywords Assigned by Machine but Not by Human:
+   minehunters, maritime patrol aircraft, and drones sent to the region=1
+   NATO has increased patrols in the Baltic Sea=2
+
+
+Topic: International Cooperation=3=0
+  Keywords Assigned by Human but Not by Machine:
+   Tallinn has contacted Beijing seeking “to encourage cooperation concerning the investigation”=2
+   China and Finland have begun communication over the damage to the Balticconnector gas pipeline=3
+   China denies role=3
+   China has called for an “objective, fair and professional” investigation=3
+   cooperation in safeguarding infrastructure=2
+   China had always advocated that the international community strengthen cooperation=2
+   jointly safeguard the security of cross-border infrastructure=2
+
+  Keywords Assigned by Machine but Not by Human:
+   China and Finland have begun communication over the damage=4
+   Estonian Ministry of Foreign Affairs contacted Beijing=3
+   NATO's involvement=1
+   cooperation with the Chinese authorities probing the case=3
+   Chinese Foreign Ministry spokesperson Mao Ning's statement=2
+
+
+Topic: Energy Security=4=0
+  Keywords Assigned by Human but Not by Machine:
+   incident stoked concern about the security of energy supplies in the wider Nordic region=2
+   Baltic region is particularly vulnerable due to a limited number of energy links to the rest of the bloc=3
+   prompted NATO to increase patrols in the Baltic Sea=2
+   concern about security of energy supplies=3
+
+  Keywords Assigned by Machine but Not by Human:
+   energy supplies in the wider Nordic region=3
+   Baltic region is particularly vulnerable=2
+   energy security concerns in the EU=3
+   Balticconnector’s original construction cost=1
+
+
+Topic: Suspected Sabotage=4=0
+  Keywords Assigned by Human but Not by Machine:
+   suspected sabotage of subsea gas pipeline=3
+   investigation has confirmed that the damage has been caused by an external mechanical force=3
+   it was studying how the NewNew Polar Bear container vessel might have been involved in the incident=2
+   they were looking into two ships concerning the incident=3
+   heavy object was found near the pipeline damage=3
+   may have been in any way connected to the Balticconnector pipeline incident=3
+   no abnormalities were found=3
+   potential role of a Chinese ship=3
+   saw two telecom cables cut=3
+   there is no reason to believe the damage has been caused by an explosion=3
+
+  Keywords Assigned by Machine but Not by Human:
+   investigation focused on the potential role of a Chinese ship=3
+   Estonian investigators looking into two ships concerning the incident=2
+   Chinese vessel was normal in the relevant waters at the time of the incident=2
+   suspected sabotage of Finland-Estonia gas link=5
+   damage to the gas pipeline and data cables=3
+   Russia’s Sevmorput=1
+   no reason to believe the damage has been caused by an explosion=2
+
+
+Topics Assigned by Human but Not by Machine:
+Topic: Economic and Financial Impact=2
+Topic: Environmental and Technical Challenges=2
+Topic: Infrastructure Vulnerability=4
+
+Topics Assigned by Machine but Not by Human:
+Topic: Critical Infrastructure Weakness=0
+Topic: Assignment:=0
+
+Statistics:
+Common Topics: 4
+Topics Assigned by Human: 7
+Topics Assigned by Machine: 6
+Common Keywords: 0
+Keywords Assigned by Human: 24
+Keywords Assigned by Machine: 18

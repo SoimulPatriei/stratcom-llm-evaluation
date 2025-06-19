@@ -1,0 +1,71 @@
+[Topic] Security threat / State-sponsored disruption  
+[Weight] 5  
+
+[Keywords]  
+sabotāža = 5  
+mēģinājums = 4  
+iespējams = 3  
+disruption = 3  
+state-sponsored = 6  
+
+[Total Weight] 21  
+[Normalized Significance] 10.5  
+
+---
+
+[Topic] Infrastructure vulnerability / Weak points in public utilities  
+[Weight] 4  
+
+[Keywords]  
+gāzesvads = 4  
+bojājumi = 3  
+zemūdens = 3  
+infrastruktūra = 3  
+utilities = 2  
+weak points = 1  
+
+[Total Weight] 16  
+[Normalized Significance] 8  
+
+---
+
+[Topic] International cooperation / Investigation  
+[Weight] 3  
+
+[Keywords]  
+sadarbība = 3  
+izmeklēšana = 3  
+Somija = 2  
+Igaunija = 2  
+Latvija = 2  
+
+[Total Weight] 12  
+[Normalized Significance] 6  
+
+---
+
+[Topic] Energy resources  
+[Weight] 2  
+
+[Keywords]  
+gāzesvads = 2  
+apgāde = 2  
+energoresursi = 2  
+gāze = 2  
+
+[Total Weight] 8  
+[Normalized Significance] 4  
+
+---
+
+[Topic] Geopolitical dynamics  
+[Weight] 1  
+
+[Keywords]  
+Baltijas jūra = 1  
+Eiropas Savienība = 1  
+NATO = 1  
+dynamics = 1  
+
+[Total Weight] 4  
+[Normalized Significance] 2  

@@ -1,0 +1,116 @@
+Topic: Suspected Sabotage=5=4
+  Keywords Assigned by Human but Not by Machine:
+   deliberate, motive, involvement of a state actor cannot be ruled out=2
+   ruptured three of the four Nord Stream pipelines=3
+   damage was caused by external force=3
+   Pipeline damage was caused by sabotage=3
+   Investigation was now focused on whether the damage was deliberate=3
+
+  Keywords Assigned by Machine but Not by Human:
+   involvement of a state actor "cannot be ruled out"=3
+   united and determined response=2
+   sabotage=3
+   Nato’s secretary general, Jens Stoltenberg=2
+   Finnish investigators=1
+   damage was deliberate=3
+
+
+Topic: Environmental and Technical Challenges=3=1
+  Keywords Assigned by Human but Not by Machine:
+   lifted from the seabed using a navy crane=2
+   deep drag marks on both sides of fractured pipeline=2
+   take at least five months to repair the pipelines=1
+   tracks had been found on the seabed=2
+   Recovered a large ship’s anchor=2
+
+  Keywords Assigned by Machine but Not by Human:
+   Baltic Sea gas pipeline=1
+   damage to the Balticconnector gas pipeline=2
+
+
+Topic: Economic and Financial Impact=2=3
+  Keywords Assigned by Human but Not by Machine:
+   It is unlikely to come on stream again until April 2024=2
+
+  Keywords Assigned by Machine but Not by Human:
+   disruption of gas markets=1
+   damage to the Balticconnector gas pipeline=2
+   Balticconnector’s operators have said it will take at least five months to repair the pipeline=3
+   Finland relies on gas for about 5% of its energy supplies=3
+
+
+Topic: Infrastructure Vulnerability=5=5
+  Keywords Assigned by Human but Not by Machine:
+   vulnerable, undersea critical infrastructure, Nord Stream pipelines=3
+   These types of undersea critical infrastructure are vulnerable=3
+   damage to the Balticconnector pipeline and parallel Estlink cable=3
+   tracks had been found on seabed nearby=2
+
+  Keywords Assigned by Machine but Not by Human:
+   Estlink data communications cable=3
+   pipeline damage=1
+   submarine internet cables, power cables, gas pipelines and oil pipelines=3
+   damage to the Balticconnector gas pipeline=2
+   vulnerable=3
+   Baltic Sea gas pipeline=3
+   Balticconnector gas pipeline=3
+
+
+Topic: International Cooperation=2=3
+  Keywords Assigned by Human but Not by Machine:
+   Sweden’s prime minister=2
+   working with the private sector=2
+   Finland and Estonia=2
+
+  Keywords Assigned by Machine but Not by Human:
+   international partners=2
+   Nato’s involvement=1
+   cooperation with the Chinese authorities=3
+   Finnish investigators have recovered a large ship’s anchor=3
+
+
+Topic: NATO Response=5=3
+  Keywords Assigned by Human but Not by Machine:
+   transatlantic alliance has pledged a ‘united and determined response’=3
+   working with the private sector to protect undersea infrastructure=2
+   Investigators seeking, investigation was now focused=3
+   stepped up patrols in the Baltic=2
+   The alliance launched a new centre for protecting undersea pipelines=2
+
+  Keywords Assigned by Machine but Not by Human:
+   united and determined response=2
+   Nato’s secretary general, Jens Stoltenberg=3
+   Finland joined Nato earlier this year=2
+   Nato – which stepped up patrols in the Baltic after the incidents=2
+   Nato stepped up patrols in the Baltic=3
+
+
+Topic: Energy Security=4=2
+  Common Keywords:
+   Finland relies on gas for about 5% of its energy supplies=2=3
+
+  Keywords Assigned by Human but Not by Machine:
+   gas accounts for 5% of Finland’s energy=1
+   take at least five months to repair the pipeline=2
+   gas pipeline was extensively damaged=3
+   gas to western Europe=2
+
+  Keywords Assigned by Machine but Not by Human:
+   disruption of gas markets=1
+   Balticconnector gas pipeline=2
+
+
+Topics Assigned by Machine but Not by Human:
+Topic: Supply Chain Stability=1
+Topic: Covert Disruptions=2
+Topic: Global Diplomatic Engagement=2
+Topic: Critical Infrastructure Weakness=3
+Topic: Technological Resilience and Ecological Issues=1
+
+Statistics:
+Common Topics: 7
+Topics Assigned by Human: 7
+Topics Assigned by Machine: 12
+Common Keywords: 1
+Keywords Assigned by Human: 28
+Keywords Assigned by Machine: 31

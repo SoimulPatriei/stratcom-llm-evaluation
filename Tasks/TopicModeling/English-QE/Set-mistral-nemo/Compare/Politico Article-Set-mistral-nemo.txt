@@ -1,0 +1,78 @@
+[Topic] Suspected Sabotage
+[Weight] 5
+
+[Keywords]
+Damage to Baltic Sea gas pipeline and telecom cables = 3
+Chinese container ship Newnew Polar Bear suspected = 3
+Anchor of the Chinese vessel likely caused the damage = 3
+Finland and Estonia investigating the incident = 2
+Finland seeks cooperation with Chinese authorities = 2
+Intentional damage suspected = 1
+
+[Total Weight] 14
+[Normalized Significance] 7.0
+
+---
+
+[Topic] Infrastructure Vulnerability
+[Weight] 4
+
+[Keywords]
+Critical undersea gas pipeline and data cables damaged = 3
+Baltic Sea between NATO members Finland and Estonia affected = 3
+Pipeline and cables were cut by an anchor = 2
+Incident raises concerns about infrastructure security = 2
+Limited surveillance of suspicious ships = 1
+
+[Total Weight] 11
+[Normalized Significance] 5.5
+
+---
+
+[Topic] International Cooperation
+[Weight] 3
+
+[Keywords]
+Finland and Estonia cooperate with Chinese authorities = 3
+Finland and Estonia seek access to Chinese vessel = 2
+European partners involved in the investigation = 2
+Limited international cooperation so far = 1
+
+[Total Weight] 8
+[Normalized Significance] 4.0
+
+---
+
+[Topic] NATO Response
+[Weight] 2
+
+[Keywords]
+Finland and Estonia are NATO members = 2
+No explicit mention of NATO's role in the investigation or response = 1
+
+[Total Weight] 3
+[Normalized Significance] 1.5
+
+---
+
+[Topic] Economic and Financial Impact
+[Weight] 1
+
+[Keywords]
+Multimillion-euro repair work required = 1
+No mention of financial impact or disruption to gas markets = 0
+
+[Total Weight] 1
+[Normalized Significance] 0.5
+
+---
+
+[Topic] Covert Disruptions
+[Weight] 2
+
+[Keywords]
+Suspected covert action by a foreign vessel = 2
+No mention of the motive or the party responsible = 1
+  
+[Total Weight] 3
+[Normalized Significance] 1.5

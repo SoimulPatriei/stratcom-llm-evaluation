@@ -1,0 +1,83 @@
+## Narrative Detection Results:
+
+**1. Named Entity Recognition:**
+
+| Entity | Score |
+|---|---|
+| Baltic-connector pipeline | 0.06 |
+| Finland | 0.05 |
+| Estonia | 0.05 |
+| European Union | 0.05 |
+| China | 0.05 |
+| NATO | 0.04 |
+| Russia | 0.04 |
+| Sevmorput | 0.04 |
+| Rosatom | 0.04 |
+| Baltic Sea | 0.04 |
+| October 8 | 0.04 |
+| October 9 | 0.04 |
+| NewNew Polar Bear | 0.03 |
+| Tallinn | 0.03 |
+| Beijing | 0.03 |
+| Mao Ning | 0.03 |
+| Finnish National Bureau of Investigation (NBI) | 0.03 |
+| Risto Lohi | 0.03 |
+| Edgars Rinkevics | 0.03 |
+| Dmitry Peskov | 0.03 |
+| February 2022 | 0.03 |
+| Heavy object | 0.02 |
+| Telecoms cable | 0.02 |
+| Gulf of Finland | 0.02 |
+
+**2. Relationship Extraction:**
+
+* **Suspected sabotage** of the **Baltic-connector pipeline** is being investigated by **Finland**.
+* **China** denies any involvement in the incident.
+* **Estonia** has contacted **China** seeking cooperation in the investigation.
+* **NATO** has increased patrols in the **Baltic Sea** following the incident.
+* **Russia** has denied any involvement and called threats made towards them "unacceptable."
+* **Latvian President Edgars Rinkevics** has called for **NATO** to close the **Baltic Sea** to ships if **Russia** is proven responsible.
+
+**3. Plot Discovery:**
+
+**Exposition:**
+
+* A gas pipeline and telecoms cable were damaged on October 8.
+* Finnish investigators suspect sabotage.
+* China and Finland have begun communication over the incident.
+
+**Rising Action:**
+
+* The Finnish NBI is investigating the involvement of a Chinese ship.
+* Estonia has contacted China seeking cooperation.
+* NATO has increased patrols in the Baltic Sea.
+
+**Climax:**
+
+* The investigation has confirmed that the damage was caused by an external force.
+* Energy security concerns have risen in the EU.
+* Russia has denied any involvement.
+
+**Falling Action:**
+
+* Estonian investigators are looking into two ships, including Russia's Sevmorput.
+* Rosatom has denied any link to the incident.
+* Latvian President Edgars Rinkevics has called for action against Russia.
+
+**Resolution:**
+
+* The investigation is ongoing.
+* The incident has raised concerns about the security of energy supplies in the Nordic region.
+
+**4. Story Evolution:**
+
+**Shift Detection:**
+
+* The investigation has shifted from focusing on a Chinese ship to investigating two ships, including Russia's Sevmorput.
+* Russia has denied any involvement and called threats made towards them "unacceptable."
+
+**Causal Relation Extraction:**
+
+* The investigation into the involvement of a Chinese ship was prompted by the discovery of a "heavy object" near the pipeline damage.
+* NATO increased patrols in the Baltic Sea following the incident and rising energy security concerns in the EU.
+* Russia's denial of involvement and threats against them have further escalated tensions in the region.

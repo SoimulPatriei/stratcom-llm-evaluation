@@ -1,0 +1,85 @@
+Topic: Infrastructure Vulnerability=5=5
+  Keywords Assigned by Human but Not by Machine:
+   48-mile pipeline linking the Finnish town of Inkoo and the Estonian port of Paldiski had suffered mechanical damage=3
+   damaged at the same time as the pipeline=2
+   displacement from its original position in the seabed=3
+
+  Keywords Assigned by Machine but Not by Human:
+   pipeline ruptured=2
+   Baltic Sea gas pipeline between Finland and Estonia=3
+   Balticconnector gas pipeline=2
+   dislodged anchor from a Chinese cargo vessel=3
+   damage to the gas pipeline=3
+   undersea pipeline=2
+
+
+Topic: Economic and Financial Impact=4=3
+  Keywords Assigned by Human but Not by Machine:
+   €300m Balticconnector pipeline=3
+   repairs are estimated to last until at least the end of April=2
+   essential link between Finland and European gas network=2
+
+  Keywords Assigned by Machine but Not by Human:
+   repair costs=2
+   disruption to gas markets=2
+   €300m (£260m) Balticconnector gas pipeline=3
+   pipeline repair work=2
+
+
+Topic: International Cooperation=3=3
+  Common Keywords:
+   Chinese foreign ministry=2=2
+
+  Keywords Assigned by Human but Not by Machine:
+   collaborating with Chinese authorities=2
+   Beijing’s request for a fair and comprehensive investigation=2
+   multiple attempts to reach the ship's captain=2
+
+  Keywords Assigned by Machine but Not by Human:
+   cooperation with the Chinese authorities=3
+   Chinese authorities=2
+   Chinese vessel=2
+
+
+Topic: Energy Security=4=1
+  Keywords Assigned by Human but Not by Machine:
+   significant harm to the 300m Balticconnector gas pipeline=2
+   essential link between Finland and European gas network, Balticconnector pipeline=3
+   mechanical damage within the Finnish economic zone, significant harm=3
+   repairs are estimated to last until at least the end of April=2
+
+  Keywords Assigned by Machine but Not by Human:
+   energy disruption=1
+   gas pipeline=1
+   gas network=1
+
+
+Topic: Suspected Sabotage=5=4
+  Keywords Assigned by Human but Not by Machine:
+   seabed trail leading to the point where the pipeline was broken=2
+   Chinese cargo vessel is believed to have caused damage=3
+   intentional or unintentional, focus of the next phase of the probe=3
+   investigation involving the ship Newnew Polar Bear and a seabed trail=3
+
+  Keywords Assigned by Machine but Not by Human:
+   damaged by an anchor=2
+   unintentional damage=2
+   suspected sabotage=3
+   intentional damage=2
+   bad seafaring=2
+
+
+Topics Assigned by Human but Not by Machine:
+Topic: NATO Response=0
+Topic: Environmental and Technical Challenges=3
+
+Topics Assigned by Machine but Not by Human:
+Topic: Allied Strategic Defence/Response=2
+
+Statistics:
+Common Topics: 5
+Topics Assigned by Human: 7
+Topics Assigned by Machine: 6
+Common Keywords: 1
+Keywords Assigned by Human: 18
+Keywords Assigned by Machine: 22

@@ -1,0 +1,69 @@
+[Topic] Suspected Sabotage
+[Weight] 4
+
+[Keywords]
+damaged Baltic Sea gas pipeline = 3
+Chinese vessel Newnew Polar Bear = 3
+underwater explosions struck three of four Nord Stream gas pipelines = 3
+constructive dialogue between the countries regarding the Balticconnector pipeline incident = 2
+police recovered an anchor believed to have damaged the pipeline = 2
+
+[Total Weight] 13
+[Normalized Significance] 6.5
+
+---
+
+[Topic] Infrastructure Vulnerability
+[Weight] 5
+
+[Keywords]
+damaged Baltic Sea gas pipeline = 3
+underwater explosions struck three of four Nord Stream gas pipelines = 3
+Balticconnector pipeline between Finland and Estonia = 3
+repair the pipeline = 3
+dependent on liquefied natural gas imports for the winter = 2
+
+[Total Weight] 14
+[Normalized Significance] 7.0
+
+---
+
+[Topic] Economic and Financial Impact
+[Weight] 3
+
+[Keywords]
+Balticconnector pipeline repair = 3
+dependent on liquefied natural gas imports for the winter = 3
+natural gas accounts for around 5 per cent of Finland’s energy consumption = 2
+
+[Total Weight] 8
+[Normalized Significance] 4.0
+
+---
+
+[Topic] NATO Response
+[Weight] 3
+
+[Keywords]
+Finland joined NATO in 2023 = 3
+Niinisto raised the issue of the war in Ukraine = 2
+role of China in achieving a just and lasting peace = 2
+
+[Total Weight] 7
+[Normalized Significance] 3.5
+
+---
+
+[Topic] International Cooperation
+[Weight] 4
+
+[Keywords]
+constructive dialogue between the countries = 3
+China was cooperating in its investigation = 3
+Niinisto raised the issue of the war in Ukraine = 2
+role of China in achieving a just and lasting peace = 2
+
+[Total Weight] 10
+[Normalized Significance] 5.0
+
+---

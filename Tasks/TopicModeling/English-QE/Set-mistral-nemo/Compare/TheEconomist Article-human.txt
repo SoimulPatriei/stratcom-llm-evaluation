@@ -1,0 +1,61 @@
+[Topic] Suspected Sabotage  
+[Weight] 5  
+
+[Keywords]  
+Russia is the prime suspect = 3  
+Chinese-flagged ship is also thought to have been involved = 3  
+Russia is making mischief underwater = 3  
+Baltic connector gas pipeline and a communications cable between Finland and Estonia were damaged = 3  
+what Sauli Niinisto, Finland’s president, called ‘external activity’ = 3  
+external mechanical force = 3  
+China attempting to sabotage = 2  
+
+[Total Weight] 20  
+[Normalized Significance] 9.0  
+
+---
+
+[Topic] NATO Response  
+[Weight] 4  
+
+[Keywords]  
+stepping up air and maritime patrols = 3  
+Joint Expeditionary Force, discussed the issue during summit = 2  
+Finland applied to join NATO, military non-alignment = 2  
+Russian military robotics = 2  
+Russia is currently treating Finland as an unfriendly country = 2  
+
+[Total Weight] 11  
+[Normalized Significance] 5.0  
+
+---
+
+[Topic] Infrastructure Vulnerability  
+[Weight] 5  
+
+[Keywords]  
+threats to critical undersea infrastructure are real = 3  
+Nord Stream I and II gas pipelines from Russia to Germany were damaged by a pair of explosions = 3  
+difficulty of stopping potential attacks = 3  
+difficult to prevent Russian [underwater drones] = 3  
+high levels of background noise, temperature and salinity = 3  
+lack of surveillance platforms = 3  
+
+[Total Weight] 18  
+[Normalized Significance] 9.0  
+
+---
+
+[Topic] Energy Security  
+[Weight] 2  
+
+[Keywords]  
+crippling effect on infrastructure operations in Finland remains unlikely = 2  
+
+[Total Weight] 2  
+[Normalized Significance] 2.0  
+
+---
+
+[Topic] International Cooperation  
+[Weight] 3  

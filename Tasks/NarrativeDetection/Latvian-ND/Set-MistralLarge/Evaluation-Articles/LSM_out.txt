@@ -1,0 +1,82 @@
+### Named Entity Recognition
+
+#### Location:
+- [Igaunija, Somija, Baltijas jūra, Baltic-connector cauruļvads, Eiropas Savienība, Zviedrija, Latvija, Ziemeļjūra, NATO, Krievija, Honkonga]
+
+#### Actor:
+- [Igaunijas izmeklētāji, Igaunijas prokuratūra, Trīnu Oleva, Zviedrijas aizsardzības ministrs, Pols Junsons, Somijas policijas ūdenslīdēji, NATO, Eiropas Savienības valstis]
+
+#### Event:
+- [Sakaru kabeļa bojājums, Cilvēka radīts bojājums, Sakaru kabeļa izmeklēšana, Sakaru kabeļa remonts, Sakaru kabeļa bojājuma apstiprināšana, Gāzesvada bojājums, Patruļēšanas pastiprināšana]
+
+#### Timeline:
+- [20. oktobris, 2023, 11:45, 8. oktobris, nākamnedēļ, 2020. gads, Pagājušā gada maijs]
+
+#### Entities Ordered by Importance Score:
+1. Sakaru kabeļa bojājums (Event): 0.06
+2. Cilvēka radīts bojājums (Event): 0.05
+3. Igaunija (Location): 0.05
+4. Somija (Location): 0.05
+5. Igaunijas izmeklētāji (Actor): 0.05
+6. Igaunijas prokuratūra (Actor): 0.05
+7. Trīnu Oleva (Actor): 0.04
+8. Baltijas jūra (Location): 0.04
+9. Sakaru kabeļa izmeklēšana (Event): 0.04
+10. Sakaru kabeļa remonts (Event): 0.04
+11. Sakaru kabeļa bojājuma apstiprināšana (Event): 0.04
+12. Gāzesvada bojājums (Event): 0.04
+13. Patruļēšanas pastiprināšana (Event): 0.04
+14. Zviedrijas aizsardzības ministrs (Actor): 0.04
+15. Pols Junsons (Actor): 0.04
+16. Somijas policijas ūdenslīdēji (Actor): 0.04
+17. NATO (Actor): 0.04
+18. Eiropas Savienības valstis (Actor): 0.03
+19. Zviedrija (Location): 0.03
+20. Latvija (Location): 0.03
+21. Ziemeļjūra (Location): 0.03
+22. Krievija (Location): 0.03
+23. Honkonga (Location): 0.03
+24. 20. oktobris, 2023, 11:45 (Timeline): 0.03
+25. 8. oktobris (Timeline): 0.03
+26. nākamnedēļ (Timeline): 0.03
+27. 2020. gads (Timeline): 0.03
+28. Pagājušā gada maijs (Timeline): 0.03
+
+### Relationship Extraction
+
+- is investigated by [Sakaru kabeļa bojājums, Igaunijas izmeklētāji]
+- is confirmed by [Cilvēka radīts bojājums, Igaunijas prokuratūra]
+- is stated by [Cilvēka radīts bojājums, Trīnu Oleva]
+- is damaged [Baltic-connector cauruļvads, Sakaru kabeļa bojājums]
+- involves [Sakaru kabeļa izmeklēšana, Igaunijas izmeklētāji]
+- involves [Sakaru kabeļa remonts, Igaunijas izmeklētāji]
+- is reported by [Gāzesvada bojājums, Zviedrijas aizsardzības ministrs]
+- is reported by [Gāzesvada bojājums, Pols Junsons]
+- is investigated by [Gāzesvada bojājums, Somijas policijas ūdenslīdēji]
+- is reinforced by [Patruļēšanas pastiprināšana, NATO]
+- is reinforced by [Patruļēšanas pastiprināšana, Eiropas Savienības valstis]
+
+### Plot Discovery
+
+#### Exposition:
+[Igaunijas izmeklētāji] sāk izmeklēt [sakaru kabeļa bojājumu] starp [Igauniju] un [Somiju], kas notiek [Baltijas jūrā]. [Igaunijas prokuratūra] apstiprina, ka bojājums ir [cilvēka radīts].
+
+#### Rising Action:
+[Igaunijas izmeklētāji] turpina izmeklēt [sakaru kabeļa bojājumu], identificējot divus kuģus – viens zem [Krievijas] karoga, bet otrs – zem [Honkongas] karoga. [Igaunijas prokurore Trīnu Oleva] paziņo par šādu iespējamo līdzdalību.
+
+#### Climax:
+[Igaunijas izmeklētāji] noskaidro, ka [sakaru kabeļa bojājums] varētu būt radīts [nolaidības vai cita iemesla dēļ], bet vēl nevar apstiprināt, vai tas bijis apzināts. [Zviedrijas aizsardzības ministrs Pols Junsons] paziņo par [gāzesvada bojājumu] starp [Zviedriju] un [Igauniju].
+
+#### Falling Action:
+[Somijas policijas ūdenslīdēji] pabeidz savu izmeklēšanu par [gāzesvada bojājumu], bet detalizēta informācija netiek publiskota. [NATO] paziņo par patrulēšanas pastiprināšanu [Baltijas jūrā].
+
+#### Resolution:
+[Sakaru kabeļa remonts] tiek plānots sākties [nākamnedēļ], un [NATO] un [Eiropas Savienības valstis] stiprina [zemūdens infrastruktūras aizsardzību] reģionā.
+
+### Story Evolution
+
+#### Shift Detection:
+Nozīmīgas izmaiņas stāstījumā notiek, kad [Igaunijas izmeklētāji] identificē divus kuģus, kas varētu būt saistīti ar [sakaru kabeļa bojājumu], un kad [Zviedrijas aizsardzības ministrs] paziņo par [gāzesvada bojājumu].
+
+#### Causal Relation Extraction:
+[Igaunijas izmeklētāju] identifikācija par diviem kuģiem tiek veikta, lai izmeklētu [sakaru kabeļa bojājumu], un [Zviedrijas aizsardzības ministra] paziņojums par [gāzesvada bojājumu] tiek dots, lai informētu par papildu bojājumiem reģionā, kas noved pie [NATO] pastiprinātās patrulēšanas [Baltijas jūrā].

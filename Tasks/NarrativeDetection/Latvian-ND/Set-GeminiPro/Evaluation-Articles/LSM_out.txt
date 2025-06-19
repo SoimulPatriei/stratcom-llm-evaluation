@@ -1,0 +1,60 @@
+1. Named Entity Recognition: 
+Location: [Igaunija",Somija",Baltijas jūra",Zviedrija",Ziemeļjūra",Eiropas Savienība",NATO",Krievija",Honkonga"]
+Actor: [Igaunijas izmeklētāji",Somijas un Igaunijas jūras spēku pārstāvji",Igaunijas prokuratūra",Trīnu Oleva",Pols Junsons",Somijas policijas ūdenslīdēji",NATO un sabiedrotie"]
+Event: [sakaru kabeļa bojājums",cauruļvada iespējama sabotāža",plašas pārbaudes",kabeļa remonts",kriminālprocess",pastiprināta patrulēšana Baltijas jūrā",zemūdens infrastruktūras bojājumi",pastiprinātie drošības pasākumi",Balticconnector gāzesvada bojājums"]
+Timeline: [20. oktobris, 2023",nākamnedēļ",8. oktobris",ceturtdien",otrdien"]
+Entities Ordered by Importance Score:
+1. Sakaru kabeļa bojājums (Event): 0.10
+2. Igaunija (Location): 0.08
+3. Somija (Location): 0.08
+4. Baltijas jūra (Location): 0.07
+5. Cauruļvada iespējama sabotāža (Event): 0.07
+6. Igaunijas izmeklētāji (Actor): 0.06
+7. NATO (Location): 0.06
+8. Zviedrija (Location): 0.05
+9. Kabeļa remonts (Event): 0.05
+10. Balticconnector gāzesvada bojājums (Event): 0.05
+11. Igaunijas prokuratūra (Actor): 0.04
+12. Trīnu Oleva (Actor): 0.04
+13. Pols Junsons (Actor): 0.04
+14. Somijas policijas ūdenslīdēji (Actor): 0.04
+15. NATO un sabiedrotie (Actor): 0.04
+16. 20. oktobris, 2023 (Timeline): 0.03
+17. Nākamnedēļ (Timeline): 0.03
+18. 8. oktobris (Timeline): 0.03
+19. Ceturtdien (Timeline): 0.03
+20. Somijas un Igaunijas jūras spēku pārstāvji (Actor): 0.03
+21. Plašas pārbaudes (Event): 0.02
+22. Kriminālprocess (Event): 0.02
+23. Pastiprināta patrulēšana Baltijas jūrā (Event): 0.02
+24. Zemūdens infrastruktūras bojājumi (Event): 0.02
+25. Pastiprinātie drošības pasākumi (Event): 0.02
+26. Otrdien (Timeline): 0.02
+27. Ziemeļjūra (Location): 0.02
+28. Eiropas Savienība (Location): 0.02
+29. Krievija (Location): 0.01
+30. Honkonga (Location): 0.01
+
+2. Relationship Extraction: 
+connects: ["sakaru kabelis", "Igaunija", "Somija"]
+located in: ["sakaru kabelis", "Baltijas jūra"]
+investigates: ["Igaunijas izmeklētāji", "sakaru kabeļa bojājums"]
+investigates: ["Somijas policijas ūdenslīdēji", "Balticconnector gāzesvada bojājums"]
+damaged: ["Balticconnector gāzesvads", "8. oktobris"]
+damaged: ["sakaru kabelis", "8. oktobris"]
+connects: ["sakaru kabelis", "Zviedrija", "Igaunija"]
+announced: ["Pols Junsons", "sakaru kabeļa bojājums"]
+increased: ["NATO un sabiedrotie", "patrulēšana Baltijas jūrā"]
+
+3. "Plot Discovery": 
+Exposition: "Sakaru kabelis starp Igauniju un Somiju, kā arī starp Zviedriju un Igauniju ir bojāts Baltijas jūrā."
+Rising Action: "Igaunijas izmeklētāji kopā ar Somijas un Igaunijas jūras spēku pārstāvjiem veic sākotnējo pārbaudi un secina, ka bojājums ir cilvēka radīts. Izvirzīta iespējama sabotāžas versija. Igaunijas prokuratūra uzsāk plašas pārbaudes."
+Climax: "Tiek identificēti divi kuģi – viens zem Krievijas, otrs zem Honkongas karoga –, kas atradās notikuma vietā aptuvenajā laikā."
+Falling Action: "Sākas kabeļa remonta plānošana. Izmeklētāji pārbaudīs arī Igaunijas un Zviedrijas sakaru kabeli. NATO pastiprina patrulēšanu Baltijas jūrā."
+Resolution: "Izmeklēšana turpinās, lai noskaidrotu bojājuma cēloni un vainīgos.  Eiropas Savienības un NATO valstis stiprina zemūdens infrastruktūras aizsardzību.
+
+4. "Story Evolution": 
+Shift Detection: "Igaunijas izmeklētāju secinājums, ka bojājums ir cilvēka radīts.", "NATO lēmums pastiprināt patrulēšanu Baltijas jūrā."
+
+Causal Relation Extraction: "Igaunijas izmeklētāju secinājums, ka bojājums ir cilvēka radīts.": "Balstīts uz sākotnējās pārbaudes rezultātiem.", "NATO lēmums pastiprināt patrulēšanu Baltijas jūrā.": "Reakcija uz nesenajiem zemūdens infrastruktūras bojājumiem reģionā un pieaugošajiem draudiem."
+

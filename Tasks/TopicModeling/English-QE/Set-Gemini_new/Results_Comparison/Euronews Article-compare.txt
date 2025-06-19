@@ -1,0 +1,87 @@
+Topic: International Cooperation=3=3
+  Keywords Assigned by Human but Not by Machine:
+   investigations were continuing between authorities in Helsinki and Tallinn=2
+   investigating the incident together with Elering=2
+   Elering=1
+   Gasgrid Finland=2
+
+  Keywords Assigned by Machine but Not by Human:
+   Finnish Prime Minister initiated discussions with European Commission President=2
+   international partners=2
+   cooperation with the Chinese authorities probing the case=3
+   former president of Finland spoke with Chinese President Xi Jinping=3
+   NATO's involvement=1
+
+
+Topic: NATO Response=5=3
+  Keywords Assigned by Human but Not by Machine:
+   NATO Secretary General Jens Stoltenberg=2
+   spoken with Niinistö=2
+   sharing information with its allies=2
+
+  Keywords Assigned by Machine but Not by Human:
+   minehunters, maritime patrol aircraft, and drones sent to the region=2
+   NATO members Finland and Estonia=2
+   Finland joined NATO in April 2023=2
+   NATO has stepped up its patrols of the Baltic Sea=3
+   detect suspicious movement near its critical undersea infrastructure=2
+
+
+Topic: Economic and Financial Impact=2=3
+  Keywords Assigned by Human but Not by Machine:
+   Shut down the gas flow=2
+
+  Keywords Assigned by Machine but Not by Human:
+   EU covered 75% of Balticconnector's original construction cost=2
+   total cost of the pipeline repair work, estimated at around 35 million euros ($38 million)=3
+   multimillion-euro repair work=3
+   who will pick up the bill=2
+   disruption of gas markets=2
+
+
+Topic: Suspected Sabotage=5=5
+  Keywords Assigned by Human but Not by Machine:
+   Result of external activity=3
+   caused by external activity=3
+   damage to the pipeline=3
+   suspected leak=2
+
+  Keywords Assigned by Machine but Not by Human:
+   Baltic Connector pipeline damaged=3
+   leak caused by external activity=3
+   no reason to believe the damage has been caused by an explosion=2
+   human-made damage=3
+   sharing information with allies=2
+   Nord Stream I and II gas pipelines from Russia to Germany were damaged by a pair of explosions=1
+   investigation into the cause of the leak=2
+
+
+Topic: Infrastructure Vulnerability=4=4
+  Keywords Assigned by Human but Not by Machine:
+   pipeline between Finland and Estonia=3
+   damage to the gas pipeline=3
+   telecommunications cable=2
+   Pipeline in the Baltic Sea that was shut=3
+   damage caused, offshore pipeline=3
+
+  Keywords Assigned by Machine but Not by Human:
+   several months' disruption=1
+   secure the area and detect suspicious movement near its critical undersea infrastructure=2
+   Telecom cables connecting Finland and Estonia, as well as Sweden and Estonia, were also damaged=2
+   damage to the gas pipeline and data cables=2
+   Baltic Connector pipeline between NATO members Finland and Estonia=3
+   disconnecting a crucial link between the Nordic and Baltic gas markets=3
+   pipeline reopened this week after multimillion-euro repair work=3
+
+
+Topics Assigned by Human but Not by Machine:
+Topic: Environmental and Technical Challenges=2
+Topic: Energy Security=3
+
+Statistics:
+Common Topics: 5
+Topics Assigned by Human: 7
+Topics Assigned by Machine: 5
+Common Keywords: 0
+Keywords Assigned by Human: 17
+Keywords Assigned by Machine: 29

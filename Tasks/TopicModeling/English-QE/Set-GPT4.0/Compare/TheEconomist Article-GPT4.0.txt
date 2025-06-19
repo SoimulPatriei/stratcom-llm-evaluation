@@ -1,0 +1,68 @@
+[Topic] Suspected Sabotage
+[Weight] 5
+
+[Keywords]
+underwater infrastructure in the Baltic Sea = 3
+Russia is the prime suspect = 3
+Chinese-flagged ship is also thought to have been involved = 3
+damaged communications cable between Sweden and Estonia = 3
+Balticconnector gas pipeline and a communications cable between Finland and Estonia were damaged = 2
+Russia’s Main Directorate of Deep-Sea Research = 2
+investigation of the Sevmorput, a Russian nuclear-powered cargo ship, and the Newnew Polar Bear, a Chinese container ship = 2
+
+[Total Weight] 18
+[Normalized Significance] 9.0
+
+---
+
+[Topic] Infrastructure Vulnerability
+[Weight] 5
+
+[Keywords]
+communications cable between Sweden and Estonia had been partially damaged = 3
+Balticconnector gas pipeline and a communications cable between Finland and Estonia were damaged = 3
+the danger is more tangible = 2
+threats to critical undersea infrastructure are real = 2
+limited grasp of what was going on under the Baltic Sea = 2
+
+[Total Weight] 12
+[Normalized Significance] 6.0
+
+---
+
+[Topic] NATO Response
+[Weight] 4
+
+[Keywords]
+what its allies in NATO and the European Union would be willing to do in response = 3
+NATO, having established an underwater protection cell earlier in the year, said it had stepped up air and maritime patrols in the Baltic Sea = 3
+Sweden, along with Finland, applied to join NATO last year = 2
+
+[Total Weight] 8
+[Normalized Significance] 5.0
+
+---
+
+[Topic] International Cooperation
+[Weight] 3
+
+[Keywords]
+Joint Expeditionary Force, a British-led alliance of ten northern European countries = 3
+European allies have grown increasingly concerned = 2
+limited information-sharing between countries = 2
+
+[Total Weight] 7
+[Normalized Significance] 4.7
+
+---
+
+[Topic] Critical Infrastructure Weakness
+[Weight] 4
+
+[Keywords]
+damaging critical undersea infrastructure = 3
+lack of surveillance platforms = 2
+quirks of hydrology = 2
+
+[Total Weight] 7
+[Normalized Significance] 4.7

@@ -1,0 +1,64 @@
+**1. Named Entity Recognition:**
+
+*Actor:*
+- Finland's prime minister (Petteri Orpo) (0.06)
+- Jens Stoltenberg (NATO) (0.05)
+- Finland (0.04)
+- Estonia (0.04)
+- European Union (0.03)
+- UK (0.03)
+- Russia (0.03)
+- Israel (0.02)
+- Tamar (gas field in Israel) (0.02)
+
+*Event:*
+- Suspected sabotage (0.06)
+- Damage to Baltic-connector pipeline (0.05)
+- Sudden drop in pressure (0.04)
+- Investigation of leak (0.04)
+- Probable explosion (0.04)
+- Rise in gas prices (0.04)
+- Closure of Israel's Tamar gas field (0.04)
+- Nord Stream pipeline blasts (0.04)
+
+*Location:*
+- Baltic-connector pipeline (0.05)
+- Baltic Sea coast (0.03)
+- Finland's Exclusive Economic Zone (0.03)
+- European Union (0.03)
+- UK (0.03)
+- Israel (0.02)
+- Mediterranean Sea (0.02)
+
+*Timeline:*
+- Sunday (0.04)
+- Tuesday (0.04)
+- April this year (0.04)
+- 01:20 on Sunday (22:20GMT on Saturday) (0.04)
+- September 2022 (0.04)
+- Months to repair (0.04)
+- 2020 (0.03)
+- May last year (0.03)
+
+**2. Relationship Extraction:**
+
+- Finland's prime minister (Petteri Orpo) said [damage to Baltic-connector pipeline was probably caused by "external activity"]
+- Norway's seismological institute, Norsar, detected [probable explosion] along Finland's Baltic Sea coast
+- Damage to the cable and pipeline [happened at two different spots] in Finland's Exclusive Economic Zone
+- The pipeline is Finland's [only direct link to the wider European Union's gas network]
+- Jens Stoltenberg (NATO) [stands ready to support Allies concerned]
+- The prospect that the damage could be deliberate [pushed up European gas prices]
+- The damage to the Baltic-connector pipeline [revived concerns about energy security] following the Nord Stream pipeline blasts
+
+**3. Plot Discovery:**
+
+*Exposition:* Finland's Baltic-connector pipeline with Estonia suffered damage, with a sudden drop in pressure and a telecoms cable also damaged.
+*Rising Action:* Finland investigates the cause, which may have been deliberate and due to external activity.
+*Climax:* Norway's seismological institute detects a probable explosion, contradicting earlier statements.
+*Falling Action:* Finland and Estonia investigate the cause together, and NATO offers support.
+*Resolution:* No clear cause is found yet, but the pipeline's damage is expected to take months to repair.
+
+**4. Story Evolution:**
+
+*Shift Detection:* The narrative changes when Norway's seismological institute detects a probable explosion, contradicting earlier statements from Finnish authorities.
+*Causal Relation Extraction:* The explosion was likely the cause of the damage to the pipeline, leading to investigations and concerns about energy security.

@@ -1,0 +1,40 @@
+### TASK OVERVIEW:
+
+This task is a subtask of Aspect-Based Sentiment Analysis (ABSA). Your objective is to identify and analyze predefined implicit *aspect terms* related to {entity_type} entities within a given ARTICLE.
+
+---
+
+### INPUT: 
+1. ARTICLE: {article_content}
+2. Language of the article: {language}
+
+---
+
+### INSTRUCTIONS:
+
+1. In the given ARTICLE, the {entity_type} entities are: {entities}. For each of the {entity_type} entity, throughly investigate, identify and analyze implicit *aspect terms* based on the predefined list of *aspect terms* as follows: {proposed_aspects}
+
+2. Ensure your output in the specified *DESIRED OUTPUT* format.
+---
+
+### DESIRED OUTPUT: Please produce output texts as follows:
+
+`# {entity_type} Entities Analysis:`
+1. Entity: `<Entity_name1>` (Category: {entity_type})  
+    - Aspect: `<aspect_term1>`  
+      - Excerpt: `<relevant_text_excerpt_from_the_ARTICLE>`  
+      - Explanation: `<How this excerpt implies information about the entity>`  
+      - Confidence Level: `Assign a confidence level to your interpretation: <high | medium | low>`  
+      - Polarity: `Assign the polarity of that aspect term: <positive | negative | neutral>`  
+      - Polarity Score: `Provide the polarity on a scale of: <0.1 to 1.0> (0.1 = extremely negative; 1.0 = extremely positive)`  
+    - Aspect: `<aspect_term2>`
+         ...
+
+2. Entity: `<Entity_name2>` (Category: {entity_type})  
+    ... 
+
+...
+
+---
+
+

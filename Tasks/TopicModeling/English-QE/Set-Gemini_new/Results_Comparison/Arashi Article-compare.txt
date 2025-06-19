@@ -1,0 +1,96 @@
+Topic: International Cooperation=3=4
+  Keywords Assigned by Human but Not by Machine:
+   maritime activities in the region=2
+   sailed along the western coast of Norway on Monday=2
+   monitoring of shipping activities=2
+   vessel tracking data showed=2
+   shadowed the NewNew Polar Bear=2
+   Oslo is closely monitoring the progress of the probe in the Baltic Sea incident=2
+   The Norwegian military’s operational command center declined to comment on Monday’s operation=2
+
+  Keywords Assigned by Machine but Not by Human:
+   International partners involved in investigation=2
+   Finnish President's discussion with Xi Jinping=3
+   Potential NATO involvement=1
+   Cooperation with Chinese authorities=3
+   Discussions with European Commission President=2
+
+
+Topic: Economic and Financial Impact=4=3
+  Keywords Assigned by Human but Not by Machine:
+   Norway, Europe’s largest gas supplier=3
+   potential disruption to key oil and gas platforms=2
+   economic significance of pipeline damage=2
+   ensuring safe maritime operations=1
+   Norway’s gas exports critical to Europe=3
+
+  Keywords Assigned by Machine but Not by Human:
+   Multimillion-euro repair cost of the pipeline=3
+   Disruption of gas markets and financial burden=2
+   EU funding for Balticconnector construction=2
+   Cost of securing and monitoring infrastructure=1
+
+
+Topic: Suspected Sabotage=5=5
+  Keywords Assigned by Human but Not by Machine:
+   damage to a gas pipeline=3
+   KV Sortland followed the NewNew Polar Bear=2
+   A Norwegian Navy ship shadowed a Chinese container ship investigated over damage to a gas pipeline=2
+   they were looking into the Chinese vessel, the NewNew Polar Bear, and a Russian-flagged ship, the Sevmorput=3
+   as well as other vessels present=3
+   incident was due to “outside activity”=3
+
+  Keywords Assigned by Machine but Not by Human:
+   Outside activity and deliberate sabotage=3
+   NewNew Polar Bear's anchor and radio contact=2
+   Finnish investigation of Chinese vessel=3
+   Sevmorput and other vessels of interest=2
+   Baltic Sea gas pipeline damage=3
+   Human-made damage causing pressure drop=3
+
+
+Topic: Environmental and Technical Challenges=3=1
+  Keywords Assigned by Human but Not by Machine:
+   vessel tracking data showed=1
+   The KV Sortland followed the NewNew Polar Bear=2
+   shadowed a Chinese container ship investigated over damage to a gas pipeline in the Gulf of Finland for about 15 hours=2
+
+  Keywords Assigned by Machine but Not by Human:
+   Environmental impact of gas pipeline damage=1
+   Technical challenges of repair and monitoring=1
+
+
+Topic: Infrastructure Vulnerability=5=4
+  Keywords Assigned by Human but Not by Machine:
+   Baltic Sea pipeline was damaged=3
+   offshore oil and gas platforms=2
+   near Norway’s gas pipelines and key oil platforms=3
+   network of gas pipelines under the North Sea, which spread over 8,000 km (4,971 miles)=2
+   incident was due to “outside activity”=3
+   protect its offshore oil and gas platform=2
+
+  Keywords Assigned by Machine but Not by Human:
+   Securing the area and monitoring=2
+   Disconnecting gas markets and multimillion-euro repair=3
+   Critical undersea infrastructure vulnerability=3
+   Baltic Sea gas pipeline between NATO members=3
+   Damage to data cables and disruption=2
+
+
+Topics Assigned by Human but Not by Machine:
+Topic: Energy Security=4
+Topic: NATO Response=3
+
+Topics Assigned by Machine but Not by Human:
+Topic: Global Diplomatic Engagement=2
+Topic: Allied Strategic Defence/Response=3
+Topic: Market Stability and Financial Risks=2
+Topic: Covert Disruptions=2
+
+Statistics:
+Common Topics: 5
+Topics Assigned by Human: 7
+Topics Assigned by Machine: 9
+Common Keywords: 0
+Keywords Assigned by Human: 27
+Keywords Assigned by Machine: 22

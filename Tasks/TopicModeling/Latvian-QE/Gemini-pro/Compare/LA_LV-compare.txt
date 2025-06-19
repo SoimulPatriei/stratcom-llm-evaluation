@@ -1,0 +1,91 @@
+Topic: Natural gas infrastructure=5=5
+  Keywords Assigned by Human but Not by Machine:
+   “Balticconnector” slēgšana neietekmē gāzes piegādes patērētājiem Igaunijā=1
+   Latvijai paliek gāzes piegādes iespējas caur Lietuvu un Klaipēdas gāzes termināli=2
+   Igaunijas pārvades sistēmu operators “Elering” un “Gasgrid Finland” slēdza “Balticconnector” naktī uz svētdienu, jo tika novērota spiediena krišanās cauruļvadā=3
+   Somijas un Igaunijas gāzesvads “Balticconnector” patlaban ir slēgts, Latvijas apgāde nav apdraudēta=3
+   Inčukalna pazemes gāzes krātuvē rezerves ir labas=3
+
+  Keywords Assigned by Machine but Not by Human:
+   gāzesvads=3
+   zemūdens gāzesvadā “Balticconnector”=3
+   gāzes piegādes=2
+   gāzes krātuvē=2
+   cauruļvadā=1
+   gāzes noplūdi=1
+   Klaipēdas gāzes termināli=2
+
+
+Topic: International cooperation=4=3
+  Keywords Assigned by Human but Not by Machine:
+   Ārlietu ministrs sacīja, ka viņš ir runājis gan ar Somijas, gan ar Igaunijas kolēģiem=2
+   Latvija jau piegādā gāzi Igaunijai=3
+   sabiedrotajām demokrātijām ir jāsadarbojas un vēl ciešāk jākāpina sadarbība, lai rūpētos par mūsu infrastruktūras drošību=3
+
+  Keywords Assigned by Machine but Not by Human:
+   sadarbībā ar Somiju un Zviedriju=2
+   Somijas un Igaunijas=1
+   sabiedrotajām demokrātijām ir jāsadarbojas=2
+
+
+Topic: Investigation=4=4
+  Keywords Assigned by Human but Not by Machine:
+   Nodarītie bojājumi zemūdens gāzesvadā “Balticconnector” tiek izmeklēti=2
+   jāsagaida izmeklēšanas rezultāti, lai varētu secināt, kā tas notika=2
+
+  Keywords Assigned by Machine but Not by Human:
+   izmeklēšanu vada=2
+   izmeklēšanas rezultāti=2
+   izmeklēšana turpinās=3
+   ekspertu novērtējumiem=1
+
+
+Topic: Possible sabotage=3=3
+  Keywords Assigned by Human but Not by Machine:
+   Šis nav gadījums, kad būtu saplīsusi kāda blīve=2
+   gāzesvadā “Balticconnector” nevarēja rasties tā normālas darbības rezultātā vai normāla spiediena krituma dēļ=1
+   zemūdens gāzesvadā “Balticconnector” tiek izmeklēti kā iespējams sabotāžas mēģinājums=3
+   Somijas Centrālā kriminālpolicija, kas ir paziņojusi, ka cauruļvads ir bojāts tīši=2
+
+  Keywords Assigned by Machine but Not by Human:
+   sabotāžas mērķis=2
+   sabotāžas mēģinājums=3
+   tīši=1
+
+
+Topic: Security concerns=4=5
+  Keywords Assigned by Human but Not by Machine:
+   Latvijas piegādes nekādā veidā nav apdraudētas=3
+   ja Somijas un Igaunijas gāzesvada darbība sabotēta, tas nozīmē, ka Baltijas jūras reģionā būs pastiprināti jāuzrauga visa zemūdens infrastruktūra=2
+   notiekošais Somijā un Igaunijā nekādā veidā neapdraud Latvijas patērētājus un Latvijas tirgu=2
+
+  Keywords Assigned by Machine but Not by Human:
+   spiediena krišanās cauruļvadā=1
+   zemūdens infrastruktūra=3
+   drošību sabiedrībām=2
+   bojājumi abas valstis savienojošajā komunikāciju kabelī=1
+   bojāts tīši=2
+   bojājumi zemūdens gāzesvadā=2
+   iespējamu gāzes noplūdi=1
+   bojājums ir mehānisks un cilvēka izraisīts=2
+   infrastruktūras drošību=3
+   iespējams sabotāžas mēģinājums=3
+
+
+Topics Assigned by Human but Not by Machine:
+Topic: Restoration=3
+
+Topics Assigned by Machine but Not by Human:
+Topic: Disaster impact=3
+Topic: Energy resources=2
+Topic: Infrastructure vulnerability=4
+Topic: Geopolitical dynamics=2
+Topic: Damage=3
+
+Statistics:
+Common Topics: 5
+Topics Assigned by Human: 6
+Topics Assigned by Machine: 10
+Common Keywords: 0
+Keywords Assigned by Human: 17
+Keywords Assigned by Machine: 27

@@ -1,0 +1,304 @@
+# LOCATION Entities Analysis:
+
+1. Entity: Baltijas jūra (Category: LOCATION)
+    - Aspect: Geopolitical Importance/Significance
+      - Excerpt: "Bojāts sakaru kabelis starp Zviedriju un Igauniju Baltijas jūrā"
+      - Explanation: The Baltic Sea is mentioned as the location where the incident occurred, suggesting it's an important geopolitical region due to the connection between two countries.
+      - Confidence Level: high
+      - Polarity: neutral
+      - Polarity Score: 0.5
+    - Aspect: Infrastructure
+      - Excerpt: "kabelis joprioām ir izmantojams"
+      - Explanation: The article mentions that the communication cable, despite an incident, is still in use, indicating the presence of infrastructure.
+      - Confidence Level: high
+      - Polarity: positive
+      - Polarity Score: 0.8
+    - Aspect: Security Concerns/Status
+      - Excerpt: "īpaši sasauktā preses konferencē Stokholmā sacīja Jonsons"
+      - Explanation: The mention of a press conference in Stockholm suggests that the incident has raised security concerns, warranting official statements.
+      - Confidence Level: medium
+      - Polarity: negative
+      - Polarity Score: 0.4
+    - Aspect: International Relations
+      - Excerpt: "pēc ministro sacītā, kabelis starp Zviedriju un Igauniju bojāts apmēram tajā pašā laikā, kad tika bojāts gāzesvads 'Balticconnector' un sakaru kabelis, kas savieno Igauniju un Somiju"
+      - Explanation: The timing of the incident with other similar events involving different countries indicates international relations and cooperation are at play.
+      - Confidence Level: high
+      - Polarity: neutral
+      - Polarity Score: 0.5
+
+2. Entity: Zviedrija (Category: LOCATION)
+    - Aspect: Geopolitical Importance/Significance
+      - Excerpt: "Zviedrijas rīcībā ir informācija, kas liecina, ka bojāts komunikāciju kabelis, kas savieno abas valstis"
+      - Explanation: Zviedrijas' possession of information about the incident suggests its geopolitical significance.
+      - Confidence Level: high
+      - Polarity: neutral
+      - Polarity Score: 0.5
+    - Aspect: Political Influence/Governance
+      - Excerpt: "Zviedrijas aizsardzības ministrs Pols Jonsons"
+      - Explanation: The mention of a defense minister indicates political influence and governance.
+      - Confidence Level: high
+      - Polarity: neutral
+      - Polarity Score: 0.5
+    - Aspect: Security Concerns/Status
+      - Excerpt: "bojājuma vieta nav Zviedrijas teritoriālajos ūdeņos"
+      - Explanation: The statement about the incident not occurring in Zviedrijas' territorial waters suggests security concerns and the need for clarification.
+      - Confidence Level: medium
+      - Polarity: negative
+      - Polarity Score: 0.3
+    - Aspect: Infrastructure
+      - Excerpt: "kabelis joprioām ir izmantojams"
+      - Explanation: The mention of the cable still being in use suggests the presence of infrastructure.
+      - Confidence Level: high
+      - Polarity: positive
+      - Polarity Score: 0.8
+
+3. Entity: Igaunija (Category: LOCATION)
+    - Aspect: Geopolitical Importance/Significance
+      - Excerpt: "bojājuma vieta atrodas Igaunijas teritoriālajos ūdeņos"
+      - Explanation: The incident occurring in Igaunijas' territorial waters suggests its geopolitical significance.
+      - Confidence Level: high
+      - Polarity: neutral
+      - Polarity Score: 0.5
+    - Aspect: Economic Impact/Value
+      - Excerpt: "Igaunijas Ekonomikas un komunikāciju ministrijas sniegtajās ziņās"
+      - Explanation: The mention of the Economy and Communications Ministry suggests economic impact and value.
+      - Confidence Level: medium
+      - Polarity: neutral
+      - Polarity Score: 0.5
+    - Aspect: Security Concerns/Status
+      - Excerpt: "pirmdien ministrija un Igaunijas Patērētāju aizsardzības un tehniskā regulējuma pārvalde saņēma informāciju, ka Somu līcī pārraides jauda sakaru kabelim starp Igauniju un Zviedriju ir samazinājusies"
+      - Explanation: The reduction in the cable's power transmission suggests security concerns.
+      - Confidence Level: high
+      - Polarity: negative
+      - Polarity Score: 0.3
+    - Aspect: Infrastructure
+      - Excerpt: "Igaunijai ir vairāki savienojumi, un bojājumu gadījumā ir iespējams izmantot vai nu alternatīvi funkcionējošus zemūdens kabeļus, vai sauszemes kabeļus ar Latviju"
+      - Explanation: The mention of alternative connections suggests the presence of infrastructure.
+      - Confidence Level: high
+      - Polarity: positive
+      - Polarity Score: 0.8
+
+4. Entity: Stokholma (Category: LOCATION)
+    - Aspect: Geopolitical Importance/Significance
+      - Excerpt: "īpaši sasauktā preses konferencē Stokholmā sacīja Jonsons"
+      - Explanation: The press conference in Stockholm suggests the incident's geopolitical significance.
+      - Confidence Level: high
+      - Polarity: neutral
+      - Polarity Score: 0.5
+    - Aspect: Political Influence/Governance
+      - Excerpt: "Zviedrijas aizsardzības ministrs Pols Jonsons"
+      - Explanation: The mention of a defense minister indicates political influence and governance.
+      - Confidence Level: high
+      - Polarity: neutral
+      - Polarity Score: 0.5
+    - Aspect: Security Concerns/Status
+      - Excerpt: "īpaši sasauktā preses konferencē Stokholmā sacīja Jonsons"
+      - Explanation: The press conference in Stockholm suggests security concerns warranting an official statement.
+      - Confidence Level: medium
+      - Polarity: negative
+      - Polarity Score: 0.4
+
+# ACTOR Entities Analysis:
+
+1. Entity: 'Zviedrijas aizsardzības ministrs Pols Jonsons' (Category: ACTOR)
+    - Aspect: Communication
+      - Excerpt: "otrdien paziņojis Zviedrijas aizsardzības ministrs Pols Jonsons"
+      - Explanation: The minister publicly announced the incident, demonstrating his ability to convey information.
+      - Confidence Level: High
+      - Polarity: Positive
+      - Polarity Score: 0.8
+    - Aspect: Leadership/Authority
+      - Excerpt: "viņš teica, ka bojājuma vieta nav Zviedrijas teritoriālajos ūdeņos, un ka kabelis joprioām ir izmantojams"
+      - Explanation: The minister is shown making decisions and providing information about the situation.
+      - Confidence Level: Medium
+      - Polarity: Neutral
+      - Polarity Score: 0.5
+    - Aspect: International Relations
+      - Excerpt: "pēc ministra sacītā, kabelis starp Zviedriju un Igauniju bojāts..."
+      - Explanation: The minister's statement highlights the international aspect of the incident.
+      - Confidence Level: Low
+      - Polarity: Neutral
+      - Polarity Score: 0.3
+
+2. Entity: 'Igaunijas Ekonomikas un komunikāciju ministrija' (Category: ACTOR)
+    - Aspect: Communication
+      - Excerpt: "Pēc Igaunijas Ekonomikas un komunikāciju ministrijas sniegtajām ziņām"
+      - Explanation: The ministry provided information about the incident.
+      - Confidence Level: High
+      - Polarity: Neutral
+      - Polarity Score: 0.6
+    - Aspect: Investigation/Analysis
+      - Excerpt: "sākotnējā informācija liecina, ka nav iemesla Igaunijas un Zviedrijas kabeļa bojājumu saistīt ar citiem kabeļiem"
+      - Explanation: The ministry is shown analyzing the situation.
+      - Confidence Level: Medium
+      - Polarity: Neutral
+      - Polarity Score: 0.5
+    - Aspect: Crisis Management
+      - Excerpt: " Valdība ir devusi skaidrus norādījumus ministrijām un plāno un jau ir īstenojusi papildu pasākumus, lai pastiprinātu kritiskās infrastruktūras uzraudzību un aizsardzību"
+      - Explanation: The government, which includes this ministry, is shown taking steps to manage the crisis.
+      - Confidence Level: Low
+      - Polarity: Positive
+      - Polarity Score: 0.7
+
+3. Entity: 'Zviedrijas uzņēmums' (Category: ACTOR)
+    - Aspect: Security/Defense
+      - Excerpt: "Zviedrijas uzņēmums, kas dažu dienu laikā atjaunoja kabeļa maksimālo pārraides jaudu"
+      - Explanation: The company is shown ensuring the safety and functionality of the cable.
+      - Confidence Level: High
+      - Polarity: Positive
+      - Polarity Score: 0.8
+    - Aspect: Influence/Power
+      - Excerpt: "kabelis joprioām ir izmantojams"
+      - Explanation: The company's actions ensure the continued functionality of the cable, demonstrating its influence.
+      - Confidence Level: Medium
+      - Polarity: Positive
+      - Polarity Score: 0.6
+    - Aspect: Expertise/Capability
+      - Excerpt: "Zviedrijas uzņēmums, kas dažu dienu laikā atjaunoja kabeļa maksimālo pārraides jaudu"
+      - Explanation: The company's ability to quickly repair the cable demonstrates its expertise.
+      - Confidence Level: Medium
+      - Polarity: Positive
+      - Polarity Score: 0.7
+
+4. Entity: 'Igaunijas - Zviedrijas uzņēmums' (Category: ACTOR)
+    - Aspect: Influence/Power
+      - Excerpt: "kabelis starp Zviedriju un Igauniju bojāts"
+      - Explanation: The company's cable is shown to be critical infrastructure, demonstrating the company's influence.
+      - Confidence Level: High
+      - Polarity: Neutral
+      - Polarity Score: 0.5
+    - Aspect: Security/Defense
+      - Excerpt: "kabelis joprioām ir izmantojams"
+      - Explanation: The company's cable is shown to be important for security and defense.
+      - Confidence Level: Medium
+      - Polarity: Positive
+      - Polarity Score: 0.7
+    - Aspect: Reputation/Perception
+      - Excerpt: "Sākotnējā informācija liecina, ka nav iemesla Igaunijas un Zviedrijas kabeļa bojājumu saistīt ar citiem kabeļiem"
+      - Explanation: The company's actions show that it is not responsible for the incident, preserving its reputation.
+      - Confidence Level: Low
+      - Polarity: Positive
+      - Polarity Score: 0.6
+
+5. Entity: 'Somija' (Category: ACTOR)
+    - Aspect: International Relations
+      - Excerpt: "Zviedrijas rīcībā ir informācija, kas liecina, ka bojāts komunikāciju kabelis, kas savieno abas valstis, taču šā incidenta cēlonis nav skaidrs"
+      - Explanation: The incident involves both Sweden and Finland, highlighting their international relationship.
+      - Confidence Level: High
+      - Polarity: Neutral
+      - Polarity Score: 0.6
+    - Aspect: Crisis Management
+      - Excerpt: "viņš teica, ka bojājuma vieta nav Somijas teritoriālajos ūdeņos"
+      - Explanation: The statement shows that Finland is involved in managing the crisis.
+      - Confidence Level: Medium
+      - Polarity: Neutral
+      - Polarity Score: 0.5
+    - Aspect: Media Relations
+      - Excerpt: "Zviedrijas aizsardzības ministrs Pols Jonsons" (as he mentioned the incident in a press conference)
+      - Explanation: The minister's statement shows that the incident is being discussed in the media.
+      - Confidence Level: Low
+      - Polarity: Neutral
+      - Polarity Score: 0.4
+
+6. Entity: 'NATO' (Category: ACTOR)
+    - Aspect: International Relations
+      - Excerpt: "uzraudzības un aizsardzības līmeņa paaugstināšanai ir nepieciešama nozīmīga sadarbība ar mūsu kolēģiem no Somijas un Zviedrijas, ar kuriem kopā mēs apsaimniekojam infrastruktūru jūrā, kā arī ar sabiedrotajiem Eiropas Savienībā un NATO, kuri arī ir piedāvājuši savu palīdzību"
+      - Explanation: NATO is shown to be involved in international cooperation.
+      - Confidence Level: High
+      - Polarity: Positive
+      - Polarity Score: 0.8
+    - Aspect: Security/Defense
+      - Excerpt: "uzraudzības un aizsardzības līmeņa paaugstināšanai"
+      - Explanation: NATO is shown to be involved in security and defense efforts.
+      - Confidence Level: Medium
+      - Polarity: Positive
+      - Polarity Score: 0.7
+    - Aspect: Influence/Power
+      - Excerpt: "kuri arī ir piedāvājuši savu palīdzību"
+      - Explanation: NATO is shown to have influence as it offers help.
+      - Confidence Level: Low
+      - Polarity: Positive
+      - Polarity Score: 0.6
+
+# EVENT Entities Analysis:
+
+1. Entity: Bojāts sakaru kabelis (Category: EVENT)
+   - Aspect: Cause/Origin
+     - Excerpt: "Bojājuma cēlonis nav skaidrs"
+     - Explanation: The exact cause of the damaged communication cable is not clear.
+     - Confidence Level: Medium
+     - Polarity: Neutral
+     - Polarity Score: 0.5
+   - Aspect: Location
+     - Excerpt: "Bojājuma vieta nav Zviedrijas teritoriālajos ūdeņos"
+     - Explanation: The location of the cable damage is not in Swedish territorial waters.
+     - Confidence Level: High
+     - Polarity: Neutral
+     - Polarity Score: 0.5
+   - Aspect: Severity/Intensity
+     - Excerpt: "Kabelis joprioām ir izmantojams"
+     - Explanation: Despite the damage, the cable is still operational.
+     - Confidence Level: High
+     - Polarity: Positive
+     - Polarity Score: 0.8
+   - Aspect: Timing
+     - Excerpt: "apmēram tajā pašā laikā"
+     - Explanation: The cable damage occurred around the same time as other incidents.
+     - Confidence Level: Medium
+     - Polarity: Neutral
+     - Polarity Score: 0.5
+
+2. Entity: cēloņa izpēte (Category: Response/Resolution Efforts)
+   - Aspect: Cause/Origin
+     - Excerpt: "iespējamais iemesls, kā arī tas, vai tas varētu būt saistīts"
+     - Explanation: An investigation is underway to determine the cause and potential connections to other incidents.
+     - Confidence Level: High
+     - Polarity: Neutral
+     - Polarity Score: 0.5
+   - Aspect: International Impact
+     - Excerpt: "sadarbībā ar Somiju un Zviedriju"
+     - Explanation: The investigation involves cooperation with other countries.
+     - Confidence Level: Medium
+     - Polarity: Positive
+     - Polarity Score: 0.7
+
+3. Entity: kabeļa remonts (Category: Response/Resolution Efforts)
+   - Aspect: Response/Resolution Efforts
+     - Excerpt: "tiks izpētīts iespējamais iemesls, kā arī tas, vai tas varētu būt saistīts"
+     - Explanation: The cable's owner is conducting a repair and investigating the cause and potential connections to other incidents.
+     - Confidence Level: High
+     - Polarity: Neutral
+     - Polarity Score: 0.5
+   - Aspect: Infrastructure Involvement
+     - Excerpt: "kabeļa remontu"
+     - Explanation: The repair directly involves the physical infrastructure.
+     - Confidence Level: High
+     - Polarity: Neutral
+     - Polarity Score: 0.5
+
+4. Entity: kritiskās infrastruktūras uzraudzības un aizsardzības paaugstināšana (Category: Response/Resolution Efforts)
+   - Aspect: Response/Resolution Efforts
+     - Excerpt: "uzraudzības un aizsardzības līmeņa paaugstināšanai"
+     - Explanation: Efforts are being made to enhance the monitoring and protection of critical infrastructure.
+     - Confidence Level: High
+     - Polarity: Positive
+     - Polarity Score: 0.7
+   - Aspect: International Impact
+     - Excerpt: "nepieciešama nozīmīga sadarbība ar mūsu kolēģiem no Somijas un Zviedrijas"
+     - Explanation: The efforts involve international cooperation.
+     - Confidence Level: Medium
+     - Polarity: Positive
+     - Polarity Score: 0.8
+
+### Entities Without Aspect Terms:
+- Location: []
+- Actor: ['Igaunijas Patērētāju aizsardzības un tehniskā regulējuma pārvalde', 'Zviedrijas uzņēmums', 'Igaunijas - Zviedrijas uzņēmums', 'Eiropas Savienība']
+- Event: ['gāzesvads "Balticconnector"']
+
+### Significant Findings:
+- The damage to the communication cable between Sweden and Estonia occurred around the same time as other incidents involving Estonia and Finland, raising concerns about potential connections and the need for further investigation.
+- Despite the damage, the cable remains operational, indicating that the infrastructure is resilient and functioning.
+- International cooperation is highlighted as crucial in enhancing the monitoring and protection of critical infrastructure, with NATO offering assistance and Finland, Sweden, and Estonia working together.
+
+### Conclusion:
+While the article focuses on the damaged communication cable, the implicit aspects revealed through ABSA provide a deeper understanding of the geopolitical situation. The timing of the incident with other similar events suggests potential hostile actions, while the resilience of the infrastructure and international cooperation indicate a collective effort to maintain security and stability in the region. The implicit aspects thus enhance our understanding of the underlying tensions and the response to them, highlighting the importance of ABSA in analyzing hostile situations.

@@ -1,0 +1,65 @@
+[Topic] Infrastructure vulnerability  
+[Weight] 5  
+
+[Keywords]  
+sabotāžas mēģinājums = 3  
+zemūdens gāzesvads "Balticconnector" bojājumi = 3  
+iespējamais ārējs elements = 2  
+mehānisks un cilvēka izraisīts = 2  
+infrastruktūras drošība = 1  
+
+[Total Weight] 11  
+[Normalized Significance] 8.5  
+
+---
+
+[Topic] Energy resources  
+[Weight] 4  
+
+[Keywords]  
+gāzesvads "Balticconnector" = 3  
+gāzes piegādes = 2  
+Inčukalna pazemes gāzes krātuve = 2  
+gāzes importēšana = 1  
+
+[Total Weight] 8  
+[Normalized Significance] 6.4  
+
+---
+
+[Topic] International cooperation  
+[Weight] 3  
+
+[Keywords]  
+sadarbība ar Somiju un Igauniju = 2  
+Eiropas Savienība un NATO = 2  
+sadarbība ar kolēģiem = 1  
+
+[Total Weight] 5  
+[Normalized Significance] 4.0  
+
+---
+
+[Topic] Security concerns  
+[Weight] 4  
+
+[Keywords]  
+sabotāžas mēģinājums = 3  
+infrastruktūras drošība = 2  
+iespējamais ārējs elements = 1  
+
+[Total Weight] 6  
+[Normalized Significance] 5.4  
+
+---
+
+[Topic] Geopolitical dynamics  
+[Weight] 3  
+
+[Keywords]  
+Baltijas jūras reģions = 2  
+Eiropas Savienība un NATO = 1  
+sadarbība ar kolēģiem = 1  
+
+[Total Weight] 4  
+[Normalized Significance] 3.6  

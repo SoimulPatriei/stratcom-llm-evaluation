@@ -1,0 +1,101 @@
+Topic: Economic and Financial Impact=0=2
+  Keywords Assigned by Machine but Not by Human:
+   no estimate of the total cost of the pipeline repair work=1
+   multimillion-euro repair work=3
+   disruption of gas markets=2
+   damage to the gas pipeline and data cables=2
+
+
+Topic: Suspected Sabotage=5=5
+  Keywords Assigned by Human but Not by Machine:
+   nobody has admitted to it=3
+   nobody has admitted it yet=3
+   vessel’s imminent return to China raises some questions=3
+   No culprit has been identified for the Nord Stream attack despite an international investigation=3
+   hard to believe sabotage to the undersea gas pipeline was accidental=3
+   everything indicates that it was intentional=3
+   in touch with Chinese authorities=3
+   Chinese container ship Newnew Polar Bear, dragging an anchor, main suspect=3
+
+  Keywords Assigned by Machine but Not by Human:
+   intentional damage to the undersea gas pipeline=3
+   dragging an anchor behind you for hundreds of kilometers=3
+   identified as the main suspect Chinese container ship Newnew Polar Bear=3
+   action was approved by the Chinese government=2
+   captain of the ship surely "understood that there was something wrong"=2
+   Chinese ship damaged Baltic pipeline on purpose=3
+
+
+Topic: International Cooperation=4=4
+  Common Keywords:
+   seeking their cooperation with the investigation=2=2
+
+  Keywords Assigned by Human but Not by Machine:
+   Finland and Estonia have since been in touch with Chinese authorities seeking their cooperation with the investigation=2
+   asked to send representatives to Beijing=2
+   Finland and Estonia have been investigating=3
+
+  Keywords Assigned by Machine but Not by Human:
+   Finland and Estonia have been in touch with Chinese authorities=3
+   send representatives to Beijing to investigate the vessel=2
+   cooperation with the Chinese authorities=3
+   NATO members Finland and Estonia=2
+
+
+Topic: NATO Response=3=3
+  Keywords Assigned by Human but Not by Machine:
+   pipeline that connects the two NATO members beneath the Baltic Sea=3
+   concerns over the safety of undersea critical infrastructure and possible measures to protect them from external sabotage=3
+
+  Keywords Assigned by Machine but Not by Human:
+   NATO's involvement=1
+   better surveillance of suspicious ships=2
+   possible measures to protect them from external sabotage=2
+   investigation into damage to Baltic Sea critical infrastructure=2
+   NATO members Finland and Estonia=3
+
+
+Topic: Environmental and Technical Challenges=3=2
+  Keywords Assigned by Human but Not by Machine:
+   two telecoms cables connecting Estonia to Finland and Sweden=2
+   retrieved a few meters from the site of the damage=2
+   dragged its anchor across the Baltic Sea seabed=3
+   understood there was something wrong=1
+   dragging an anchor for over 180 kilometers=2
+
+  Keywords Assigned by Machine but Not by Human:
+   limitations to what can be done=1
+   safety of undersea critical infrastructure=3
+   better surveillance of suspicious ships=2
+   possible measures to protect them from external sabotage=2
+
+
+Topic: Infrastructure Vulnerability=5=5
+  Keywords Assigned by Human but Not by Machine:
+   critical infrastructure, Balticconnector pipeline damaged=3
+   dragging an anchor for over 180 kilometers, cutting through the cables and gas lines=2
+   safety of undersea critical infrastructure, two telecoms cables damaged=3
+
+  Keywords Assigned by Machine but Not by Human:
+   two telecoms cables connecting Estonia to Finland and Sweden=3
+   rupture of the Balticconnector=3
+   better surveillance of suspicious ships=2
+   undersea gas pipeline=3
+   safety of undersea critical infrastructure=3
+   Baltic Sea critical infrastructure=3
+   possible measures to protect them from external sabotage=2
+
+
+Topics Assigned by Human but Not by Machine:
+Topic: Energy Security=4
+
+Topics Assigned by Machine but Not by Human:
+Topic: Global Diplomatic Engagement=2
+
+Statistics:
+Common Topics: 6
+Topics Assigned by Human: 7
+Topics Assigned by Machine: 7
+Common Keywords: 1
+Keywords Assigned by Human: 22
+Keywords Assigned by Machine: 31

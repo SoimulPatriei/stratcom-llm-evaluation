@@ -1,0 +1,80 @@
+[Topic] Suspected Sabotage  
+[Weight] 5  
+
+[Keywords]  
+damage to a Baltic Sea gas pipeline = 3  
+investigation focused on the Hong Kong-flagged, Chinese-owned NewNew Polar Bear = 3  
+the vessel's movements coincided with the pipeline damage = 3  
+investigation now focused on whether the damage was deliberate = 3  
+the involvement of a state actor “cannot be ruled out” = 2  
+damage to a second telecommunications cable running under the Baltic Sea = 1  
+
+[Total Weight] 15  
+[Normalized Significance] 7.5  
+
+---
+
+[Topic] Infrastructure Vulnerability  
+[Weight] 5  
+
+[Keywords]  
+extensively damaged Baltic Sea gas pipeline = 3  
+damaged Estlink data communications cable = 3  
+damage was caused by “an external force” = 2  
+undersea critical infrastructure are vulnerable = 3  
+new centre for protecting undersea pipelines and cables = 2  
+ruptured three of the four Nord Stream pipelines = 2  
+
+[Total Weight] 15  
+[Normalized Significance] 7.5  
+
+---
+
+[Topic] NATO Response  
+[Weight] 4  
+
+[Keywords]  
+Finland joined Nato earlier this year = 2  
+Nato has pledged a “united and determined response” = 3  
+Nato’s secretary general, Jens Stoltenberg, mentioned the vulnerability of undersea critical infrastructure = 2  
+Nato stepped up patrols in the Baltic after the incidents = 3  
+
+[Total Weight] 10  
+[Normalized Significance] 5.0  
+
+---
+
+[Topic] Energy Security  
+[Weight] 3  
+
+[Keywords]  
+damage to the Balticconnector gas pipeline = 3  
+Finland relies on gas for about 5% of its energy supplies = 2  
+it will take at least five months to repair the pipeline = 2  
+
+[Total Weight] 7  
+[Normalized Significance] 4.67  
+
+---
+
+[Topic] Economic and Financial Impact  
+[Weight] 2  
+
+[Keywords]  
+pipeline unlikely to come on stream again until April 2024 = 2  
+Finland relies on gas for about 5% of its energy supplies = 2  
+
+[Total Weight] 4  
+[Normalized Significance] 4.0  
+
+---
+
+[Topic] International Cooperation  
+[Weight] 2  
+
+[Keywords]  
+Nato – working with the private sector, which “owns most of this critical infrastructure” = 2  
+The alliance launched a new centre for protecting undersea pipelines and cables = 2  
+
+[Total Weight] 4  
+[Normalized Significance] 4.0

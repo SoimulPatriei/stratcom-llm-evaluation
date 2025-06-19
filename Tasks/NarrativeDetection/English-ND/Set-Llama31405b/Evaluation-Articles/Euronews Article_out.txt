@@ -1,0 +1,55 @@
+**Named Entity Recognition:**
+
+1. Location:
+   - Finland (0.09)
+   - Estonia (0.08)
+   - Baltic Sea (0.06)
+   - Baltic Connector pipeline (0.06)
+   - Helsinki (0.04)
+   - Tallinn (0.04)
+   - Europe (0.02)
+
+2. Actor:
+   - President Sauli Niinistö (0.09)
+   - NATO Secretary General Jens Stoltenberg (0.06)
+   - Gasgrid Finland (0.05)
+   - Elering (0.05)
+   - Finnish authorities (0.04)
+   - Estonian authorities (0.04)
+
+3. Event:
+   - Suspected sabotage (0.10)
+   - Leak in Baltic Connector pipeline (0.09)
+   - Investigation of leak (0.07)
+   - Closure of Baltic Connector pipeline (0.06)
+   - Possible damage to telecommunications cable (0.05)
+   - Repair of pipeline (0.04)
+
+4. Timeline:
+   - Sunday (0.06)
+   - Tuesday (0.05)
+   - 02:00 EET Sunday morning (0.04)
+   - Several months (0.03)
+
+**Relationship Extraction:**
+
+1. is suspected of [sabotage, unknown entity]
+2. is investigating [leak, Finnish authorities, Estonian authorities]
+3. is cooperating with [investigation, NATO, Finnish authorities, Estonian authorities]
+4. is sharing information with [NATO allies, Jens Stoltenberg]
+5. is damaged [Baltic Connector pipeline, unknown entity]
+6. is closed [Baltic Connector pipeline, Gasgrid Finland, Elering]
+7. is being repaired [pipeline, Gasgrid Finland]
+
+**Plot Discovery:**
+
+1. Exposition: A gas pipeline in the Baltic Sea, the Baltic Connector, supplies Finland with gas from Estonia. 
+2. Rising Action: A leak is detected in the pipeline on Sunday, and the gas flow is shut down.
+3. Climax: The Finnish president states that the damage to the pipeline and a telecommunications cable is likely the result of external activity.
+4. Falling Action: Investigations are ongoing between Finnish and Estonian authorities, with NATO sharing information with its allies.
+5. Resolution: Repairing the pipeline could take at least several months, depending on the nature of the damage.
+
+**Story Evolution:**
+
+1. Shift Detection: A significant change occurs in the narrative when the Finnish president states that the damage to the pipeline and telecommunications cable is likely the result of external activity.
+2. Causal Relation Extraction: The suspected sabotage is likely the cause of the leak in the pipeline, and the investigation aims to determine the specific cause of the damage. The cooperation between Finnish and Estonian authorities, as well as NATO, is in response to the suspected sabotage and aims to enhance security and control.

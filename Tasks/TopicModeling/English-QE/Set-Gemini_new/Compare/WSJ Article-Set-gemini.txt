@@ -1,0 +1,79 @@
+[Topic] Suspected Sabotage
+[Weight] 5
+
+[Keywords]
+Sabotage = 3
+External activity = 3
+Nord Stream pipelines blasts = 3
+attack = 3
+powerful explosions = 3
+sophisticated attack on Germany’s rail network = 2
+mysterious power outage in Denmark = 2
+sabotage team = 2
+planted explosives = 2
+
+[Total Weight] 18
+[Normalized Significance] 10.0
+
+---
+
+[Topic] Infrastructure Vulnerability
+[Weight] 4
+
+[Keywords]
+Europe’s critical infrastructure = 3
+vulnerability = 3
+physical attacks = 3
+Balticconnector pipeline = 3
+communications cable = 3
+undersea infrastructure = 3
+Nord Stream pipelines = 3
+energy grids = 2
+natural-gas terminals = 2
+data cables = 2
+
+[Total Weight] 24
+[Normalized Significance] 8.0
+
+---
+
+[Topic] International Cooperation
+[Weight] 3
+
+[Keywords]
+cooperation with the Chinese authorities = 3
+discussions with European Commission President = 2
+former president of Finland spoke with Chinese President Xi Jinping = 2
+international partners = 2
+NATO's involvement = 1
+
+[Total Weight] 6
+[Normalized Significance] 6.0
+
+---
+
+[Topic] Global Diplomatic Engagement
+[Weight] 3
+
+[Keywords]
+discussions with European Commission President = 2
+former president of Finland spoke with Chinese President Xi Jinping = 2
+international partners = 2
+NATO's involvement = 1
+
+[Total Weight] 5
+[Normalized Significance] 6.0
+
+---
+
+[Topic] Economic and Financial Impact
+[Weight] 2
+
+[Keywords]
+multimillion-euro repair work = 3
+total cost of the pipeline repair work, estimated at around 35 million euros ($38 million) = 3
+disruption of gas markets = 2
+who will pick up the bill = 2
+
+[Total Weight] 8
+[Normalized Significance] 4.0

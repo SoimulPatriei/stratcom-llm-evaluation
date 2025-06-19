@@ -1,0 +1,63 @@
+Topic: Suspected Sabotage=5=5
+  Keywords Assigned by Human but Not by Machine:
+   NewNew Polar Bear accused of dragging its anchor=3
+   too early to conclude if it was an accident or deliberate=2
+   blamed on Chinese ship, suspected of causing the damage=3
+   Chinese container ship identified by Finnish police as the main suspect=3
+
+  Keywords Assigned by Machine but Not by Human:
+   Failed to establish radio contact with Newnew Polar Bear’s captain=2
+   Human-made damage causing major drop in pressure=3
+   Anchor of the Hong Kong-flagged cargo vessel Newnew Polar Bear ship=3
+   Damage allegedly caused by the Chinese vessel=2
+   Finnish maritime authorities=1
+   Baltic Sea gas pipeline damaged=3
+
+
+Topic: International Cooperation=5=3
+  Keywords Assigned by Human but Not by Machine:
+   China cooperating with investigation=3
+   China would like to deepen mutually beneficial cooperation with Finland=3
+   global impact of China-Europe relations have become more prominent=3
+   jointly advocate multilateralism, safeguard free trade, and make positive contributions to world peace and stability=3
+   China promised full cooperation with investigation=3
+   constructive dialogues between the sides, video call between Xi and Niinisto, EU-China relations, China's role in bringing about a just and lasting peace=3
+   China is willing to work with European countries, strategic and long-term perspective=3
+
+  Keywords Assigned by Machine but Not by Human:
+   Finnish Prime Minister initiated discussions with European Commission President=2
+   Cooperation with the Chinese authorities probing the case=3
+   International partners=2
+   NATO's involvement=1
+   Former president of Finland spoke with Chinese President Xi Jinping=3
+
+
+Topic: Infrastructure Vulnerability=5=4
+  Keywords Assigned by Human but Not by Machine:
+   77km-long (48-mile) Balticconnector pipeline between Finland and Estonia, critical infrastructures=3
+   Cutting through critical infrastructures, dragging its anchor across the seabed=2
+   two telecoms cables were also damaged=2
+
+  Keywords Assigned by Machine but Not by Human:
+   Baltic Sea gas pipeline between NATO members Finland and Estonia=3
+   Several months' disruption=1
+   Telecom cables connecting Finland and Estonia, as well as Sweden and Estonia, were also damaged=3
+   Pipeline reopened this week after multimillion-euro repair work=3
+   Secure the area and detect suspicious movement near its critical undersea infrastructure=3
+   Disconnecting a crucial link between the Nordic and Baltic gas markets=3
+   Damage to the gas pipeline and data cables=2
+
+
+Topics Assigned by Human but Not by Machine:
+Topic: Environmental and Technical Challenges=3
+Topic: Economic and Financial Impact=3
+Topic: Energy Security=3
+Topic: NATO Response=0
+
+Statistics:
+Common Topics: 3
+Topics Assigned by Human: 7
+Topics Assigned by Machine: 3
+Common Keywords: 0
+Keywords Assigned by Human: 14
+Keywords Assigned by Machine: 18

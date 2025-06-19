@@ -1,0 +1,74 @@
+Topic: Suspected Sabotage=5=5
+  Common Keywords:
+   external mechanical force=3=2
+   Chinese-flagged ship is also thought to have been involved=3=3
+   Russia is the prime suspect=3=3
+
+  Keywords Assigned by Human but Not by Machine:
+   Russia is making mischief underwater=3
+   China attempting to sabotage=2
+   what Sauli Niinisto, Finland’s president, called ‘external activity’=3
+   Baltic connector gas pipeline and a communications cable between Finland and Estonia were damaged=3
+
+  Keywords Assigned by Machine but Not by Human:
+   suspicious incidents=2
+   Balticconnector gas pipeline and a communications cable between Finland and Estonia were damaged=3
+
+
+Topic: Infrastructure Vulnerability=5=5
+  Keywords Assigned by Human but Not by Machine:
+   difficulty of stopping potential attacks=3
+   high levels of background noise, temperature and salinity=3
+   lack of surveillance platforms=3
+   threats to critical undersea infrastructure are real=3
+   Nord Stream I and II gas pipelines from Russia to Germany were damaged by a pair of explosions=3
+   difficult to prevent Russian [underwater drones]=3
+
+  Keywords Assigned by Machine but Not by Human:
+   identifying the perpetrators if they do=2
+   damage to the Balticconnector pipeline=3
+   Balticconnector gas pipeline and a communications cable between Finland and Estonia were damaged=3
+   external mechanical force=3
+   difficulty of stopping potential attacks before they occur=3
+
+
+Topic: International Cooperation=3=3
+  Keywords Assigned by Machine but Not by Human:
+   allies in NATO and the European Union=3
+   military-intelligence agencies=2
+   NATO's involvement=2
+
+
+Topic: NATO Response=4=4
+  Keywords Assigned by Human but Not by Machine:
+   Russian military robotics=2
+   stepping up air and maritime patrols=3
+   Finland applied to join NATO, military non-alignment=2
+   Russia is currently treating Finland as an unfriendly country=2
+   Joint Expeditionary Force, discussed the issue during summit=2
+
+  Keywords Assigned by Machine but Not by Human:
+   NATO members Finland and Estonia=2
+   NATO has stepped up its patrols of the Baltic Sea=3
+   minehunters, maritime patrol aircraft, and drones sent to the region=3
+   Finland acceded earlier this year=2
+
+
+Topics Assigned by Human but Not by Machine:
+Topic: Energy Security=2
+
+Topics Assigned by Machine but Not by Human:
+Topic: Supply Chain Stability=1
+Topic: Economic and Financial Impact=3
+Topic: Covert Disruptions=2
+Topic: Global Diplomatic Engagement=2
+Topic: Critical Infrastructure Weakness=5
+Topic: Technological Resilience and Ecological Issues=2
+
+Statistics:
+Common Topics: 4
+Topics Assigned by Human: 5
+Topics Assigned by Machine: 10
+Common Keywords: 3
+Keywords Assigned by Human: 18
+Keywords Assigned by Machine: 17

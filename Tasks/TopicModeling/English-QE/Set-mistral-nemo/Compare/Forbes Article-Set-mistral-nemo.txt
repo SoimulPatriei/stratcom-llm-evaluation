@@ -1,0 +1,89 @@
+[Topic] Suspected Sabotage
+[Weight] 5
+
+[Keywords]
+Chinese-owned container ship, Newnew Polar Bear, allegedly caused damage = 4
+Anchor of Newnew Polar Bear embedded in seabed next to damaged pipeline = 3
+Damage to pipeline and telecom cables caused by external force or tampering = 3
+Investigation focusing on Newnew Polar Bear = 2
+Suspicious behavior of Newnew Polar Bear's captain = 2
+
+[Total Weight] 14
+[Normalized Significance] 7.0
+
+---
+
+[Topic] Infrastructure Vulnerability
+[Weight] 5
+
+[Keywords]
+Undersea natural gas pipeline and telecom cables damaged = 4
+Pipeline and cables crucial for connecting Nordic and Baltic markets = 3
+Damage to infrastructure within economic zones of Finland and Estonia = 3
+Extensive damage spanning over 100 nautical miles = 3
+Impact on gas markets and communication links = 2
+
+[Total Weight] 15
+[Normalized Significance] 7.5
+
+---
+
+[Topic] International Cooperation
+[Weight] 3
+
+[Keywords]
+Cooperation between Finland, Estonia, Sweden, and China in investigation = 3
+Finland and Estonia requesting to send representatives to China = 2
+China's willingness to allow investigation on its territory = 2
+
+[Total Weight] 7
+[Normalized Significance] 3.5
+
+---
+
+[Topic] Economic and Financial Impact
+[Weight] 3
+
+[Keywords]
+Potential damages and costs associated with pipeline repair = 3
+Impact on gas markets due to disrupted supply = 2
+Financial implications of alleged sabotage = 2
+
+[Total Weight] 7
+[Normalized Significance] 3.5
+
+---
+
+[Topic] NATO Response
+[Weight] 2
+
+[Keywords]
+Finland's and Estonia's membership in NATO = 2
+Potential NATO involvement in investigation = 2
+Impact of incidents on NATO's strategic situation in the Baltic Sea = 1
+
+[Total Weight] 5
+[Normalized Significance] 2.5
+
+---
+
+[Topic] Environmental and Technical Challenges
+[Weight] 2
+
+[Keywords]
+Shallow waters and flat bottom of Gulf of Finland making investigation easy = 2
+Underwater survey to determine the cause of damage = 1
+[Total Weight] 3
+[Normalized Significance] 1.5
+
+---
+
+[Topic] Covert Disruptions
+[Weight] 2
+
+[Keywords]
+Alleged deliberate damage by Newnew Polar Bear = 2
+China's history of "grey-zone" tactics = 1
+
+[Total Weight] 3
+[Normalized Significance] 1.5

@@ -1,0 +1,68 @@
+Topic: Suspected Sabotage=5=4
+  Keywords Assigned by Human but Not by Machine:
+   seabed trail leading to the point where the pipeline was broken=2
+   intentional or unintentional, focus of the next phase of the probe=3
+   investigation involving the ship Newnew Polar Bear and a seabed trail=3
+   Chinese cargo vessel is believed to have caused damage=3
+
+  Keywords Assigned by Machine but Not by Human:
+   dislodged anchor from a Chinese cargo vessel=3
+   Chinese ship's anchor caused damage to Baltic gas pipeline=3
+   damage to the Balticconnector gas pipeline=2
+   investigators suspect intentional or unintentional damage=2
+   Finnish authorities unable to establish contact with ship's captain=1
+
+
+Topic: Infrastructure Vulnerability=5=5
+  Keywords Assigned by Human but Not by Machine:
+   displacement from its original position in the seabed=3
+   48-mile pipeline linking the Finnish town of Inkoo and the Estonian port of Paldiski had suffered mechanical damage=3
+   damaged at the same time as the pipeline=2
+
+  Keywords Assigned by Machine but Not by Human:
+   Balticconnector gas pipeline between Finland and Estonia=3
+   mechanical damage to the pipeline=3
+   damage to the €300m (£260m) Balticconnector gas pipeline=3
+   connection to the Chinese vessel suspected=1
+   repairs estimated to last until at least the end of April=2
+   pipeline linking the Finnish town of Inkoo and the Estonian port of Paldiski=3
+
+
+Topic: Economic and Financial Impact=4=2
+  Keywords Assigned by Human but Not by Machine:
+   essential link between Finland and European gas network=2
+   repairs are estimated to last until at least the end of April=2
+   €300m Balticconnector pipeline=3
+
+  Keywords Assigned by Machine but Not by Human:
+   impact on the European gas network=1
+   €300m (£260m) Balticconnector gas pipeline damaged=2
+   repairs estimated to last until at least the end of April=1
+
+
+Topic: International Cooperation=3=3
+  Keywords Assigned by Human but Not by Machine:
+   Chinese foreign ministry=2
+   Beijing’s request for a fair and comprehensive investigation=2
+   multiple attempts to reach the ship's captain=2
+   collaborating with Chinese authorities=2
+
+  Keywords Assigned by Machine but Not by Human:
+   Finnish authorities seeking to establish contact with ship's captain=2
+   international partners involved in the investigation=1
+   Finnish investigators collaborating with Chinese authorities=3
+   Chinese foreign ministry requests a fair and comprehensive investigation=2
+
+
+Topics Assigned by Human but Not by Machine:
+Topic: Energy Security=4
+Topic: NATO Response=0
+Topic: Environmental and Technical Challenges=3
+
+Statistics:
+Common Topics: 4
+Topics Assigned by Human: 7
+Topics Assigned by Machine: 4
+Common Keywords: 0
+Keywords Assigned by Human: 14
+Keywords Assigned by Machine: 18

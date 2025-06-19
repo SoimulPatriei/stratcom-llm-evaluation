@@ -1,0 +1,60 @@
+I'll perform the narrative detection on the article provided.
+
+**Named Entity Recognition**
+
+Here are the entities extracted from the article:
+
+* Location:
+	+ Somija (0.08)
+	+ Igaunija (0.07)
+	+ Latvija (0.06)
+	+ Baltic-connector cauruļvads (0.05)
+	+ Inčukalna pazemes gāzes krātuve (0.04)
+	+ Klaipēdas gāzes terminālis (0.04)
+	+ Lietuva (0.03)
+	+ Eiropas Savienība (0.03)
+	+ NATO (0.03)
+* Actor:
+	+ Krišjānis Kariņš (0.08)
+	+ Peteri Orpo (0.06)
+	+ Sauli Nīniste (0.05)
+	+ Marguss Tsahkna (0.04)
+	+ Hanno Pevkurs (0.04)
+	+ Somijas Centrālā kriminālpolicija (0.04)
+* Event:
+	+ Sabotāža (0.09)
+	+ Bojājumi Baltic-connector cauruļvadā (0.08)
+	+ Noplūdes izmeklēšana (0.06)
+	+ Gāzes cenu pieaugums (0.05)
+	+ Iespējams sprādziens (0.05)
+* Timeline:
+	+ 2023. gada oktobris (0.06)
+	+ 2024. gada aprīlis (0.05)
+	+ 2020. gads (0.04)
+
+**Relationship Extraction**
+
+Here are the relationships extracted from the article:
+
+* is located in [Baltic-connector cauruļvads, Somija un Igaunija]
+* is connected to [Inčukalna pazemes gāzes krātuve, Klaipēdas gāzes terminālis]
+* is investigating [Somijas Centrālā kriminālpolicija, noplūdes izmeklēšana]
+* is a member of [Latvija, Eiropas Savienība un NATO]
+* is a suspect in [Sabotāža, Peteri Orpo]
+
+**Plot Discovery**
+
+Here are the plot components extracted from the article:
+
+* Exposition: Sabotāža tiek izmeklēta Somijā un Igaunijā, un Latvijas apgāde nav apdraudēta.
+* Rising Action: Bojājumi Baltic-connector cauruļvadā tiek atklāti, un izmeklēšana tiek uzsākta.
+* Climax: Noplūdes izmeklēšana tiek pabeigta, un tiek secināts, ka sabotāža ir notikusi.
+* Falling Action: Gāzes piegādes tiek nodrošinātas Latvijā un Igaunijā.
+* Resolution: Sabotāža tiek nosodīta, un drošības pasākumi tiek pastiprināti.
+
+**Story Evolution**
+
+Here are the story evolution components extracted from the article:
+
+* Shift Detection: Nozīmīgas izmaiņas stāstījumā notiek, kad tiek atklāti bojājumi Baltic-connector cauruļvadā.
+* Causal Relation Extraction: Sabotāža tiek izdarīta, lai izraisītu noplūdi un ietekmētu gāzes piegādes.

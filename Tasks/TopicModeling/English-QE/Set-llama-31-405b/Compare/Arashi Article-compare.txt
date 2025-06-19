@@ -1,0 +1,94 @@
+Topic: Energy Security=4=4
+  Common Keywords:
+   Norway, Europe’s largest gas supplier=3=3
+
+  Keywords Assigned by Human but Not by Machine:
+   network of gas pipelines, damage to a gas pipeline=2
+   8,000 km network of gas pipelines under the North Sea=2
+   protect its offshore oil and gas platform=2
+
+  Keywords Assigned by Machine but Not by Human:
+   incident highlights importance of energy security=1
+   network of gas pipelines under the North Sea=2
+   protecting offshore oil and gas platforms=3
+   securing energy supplies=2
+
+
+Topic: Suspected Sabotage=5=4
+  Keywords Assigned by Human but Not by Machine:
+   A Norwegian Navy ship shadowed a Chinese container ship investigated over damage to a gas pipeline=2
+   incident was due to “outside activity”=3
+   damage to a gas pipeline=3
+   they were looking into the Chinese vessel, the NewNew Polar Bear, and a Russian-flagged ship, the Sevmorput=3
+   as well as other vessels present=3
+   KV Sortland followed the NewNew Polar Bear=2
+
+  Keywords Assigned by Machine but Not by Human:
+   incident was due to “outside activity” and could have been deliberate=3
+   damage to a gas pipeline in the Gulf of Finland=3
+   Nord Stream sabotage=1
+   Chinese vessel, the NewNew Polar Bear, and a Russian-flagged ship, the Sevmorput=2
+   investigators looking into the vessels present in the area=2
+
+
+Topic: International Cooperation=3=3
+  Keywords Assigned by Human but Not by Machine:
+   maritime activities in the region=2
+   Oslo is closely monitoring the progress of the probe in the Baltic Sea incident=2
+   sailed along the western coast of Norway on Monday=2
+   monitoring of shipping activities=2
+   The Norwegian military’s operational command center declined to comment on Monday’s operation=2
+   vessel tracking data showed=2
+   shadowed the NewNew Polar Bear=2
+
+  Keywords Assigned by Machine but Not by Human:
+   cooperation between Finnish and Norwegian authorities=3
+   importance of international cooperation in ensuring energy security=1
+   investigation into the incident=2
+   Norway monitoring progress of the probe=2
+
+
+Topic: NATO Response=3=3
+  Keywords Assigned by Human but Not by Machine:
+   NATO response context after Nord Stream sabotage=3
+   role in maintaining security of gas platforms=3
+   Norwegian Navy monitoring=3
+   coast guard’s role in maritime security=3
+
+  Keywords Assigned by Machine but Not by Human:
+   NATO's role in ensuring energy security=2
+   Norway deployed its Navy to protect offshore oil and gas platforms=3
+   incident highlights need for NATO's involvement=1
+   importance of NATO's presence in the region=2
+
+
+Topic: Infrastructure Vulnerability=5=5
+  Common Keywords:
+   offshore oil and gas platforms=2=2
+
+  Keywords Assigned by Human but Not by Machine:
+   network of gas pipelines under the North Sea, which spread over 8,000 km (4,971 miles)=2
+   Baltic Sea pipeline was damaged=3
+   incident was due to “outside activity”=3
+   near Norway’s gas pipelines and key oil platforms=3
+   protect its offshore oil and gas platform=2
+
+  Keywords Assigned by Machine but Not by Human:
+   key oil and gas platforms=3
+   Norway’s exporting gas pipelines=3
+   incident highlights vulnerability of critical infrastructure=1
+   network of gas pipelines under the North Sea=3
+   gas pipeline in the Gulf of Finland=3
+
+
+Topics Assigned by Human but Not by Machine:
+Topic: Economic and Financial Impact=4
+Topic: Environmental and Technical Challenges=3
+
+Statistics:
+Common Topics: 5
+Topics Assigned by Human: 7
+Topics Assigned by Machine: 5
+Common Keywords: 2
+Keywords Assigned by Human: 27
+Keywords Assigned by Machine: 24

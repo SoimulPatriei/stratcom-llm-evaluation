@@ -1,0 +1,54 @@
+Topic: Economic and Financial Impact=3=3
+  Keywords Assigned by Human but Not by Machine:
+   UK prices=2
+   Nord Stream pipeline blasts=2
+   pushed up European gas prices=2
+   pushed up European gas prices, UK prices jumped as much as 13.5%=2
+
+
+Topic: NATO Response=4=3
+  Keywords Assigned by Human but Not by Machine:
+   Nato=2
+   Jens Stoltenberg=2
+   Nato military alliance=2
+   sharing information=2
+   sharing information & stands ready to support Allies=2
+   support allies=2
+   retribution for Finland joining Nato=2
+
+
+Topic: Suspected Sabotage=5=5
+  Keywords Assigned by Human but Not by Machine:
+   deliberate, external activity=3
+   damage could not have been caused by normal use of the pipeline or pressure fluctuations=3
+   Russian sabotage=3
+   retribution for Finland joining NATO=2
+   suspected sabotage=3
+   caused by external activity=3
+
+
+Topic: Infrastructure Vulnerability=5=4
+  Keywords Assigned by Human but Not by Machine:
+   Nord Stream pipeline blasts=3
+   Telecoms cable was also damaged=2
+   Baltic-connector pipeline=3
+   two different spots in Finland’s Exclusive Economic Zone=3
+   so serious=3
+
+
+Topics Assigned by Human but Not by Machine:
+Topic: Environmental and Technical Challenges=3
+Topic: International Cooperation=3
+Topic: Energy Security=4
+
+Topics Assigned by Machine but Not by Human:
+Topic: Climate Change and Agriculture (Minimally relevant, mentioned once in passing)=1
+Topic: Global Diplomatic Engagement=3
+
+Statistics:
+Common Topics: 4
+Topics Assigned by Human: 7
+Topics Assigned by Machine: 6
+Common Keywords: 0
+Keywords Assigned by Human: 22
+Keywords Assigned by Machine: 0

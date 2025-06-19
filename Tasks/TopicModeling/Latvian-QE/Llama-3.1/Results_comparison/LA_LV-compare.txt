@@ -1,0 +1,42 @@
+Topic: Security concerns=4=4
+  Keywords Assigned by Human but Not by Machine:
+   notiekošais Somijā un Igaunijā nekādā veidā neapdraud Latvijas patērētājus un Latvijas tirgu=2
+   ja Somijas un Igaunijas gāzesvada darbība sabotēta, tas nozīmē, ka Baltijas jūras reģionā būs pastiprināti jāuzrauga visa zemūdens infrastruktūra=2
+   Latvijas piegādes nekādā veidā nav apdraudētas=3
+
+  Keywords Assigned by Machine but Not by Human:
+   iespējamais ārējs elements=1
+   sabotāžas mēģinājums=3
+   infrastruktūras drošība=2
+
+
+Topic: International cooperation=4=3
+  Keywords Assigned by Human but Not by Machine:
+   sabiedrotajām demokrātijām ir jāsadarbojas un vēl ciešāk jākāpina sadarbība, lai rūpētos par mūsu infrastruktūras drošību=3
+   Ārlietu ministrs sacīja, ka viņš ir runājis gan ar Somijas, gan ar Igaunijas kolēģiem=2
+   Latvija jau piegādā gāzi Igaunijai=3
+
+  Keywords Assigned by Machine but Not by Human:
+   sadarbība ar kolēģiem=1
+   sadarbība ar Somiju un Igauniju=2
+   Eiropas Savienība un NATO=2
+
+
+Topics Assigned by Human but Not by Machine:
+Topic: Investigation=4
+Topic: Restoration=3
+Topic: Possible sabotage=3
+Topic: Natural gas infrastructure=5
+
+Topics Assigned by Machine but Not by Human:
+Topic: Geopolitical dynamics=3
+Topic: Energy resources=4
+Topic: Infrastructure vulnerability=5
+
+Statistics:
+Common Topics: 2
+Topics Assigned by Human: 6
+Topics Assigned by Machine: 5
+Common Keywords: 0
+Keywords Assigned by Human: 6
+Keywords Assigned by Machine: 6

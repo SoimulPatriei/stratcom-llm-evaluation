@@ -1,0 +1,54 @@
+[Topic] Infrastructure Vulnerability
+[Weight] 4
+
+[Keywords]
+Baltic Sea gas pipeline = 4
+damage to the pipeline = 4
+critical undersea infrastructure = 3
+outside activity = 3
+deliberate damage = 2
+investigation into the incident = 2
+
+[Total Weight] 18
+[Normalized Significance] 9.0
+
+---
+
+[Topic]  Suspected Sabotage
+[Weight] 3
+
+[Keywords]
+Baltic Sea pipeline damaged = 3
+ human-made damage = 3
+deliberate damage = 2
+incident due to outside activity = 2
+investigation into the incident = 2
+
+[Total Weight] 12
+[Normalized Significance] 6.0
+
+---
+
+[Topic]  NATO Response
+[Weight] 2
+
+[Keywords]
+NATO members = 2
+Norway's Navy deployed = 2
+monitoring of shipping activities = 1
+
+[Total Weight] 5
+[Normalized Significance] 2.5
+
+---
+
+[Topic]  International Cooperation
+[Weight] 2
+
+[Keywords]
+Chinese vessel investigated = 2
+cooperation with Chinese authorities = 1
+investigation into the incident = 1
+
+[Total Weight] 4
+[Normalized Significance] 2.0

@@ -1,0 +1,113 @@
+### Named Entity Recognition
+
+#### Entities Identified:
+
+**Location:**
+- Balticconnector
+- Somija
+- Igaunija
+- Somu jūras līcis
+- Paldiski
+- Inko
+- Nīderlandes birža
+- Saeima
+
+**Actor:**
+- Klimata un enerģētikas ministrija (KEM)
+- Gasgrid
+- Elering
+- Siltumenerģijas komersanti
+- Somijas uzņēmums
+
+**Event:**
+- Balticconnector bojājums
+- Dabasgāzes tirgus reakcija
+- Dabasgāzes cenu svārstības
+- Gāzes noplūde
+- Spiediena kritums
+- Gāzes piegādes stabilitāte
+- Energoapgādes izmaksu atbalsta likums
+- Balticconnector slēgšana
+
+**Timeline:**
+- 17.10.2023
+- 16. oktobrī
+- 9. oktobrī
+- 10. oktobrī
+- 11. oktobrī
+- 12. oktobrī
+- 13. oktobrī
+- 8. oktobrī
+- Svētdien
+
+#### Entities Ordered by Importance Score:
+
+1. Balticconnector bojājums (Event): 0.08
+2. Dabasgāzes tirgus reakcija (Event): 0.07
+3. Dabasgāzes cenu svārstības (Event): 0.07
+4. Gāzes noplūde (Event): 0.07
+5. Spiediena kritums (Event): 0.07
+6. Balticconnector (Location): 0.06
+7. Somija (Location): 0.06
+8. Igaunija (Location): 0.06
+9. Klimata un enerģētikas ministrija (KEM) (Actor): 0.05
+10. Gasgrid (Actor): 0.05
+11. Elering (Actor): 0.05
+12. Siltumenerģijas komersanti (Actor): 0.05
+13. Somijas uzņēmums (Actor): 0.04
+14. Somu jūras līcis (Location): 0.04
+15. Paldiski (Location): 0.04
+16. Inko (Location): 0.04
+17. Nīderlandes birža (Location): 0.04
+18. Saeima (Location): 0.04
+19. Energoapgādes izmaksu atbalsta likums (Event): 0.04
+20. Balticconnector slēgšana (Event): 0.04
+21. 17.10.2023 (Timeline): 0.03
+22. 16. oktobrī (Timeline): 0.03
+23. 9. oktobrī (Timeline): 0.03
+24. 10. oktobrī (Timeline): 0.03
+25. 11. oktobrī (Timeline): 0.03
+26. 12. oktobrī (Timeline): 0.03
+27. 13. oktobrī (Timeline): 0.03
+28. 8. oktobrī (Timeline): 0.03
+29. Svētdien (Timeline): 0.03
+
+### Relationship Extraction
+
+**Layer Output:**
+- is damaged [Balticconnector, gāzes noplūde]
+- causes [gāzes noplūde, spiediena kritums]
+- reacts to [dabasgāzes tirgus, Balticconnector bojājums]
+- results in [Balticconnector bojājums, dabasgāzes cenu svārstības]
+- is closed [Balticconnector, Gasgrid un Elering]
+- is stabilized [gāzes piegādes, Gasgrid un Elering]
+- is under consideration [Energoapgādes izmaksu atbalsta likums, Saeima]
+
+### Plot Discovery
+
+**Layer Output:**
+
+**Exposition:**
+[Klimata un enerģētikas ministrija (KEM)] paziņo, ka [dabasgāzes tirgus] ir reaģējis uz [Balticconnector bojājumu], bet vēl grūti spriest par šīs izmaiņas ilgumu.
+
+**Rising Action:**
+[Gasgrid] un [Elering] paziņo, ka [Balticconnector] ir slēgts pēc konstatēta spiediena krituma, ko var būt izraisījusi [gāzes noplūde].
+
+**Climax:**
+[Gāzes noplūde] izraisīja [spiediena kritumu], kas noveda pie [Balticconnector] slēgšanas un izraisīja [dabasgāzes cenu svārstības].
+
+**Falling Action:**
+[Gasgrid] un [Elering] paziņo, ka [gāzes piegādes] pagaidām ir stabilas, lai arī cēlonis vēl nav zināms.
+
+**Resolution:**
+[KEM] atgādina par [Energoapgādes izmaksu atbalsta likumu], kurš ir skatīšanā [Saeimā] un mērķis ir sniegt atbalstu mājsaimniecībām energoapgādes izmaksu segšanai, kad energoresursu cenas ir ārkārtēji augstas.
+
+### Story Evolution
+
+**Layer Output:**
+
+**Shift Detection:**
+Nozīmīgas izmaiņas stāstījumā notiek, kad [Balticconnector] tiek slēgts pēc konstatēta spiediena krituma, ko var būt izraisījusi [gāzes noplūde].
+
+**Causal Relation Extraction:**
+[Gāzes noplūde] izraisīja [spiediena kritumu], kas noveda pie [Balticconnector] slēgšanas un izraisīja [dabasgāzes cenu svārstības]. [Gasgrid] un [Elering] paziņoja, ka [gāzes piegādes] pagaidām ir stabilas, bet cēlonis vēl nav zināms. [KEM] atgādina par [Energoapgādes izmaksu atbalsta likumu], kurš ir skatīšanā [Saeimā] un mērķis ir sniegt atbalstu mājsaimniecībām energoapgādes izmaksu segšanai, kad energoresursu cenas ir ārkārtēji augstas.

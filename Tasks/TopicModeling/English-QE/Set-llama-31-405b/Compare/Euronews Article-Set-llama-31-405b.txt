@@ -1,0 +1,84 @@
+[Topic] Suspected Sabotage  
+[Weight] 5  
+
+[Keywords]  
+damage caused to the gas pipeline and the telecommunications cable is the result of external activity = 3  
+likely that the damage caused to the gas pipeline is the result of external activity = 3  
+caused by external activity = 3  
+investigations were continuing between authorities in Helsinki and Tallinn = 2  
+not yet clear what specifically caused the damage = 2  
+
+[Total Weight] 13  
+[Normalized Significance] 6.5  
+
+---
+
+[Topic] Infrastructure Vulnerability  
+[Weight] 5  
+
+[Keywords]  
+Baltic Connector pipeline = 3  
+gas pipeline in the Baltic Sea = 3  
+supplies Finland with gas from Estonia = 3  
+carries telecoms links = 3  
+offshore pipeline between Finland and Estonia = 3  
+leak was discovered = 2  
+damage to the pipeline = 2  
+
+[Total Weight] 17  
+[Normalized Significance] 8.5  
+
+---
+
+[Topic] Energy Security  
+[Weight] 4  
+
+[Keywords]  
+gas pipeline supplies Finland with gas from Estonia = 3  
+Baltic Connector pipeline = 3  
+gas flow was shut down = 2  
+repairing damage to the pipeline could take at least several months = 2  
+no reason for the suspected leak = 1  
+
+[Total Weight] 11  
+[Normalized Significance] 5.5  
+
+---
+
+[Topic] NATO Response  
+[Weight] 3  
+
+[Keywords]  
+NATO Secretary General Jens Stoltenberg wrote on X = 3  
+spoken with President Niinistö about the damage to the Baltic Connector = 2  
+sharing information with its allies = 2  
+NATO's involvement = 1  
+
+[Total Weight] 8  
+[Normalized Significance] 4.0  
+
+---
+
+[Topic] International Cooperation  
+[Weight] 3  
+
+[Keywords]  
+investigations were continuing between authorities in Helsinki and Tallinn = 3  
+cooperation between Finland and Estonia = 2  
+NATO's involvement = 1  
+sharing information with its allies = 1  
+
+[Total Weight] 7  
+[Normalized Significance] 3.5  
+
+---
+
+[Topic] Economic and Financial Impact  
+[Weight] 2  
+
+[Keywords]  
+repairing damage to the pipeline could take at least several months = 2  
+no estimate of the cost of repairs = 1  
+
+[Total Weight] 3  
+[Normalized Significance] 1.5  

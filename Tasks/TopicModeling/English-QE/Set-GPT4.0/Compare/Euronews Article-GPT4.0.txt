@@ -1,0 +1,63 @@
+[Topic] Suspected Sabotage  
+[Weight] 5  
+
+[Keywords]  
+damage to the gas pipeline = 3  
+external activity = 3  
+investigations were continuing between authorities in Helsinki and Tallinn = 3  
+NATO Secretary General Jens Stoltenberg = 2  
+unusual drop in pressure in the pipeline = 2  
+Repairing damage to the pipeline could take "at least several months" = 2  
+
+[Total Weight] 15  
+[Normalized Significance] 7.5  
+
+[Topic] Infrastructure Vulnerability  
+[Weight] 4  
+
+[Keywords]  
+gas pipeline in the Baltic Sea = 3  
+leak was discovered = 3  
+telecommunications cable = 3  
+shut down the gas flow = 2  
+The valves in the offshore pipeline are now closed = 2  
+Repairing damage to the pipeline could take "at least several months" = 2  
+
+[Total Weight] 15  
+[Normalized Significance] 7.5  
+
+[Topic] Energy Security  
+[Weight] 4  
+
+[Keywords]  
+Baltic Connector pipeline = 3  
+Supplies Finland with gas from Estonia = 3  
+cut off the flow of gas = 3  
+Gasgrid Finland and Estonia's Elering = 2  
+unusual drop in pressure in the pipeline = 2  
+shut down the gas flow = 2  
+
+[Total Weight] 15    
+[Normalized Significance] 7.5  
+
+[Topic] NATO Response  
+[Weight] 2  
+
+[Keywords]  
+NATO Secretary General Jens Stoltenberg = 3  
+spoken with Niinistö about the damage to the Baltic Connector = 2  
+sharing information with its allies = 2  
+
+[Total Weight] 7  
+[Normalized Significance] 3.5  
+
+[Topic] Environmental and Technical Challenges  
+[Weight] 1  
+
+[Keywords]  
+leak in the pipeline = 3  
+unusual drop in pressure = 2  
+Repairing damage to the pipeline could take "at least several months" = 2  
+
+[Total Weight] 7  
+[Normalized Significance] 3.5  

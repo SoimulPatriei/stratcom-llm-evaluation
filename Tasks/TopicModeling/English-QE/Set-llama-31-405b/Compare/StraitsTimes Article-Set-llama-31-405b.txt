@@ -1,0 +1,68 @@
+[Topic] International Cooperation  
+[Weight] 4  
+
+[Keywords]  
+Finnish President Sauli Niinisto and China’s Xi Jinping held a “constructive dialogue” = 3  
+China was cooperating in the investigation = 2  
+the role of China in achieving a just and lasting peace = 2  
+Finland joined NATO in 2023 = 1  
+independent foreign policy of peace = 1  
+
+[Total Weight] 9  
+[Normalized Significance] 4.5  
+
+---
+
+[Topic] Suspected Sabotage  
+[Weight] 3  
+
+[Keywords]  
+damaged by a Chinese vessel = 3  
+Finnish authorities believe was damaged by a Chinese vessel = 2  
+underwater explosions struck three of four Nord Stream gas pipelines = 2  
+the cause of that sabotage remains unknown = 1  
+Findings suggested it belonged to the Chinese cargo ship Newnew Polar Bear = 1  
+
+[Total Weight] 9  
+[Normalized Significance] 4.5  
+
+---
+
+[Topic] Energy Security  
+[Weight] 4  
+
+[Keywords]  
+Baltic Sea gas pipeline between Finland and Estonia = 3  
+Natural gas accounts for around 5 per cent of Finland’s energy consumption = 2  
+repair the pipeline, leaving Finland dependent on liquefied natural gas imports = 2  
+a major supply route to Europe from Russia = 1  
+combined heat and power production = 1  
+
+[Total Weight] 9  
+[Normalized Significance] 4.5  
+
+---
+
+[Topic] Infrastructure Vulnerability  
+[Weight] 4  
+
+[Keywords]  
+damaged the Balticconnector pipeline = 3  
+underwater explosions struck three of four Nord Stream gas pipelines = 2  
+repair the pipeline, leaving Finland dependent on liquefied natural gas imports = 2  
+Findings suggested it belonged to the Chinese cargo ship Newnew Polar Bear = 1  
+the cause of that sabotage remains unknown = 1  
+
+[Total Weight] 9  
+[Normalized Significance] 4.5
+
+---
+
+[Topic] NATO Response  
+[Weight] 1  
+
+[Keywords]  
+Finland joined NATO in 2023 = 1  
+
+[Total Weight] 1  
+[Normalized Significance] 0.5

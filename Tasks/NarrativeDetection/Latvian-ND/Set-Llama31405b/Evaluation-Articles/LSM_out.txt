@@ -1,0 +1,52 @@
+**Named Entity Recognition (NER)**
+
+* **Location**
+	+ Igaunija (0.08)
+	+ Somija (0.07)
+	+ Baltijas jūra (0.06)
+	+ Zviedrija (0.05)
+	+ Latvija (0.04)
+	+ Krievija (0.03)
+	+ Honkonga (0.02)
+	+ Eiropas Savienība (0.02)
+	+ NATO (0.02)
+* **Actor**
+	+ Igaunijas izmeklētāji (0.08)
+	+ Somijas policijas ūdenslīdēji (0.06)
+	+ NATO (0.05)
+	+ Eiropas Savienība (0.04)
+	+ Igaunijas valsts prokurore Trīnu Oleva (0.03)
+	+ Zviedrijas aizsardzības ministrs Pols Junsons (0.03)
+* **Event**
+	+ Sakaru kabeļa bojājums (0.09)
+	+ Izmeklēšana (0.08)
+	+ Sabotāža (0.06)
+	+ Remonts (0.05)
+	+ Patrulēšana (0.04)
+	+ Drošības pasākumi (0.03)
+* **Timeline**
+	+ 20. oktobris, 2023 (0.05)
+	+ 8. oktobris (0.04)
+	+ Nākamnedēļ (0.03)
+	+ Ceturtdien (0.02)
+
+**Relationship Extraction**
+
+* Igaunijas izmeklētāji veic izmeklēšanu par sakaru kabeļa bojājumu.
+* Sakaru kabeļa bojājums ir cilvēka radīts.
+* Igaunijas valsts prokurore Trīnu Oleva apstiprina, ka bojājums ir cilvēka radīts.
+* NATO pastiprina patrulēšanu Baltijas jūrā pēc nesenajiem zemūdens infrastruktūras bojājumiem.
+* Eiropas Savienība un NATO valstis stiprina zemūdens infrastruktūras aizsardzību.
+
+**Plot Discovery**
+
+* **Exposition**: Sakaru kabeļa bojājums starp Igauniju un Somiju ir cilvēka radīts.
+* **Rising Action**: Igaunijas izmeklētāji veic izmeklēšanu par sakaru kabeļa bojājumu.
+* **Climax**: Igaunijas valsts prokurore Trīnu Oleva apstiprina, ka bojājums ir cilvēka radīts.
+* **Falling Action**: NATO pastiprina patrulēšanu Baltijas jūrā pēc nesenajiem zemūdens infrastruktūras bojājumiem.
+* **Resolution**: Eiropas Savienība un NATO valstis stiprina zemūdens infrastruktūras aizsardzību.
+
+**Story Evolution**
+
+* **Shift Detection**: Nozīmīgas izmaiņas stāstījumā notiek, kad NATO pastiprina patrulēšanu Baltijas jūrā pēc nesenajiem zemūdens infrastruktūras bojājumiem.
+* **Causal Relation Extraction**: NATO pastiprina patrulēšanu Baltijas jūrā, jo nesenajiem zemūdens infrastruktūras bojājumiem ir cilvēka radīti.

@@ -1,0 +1,98 @@
+[Topic] Energy Resources  
+[Weight] 5  
+
+[Keywords]  
+dabasgāzes tirgus = 3  
+"Balticconnector" bojājums = 3  
+dabasgāzes cenu svārstības = 2  
+gāzes noplūde = 2  
+kurināmā piegādes līgumi = 2  
+enerģijas resursu cenas = 1  
+gāzesvads = 1  
+
+[Total Weight] 14  
+[Normalized Significance] 7  
+
+---
+
+[Topic] Infrastructure Vulnerability  
+[Weight] 4  
+
+[Keywords]  
+"Balticconnector" bojājums = 3  
+neparasts spiediena kritums = 2  
+gāzes noplūde = 2  
+
+[Total Weight] 7  
+[Normalized Significance] 3.5  
+
+---
+
+[Topic] Damage  
+[Weight] 3  
+
+[Keywords]  
+"Balticconnector" bojājums = 3  
+spiediena kritums = 2  
+noplūde = 1  
+
+[Total Weight] 6  
+[Normalized Significance] 3  
+
+---
+
+[Topic] Investigation  
+[Weight] 2  
+
+[Keywords]  
+cēlonis vēl nav zināms = 2  
+
+[Total Weight] 2  
+[Normalized Significance] 1  
+
+---
+
+[Topic] Natural Gas Infrastructure  
+[Weight] 5  
+
+[Keywords]  
+zemūdens gāzesvads = 3  
+"Balticconnector" = 3  
+gāzes pārvades sistēmas operators = 2  
+
+[Total Weight] 8  
+[Normalized Significance] 4  
+
+---
+
+[Topic] Economic Ties in Northern Europe  
+[Weight] 2  
+
+[Keywords]  
+Somiju un Igauniju savienojošais = 2  
+
+[Total Weight] 2  
+[Normalized Significance] 1  
+
+---
+
+[Topic] International Cooperation  
+[Weight] 1  
+
+[Keywords]  
+Somijas uzņēmums "Gasgrid" un Igaunijas gāzes pārvades sistēmas operators "Elering" = 1  
+
+[Total Weight] 1  
+[Normalized Significance] 0.5  
+
+---
+
+[Topic] Disaster Impact  
+[Weight] 3  
+
+[Keywords]  
+ietekmi uz siltumenerģijas tarifiem = 2  
+dabasgāzes cenu svārstības = 2  
+
+[Total Weight] 4  
+[Normalized Significance] 2  

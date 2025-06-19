@@ -1,0 +1,184 @@
+[Topic] Suspected Sabotage
+[Weight] 4
+
+[Keywords]
+China denies role in suspected sabotage = 3
+Finnish investigators said may have been sabotage = 3
+potential role of a Chinese ship = 3
+Balticconector gas pipeline = 3
+NewNew Polar Bear container vessel = 3
+two telecom cables cut = 2
+heavy object found near the pipeline damage = 2
+external mechanical force = 2
+no reason to believe the damage has been caused by an explosion = 1
+
+[Total Weight] 21
+[Normalized Significance] 10.5
+
+---
+
+[Topic] Infrastructure Vulnerability
+[Weight] 5
+
+[Keywords]
+Balticconector gas pipeline = 3
+two telecom cables cut = 3
+energy supplies in the wider Nordic region = 3
+limited number of energy links to the rest of the bloc = 3
+heavy object found near the pipeline damage = 3
+external mechanical force = 3
+energy security concerns have risen to new heights in the EU = 2
+Baltic region is particularly vulnerable = 2
+
+[Total Weight] 22
+[Normalized Significance] 11.0
+
+---
+
+[Topic] NATO Response
+[Weight] 3
+
+[Keywords]
+NATO to increase patrols in the Baltic Sea = 3
+Baltic region remains suspicious regarding Moscow = 3
+Latvian President Edgars Rinkevics said NATO should close the Baltic Sea to ships = 3
+threats made towards Russia were unacceptable = 2
+
+[Total Weight] 11
+[Normalized Significance] 5.5
+
+---
+
+[Topic] International Cooperation
+[Weight] 4
+
+[Keywords]
+China and Finland have begun communication = 3
+Estonian Ministry of Foreign Affairs has contacted Beijing = 3
+China had always advocated that the international community strengthen cooperation = 3
+jointly safeguard the security of cross-border infrastructure = 3
+China hopes that the relevant parties can find the truth as soon as possible = 2
+
+[Total Weight] 14
+[Normalized Significance] 7.0
+
+---
+
+[Topic] Energy Security
+[Weight] 5
+
+[Keywords]
+energy supplies in the wider Nordic region = 3
+energy security concerns have risen to new heights in the EU = 3
+limited number of energy links to the rest of the bloc = 3
+Baltic region is particularly vulnerable = 3
+NATO to increase patrols in the Baltic Sea = 2
+
+[Total Weight] 17
+[Normalized Significance] 8.5
+
+---
+
+[Topic] Critical Infrastructure Weakness
+[Weight] 4
+
+[Keywords]
+Balticconector gas pipeline = 3
+two telecom cables cut = 3
+heavy object found near the pipeline damage = 3
+external mechanical force = 3
+limited number of energy links to the rest of the bloc = 2
+
+[Total Weight] 14
+[Normalized Significance] 7.0
+
+---
+
+[Topic] Covert Disruptions
+[Weight] 3
+
+[Keywords]
+Finnish investigators said may have been sabotage = 3
+no reason to believe the damage has been caused by an explosion = 3
+external mechanical force = 2
+heavy object found near the pipeline damage = 2
+
+[Total Weight] 10
+[Normalized Significance] 5.0
+
+---
+
+[Topic] Global Diplomatic Engagement
+[Weight] 3
+
+[Keywords]
+China and Finland have begun communication = 3
+Estonian Ministry of Foreign Affairs has contacted Beijing = 3
+China hopes that the relevant parties can find the truth as soon as possible = 2
+jointly safeguard the security of cross-border infrastructure = 2
+
+[Total Weight] 10
+[Normalized Significance] 5.0
+
+---
+
+[Topic] Allied Strategic Defence/Response
+[Weight] 3
+
+[Keywords]
+NATO to increase patrols in the Baltic Sea = 3
+Latvian President Edgars Rinkevics said NATO should close the Baltic Sea to ships = 3
+threats made towards Russia were unacceptable = 2
+
+[Total Weight] 8
+[Normalized Significance] 4.0
+
+---
+
+[Topic] Environmental and Technical Challenges
+[Weight] 2
+
+[Keywords]
+heavy object found near the pipeline damage = 2
+external mechanical force = 2
+no reason to believe the damage has been caused by an explosion = 1
+
+[Total Weight] 5
+[Normalized Significance] 2.5
+
+---
+
+[Topic] Technological Resilience and Ecological Issues
+[Weight] 2
+
+[Keywords]
+Balticconector gas pipeline = 2
+two telecom cables cut = 2
+external mechanical force = 1
+
+[Total Weight] 5
+[Normalized Significance] 2.5
+
+---
+
+[Topic] Supply Chain Stability
+[Weight] 2
+
+[Keywords]
+energy supplies in the wider Nordic region = 2
+limited number of energy links to the rest of the bloc = 2
+Baltic region is particularly vulnerable = 1
+
+[Total Weight] 5
+[Normalized Significance] 2.5
+
+---
+
+[Topic] Medical Advancements in Genetic Engineering
+[Weight] 1
+
+[Keywords]
+No relevant keywords identified in the context of genetic engineering.
+
+[Total Weight] 0
+[Normalized Significance] 0.0

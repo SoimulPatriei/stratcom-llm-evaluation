@@ -1,0 +1,39 @@
+[Topic] Energy resources  
+[Weight] 5  
+
+[Keywords]  
+dabasgāzes tirgus = 3  
+Balticconnector bojājum = 2  
+dabasgāzes cena = 2  
+siltumenerģijas tarifiem = 1  
+gāzesvads = 1  
+
+[Total Weight] 12  
+[Normalized Significance] 6  
+
+---
+
+[Topic] Disaster impact  
+[Weight] 4  
+
+[Keywords]  
+Balticconnector bojājums = 3  
+neierasts spiediena kritums = 2  
+gāzes noplūde = 1  
+izskatīšanā atrodas likumprojekts = 1  
+
+[Total Weight] 7  
+[Normalized Significance] 4  
+
+---
+
+[Topic] Economic ties in Northern Europe  
+[Weight] 3  
+
+[Keywords]  
+Igaunijas un Zviedrijas = 1  
+Somiju un Igauniju savienojošais = 1  
+Paldisku un Inko termināļus = 1  
+
+[Total Weight] 3  
+[Normalized Significance] 1.5  

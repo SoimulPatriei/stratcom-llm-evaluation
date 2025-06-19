@@ -1,0 +1,97 @@
+Topic: Economic and Financial Impact=2=2
+  Keywords Assigned by Human but Not by Machine:
+   Shut down the gas flow=2
+
+  Keywords Assigned by Machine but Not by Human:
+   repairing damage to the pipeline could take at least several months=2
+   no estimate of the cost of repairs=1
+
+
+Topic: Energy Security=3=4
+  Keywords Assigned by Human but Not by Machine:
+   Apparent leak, unusual drop in pressure=2
+   gas pipeline, supplies Finland with gas=2
+   gas flow=3
+   pipeline are now closed=2
+
+  Keywords Assigned by Machine but Not by Human:
+   repairing damage to the pipeline could take at least several months=2
+   gas pipeline supplies Finland with gas from Estonia=3
+   Baltic Connector pipeline=3
+   gas flow was shut down=2
+   no reason for the suspected leak=1
+
+
+Topic: Suspected Sabotage=5=5
+  Common Keywords:
+   caused by external activity=3=3
+
+  Keywords Assigned by Human but Not by Machine:
+   Result of external activity=3
+   damage to the pipeline=3
+   suspected leak=2
+
+  Keywords Assigned by Machine but Not by Human:
+   not yet clear what specifically caused the damage=2
+   investigations were continuing between authorities in Helsinki and Tallinn=2
+   likely that the damage caused to the gas pipeline is the result of external activity=3
+   damage caused to the gas pipeline and the telecommunications cable is the result of external activity=3
+
+
+Topic: NATO Response=5=3
+  Common Keywords:
+   sharing information with its allies=2=2
+
+  Keywords Assigned by Human but Not by Machine:
+   NATO Secretary General Jens Stoltenberg=2
+   spoken with Niinistö=2
+
+  Keywords Assigned by Machine but Not by Human:
+   spoken with President Niinistö about the damage to the Baltic Connector=2
+   NATO Secretary General Jens Stoltenberg wrote on X=3
+   NATO's involvement=1
+
+
+Topic: International Cooperation=3=3
+  Common Keywords:
+   investigations were continuing between authorities in Helsinki and Tallinn=2=3
+
+  Keywords Assigned by Human but Not by Machine:
+   Gasgrid Finland=2
+   investigating the incident together with Elering=2
+   Elering=1
+
+  Keywords Assigned by Machine but Not by Human:
+   cooperation between Finland and Estonia=2
+   sharing information with its allies=1
+   NATO's involvement=1
+
+
+Topic: Infrastructure Vulnerability=4=5
+  Keywords Assigned by Human but Not by Machine:
+   damage to the gas pipeline=3
+   Pipeline in the Baltic Sea that was shut=3
+   telecommunications cable=2
+   pipeline between Finland and Estonia=3
+   damage caused, offshore pipeline=3
+
+  Keywords Assigned by Machine but Not by Human:
+   Baltic Connector pipeline=3
+   leak was discovered=2
+   carries telecoms links=3
+   offshore pipeline between Finland and Estonia=3
+   supplies Finland with gas from Estonia=3
+   gas pipeline in the Baltic Sea=3
+   damage to the pipeline=2
+
+
+Topics Assigned by Human but Not by Machine:
+Topic: Environmental and Technical Challenges=2
+
+Statistics:
+Common Topics: 6
+Topics Assigned by Human: 7
+Topics Assigned by Machine: 6
+Common Keywords: 3
+Keywords Assigned by Human: 21
+Keywords Assigned by Machine: 27

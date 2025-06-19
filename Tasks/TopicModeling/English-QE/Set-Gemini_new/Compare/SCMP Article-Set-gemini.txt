@@ -1,0 +1,45 @@
+[Topic] Suspected Sabotage
+[Weight] 5
+
+[Keywords]
+Baltic Sea gas pipeline damaged = 3
+Human-made damage causing major drop in pressure = 3
+Anchor of the Hong Kong-flagged cargo vessel Newnew Polar Bear ship = 3
+Failed to establish radio contact with Newnew Polar Bear’s captain = 2
+Damage allegedly caused by the Chinese vessel = 2
+Finnish maritime authorities = 1
+
+[Total Weight] 14
+[Normalized Significance] 7.0
+
+---
+
+[Topic] Infrastructure Vulnerability
+[Weight] 4
+
+[Keywords]
+Baltic Sea gas pipeline between NATO members Finland and Estonia = 3
+Disconnecting a crucial link between the Nordic and Baltic gas markets = 3
+Pipeline reopened this week after multimillion-euro repair work = 3
+Telecom cables connecting Finland and Estonia, as well as Sweden and Estonia, were also damaged = 3
+Secure the area and detect suspicious movement near its critical undersea infrastructure = 3
+Damage to the gas pipeline and data cables = 2
+Several months' disruption = 1
+
+[Total Weight] 18
+[Normalized Significance] 9.0
+
+---
+
+[Topic] International Cooperation
+[Weight] 3
+
+[Keywords]
+Cooperation with the Chinese authorities probing the case = 3
+Former president of Finland spoke with Chinese President Xi Jinping = 3
+International partners = 2
+Finnish Prime Minister initiated discussions with European Commission President = 2
+NATO's involvement = 1
+
+[Total Weight] 11
+[Normalized Significance] 5.5

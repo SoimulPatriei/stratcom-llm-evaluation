@@ -1,0 +1,92 @@
+[Topic] Suspected Sabotage  
+[Weight] 5  
+
+[Keywords]  
+damage may have been deliberate and probably caused by "external activity" = 3  
+Finland investigates suspected sabotage of Baltic-connector gas pipeline = 3  
+suspicion falls on Russian sabotage as "retribution" for Finland joining Nato = 3  
+probable explosion along Finland's Baltic Sea coast = 2  
+damage could not have been caused by normal use of the pipeline or pressure fluctuations = 2  
+damage was so serious it was expected to take months to repair = 2  
+Finland's National Bureau of Investigation = 1  
+
+[Total Weight] 16  
+[Normalized Significance] 8.0  
+
+---
+
+[Topic] Infrastructure Vulnerability  
+[Weight] 5  
+
+[Keywords]  
+underwater natural gas pipeline with Estonia = 3  
+Baltic-connector pipeline was shut down after a sudden drop in pressure = 3  
+damage to the cable and pipeline damage happened at two different spots = 3  
+only direct link to the wider European Union's gas network = 3  
+pipeline has been Finland's only natural gas import channel since Russian imports were halted = 3  
+secure the country's energy security = 2  
+revived concerns about energy security following the Nord Stream pipeline blasts last year = 2  
+
+[Total Weight] 19  
+[Normalized Significance] 9.5  
+
+---
+
+[Topic] Energy Security  
+[Weight] 4  
+
+[Keywords]  
+ensure the country's energy security was not at risk = 3  
+alternative sources of gas = 2  
+natural gas accounts for about 5% of Finland's energy consumption = 2  
+energy security following the Nord Stream pipeline blasts last year = 2  
+gas prices jumped as much as 13.5% on Tuesday = 2  
+Israel closed one of its largest gas fields, Tamar = 1  
+
+[Total Weight] 12  
+[Normalized Significance] 6.0  
+
+---
+
+[Topic] NATO Response  
+[Weight] 3  
+
+[Keywords]  
+Nato military alliance of which both Finland and Estonia are members = 3  
+sharing information & stands ready to support Allies concerned = 2  
+Finland joining Nato in April this year = 2  
+Nato's involvement = 1  
+Jens Stoltenberg, the head of the Nato military alliance = 1  
+
+[Total Weight] 9  
+[Normalized Significance] 4.5  
+
+---
+
+[Topic] International Cooperation  
+[Weight] 3  
+
+[Keywords]  
+cooperation between Finland and Estonia = 3  
+Finland's prime minister said the source of the leak had been found and was being investigated by both countries = 3  
+international partners = 2  
+public statements from Helsinki have carefully avoided directing blame at Moscow = 2  
+European Union's gas network = 1  
+
+[Total Weight] 11  
+[Normalized Significance] 5.5  
+
+---
+
+[Topic] Economic and Financial Impact  
+[Weight] 3  
+
+[Keywords]  
+gas prices jumped as much as 13.5% on Tuesday = 3  
+UK prices jumped to 124 pence per therm = 3  
+damage could be deliberate has pushed up European gas prices = 2  
+energy consumption = 2  
+months to repair = 1  
+
+[Total Weight] 11  
+[Normalized Significance] 5.5

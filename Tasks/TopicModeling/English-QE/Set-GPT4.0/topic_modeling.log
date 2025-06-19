@@ -1,0 +1,222 @@
+2024-11-07 16:14:45,622 - INFO - Template content after formatting: ﻿Task: Assign relevant topics to the provided article based on the predefined list below.
+
+Predefined Topics:
+
+- Climate Change and Agriculture  
+- Entertainment Industry Trends  
+- Energy Security  
+- Critical Infrastructure Weakness  
+- Infrastructure Vulnerability  
+- Human Rights Violations  
+- NATO Response  
+- Cultural Heritage Preservation  
+- Suspected Sabotage  
+- Environmental and Technical Challenges  
+- Global Diplomatic Engagement  
+- Economic and Financial Impact  
+- Technological Resilience and Ecological Issues  
+- Market Stability and Financial Risks  
+- Medical Advancements in Genetic Engineering  
+- Allied Strategic Defence/Response  
+- Global Sports Diplomacy  
+- Supply Chain Stability  
+- Covert Disruptions  
+- Space Exploration Initiatives  
+- International Cooperation  
+
+---
+
+Output Guidelines:
+
+1. Topic Assignment:  
+   Assign each relevant topic a weight from 1 to 5:
+   - 1: Minimally relevant  
+   - 5: Highly relevant
+
+2.     Keyword Identification:
+    For each assigned topic, extract the most relevant n-grams (keyword phrases) from the article. These keywords should be weighted according to their relevance and frequency:
+        Score 3: Highly relevant, central keywords that are frequently mentioned.
+        Score 2: Relevant keywords that are important but mentioned less frequently or are less central.
+        Score 1: Keywords that are loosely related or briefly mentioned.
+
+3.     Keyword Length:
+       Keywords should generally be shorter than a full sentence. However, do not hesitate to include longer keyword phrases if they are particularly relevant to the topic.
+        For example: "no reason to believe the damage has been caused by an explosion" or "Nord Stream I and II gas pipelines from Russia to Germany were damaged by a pair of explosions"
+
+4. Total Topic Score:  
+   Add up the weights of all keywords to get a total topic score, representing the significance of the topic within the article.
+
+5. Normalized Significance (Out of 10):  
+   Normalize the total score for each topic into a scale from 0 to 10 for easier comparison:
+   - Formula: (Total Weight / Maximum Possible Weight) * 10
+   
+   
+
+---
+
+Example:
+
+[Topic] Suspected Sabotage  
+[Weight] 5  
+
+[Keywords]  
+damage to a gas pipeline = 3  
+they were looking into the Chinese vessel, the NewNew Polar Bear, and a Russian-flagged ship, the Sevmorput = 3  
+as well as other vessels present = 3  
+incident was due to “outside activity” = 3  
+A Norwegian Navy ship shadowed a Chinese container ship investigated over damage to a gas pipeline = 2  
+KV Sortland followed the NewNew Polar Bear = 2  
+
+[Total Weight] 16  
+[Normalized Significance] 8.0  
+
+---
+
+
+- Language of the Article: {language}  
+- Article Text: {text}
+
+2024-11-07 16:14:45,622 - INFO - Processing file: Financial Times Article.txt
+2024-11-07 16:14:45,622 - INFO - Input data: {'language': 'English', 'text': 'Chinese ship becomes focus of inquiry into Baltic pipeline damage\nFinland looking at potential role of Hong Kong-registered container vessel\n\nA Chinese container ship is at the centre of a Finnish investigation into the potential sabotage of a gas pipeline and data cable between the Nordic country and Estonia.\n\nFinnish police said on Friday evening it was focusing on Newnew Polar Bear, a Hong Kong-registered container ship, as its movements coincided with the time and place of the damage.\n\nA Russian ship, Sevmorput, operated by the state nuclear-powered icebreaker company Atomflot, was also in the area at the time.\n\nEstonian investigators have said they are looking at both ships. Finland did not elaborate why they were focusing only on the Chinese vessel.\n\nOfficials from both countries have said that the damage to the pipeline and cable, which occurred two weeks ago in the Gulf of Finland, was man-made but have not yet established if it was deliberate or accidental. Sweden later confirmed that a separate undersea data cable connecting it to Estonia was also damaged around the same time.\n\n“We will co-operate with Chinese authorities in order to establish the role of the said vessel,” said Detective Superintendent Risto Lohi, who is leading the Finnish investigation. He added that police have a liaison officer in China who can handle the matter on site.\n\nFinnish police said they had found what appeared to be “an extremely heavy object” near the scene during an inspection on Thursday and would now try to recover it.\n\n“The investigation has confirmed that the damage has been caused by an external mechanical force, and based on current knowledge there is no reason to believe the damage has been caused by an explosion,” Lohi said.\n\nThe potential sabotage of undersea infrastructure has led Nato to increase its patrols in the Baltic Sea with additional flights by drones as well as surveillance and reconnaissance aircraft. The military alliance also sent four minesweepers to the area.\n\nLatvian president Edgars Rinkēvičs went so far as to suggest on Friday that if Russia should be proven to be behind the potential sabotage then Nato should close the Baltic Sea to Russian shipping. He did not provide details of how this could be achieved and Latvia’s government said it had not discussed the matter and it was purely the president’s initiative.\n\nFinland’s foreign ministry said it had reached out to China diplomatically to try to get in touch with the Newnew Polar Bear. Vessel tracking showed the Norwegian coast guard following both the Chinese and Russian vessels before they entered the Arctic.\n\nSevmorput is used by Russia to boost transport on the Northern Sea Route, a quicker maritime passage between the Russian Arctic and Asia but which has traditionally needed icebreakers.\n\nThe number of vessels using the Arctic route between Russian and Chinese ports has increased substantially this year to 35 by the end of October versus 21 for all of last year, according to data from Lloyd’s List Intelligence. An increasing number of the craft making the voyage are not ice-reinforced ships, leading to worries from experts and environmentalists about safety concerns in the remote far north.\n\nAtomflot has called speculation that its vessel could have been involved in the damage “groundless”. Newnew Shipping did not immediately respond to a request for comment.\n\n'}
+2024-11-07 16:15:09,697 - INFO - HTTP Request: POST https://tu-openai-api-management.azure-api.net/ltat-tartunlp/openai/deployments/gec/chat/completions?api-version=2023-05-15 "HTTP/1.1 200 OK"
+2024-11-07 16:15:09,705 - INFO - Output for file Financial Times Article.txt: [Topic] Suspected Sabotage  
+[Weight] 5  
+
+[Keywords]  
+potential sabotage of a gas pipeline and data cable = 3  
+Finnish investigation into the potential sabotage = 3  
+A Chinese container ship is at the centre of a Finnish investigation = 3  
+Newnew Polar Bear, a Hong Kong-registered container ship = 3  
+damage has been caused by an external mechanical force = 3  
+Finnish police said they had found what appeared to be “an extremely heavy object” near the scene during an inspection = 2  
+Officials from both countries have said that the damage to the pipeline and cable, which occurred two weeks ago in the Gulf of Finland, was man-made = 2  
+Sevmorput, operated by the state nuclear-powered icebreaker company Atomflot, was also in the area at the time = 1  
+Estonian investigators have said they are looking at both ships = 1  
+
+[Total Weight] 21  
+[Normalized Significance] 10.5  
+
+---
+
+[Topic] Infrastructure Vulnerability  
+[Weight] 4  
+
+[Keywords]  
+potential sabotage of a gas pipeline and data cable = 3  
+damage to the pipeline and cable = 3  
+undersea infrastructure = 2  
+a separate undersea data cable connecting it to Estonia was also damaged = 2  
+The potential sabotage of undersea infrastructure has led Nato to increase its patrols = 2  
+The military alliance also sent four minesweepers to the area = 1  
+
+[Total Weight] 13  
+[Normalized Significance] 6.5  
+
+---
+
+[Topic] Global Diplomatic Engagement  
+[Weight] 3  
+
+[Keywords]  
+co-operate with Chinese authorities = 3  
+Finland’s foreign ministry said it had reached out to China diplomatically to try to get in touch with the Newnew Polar Bear = 3  
+reached out to China diplomatically = 2  
+Latvian president Edgars Rinkēvičs went so far as to suggest on Friday that if Russia should be proven to be behind the potential sabotage then Nato should close the Baltic Sea to Russian shipping = 2  
+Latvia’s government said it had not discussed the matter and it was purely the president’s initiative = 1  
+
+[Total Weight] 11  
+[Normalized Significance] 5.5   
+
+---
+
+[Topic] NATO Response  
+[Weight] 3  
+
+[Keywords]  
+The potential sabotage of undersea infrastructure has led Nato to increase its patrols in the Baltic Sea = 3  
+The military alliance also sent four minesweepers to the area = 2  
+Latvian president Edgars Rinkēvičs went so far as to suggest on Friday that if Russia should be proven to be behind the potential sabotage then Nato should close the Baltic Sea to Russian shipping = 2  
+
+[Total Weight] 7  
+[Normalized Significance] 3.5  
+
+---
+
+[Topic] Environmental and Technical Challenges  
+[Weight] 2  
+
+[Keywords]  
+The number of vessels using the Arctic route between Russian and Chinese ports has increased substantially this year = 2  
+An increasing number of the craft making the voyage are not ice-reinforced ships = 2  
+leading to worries from experts and environmentalists about safety concerns in the remote far north = 2  
+
+[Total Weight] 6  
+[Normalized Significance] 3.0  
+
+2024-11-07 16:15:09,706 - INFO - Processing file: AP News Article.txt
+2024-11-07 16:15:09,706 - INFO - Input data: {'language': 'English', 'text': 'A Chinese ship remains the focus of the investigation into Baltic Sea gas pipeline damaged last year\n\nHELSINKI (AP) — A Chinese container ship remains the focus of an investigation into what caused the damage last year to a Baltic Sea gas pipeline between NATO members Finland and Estonia, Finnish authorities said Thursday.\nd\nIt has been more than six months since substantial, human-made damage that caused a major drop in pressure was first detected in the Balticconnector pipeline in Finnish economic waters on Oct. 8. Gas system operators in Finland and Estonia — Gasgrid sFinland and Elering — were forced to shut it down, disconnecting a crucial link between the Nordic and Baltic gas markets for several months.\n\nThe pipeline, which runs across the Gulf of Finland between the Finnish town of Inkoo and the Estonian port of Paldiski, was reopened this week after multimillion-euro repair work.\n\nThe National Bureau of Investigation, a branch of the Finnish police, said Thursday that it still believes that an anchor of the Hong Kong-flagged cargo vessel Newnew Polar Bear ship, which was on its way to St. Petersburg, Russia, was dislodged and caused the damage detected in Balticconnector.\n\nThe “investigation has progressed, and there has been cooperation with the Chinese authorities probing the case,” Detective Supt. Risto Lohi, NBI’s head of the investigation, told The Associated Press.\n\n“The main line of investigation has remained unchanged — the cargo ship Newnew Polar Bear and its anchor are considered to be related to the pipeline damage,” Lohi said.\n\nFinnish investigators haven’t said whether they believe the damage allegedly caused by the Chinese vessel was done intentionally or whether it was caused by incompetent seafaring, as suggested by some experts.\n\nFinnish maritime authorities said at the time of the incident, they failed to establish radio contact with Newnew Polar Bear’s captain despite several attempts.\n\nLast year, NBI said that an initial inquiry by investigators and experts found a trail of about 1½ to four meters (five to 13 feet) on the seabed that was seen to lead to the point of damage in the gas pipeline. That trail is believed to have been caused by the heavy six-ton anchor of Newnew Polar Bear, which was later retrieved from the seabed by the Finnish Navy.\n“We’re probably talking about months before final conclusions,” pending further information from technical studies and data from NBI’s international partners, Lohi said.\n\nSauli Niinistö, a former president of Finland, spoke with Chinese President Xi Jinping about the Balticconnector case in a video call in January, but no details of the talks have been disclosed.\n\nTelecom cables connecting Finland and Estonia, as well as Sweden and Estonia, were also damaged at the same time as the Balticconnector pipeline. Finnish and Estonian authorities believe both incidents may be connected to the Chinese vessel.\n\nJanne Grönlund, senior vice president at Gasgrid Finland, said that Balticconnector was reopened for commercial operation early Monday after gas started flowing from Finland to Estonia. A smaller amount of gas was also flowing in the other direction.\n\n“I’m happy to say that everything has proceeded as planned” since the pipeline’s relaunch, he said.\n\nMore than a dozen different organizations and companies were engaged in the repairs, which were completed in just over six months. Repairing such submarine infrastructure usually takes one to two years, Estonia’s Elering said.\n\nGrönlund said the total cost of the pipeline repair work, performed entirely by remote-controlled equipment at a depth of 60 meters (around 200 feet), is estimated at around 35 million euros ($38 million).\n\nIt remains open as to who will pick up the bill.\n\nLast year, Finnish Prime Minister Petteri Orpo initiated discussions with European Commission President Ursula von der Leyen on getting financing from the European Union to repair the pipeline. The EU covered 75% of Balticconnector’s original construction cost of around 300 million euros.\n\nFollowing damage to the gas pipeline and data cables, NATO has stepped up its patrols of the Baltic Sea. The alliance has sent minehunters, maritime patrol aircraft, and drones to the region to secure the area and detect suspicious movement near its critical undersea infrastructure.\n\nFinland, an EU nation of 5.6 million that neighbors Russia, joined NATO in April 2023 after decades of military nonalignment.\n'}
+2024-11-07 16:15:34,064 - INFO - HTTP Request: POST https://tu-openai-api-management.azure-api.net/ltat-tartunlp/openai/deployments/gec/chat/completions?api-version=2023-05-15 "HTTP/1.1 200 OK"
+2024-11-07 16:15:34,068 - INFO - Output for file AP News Article.txt: [Topic] Suspected Sabotage  
+[Weight] 4  
+
+[Keywords]  
+Chinese container ship remains the focus of an investigation = 3  
+damage last year to a Baltic Sea gas pipeline = 3  
+anchor of the Hong Kong-flagged cargo vessel Newnew Polar Bear ship = 3  
+investigation has progressed, and there has been cooperation with the Chinese authorities = 2  
+damage allegedly caused by the Chinese vessel = 2  
+failed to establish radio contact with Newnew Polar Bear’s captain = 2  
+
+[Total Weight] 15  
+[Normalized Significance] 7.5  
+
+[Topic] International Cooperation  
+[Weight] 3  
+
+[Keywords]  
+cooperation with the Chinese authorities probing the case = 3  
+talks with Chinese President Xi Jinping about the Balticconnector case = 2  
+Sauli Niinistö, a former president of Finland, spoke with Chinese President Xi Jinping = 2  
+discussions with European Commission President Ursula von der Leyen on getting financing from the European Union = 2  
+
+[Total Weight] 9  
+[Normalized Significance] 6.0  
+
+[Topic] Energy Security  
+[Weight] 5  
+
+[Keywords]  
+Baltic Sea gas pipeline between NATO members Finland and Estonia = 3  
+crucial link between the Nordic and Baltic gas markets = 3  
+pipeline repair work = 3  
+Balticconnector was reopened for commercial operation = 2  
+gas started flowing from Finland to Estonia = 2  
+NATO has stepped up its patrols of the Baltic Sea = 2  
+
+[Total Weight] 15  
+[Normalized Significance] 7.5  
+
+[Topic] Infrastructure Vulnerability  
+[Weight] 4  
+
+[Keywords]  
+damage to the Baltic Sea gas pipeline = 3  
+substantial, human-made damage that caused a major drop in pressure = 3  
+damage to the gas pipeline and data cables = 2  
+repairing such submarine infrastructure usually takes one to two years = 2  
+detect suspicious movement near its critical undersea infrastructure = 2  
+
+[Total Weight] 12  
+[Normalized Significance] 6.0  
+
+[Topic] Economic and Financial Impact  
+[Weight] 3  
+
+[Keywords]  
+multimillion-euro repair work = 3  
+total cost of the pipeline repair work is estimated at around 35 million euros = 3  
+who will pick up the bill = 2  
+EU covered 75% of Balticconnector’s original construction cost = 2  
+
+[Total Weight] 10  
+[Normalized Significance] 6.67

@@ -1,0 +1,72 @@
+[Topic] Damage  
+[Weight] 5  
+
+[Keywords]  
+Baltijas jūrā bojāts sakaru kabelis starp Somiju un Igauniju, liecina, ka bojājums ir cilvēka radīts, secinājuši Igaunijas izmeklētāji = 3  
+
+[Total Weight] 3  
+[Normalized Significance] 6  
+
+---
+
+[Topic] Infrastructure vulnerability  
+[Weight] 5  
+
+[Keywords]  
+izmeklētāji pašlaik nevar apstiprināt, vai bojājums bijis apzināts, cita starpā mērķtiecīgs kritiskās infrastruktūras bojājums = 2  
+Baltijas jūrā, kā arī Ziemeļjūrā ir blīvs infrastruktūras tīkls ar zemūdens gāzesvadiem, elektrības un sakaru kabeļiem = 3  
+pieaugot Rietumu atkarībai tieši no zemūdens infrastruktūras, tā kļūst arvien ievainojamāka = 3  
+
+[Total Weight] 8  
+[Normalized Significance] 8  
+
+---
+
+[Topic] Investigation  
+[Weight] 4  
+
+[Keywords]  
+Jau iepriekš kā galvenā versija tika izvirzīta cauruļvada iespējama sabotāža = 3  
+Turpmāk tā veiks plašas pārbaudes, lai izskatītu visus iespējamos scenārijus kur varētu būt bijusi cilvēka līdzdarbība. Šobrīd esam identificējuši divus šādus kuģus – viens kuģo zem Krievijas karoga, bet otrs – zem Honkongas = 2  
+sākotnējie pierādījumi no sakaru kabeļa starp Igauniju un Somiju ir savākti, tad ir iespējams sākt plānot kabeļa remontu = 2  
+detalizēta informācija par izmeklēšanu netiek publiskota = 3  
+
+[Total Weight] 10  
+[Normalized Significance] 8  
+
+---
+
+[Topic] Communication provision  
+[Weight] 2  
+
+[Keywords]  
+Igaunijas–Zviedrijas un Igaunijas–Somijas zemūdens sakaru kabeļu bojājumi nav ietekmējuši Igaunijas sakaru pakalpojumu darbību = 3  
+Sakari ir nepārtraukti nodrošināti = 3  
+
+[Total Weight] 6  
+[Normalized Significance] 10  
+
+---
+
+[Topic] NATO action  
+[Weight] 3  
+
+[Keywords]  
+NATO un sabiedrotie nolēmuši pastiprināt patrulēšanu Baltijas jūrā pēc nesenajiem zemūdens infrastruktūras bojājumiem reģionā = 3  
+drošības pasākumi ietver papildu novērošanas un izlūkošanas lidojumus = 2  
+Eiropas Savienības un NATO valstis stiprina zemūdens infrastruktūras aizsardzību = 3  
+
+[Total Weight] 8  
+[Normalized Significance] 8  
+
+---
+
+[Topic] Baltic Sea region cooperation  
+[Weight] 3  
+
+[Keywords]  
+Somijas un Igaunijas jūras spēku pārstāvjiem = 2  
+Kriminālprocesa laikā izmeklētāji pārbaudīs arī Igaunijas un Zviedrijas sakaru kabeli = 2  
+
+[Total Weight] 4  
+[Normalized Significance] 6  

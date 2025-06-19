@@ -1,0 +1,63 @@
+**Named Entity Recognition:**
+
+1. Location: 
+   - Igaunija (0.08)
+   - Zviedrija (0.07)
+   - Baltijas jūra (0.06)
+   - Somija (0.06)
+   - Hījumā sala (0.04)
+   - Somu līcis (0.04)
+   - Latvija (0.03)
+   - Eiropas Savienība (0.03)
+   - NATO (0.03)
+   - Stokholma (0.02)
+
+2. Actor: 
+   - Pols Jonsons (0.08)
+   - Igaunijas Ekonomikas un komunikāciju ministrija (0.06)
+   - Igaunijas Patērētāju aizsardzības un tehniskā regulējuma pārvalde (0.05)
+   - Zviedrijas aizsardzības ministrs (0.05)
+   - Zviedrijas uzņēmums (0.04)
+   - Igaunijas valdība (0.04)
+   - Somijas valdība (0.03)
+
+3. Event: 
+   - Sakaru kabeļa bojājums (0.09)
+   - Gāzesvada "Balticconnector" bojājums (0.07)
+   - Igaunijas-Somijas sakaru kabeļa bojājums (0.06)
+   - Pārraides jaudas samazinājums (0.05)
+   - Kabeļa remonts (0.04)
+   - Uzraudzības un aizsardzības līmeņa paaugstināšana (0.04)
+
+4. Timeline: 
+   - 2023. gada 17. oktobris (0.06)
+   - 8. oktobris (0.05)
+   - Pagājušā nedēļa (0.04)
+
+**Relationship Extraction:**
+
+- is damaged [Sakaru kabelis, starp Zviedriju un Igauniju]
+- is located [Bojājuma vieta, Igaunijas teritoriālie ūdeņi]
+- is owned [Kabelis, Zviedrijas uzņēmums]
+- is reduced [Pārraides jauda, sakaru kabelim]
+- is restored [Kabeļa maksimālā pārraides jauda, atjaunoja kabeļa īpašnieks]
+- is cooperated [Igaunijas valdība, Somijas valdība, Zviedrijas valdība]
+- is affected [Igaunijas sakaru pakalpojumi, nav ietekmēti]
+
+**Plot Discovery:**
+
+Exposition: Igaunijas un Zviedrijas sakaru kabelis ir bojāts Baltijas jūrā.
+
+Rising Action: Bojājuma vieta atrodas Igaunijas teritoriālajos ūdeņos, un kabelis joprioām ir izmantojams. Pēc ministra sacītā, kabelis starp Zviedriju un Igauniju bojāts apmēram tajā pašā laikā, kad tika bojāts gāzesvads "Balticconnector" un sakaru kabelis, kas savieno Igauniju un Somiju.
+
+Climax: Igaunijas Ekonomikas un komunikāciju ministrija saņēma informāciju, ka Somu līcī pārraides jauda sakaru kabelim starp Igauniju un Zviedriju ir samazinājusies.
+
+Falling Action: Kabeļa īpašnieks veic tā remontu, un šī procesa laikā sadarbībā ar Somiju un Zviedriju tiks izpētīts iespējamais iemesls, kā arī tas, vai tas varētu būt saistīts ar Igaunijas-Somijas sakaru kabeļa un gāzesvada bojājumiem.
+
+Resolution: Igaunijas valdība ir devusi skaidrus norādījumus ministrijām un plāno un jau ir īstenojusi papildu pasākumus, lai pastiprinātu kritiskās infrastruktūras uzraudzību un aizsardzību gan jūrā, gan uz sauszemes.
+
+**Story Evolution:**
+
+Shift Detection: Nozīmīgas izmaiņas stāstījumā notiek, kad Igaunijas valdība paziņo par jaunām politikas iniciatīvām, lai risinātu kritiskās zemūdens infrastruktūras neaizsargātību.
+
+Causal Relation Extraction: Igaunijas valdības lēmums pastiprināt kritiskās infrastruktūras uzraudzību un aizsardzību tiek dots, reaģējot uz pieaugošo kritisko zemūdens infrastruktūras bojājumu skaitu, lai uzlabotu drošību un kontroli.

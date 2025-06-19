@@ -1,0 +1,144 @@
+[Topic] Suspected Sabotage
+[Weight] 5
+
+[Keywords]
+Damage to a gas pipeline = 3
+Outside activity = 3
+Could have been deliberate = 3
+Nord Stream sabotage = 3
+Chinese vessel = 2
+Investigated = 2
+
+[Total Weight] 16
+[Normalized Significance] 8.9
+
+---
+
+[Topic] Energy Security
+[Weight] 5
+
+[Keywords]
+Balticconnector gas pipeline = 3
+European gas network = 3
+Gas markets disruption = 2
+€300m (£260m) pipeline = 2
+Multimillion-euro repair work = 2
+Essential link between Finland and Europe = 2
+Total cost of repair work = 2
+EU covered 75% of construction cost = 1
+Finland joined NATO in April 2023 = 1
+
+[Total Weight] 16
+[Normalized Significance] 8.9
+
+---
+
+[Topic] Infrastructure Vulnerability
+[Weight] 5
+
+[Keywords]
+Baltic Sea gas pipeline = 3
+Undersea infrastructure = 3
+Pipeline reopened after repair work = 3
+Telecom cables damaged = 3
+Secure the area = 2
+Detect suspicious movement = 2
+Damage to pipeline and cables = 2
+Several months' disruption = 1
+NATO's involvement = 1
+
+[Total Weight] 16
+[Normalized Significance] 8.9
+
+---
+
+[Topic] Critical Infrastructure Weakness
+[Weight] 5
+
+[Keywords]
+Baltic Sea gas pipeline between Finland and Estonia = 3
+Disconnecting a crucial link between gas markets = 3
+Pipeline reopened after repair work = 3
+Telecom cables connecting Finland and Estonia, Sweden and Estonia = 3
+Secure the area and detect suspicious movement = 3
+Damage to the gas pipeline and data cables = 2
+Several months' disruption = 1
+
+[Total Weight] 16
+[Normalized Significance] 8.9
+
+---
+
+[Topic] Covert Disruptions
+[Weight] 4
+
+[Keywords]
+Chinese ship's anchor caused damage = 3
+Human-made damage caused pressure drop = 3
+Anchor of the Hong Kong-flagged cargo vessel Newnew Polar Bear = 3
+Failed to establish radio contact with Newnew Polar Bear's captain = 2
+Damage allegedly caused by the Chinese vessel = 2
+Finnish maritime authorities = 1
+
+[Total Weight] 11
+[Normalized Significance] 6.1
+
+---
+
+[Topic] International Cooperation
+[Weight] 4
+
+[Keywords]
+Cooperation with the Chinese authorities probing the case = 3
+Former president of Finland spoke with Chinese President Xi Jinping = 3
+International partners = 2
+Finnish Prime Minister initiated discussions with European Commission President = 2
+NATO's involvement = 1
+
+[Total Weight] 10
+[Normalized Significance] 5.6
+
+---
+
+[Topic] Economic and Financial Impact
+[Weight] 4
+
+[Keywords]
+Multimillion-euro repair work = 3
+Total cost of repair work, estimated at around 35 million euros ($38 million) = 3
+EU covered 75% of Balticconnector's original construction cost = 2
+Disruption of gas markets = 2
+Who will pick up the bill = 2
+
+[Total Weight] 11
+[Normalized Significance] 6.1
+
+---
+
+[Topic] Market Stability and Financial Risks
+[Weight] 3
+
+[Keywords]
+Multimillion-euro repair work = 3
+Total cost of repair work, estimated at around 35 million euros ($38 million) = 3
+EU covered 75% of Balticconnector's original construction cost = 2
+Disruption of gas markets = 2
+Who will pick up the bill = 2
+
+[Total Weight] 11
+[Normalized Significance] 6.1
+
+---
+
+[Topic] Allied Strategic Defence/Response
+[Weight] 3
+
+[Keywords]
+NATO has stepped up its patrols of the Baltic Sea = 3
+minehunters, maritime patrol aircraft, and drones sent to the region = 2
+NATO members Finland and Estonia =2
+Finland joined NATO in April 2023 = 2
+detect suspicious movement near its critical undersea infrastructure =2
+
+[Total Weight] 11
+[Normalized Significance] 6.1

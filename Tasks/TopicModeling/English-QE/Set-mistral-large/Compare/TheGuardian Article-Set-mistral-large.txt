@@ -1,0 +1,164 @@
+[Topic] Suspected Sabotage
+[Weight] 4
+
+[Keywords]
+damage was deliberate = 3
+involvement of a state actor "cannot be ruled out" = 3
+sabotage = 3
+Nato’s secretary general, Jens Stoltenberg = 2
+united and determined response = 2
+Finnish investigators = 1
+
+[Total Weight] 14
+[Normalized Significance] 7.0
+
+---
+
+[Topic] Infrastructure Vulnerability
+[Weight] 5
+
+[Keywords]
+Baltic Sea gas pipeline = 3
+Balticconnector gas pipeline = 3
+Estlink data communications cable = 3
+submarine internet cables, power cables, gas pipelines and oil pipelines = 3
+vulnerable = 3
+damage to the Balticconnector gas pipeline = 2
+pipeline damage = 1
+
+[Total Weight] 18
+[Normalized Significance] 9.0
+
+---
+
+[Topic] NATO Response
+[Weight] 3
+
+[Keywords]
+Nato stepped up patrols in the Baltic = 3
+Nato’s secretary general, Jens Stoltenberg = 3
+united and determined response = 2
+Nato – which stepped up patrols in the Baltic after the incidents = 2
+Finland joined Nato earlier this year = 2
+
+[Total Weight] 12
+[Normalized Significance] 6.0
+
+---
+
+[Topic] International Cooperation
+[Weight] 3
+
+[Keywords]
+cooperation with the Chinese authorities = 3
+Finnish investigators have recovered a large ship’s anchor = 3
+international partners = 2
+Nato’s involvement = 1
+
+[Total Weight] 9
+[Normalized Significance] 4.5
+
+---
+
+[Topic] Economic and Financial Impact
+[Weight] 3
+
+[Keywords]
+Balticconnector’s operators have said it will take at least five months to repair the pipeline = 3
+Finland relies on gas for about 5% of its energy supplies = 3
+damage to the Balticconnector gas pipeline = 2
+disruption of gas markets = 1
+
+[Total Weight] 9
+[Normalized Significance] 4.5
+
+---
+
+[Topic] Critical Infrastructure Weakness
+[Weight] 3
+
+[Keywords]
+vulnerable = 3
+submarine internet cables, power cables, gas pipelines and oil pipelines = 3
+Balticconnector gas pipeline = 2
+Estlink data communications cable = 1
+
+[Total Weight] 9
+[Normalized Significance] 4.5
+
+---
+
+[Topic] Covert Disruptions
+[Weight] 2
+
+[Keywords]
+damage was deliberate = 3
+involvement of a state actor "cannot be ruled out" = 2
+sabotage = 2
+
+[Total Weight] 7
+[Normalized Significance] 3.5
+
+---
+
+[Topic] Global Diplomatic Engagement
+[Weight] 2
+
+[Keywords]
+Finland joined Nato earlier this year = 3
+Nato’s secretary general, Jens Stoltenberg = 2
+united and determined response = 1
+
+[Total Weight] 6
+[Normalized Significance] 3.0
+
+---
+
+[Topic] Energy Security
+[Weight] 2
+
+[Keywords]
+Finland relies on gas for about 5% of its energy supplies = 3
+Balticconnector gas pipeline = 2
+disruption of gas markets = 1
+
+[Total Weight] 6
+[Normalized Significance] 3.0
+
+---
+
+[Topic] Environmental and Technical Challenges
+[Weight] 1
+
+[Keywords]
+damage to the Balticconnector gas pipeline = 2
+Baltic Sea gas pipeline = 1
+
+[Total Weight] 3
+[Normalized Significance] 1.5
+
+---
+
+[Topic] Technological Resilience and Ecological Issues
+[Weight] 1
+
+[Keywords]
+Balticconnector gas pipeline = 2
+damage to the Balticconnector gas pipeline = 1
+
+[Total Weight] 3
+[Normalized Significance] 1.5
+
+---
+
+[Topic] Supply Chain Stability
+[Weight] 1
+
+[Keywords]
+Balticconnector gas pipeline = 2
+disruption of gas markets = 1
+
+[Total Weight] 3
+[Normalized Significance] 1.5
+
+---

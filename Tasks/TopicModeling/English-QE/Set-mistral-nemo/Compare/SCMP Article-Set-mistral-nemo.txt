@@ -1,0 +1,82 @@
+[Topic] Suspected Sabotage
+[Weight] 5
+
+[Keywords]
+- damage to the Baltic gas pipeline blamed on Chinese ship = 5
+- Hong Kong-flagged NewNew Polar Bear container is accused of dragging its anchor across the seabed and cutting through the critical infrastructures = 4
+- too early to conclude if it was an accident or a deliberate act = 3
+- Chinese container ship was identified by Finnish police as the main suspect = 3
+- incident in which two telecoms cables were also damaged = 2
+
+[Total Weight] 19
+[Normalized Significance] 9.5
+
+---
+
+[Topic] Infrastructure Vulnerability
+[Weight] 5
+
+[Keywords]
+- Balticconnector pipeline between Finland and Estonia was shut down = 4
+- 77km-long (48-mile) Balticconnector pipeline = 3
+- two telecoms cables were also damaged = 3
+- critical infrastructures = 3
+- damage to the Baltic gas pipeline and data cables = 2
+
+[Total Weight] 15
+[Normalized Significance] 7.5
+
+---
+
+[Topic] International Cooperation
+[Weight] 5
+
+[Keywords]
+- Xi Jinping and Sauli Niinisto had ‘constructive’ talks about the incident = 5
+- Beijing has reportedly promised full cooperation with the investigation = 4
+- Xi and Niinisto noted the constructive dialogue between the sides regarding the incident = 3
+- China-Finland relations have maintained stable and positive trends with cooperation in multiple areas = 3
+- China is willing to work with European countries, including Finland, to maintain and develop China-Europe relationship = 2
+
+[Total Weight] 19
+[Normalized Significance] 9.5
+
+---
+
+[Topic] Global Diplomatic Engagement
+[Weight] 4
+
+[Keywords]
+- Xi Jinping and Sauli Niinisto held a video call = 4
+- the presidents also spoke about the war between Russia and Ukraine and its wider consequences = 3
+- Niinisto stressed China's role in bringing about a just and lasting peace = 3
+- Xi praised Finland for its "long-standing friendly policy towards China" = 3
+- China is willing to work with European countries, including Finland, to see each other from a strategic and long-term perspective = 2
+
+[Total Weight] 15
+[Normalized Significance] 7.5
+
+---
+
+[Topic] Energy Security
+[Weight] 3
+
+[Keywords]
+- Baltic gas pipeline = 3
+- the incident led to the Balticconnector pipeline being shut down = 2
+- EU-China relations, including recent developments and challenges = 2
+
+[Total Weight] 7
+[Normalized Significance] 3.5
+
+---
+
+[Topic] NATO Response
+[Weight] 2
+
+[Keywords]
+- Finland joined NATO in April 2023 = 2
+- NATO's involvement = 1
+
+[Total Weight] 3
+[Normalized Significance] 1.5

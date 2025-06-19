@@ -1,0 +1,122 @@
+Topic: Suspected Sabotage=4=4
+  Common Keywords:
+   potential role of a Chinese ship=3=3
+
+  Keywords Assigned by Human but Not by Machine:
+   saw two telecom cables cut=3
+   may have been in any way connected to the Balticconnector pipeline incident=3
+   investigation has confirmed that the damage has been caused by an external mechanical force=3
+   they were looking into two ships concerning the incident=3
+   heavy object was found near the pipeline damage=3
+   there is no reason to believe the damage has been caused by an explosion=3
+   no abnormalities were found=3
+   it was studying how the NewNew Polar Bear container vessel might have been involved in the incident=2
+   suspected sabotage of subsea gas pipeline=3
+
+  Keywords Assigned by Machine but Not by Human:
+   no reason to believe the damage has been caused by an explosion=1
+   China denies role in suspected sabotage=3
+   NewNew Polar Bear container vessel=3
+   external mechanical force=2
+   two telecom cables cut=2
+   Balticconector gas pipeline=3
+   Finnish investigators said may have been sabotage=3
+   heavy object found near the pipeline damage=2
+
+
+Topic: Environmental and Technical Challenges=2=2
+  Keywords Assigned by Human but Not by Machine:
+   jointly safeguard the security of cross-border infrastructure=2
+   no abnormalities were found due to the poor sea conditions at the time=2
+   investigation has confirmed that the damage has been caused by an external mechanical force=2
+
+  Keywords Assigned by Machine but Not by Human:
+   heavy object found near the pipeline damage=2
+   external mechanical force=2
+   no reason to believe the damage has been caused by an explosion=1
+
+
+Topic: Infrastructure Vulnerability=4=5
+  Common Keywords:
+   limited number of energy links to the rest of the bloc=3=3
+   Baltic region is particularly vulnerable=3=2
+
+  Keywords Assigned by Human but Not by Machine:
+   gas pipeline and a telecoms cable were broken=3
+   damage has been caused by an external mechanical force=2
+   no reason to believe the damage has been caused by an explosion=2
+
+  Keywords Assigned by Machine but Not by Human:
+   external mechanical force=3
+   two telecom cables cut=3
+   Balticconector gas pipeline=3
+   energy security concerns have risen to new heights in the EU=2
+   heavy object found near the pipeline damage=3
+   energy supplies in the wider Nordic region=3
+
+
+Topic: International Cooperation=3=4
+  Common Keywords:
+   jointly safeguard the security of cross-border infrastructure=2=3
+   China had always advocated that the international community strengthen cooperation=2=3
+
+  Keywords Assigned by Human but Not by Machine:
+   Tallinn has contacted Beijing seeking “to encourage cooperation concerning the investigation”=2
+   cooperation in safeguarding infrastructure=2
+   China denies role=3
+   China has called for an “objective, fair and professional” investigation=3
+   China and Finland have begun communication over the damage to the Balticconnector gas pipeline=3
+
+  Keywords Assigned by Machine but Not by Human:
+   China and Finland have begun communication=3
+   China hopes that the relevant parties can find the truth as soon as possible=2
+   Estonian Ministry of Foreign Affairs has contacted Beijing=3
+
+
+Topic: NATO Response=4=3
+  Keywords Assigned by Human but Not by Machine:
+   prompted NATO to increase patrols in the Baltic Sea=3
+   Latvian President Edgars Rinkevics said last week that NATO should close the Baltic Sea to ships if Russia were proven responsible=3
+   incident stoked concern about the security of energy supplies=2
+
+  Keywords Assigned by Machine but Not by Human:
+   Latvian President Edgars Rinkevics said NATO should close the Baltic Sea to ships=3
+   threats made towards Russia were unacceptable=2
+   Baltic region remains suspicious regarding Moscow=3
+   NATO to increase patrols in the Baltic Sea=3
+
+
+Topic: Energy Security=4=5
+  Keywords Assigned by Human but Not by Machine:
+   prompted NATO to increase patrols in the Baltic Sea=2
+   concern about security of energy supplies=3
+   Baltic region is particularly vulnerable due to a limited number of energy links to the rest of the bloc=3
+   incident stoked concern about the security of energy supplies in the wider Nordic region=2
+
+  Keywords Assigned by Machine but Not by Human:
+   energy security concerns have risen to new heights in the EU=3
+   Baltic region is particularly vulnerable=3
+   NATO to increase patrols in the Baltic Sea=2
+   limited number of energy links to the rest of the bloc=3
+   energy supplies in the wider Nordic region=3
+
+
+Topics Assigned by Human but Not by Machine:
+Topic: Economic and Financial Impact=2
+
+Topics Assigned by Machine but Not by Human:
+Topic: Supply Chain Stability=2
+Topic: Covert Disruptions=3
+Topic: Allied Strategic Defence/Response=3
+Topic: Medical Advancements in Genetic Engineering=1
+Topic: Global Diplomatic Engagement=3
+Topic: Critical Infrastructure Weakness=4
+Topic: Technological Resilience and Ecological Issues=2
+
+Statistics:
+Common Topics: 6
+Topics Assigned by Human: 7
+Topics Assigned by Machine: 13
+Common Keywords: 5
+Keywords Assigned by Human: 32
+Keywords Assigned by Machine: 34

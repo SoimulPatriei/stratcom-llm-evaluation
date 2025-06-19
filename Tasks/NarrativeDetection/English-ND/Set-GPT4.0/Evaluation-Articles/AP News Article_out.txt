@@ -1,0 +1,102 @@
+1. Named Entity Recognition:
+   - Identify entities such as actors, events, locations, and timelines that provide significant semantic insights into the narrative.
+   - The tags for the entities should be in English.
+   - The entities themselves should be in the language of the article.
+   - Assign a score to each entity found, reflecting its importance in the document.
+   - The entities should be ordered by their importance scores from highest to lowest.
+   - The total of all scores assigned to the entities should sum to one.
+   - Examples:
+Layer Output:
+Location: [Baltic Sea, Finland, Estonia, Gulf of Finland, Inkoo, Paldiski, St. Petersburg, Russia]
+Actor: [Chinese container ship, NATO, Gasgrid Finland, Elering, National Bureau of Investigation, Finnish police, Newnew Polar Bear ship, Detective Supt. Risto Lohi, NBI, Sauli Niinistö, Chinese President Xi Jinping, Janne Grönlund, Gasgrid Finland, Finnish Prime Minister Petteri Orpo, European Commission President Ursula von der Leyen, EU, NATO]
+Event: [Damage to Baltic Sea gas pipeline, drop in pressure, shut down of gas pipeline, repair work, attempted radio contact with ship's captain, damage to telecom cables, relaunch of pipeline, repair work on pipeline, increased NATO patrols]
+Timeline: [Last year, more than six months ago, Oct. 8, this week, January, early Monday, just over six months, one to two years, April 2023]
+Entities Ordered by Importance Score:
+1. Damage to Baltic Sea gas pipeline (Event): 0.08
+2. Chinese container ship (Actor): 0.08
+3. Baltic Sea (Location): 0.07
+4. Finland (Location): 0.07
+5. Estonia (Location): 0.07
+6. NATO (Actor): 0.06
+7. Drop in pressure (Event): 0.05
+8. Repair work (Event): 0.05
+9. National Bureau of Investigation (Actor): 0.05
+10. Newnew Polar Bear ship (Actor): 0.05
+11. Last year (Timeline): 0.05
+12. More than six months ago (Timeline): 0.05
+13. Gulf of Finland (Location): 0.04
+14. Shut down of gas pipeline (Event): 0.04
+15. Attempted radio contact with ship's captain (Event): 0.04
+16. Gasgrid Finland (Actor): 0.04
+17. Elering (Actor): 0.04
+18. Finnish police (Actor): 0.04
+19. Detective Supt. Risto Lohi (Actor): 0.04
+20. Sauli Niinistö (Actor): 0.04
+21. Chinese President Xi Jinping (Actor): 0.04
+22. Oct. 8 (Timeline): 0.04
+23. This week (Timeline): 0.04
+24. January (Timeline): 0.04
+25. Early Monday (Timeline): 0.04
+26. Inkoo (Location): 0.03
+27. Paldiski (Location): 0.03
+28. St. Petersburg (Location): 0.03
+29. Russia (Location): 0.03
+30. Damage to telecom cables (Event): 0.03
+31. Relaunch of pipeline (Event): 0.03
+32. Repair work on pipeline (Event): 0.03
+33. Increased NATO patrols (Event): 0.03
+34. Janne Grönlund (Actor): 0.03
+35. Finnish Prime Minister Petteri Orpo (Actor): 0.03
+36. European Commission President Ursula von der Leyen (Actor): 0.03
+37. EU (Actor): 0.03
+38. Just over six months (Timeline): 0.03
+39. One to two years (Timeline): 0.03
+40. April 2023 (Timeline): 0.03
+
+2. Relationship Extraction:
+   - Extract binary semantic relationships between the entities identified in the Named Entity Recognition layer.
+   - The names of the relationships should be in English.
+   - The entities involved in the relationships should be in the language of the article.
+   - Examples:
+Layer Output:
+caused damage [Chinese container ship, Baltic Sea gas pipeline]
+are members of [Finland, Estonia, NATO]
+were forced to shut down [Gasgrid Finland, Elering, Balticconnector pipeline]
+was reopened [Balticconnector pipeline, after multimillion-euro repair work]
+investigated by [National Bureau of Investigation, damage to Balticconnector pipeline]
+was attempted [radio contact, Newnew Polar Bear's captain]
+were damaged [Telecom cables, same time as Balticconnector pipeline]
+discussed [Sauli Niinistö, Chinese President Xi Jinping, Balticconnector case]
+reopened for operation [Balticconnector, early Monday]
+were engaged in [more than a dozen organizations and companies, pipeline repairs]
+initiated discussions [Finnish Prime Minister Petteri Orpo, European Commission President Ursula von der Leyen, pipeline repair financing]
+increased patrols [NATO, Baltic Sea]
+joined [Finland, NATO]
+
+3. Plot Discovery:
+   - Identify the main components of the plot using Freytag's Pyramid, which includes the following stages:
+     - Exposition
+     - Rising Action
+     - Climax
+     - Falling Action
+     - Resolution
+   - Whenever possible, use entities identified in the Named Entity Recognition layer to describe the plot components.
+   - The stage names should be in English.
+   - The content within each stage should be in the language of the article.
+   - Examples:
+Layer Output:
+Exposition: A Chinese container ship is suspected of causing damage to a Baltic Sea gas pipeline between NATO members Finland and Estonia.
+Rising Action: The damage was substantial, causing a major drop in pressure and forcing Gasgrid Finland and Elering to shut down the pipeline for several months.
+Climax: The National Bureau of Investigation believes that the anchor of the Newnew Polar Bear ship, a Hong Kong-flagged cargo vessel, was dislodged and caused the damage.
+Falling Action: The pipeline was reopened after multimillion-euro repair work and the incident prompted discussions with Chinese authorities and increased NATO patrols in the Baltic Sea.
+Resolution: The investigation is ongoing, with former Finnish president Sauli Niinistö discussing the case with Chinese President Xi Jinping and Finnish Prime Minister Petteri Orpo initiating discussions about repair financing with the European Union.
+
+4. Story Evolution:
+   - This layer should include two components:
+     - Shift Detection: Recognize significant changes or deviations in the narrative.
+     - Causal Relation Extraction: Identify the reasons behind each significant event or decision in the story.
+   - Whenever possible, use entities identified in the Named Entity Recognition layer for these components.
+   - Examples:
+Layer Output:
+Shift Detection: A significant shift in the narrative occurs when the pipeline is reopened after multimillion-euro repair work and when NATO increases its patrols of the Baltic Sea.
+Causal Relation Extraction: The suspected cause of the damage to the Baltic Sea gas pipeline is the Chinese container ship Newnew Polar Bear. The substantial, human-made damage led to a major drop in pressure and shutdown of the pipeline. The repair work and reopening of the pipeline were due to the extensive damage. The increased NATO patrols were a response to these incidents.

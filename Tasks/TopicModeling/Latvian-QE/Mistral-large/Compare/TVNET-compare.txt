@@ -1,0 +1,46 @@
+Topic: Geopolitical dynamics=4=3
+  Common Keywords:
+   Uzraudzības un aizsardzības līmeņa paaugstināšanai ir nepieciešama nozīmīga sadarbība ar mūsu kolēģiem no Somijas un Zviedrijas=3=2
+
+  Keywords Assigned by Human but Not by Machine:
+   Kabeļa īpašnieks veic tā remontu, un šī procesa laikā sadarbībā ar Somiju un Zviedriju tiks izpētīts iespējamais iemesls=2
+   nav iemesla Igaunijas un Zviedrijas kabeļa bojājumu saistīt ar citiem kabeļiem, norādīja ministrija=2
+   Igaunijas - Zviedrijas un Igaunijas - Somijas zemūdens sakaru kabeļu bojājumi nav ietekmējuši Igaunijas sakaru pakalpojumu darbību=1
+
+  Keywords Assigned by Machine but Not by Human:
+   kritiskās zemūdens infrastruktūras neaizsargātību=1
+   bojājuma vieta nav Zviedrijas teritoriālajos ūdeņos=1
+
+
+Topic: Infrastructure vulnerability=5=5
+  Keywords Assigned by Human but Not by Machine:
+   Kāda iemesla dēļ samazinājās kabeļa pārraides jauda, pagaidām nav zināms=3
+   bojājuma vieta nav Zviedrijas teritoriālajos ūdeņos, un ka kabelis joprojām ir izmantojams=2
+
+  Keywords Assigned by Machine but Not by Human:
+   kabelis starp Zviedriju un Igauniju bojāts apmēram tajā pašā laikā=1
+   Igaunijas - Zviedrijas un Igaunijas - Somijas zemūdens sakaru kabeļu bojājumi=2
+   kritiskās zemūdens infrastruktūras neaizsargātību=3
+   bojājuma vieta nav Zviedrijas teritoriālajos ūdeņos=2
+   Baltijas jūrā bojāts Igaunijas - Zviedrijas sakaru kabelis=3
+
+
+Topics Assigned by Human but Not by Machine:
+Topic: Suspicion of damage=4
+Topic: Communication disruption=3
+Topic: Concerns about defense=5
+
+Topics Assigned by Machine but Not by Human:
+Topic: International cooperation=4
+Topic: Energy resources=2
+Topic: Gaps in border surveillance=4
+Topic: Investigation=2
+Topic: Security concerns=4
+
+Statistics:
+Common Topics: 2
+Topics Assigned by Human: 5
+Topics Assigned by Machine: 7
+Common Keywords: 1
+Keywords Assigned by Human: 6
+Keywords Assigned by Machine: 8

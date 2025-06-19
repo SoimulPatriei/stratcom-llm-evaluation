@@ -1,0 +1,60 @@
+[Topic] Suspected Sabotage  
+[Weight] 5  
+
+[Keywords]  
+Chinese vessel that drug its anchor over 100 nautical miles = 3  
+damaged an undersea natural gas pipeline and two telecommunications cables = 3  
+Newnew Polar Bear is the prime suspect for the incident = 3  
+damaged “by means of external force or tampering” = 3  
+Estonia and Finland have formally requested the opportunity to send representatives to China to investigate = 2  
+Estonian Defense Minister, Hanno Pevkur = 2  
+Vladmir Putin have rejected any assertion that Sevmorput was connected with the incidents = 1  
+
+[Total Weight] 17  
+[Normalized Significance] 8.5  
+
+[Topic] Infrastructure Vulnerability  
+[Weight] 4  
+
+[Keywords]  
+undersea natural gas pipeline and two telecommunications cables = 3  
+The Gulf of Finland represents a way that it can be cut off from the rest of NATO = 3  
+Finland is in NATO, the concern is that the Gulf of Finland represents a way that it can be cut off from the rest of NATO = 3  
+Finland will pursue an Admiralty-claim under international maritime law for damages done to its infrastructure = 2  
+infrastructure under the Gulf’s waters will now connect one portion of NATO = 1  
+
+[Total Weight] 12  
+[Normalized Significance] 6  
+
+[Topic] International Cooperation  
+[Weight] 3  
+
+[Keywords]  
+Estonia and Finland have formally requested the opportunity to send representatives to China to investigate = 3  
+Sweden join the Alliance = 2  
+Finland, Sweden and Estonia will pursue public relations campaign against Chinese shipping = 2  
+Finland and Estonia could restrict Chinese vessels from their territorial waters under UNCLOS = 1  
+
+[Total Weight] 8  
+[Normalized Significance] 4  
+
+[Topic] NATO Response  
+[Weight] 2  
+
+[Keywords]  
+Finland and Sweden join the Alliance = 3  
+NATO will likely issue statements on the matter pointing to adversarial treatment of its newest members by China and Russia = 2  
+gulf of Finland has become a “hot topic” within NATO = 1  
+
+[Total Weight] 6  
+[Normalized Significance] 3  
+
+[Topic] Economic and Financial Impact  
+[Weight] 2  
+
+[Keywords]  
+pursue an Admiralty-claim under international maritime law for damages done to its infrastructure = 3  
+shifting the ownership of the vessel to a new Chinese owner signals a very low probability that any wrongdoing will be acknowledged = 2  
+
+[Total Weight] 5  
+[Normalized Significance] 2.5  

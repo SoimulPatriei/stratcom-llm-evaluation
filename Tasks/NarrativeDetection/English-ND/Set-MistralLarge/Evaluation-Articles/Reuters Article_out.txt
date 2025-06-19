@@ -1,0 +1,88 @@
+### Named Entity Recognition
+
+#### Entities Identified:
+
+**Location:**
+- Moscow
+- Latvia
+- Finland
+- Estonia
+- Baltic Sea
+- Balticconnector pipeline
+- Nord Stream gas pipelines
+- Baltic
+- Russian Federation
+- United States
+- Sweden
+- Denmark
+- Germany
+
+**Actor:**
+- Kremlin
+- Dmitry Peskov
+- Edgars Rinkevics
+- NATO
+- Finnish investigators
+- Chinese NewNew Polar Bear container vessel
+- Washington
+- Swedish, Danish and German investigators
+
+**Event:**
+- Damage to Balticconnector pipeline
+- Damage to telecoms cable
+- Act of sabotage
+- Explosions rupturing Nord Stream gas pipelines
+- Investigation of damage
+- Terrorist attack in the Baltic
+
+**Timeline:**
+- Monday
+- Oct 23
+- Oct 8
+- Last week
+- Last year
+
+#### Entities Ordered by Importance Score:
+
+1. Damage to Balticconnector pipeline (Event): 0.08
+2. Act of sabotage (Event): 0.07
+3. Kremlin (Actor): 0.07
+4. NATO (Actor): 0.06
+5. Latvia (Location): 0.06
+6. Finland (Location): 0.06
+7. Estonia (Location): 0.06
+8. Dmitry Peskov (Actor): 0.05
+9. Edgars Rinkevics (Actor): 0.05
+10. Explosions rupturing Nord Stream gas pipelines (Event): 0.05
+11. Investigation of damage (Event): 0.05
+12. Baltic Sea (Location): 0.04
+13. Balticconnector pipeline (Location): 0.04
+14. Nord Stream gas pipelines (Location): 0.04
+15. Finnish investigators (Actor): 0.04
+16. Chinese NewNew Polar Bear container vessel (Actor): 0.04
+17. Washington (Actor): 0.04
+18. Swedish, Danish and German investigators (Actor): 0.04
+19. Terrorist attack in the Baltic (Event): 0.04
+20. Moscow (Location): 0.03
+21. Russian Federation (Location): 0.03
+22. United States (Location): 0.03
+23. Sweden (Location): 0.03
+24. Denmark (Location): 0.03
+25. Germany (Location): 0.03
+26. Monday (Timeline): 0.03
+27. Oct 23 (Timeline): 0.03
+28. Oct 8 (Timeline): 0.03
+29. Last week (Timeline): 0.03
+30. Last year (Timeline): 0.03
+
+### Relationship Extraction
+
+**Relationships Identified:**
+
+1. is responsible for [Damage to Balticconnector pipeline, Act of sabotage]
+2. denies involvement in [Kremlin, Damage to Balticconnector pipeline]
+3. suggests closing [Edgars Rinkevics, Baltic Sea]
+4. investigates [Finnish investigators, Damage to Balticconnector pipeline]
+5. focuses on [Finland, Chinese NewNew Polar Bear container vessel]
+6. denies responsibility for [Washington, Explosions rupturing Nord Stream gas pipelines]
+7. blames sabotage for [Swedish, Danish and German investigators, Explosions rupturing Nord

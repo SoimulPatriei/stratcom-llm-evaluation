@@ -1,0 +1,91 @@
+[Topic] Suspected Sabotage  
+[Weight] 5  
+
+[Keywords]  
+caused by external activity = 3  
+Result of external activity = 3  
+suspected leak = 2  
+damage to the pipeline = 3  
+
+[Total Weight] 11  
+[Normalized Significance] 7.3  
+
+---
+
+[Topic] NATO Response  
+[Weight] 5  
+
+[Keywords]  
+NATO Secretary General Jens Stoltenberg = 2  
+sharing information with its allies = 2  
+spoken with Niinistö = 2  
+
+[Total Weight] 6  
+[Normalized Significance] 6.0  
+
+---
+
+[Topic] Infrastructure Vulnerability  
+[Weight] 4  
+
+[Keywords]  
+damage to the gas pipeline = 3  
+damage caused, offshore pipeline = 3  
+telecommunications cable = 2  
+Pipeline in the Baltic Sea that was shut = 3  
+pipeline between Finland and Estonia = 3  
+
+[Total Weight] 14  
+[Normalized Significance] 9.2  
+
+---
+
+[Topic] Energy Security  
+[Weight] 3  
+
+[Keywords]  
+pipeline are now closed = 2  
+gas pipeline, supplies Finland with gas = 2  
+gas flow = 3  
+Apparent leak, unusual drop in pressure = 2  
+
+[Total Weight] 9  
+[Normalized Significance] 7.5  
+
+---
+
+[Topic] International Cooperation  
+[Weight] 3  
+
+[Keywords]  
+investigations were continuing between authorities in Helsinki and Tallinn = 2  
+Gasgrid Finland = 2  
+investigating the incident together with Elering = 2  
+Elering = 1  
+
+[Total Weight] 7  
+[Normalized Significance] 5.6  
+
+---
+
+[Topic] Environmental and Technical Challenges  
+[Weight] 2  
+
+[Keywords]  
+nature of the damage = 2  
+repairing damage could take several months = 2  
+offshore pipeline between Finland and Estonia was leaking = 2  
+
+[Total Weight] 6  
+[Normalized Significance] 6.7  
+
+---
+
+[Topic] Economic and Financial Impact  
+[Weight] 2  
+
+[Keywords]  
+Shut down the gas flow = 2  
+
+[Total Weight] 2  
+[Normalized Significance] 5.0  

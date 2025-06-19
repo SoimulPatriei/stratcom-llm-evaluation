@@ -1,0 +1,103 @@
+[Topic] Suspected Sabotage  
+[Weight] 5  
+
+[Keywords]  
+deliberate, external activity = 3  
+caused by external activity = 3  
+suspected sabotage = 3  
+damage could not have been caused by normal use of the pipeline or pressure fluctuations = 3  
+Russian sabotage = 3  
+retribution for Finland joining NATO = 2  
+
+[Total Weight] 17  
+[Normalized Significance] 9.0  
+
+---
+
+[Topic] NATO Response  
+[Weight] 4  
+
+[Keywords]  
+Nato military alliance = 2  
+Nato = 2  
+retribution for Finland joining Nato = 2  
+sharing information = 2  
+support allies = 2  
+sharing information & stands ready to support Allies = 2  
+Jens Stoltenberg = 2  
+
+[Total Weight] 14  
+[Normalized Significance] 7.0  
+
+---
+
+[Topic] Infrastructure Vulnerability  
+[Weight] 5  
+
+[Keywords]  
+Baltic-connector pipeline = 3  
+so serious = 3  
+Nord Stream pipeline blasts = 3  
+Telecoms cable was also damaged = 2  
+two different spots in Finland’s Exclusive Economic Zone = 3  
+
+[Total Weight] 14  
+[Normalized Significance] 8.0  
+
+---
+
+[Topic] Energy Security  
+[Weight] 4  
+
+[Keywords]  
+pipeline is Finland's only direct link to EU gas network = 3  
+alternative sources of gas = 2  
+pushed up European gas prices = 2  
+revived concerns about energy security = 2  
+energy security was not at risk = 2  
+
+[Total Weight] 11  
+[Normalized Significance] 7.0  
+
+---
+
+[Topic] International Cooperation  
+[Weight] 3  
+
+[Keywords]  
+Being investigated by both countries = 2  
+Stands ready to support Allies concerned = 2  
+investigated by both countries = 2  
+support allies concerned = 2  
+sharing information = 2  
+
+[Total Weight] 10  
+[Normalized Significance] 6.0  
+
+---
+
+[Topic] Environmental and Technical Challenges  
+[Weight] 3  
+
+[Keywords]  
+take months to repair = 2  
+Damage was so serious = 2  
+no indications that explosives had been used = 1  
+seismic activity has already been ruled out = 1  
+
+[Total Weight] 6  
+[Normalized Significance] 5.0  
+
+---
+
+[Topic] Economic and Financial Impact  
+[Weight] 3  
+
+[Keywords]  
+pushed up European gas prices = 2  
+UK prices = 2  
+pushed up European gas prices, UK prices jumped as much as 13.5% = 2  
+Nord Stream pipeline blasts = 2  
+
+[Total Weight] 8  
+[Normalized Significance] 6.0  

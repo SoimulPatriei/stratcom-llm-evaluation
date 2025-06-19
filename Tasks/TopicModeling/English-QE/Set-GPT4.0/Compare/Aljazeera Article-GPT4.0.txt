@@ -1,0 +1,65 @@
+[Topic] Suspected Sabotage  
+[Weight] 5  
+
+[Keywords]  
+suspected sabotage of a subsea gas pipeline = 3  
+Finnish investigators = 3  
+potential role of a Chinese ship = 3  
+NewNew Polar Bear container vessel = 3  
+damage has been caused by an external mechanical force = 3  
+two ships concerning the incident, including the Chinese vessel and Russia’s Sevmorput = 2  
+Balticconnector pipeline incident = 2  
+investigation confirmed that the damage has been caused by an external mechanical force = 1  
+
+[Total Weight] 20  
+[Normalized Significance] 10.0  
+
+[Topic] Energy Security  
+[Weight] 5  
+
+[Keywords]  
+security of energy supplies = 3  
+NATO to increase patrols in the Baltic Sea = 3  
+Energy security concerns have risen = 3  
+Baltic region is particularly vulnerable due to a limited number of energy links = 3  
+Russia’s state-controlled energy company Rosatom = 2  
+NATO should close the Baltic Sea to ships if Russia were proven responsible = 2  
+
+[Total Weight] 16  
+[Normalized Significance] 8.0  
+
+[Topic] Global Diplomatic Engagement  
+[Weight] 4  
+
+[Keywords]  
+China and Finland have begun communication = 3  
+Estonian Ministry of Foreign Affairs = 3  
+Tallinn has contacted Beijing = 3  
+Chinese Foreign Ministry spokesperson Mao Ning = 2  
+Chinese vessel was normal in the relevant waters at the time of the incident = 2  
+Latvian President Edgars Rinkevics = 1  
+
+[Total Weight] 14  
+[Normalized Significance] 7.0  
+
+[Topic] Infrastructure Vulnerability  
+[Weight] 4  
+
+[Keywords]  
+damage to the Balticconector gas pipeline = 3  
+security of cross-border infrastructure = 3  
+the incident stoked concern about the security of energy supplies = 3  
+Baltic region is particularly vulnerable due to a limited number of energy links = 2  
+
+[Total Weight] 11  
+[Normalized Significance] 5.5  
+
+[Topic] NATO Response  
+[Weight] 3  
+
+[Keywords]  
+NATO to increase patrols in the Baltic Sea = 3  
+NATO should close the Baltic Sea to ships if Russia were proven responsible = 2  
+
+[Total Weight] 5  
+[Normalized Significance] 3.3

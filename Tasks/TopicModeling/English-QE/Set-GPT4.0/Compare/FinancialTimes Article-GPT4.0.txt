@@ -1,0 +1,89 @@
+[Topic] Suspected Sabotage  
+[Weight] 5  
+
+[Keywords]  
+potential sabotage of a gas pipeline and data cable = 3  
+Newnew Polar Bear, a Hong Kong-registered container ship = 3  
+damage has been caused by an external mechanical force = 3  
+investigation into the potential sabotage = 2  
+Sevmorput, operated by the state nuclear-powered icebreaker company Atomflot = 2  
+damage was man-made = 2  
+
+[Total Weight] 15  
+[Normalized Significance] 7.5  
+
+---
+
+[Topic] Global Diplomatic Engagement  
+[Weight] 3  
+
+[Keywords]  
+co-operate with Chinese authorities = 3  
+reached out to China diplomatically = 3  
+Estonian investigators are looking at both ships = 2  
+Finnish police have a liaison officer in China = 2  
+
+[Total Weight] 10  
+[Normalized Significance] 6.67  
+
+---
+
+[Topic] Critical Infrastructure Weakness  
+[Weight] 5  
+
+[Keywords]  
+damage to the pipeline and cable = 3  
+undersea infrastructure = 3  
+separate undersea data cable connecting was also damaged = 3  
+external mechanical force = 2  
+
+[Total Weight] 11  
+[Normalized Significance] 5.5  
+
+---
+
+[Topic] NATO Response  
+[Weight] 3  
+
+[Keywords]  
+Nato to increase its patrols in the Baltic Sea = 3  
+sent four minesweepers to the area = 3  
+Latvian president suggestion on Russian shipping = 2  
+
+[Total Weight] 8  
+[Normalized Significance] 5.33  
+
+---
+
+[Topic] Economic and Financial Impact  
+[Weight] 2  
+
+[Keywords]  
+increase in vessels using the Arctic route = 2  
+quicker maritime passage between the Russian Arctic and Asia = 1  
+
+[Total Weight] 3  
+[Normalized Significance] 3  
+
+---
+
+[Topic] Environmental and Technical Challenges  
+[Weight] 2  
+
+[Keywords]  
+increase in non-ice-reinforced ships = 2  
+safety concerns in the remote far north = 2  
+
+[Total Weight] 4  
+[Normalized Significance] 4  
+
+---
+
+[Topic] Supply Chain Stability  
+[Weight] 1  
+
+[Keywords]  
+potential disruption to gas pipeline and data cable = 1  
+
+[Total Weight] 1  
+[Normalized Significance] 2  

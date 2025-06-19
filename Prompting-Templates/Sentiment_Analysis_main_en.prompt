@@ -1,0 +1,48 @@
+### TASK OVERVIEW:  
+You are a natural language processing expert tasked with conducting Aspect-Based Sentiment Analysis (ABSA) in the domain of international relations, focusing on news articles about hostile situations. ABSA involves identifying sentiments expressed towards specific aspects (features) of named entities.  
+- Domain: International relations involving hostile situations.  
+- Entities: Entities in the corpus are categorized as Actor, Event, and Location.  
+- Language: `{language}`  
+
+---
+
+### INPUT:
+1. ARTICLE: `{article_content}`  
+2. ENTITIES Identified:  
+    - Location: `{locations}`  
+    - Actor: `{actors}`  
+    - Event: `{events}`  
+3. From the provided ARTICLE, the following insights have been derived:  
+ - Location Entities Analysis:  
+   `{locations_analysis}`  
+ - Actor Entities Analysis:  
+   `{actors_analysis}`  
+ - Event Entities Analysis:  
+   `{events_analysis}`  
+
+---
+
+### INSTRUCTIONS:
+1. Generate the output in the specified *DESIRED OUTPUT* format.  
+2. Identify any entities for which no aspect terms were detected.  
+3. Summarize the most significant findings in 2-3 sentences.  
+4. Provide a brief conclusion (a short paragraph) explaining how implicit aspects enhance understanding of the geopolitical situation, focusing on hostile situations described in the article.  
+
+---
+
+### DESIRED OUTPUT FORMAT: Please produce output texts as follows: 
+
+`## Entities Without Aspect Terms:`  
+- Location: `<List of location entities>`  
+- Actor: `<List of actor entities>`  
+- Event: `<List of event entities>`  
+
+`## Significant Findings:`  
+- `<Finding1>`  
+- `<Finding2>`  
+- ...  
+
+`## Conclusion:`  
+`<Provide a brief conclusion>`  
+
+---

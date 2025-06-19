@@ -1,0 +1,103 @@
+[Topic] Suspected Sabotage  
+[Weight] 4  
+
+[Keywords]  
+suspected sabotage of subsea gas pipeline = 3  
+potential role of a Chinese ship = 3  
+may have been in any way connected to the Balticconnector pipeline incident = 3  
+saw two telecom cables cut = 3  
+no abnormalities were found = 3  
+it was studying how the NewNew Polar Bear container vessel might have been involved in the incident = 2  
+investigation has confirmed that the damage has been caused by an external mechanical force = 3  
+there is no reason to believe the damage has been caused by an explosion = 3  
+they were looking into two ships concerning the incident = 3  
+heavy object was found near the pipeline damage = 3  
+
+[Total Weight] 29  
+[Normalized Significance] 8.0  
+
+---
+
+[Topic] NATO Response  
+[Weight] 4  
+
+[Keywords]  
+prompted NATO to increase patrols in the Baltic Sea = 3  
+incident stoked concern about the security of energy supplies = 2  
+Latvian President Edgars Rinkevics said last week that NATO should close the Baltic Sea to ships if Russia were proven responsible = 3  
+
+[Total Weight] 8  
+[Normalized Significance] 8.0  
+
+---
+
+[Topic] Infrastructure Vulnerability  
+[Weight] 4  
+
+[Keywords]  
+gas pipeline and a telecoms cable were broken = 3  
+limited number of energy links to the rest of the bloc = 3  
+Baltic region is particularly vulnerable = 3  
+damage has been caused by an external mechanical force = 2  
+no reason to believe the damage has been caused by an explosion = 2  
+
+[Total Weight] 13  
+[Normalized Significance] 7.0  
+
+---
+
+[Topic] Energy Security  
+[Weight] 4  
+
+[Keywords]  
+concern about security of energy supplies = 3  
+Baltic region is particularly vulnerable due to a limited number of energy links to the rest of the bloc = 3  
+incident stoked concern about the security of energy supplies in the wider Nordic region = 2  
+prompted NATO to increase patrols in the Baltic Sea = 2  
+
+[Total Weight] 10  
+[Normalized Significance] 8.0  
+
+---
+
+[Topic] International Cooperation  
+[Weight] 3  
+
+[Keywords]  
+China has called for an “objective, fair and professional” investigation = 3  
+China denies role = 3  
+China and Finland have begun communication over the damage to the Balticconnector gas pipeline = 3  
+Tallinn has contacted Beijing seeking “to encourage cooperation concerning the investigation” = 2  
+cooperation in safeguarding infrastructure = 2  
+China had always advocated that the international community strengthen cooperation = 2  
+jointly safeguard the security of cross-border infrastructure = 2  
+
+[Total Weight] 17  
+[Normalized Significance] 7.0  
+
+---
+
+[Topic] Environmental and Technical Challenges  
+[Weight] 2  
+
+[Keywords]  
+no abnormalities were found due to the poor sea conditions at the time = 2  
+investigation has confirmed that the damage has been caused by an external mechanical force = 2  
+jointly safeguard the security of cross-border infrastructure = 2  
+
+[Total Weight] 6  
+[Normalized Significance] 6.0  
+
+---
+
+[Topic] Economic and Financial Impact  
+[Weight] 2  
+
+[Keywords]  
+impact on energy security = 3  
+vulnerable energy supplies = 3  
+security of EU energy network = 3  
+potential economic repercussions for energy markets = 3  
+
+[Total Weight] 12  
+[Normalized Significance] 3.0  

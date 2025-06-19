@@ -1,0 +1,77 @@
+[Topic] Investigation  
+[Weight] 4  
+
+[Keywords]  
+jāsagaida izmeklēšanas rezultāti, lai varētu secināt, kā tas notika = 2  
+Nodarītie bojājumi zemūdens gāzesvadā “Balticconnector” tiek izmeklēti = 2  
+
+[Total Weight] 4  
+[Normalized Significance] 6  
+
+---
+
+[Topic] International cooperation  
+[Weight] 4  
+
+[Keywords]  
+Ārlietu ministrs sacīja, ka viņš ir runājis gan ar Somijas, gan ar Igaunijas kolēģiem = 2  
+Latvija jau piegādā gāzi Igaunijai = 3  
+sabiedrotajām demokrātijām ir jāsadarbojas un vēl ciešāk jākāpina sadarbība, lai rūpētos par mūsu infrastruktūras drošību = 3  
+
+[Total Weight] 8  
+[Normalized Significance] 8  
+
+---
+
+[Topic] Natural gas infrastructure  
+[Weight] 5  
+
+[Keywords]  
+Somijas un Igaunijas gāzesvads “Balticconnector” patlaban ir slēgts, Latvijas apgāde nav apdraudēta = 3  
+Inčukalna pazemes gāzes krātuvē rezerves ir labas = 3  
+Latvijai paliek gāzes piegādes iespējas caur Lietuvu un Klaipēdas gāzes termināli = 2  
+Igaunijas pārvades sistēmu operators “Elering” un “Gasgrid Finland” slēdza “Balticconnector” naktī uz svētdienu, jo tika novērota spiediena krišanās cauruļvadā = 3  
+“Balticconnector” slēgšana neietekmē gāzes piegādes patērētājiem Igaunijā = 1  
+
+[Total Weight] 12  
+[Normalized Significance] 8  
+
+---
+
+[Topic] Security concerns  
+[Weight] 4  
+
+[Keywords]  
+Latvijas piegādes nekādā veidā nav apdraudētas = 3  
+notiekošais Somijā un Igaunijā nekādā veidā neapdraud Latvijas patērētājus un Latvijas tirgu = 2  
+ja Somijas un Igaunijas gāzesvada darbība sabotēta, tas nozīmē, ka Baltijas jūras reģionā būs pastiprināti jāuzrauga visa zemūdens infrastruktūra = 2  
+
+[Total Weight] 7  
+[Normalized Significance] 7  
+
+---
+
+[Topic] Possible sabotage  
+[Weight] 3  
+
+[Keywords]  
+zemūdens gāzesvadā “Balticconnector” tiek izmeklēti kā iespējams sabotāžas mēģinājums = 3  
+Šis nav gadījums, kad būtu saplīsusi kāda blīve = 2  
+gāzesvadā “Balticconnector” nevarēja rasties tā normālas darbības rezultātā vai normāla spiediena krituma dēļ = 1  
+Somijas Centrālā kriminālpolicija, kas ir paziņojusi, ka cauruļvads ir bojāts tīši = 2  
+
+[Total Weight] 8  
+[Normalized Significance] 6  
+
+---
+
+[Topic] Restoration  
+[Weight] 3  
+
+[Keywords]  
+lai salabotu Somiju un Igauniju savienojošā zemūdens gāzesvada “Balticconnector” bojāto posmu, būs nepieciešami vismaz pieci mēneši = 2  
+gāzesvads varētu atsākt darboties ne agrāk kā nākamā gada aprīlī = 2  
+saremontētā cauruļvada posma pārbaude un nodošana ekspluatācijā ilgs vismaz piecus mēnešus = 1  
+
+[Total Weight] 5  
+[Normalized Significance] 5  

@@ -1,0 +1,96 @@
+[Topic] Suspected Sabotage  
+[Weight] 5  
+
+[Keywords]  
+everything indicates that it was intentional = 3  
+hard to believe sabotage to the undersea gas pipeline was accidental = 3  
+nobody has admitted to it = 3  
+Chinese container ship Newnew Polar Bear, dragging an anchor, main suspect = 3  
+nobody has admitted it yet = 3  
+in touch with Chinese authorities = 3  
+vessel’s imminent return to China raises some questions = 3  
+No culprit has been identified for the Nord Stream attack despite an international investigation = 3  
+
+[Total Weight] 24  
+[Normalized Significance] 9.0  
+
+---
+
+[Topic] NATO Response  
+[Weight] 3  
+
+[Keywords]  
+pipeline that connects the two NATO members beneath the Baltic Sea = 3  
+concerns over the safety of undersea critical infrastructure and possible measures to protect them from external sabotage = 3  
+
+[Total Weight] 6  
+[Normalized Significance] 3.0  
+
+---
+
+[Topic] Infrastructure Vulnerability  
+[Weight] 5  
+
+[Keywords]  
+critical infrastructure, Balticconnector pipeline damaged = 3  
+safety of undersea critical infrastructure, two telecoms cables damaged = 3  
+dragging an anchor for over 180 kilometers, cutting through the cables and gas lines = 2  
+
+[Total Weight] 8  
+[Normalized Significance] 8.0  
+
+---
+
+[Topic] Energy Security  
+[Weight] 4  
+
+[Keywords]  
+77-kilometer-long gas pipeline = 3  
+gas pipeline critical to Finland and Estonia = 2  
+critical gas link between Finland and Estonia = 2  
+energy security concerns = 2  
+disruption of gas supply = 2  
+raises concerns over safety of undersea infrastructure = 2  
+
+[Total Weight] 13  
+[Normalized Significance] 7.0  
+
+---
+
+[Topic] International Cooperation  
+[Weight] 4  
+
+[Keywords]  
+Finland and Estonia have since been in touch with Chinese authorities seeking their cooperation with the investigation = 2  
+asked to send representatives to Beijing = 2  
+seeking their cooperation with the investigation = 2  
+Finland and Estonia have been investigating = 3  
+
+[Total Weight] 9  
+[Normalized Significance] 7.0  
+
+---
+
+[Topic] Environmental and Technical Challenges  
+[Weight] 3  
+
+[Keywords]  
+dragging an anchor for over 180 kilometers = 2  
+retrieved a few meters from the site of the damage = 2  
+dragged its anchor across the Baltic Sea seabed = 3  
+two telecoms cables connecting Estonia to Finland and Sweden = 2  
+understood there was something wrong = 1  
+
+[Total Weight] 10  
+[Normalized Significance] 6.0  
+
+---
+
+[Topic] Economic and Financial Impact  
+[Weight] 0  
+
+[Keywords]  
+N/A  
+
+[Total Weight] 0  
+[Normalized Significance] N/A  

@@ -1,0 +1,42 @@
+Topic: Infrastructure vulnerability=5=5
+  Keywords Assigned by Human but Not by Machine:
+   Kāda iemesla dēļ samazinājās kabeļa pārraides jauda, pagaidām nav zināms=3
+   bojājuma vieta nav Zviedrijas teritoriālajos ūdeņos, un ka kabelis joprojām ir izmantojams=2
+
+  Keywords Assigned by Machine but Not by Human:
+   zemūdens sakaru kabeļu bojājumi=2
+   bojāts=1
+   kritiskās zemūdens infrastruktūras neaizsargātība=3
+   sakaru kabelis=1
+
+
+Topic: Geopolitical dynamics=4=3
+  Keywords Assigned by Human but Not by Machine:
+   Kabeļa īpašnieks veic tā remontu, un šī procesa laikā sadarbībā ar Somiju un Zviedriju tiks izpētīts iespējamais iemesls=2
+   Igaunijas - Zviedrijas un Igaunijas - Somijas zemūdens sakaru kabeļu bojājumi nav ietekmējuši Igaunijas sakaru pakalpojumu darbību=1
+   Uzraudzības un aizsardzības līmeņa paaugstināšanai ir nepieciešama nozīmīga sadarbība ar mūsu kolēģiem no Somijas un Zviedrijas=3
+   nav iemesla Igaunijas un Zviedrijas kabeļa bojājumu saistīt ar citiem kabeļiem, norādīja ministrija=2
+
+  Keywords Assigned by Machine but Not by Human:
+   Igaunija=1
+   NATO=1
+   Zviedrija=1
+   sadarbība=2
+
+
+Topics Assigned by Human but Not by Machine:
+Topic: Suspicion of damage=4
+Topic: Communication disruption=3
+Topic: Concerns about defense=5
+
+Topics Assigned by Machine but Not by Human:
+Topic: Cultural heritage preservation=1
+Topic: Security threat=4
+
+Statistics:
+Common Topics: 2
+Topics Assigned by Human: 5
+Topics Assigned by Machine: 4
+Common Keywords: 0
+Keywords Assigned by Human: 6
+Keywords Assigned by Machine: 8

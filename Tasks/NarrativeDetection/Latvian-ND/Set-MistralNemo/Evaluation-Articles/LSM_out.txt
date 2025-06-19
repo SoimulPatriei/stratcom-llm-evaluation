@@ -1,0 +1,82 @@
+**1. Named Entity Recognition:**
+
+**Location:**
+- Baltijas jūras krasts
+- Somijas Ekskluzīvā Ekonomiskā Zona
+- Eiropas Savienība
+- Apvienotā Karaliste (Zviedrija)
+- Krievija
+- Honkonga
+- Igaunija
+- Somija
+
+**Actor:**
+- Igaunijas izmeklētāji
+- Somijas un Igaunijas jūras spēku pārstāvji
+- Igaunijas prokuratūra
+- Trīnu Oleva (Igaunijas valsts prokurors)
+- NATO
+- NATO AWACS lidmašīnas
+- NATO mīnu meklēšanas kuģi
+- Eiropas Savienība un NATO valstis
+
+**Event:**
+- Sakaru kabeļa bojājums
+- Sabotāža
+- Izmeklēšana
+- Pārbaude
+- Remonta plānošana
+- Zemūdens infrastruktūras bojājumi
+- Drošības pasākumu pastiprināšana
+- Zemūdens infrastruktūras aizsardzība
+
+**Timeline:**
+- 20. oktobris, 2023
+- 8. oktobris
+
+**Entities Ordered by Importance Score:**
+1. Sakaru kabeļa bojājums (Event): 0.06
+2. Sabotāža (Event): 0.05
+3. Baltijas jūras krasts (Location): 0.05
+4. Igaunija (Location): 0.05
+5. Somija (Location): 0.05
+6. Igaunijas izmeklētāji (Actor): 0.05
+7. Zemūdens infrastruktūras bojājumi (Event): 0.05
+8. NATO (Actor): 0.04
+9. Trīnu Oleva (Actor): 0.04
+10. Eiropas Savienība (Location): 0.04
+11. Izmeklēšana (Event): 0.04
+12. Pārbaude (Event): 0.04
+13. 20. oktobris, 2023 (Timeline): 0.04
+14. 8. oktobris (Timeline): 0.04
+15. Remonta plānošana (Event): 0.04
+16. Drošības pasākumu pastiprināšana (Event): 0.04
+17. Zemūdens infrastruktūras aizsardzība (Event): 0.04
+18. Zviedrija (Location): 0.03
+19. Krievija (Location): 0.03
+20. Honkonga (Location): 0.03
+21. Pārstāvji no Somijas un Igaunijas jūras spēkiem (Actor): 0.03
+22. Igaunijas prokuratūra (Actor): 0.03
+23. NATO AWACS lidmašīnas (Actor): 0.03
+24. NATO mīnu meklēšanas kuģi (Actor): 0.03
+25. Eiropas Savienības valstis (Actor): 0.03
+
+**2. Relationship Extraction:**
+- Sakaru kabeļa bojājums ir saistīts ar sabotāžu (Event - Event)
+- Izmeklēšana ir veikta par sakaru kabeļa bojājumu (Event - Event)
+- Igaunijas izmeklētāji ir veikuši izmeklēšanu kopā ar Somijas un Igaunijas jūras spēku pārstāvjiem (Actor - Actor)
+- Trīnu Oleva ir paziņojis par diviem kuģiem, kas varētu būt saistīti ar sakaru kabeļa bojājumu (Actor - Event)
+- NATO ir nolēmuši pastiprināt patrulēšanu Baltijas jūrā pēc zemūdens infrastruktūras bojājumiem (Actor - Event)
+- Zemūdens infrastruktūras bojājumi ir saistīti ar drošības pasākumu pastiprināšanu (Event - Event)
+- Zemūdens infrastruktūras aizsardzība ir saistīta ar Eiropas Savienības valstīm (Event - Actor)
+
+**3. Plot Discovery:**
+**Exposition:** Sakaru kabeļa bojājums starp Igauniju un Somiju ir atklāts, un izmeklēšanas rezultāts liecina, ka bojājums ir cilvēka radīts.
+**Rising Action:** Igaunijas izmeklētāji pārbauda iespējamo cilvēka līdzdarbību un citu valstu kuģu iesaistīšanos. divi kuģi – viens zem Krievijas karoga, bet otrais zem Honkongas – ir identificēti.
+**Climax:** Izmeklēšanas rezultāts apstiprina aizdomas par sabotāžu.
+**Falling Action:** Sākotnējie pierādījumi ļauj sākt plānot kabeļa remontu. Izmeklēšana tiks turpināta, lai noskaidrotu, vai bojājums tika izraisīts ar mērķtiecīgu nolūku.
+**Resolution:** Pēc izmeklēšanas ir plānots sākt kabeļa remontu nākamajā nedēļā. Tiek nostādīti papildu drošības pasākumi Baltijas jūrā pēc zemūdens infrastruktūras bojājumiem.
+
+**4. Story Evolution:**
+**Shift Detection:** Pēc sākotnējās izmeklēšanas ir apstiprināta sabotāža kā galvenā versija un tiek plānots sakaru kabeļa remonts.
+**Causal Relation Extraction:** Sakaru kabeļa bojājums ir radīts cilvēka darbības rezultātā, un izmeklēšana ir nepieciešama, lai noskaidrotu, kas ir aizliedzis šo bojājumu. Tāpat, remonta plānošanas iemesls ir sākotnējie izmeklēšanas rezultāti.

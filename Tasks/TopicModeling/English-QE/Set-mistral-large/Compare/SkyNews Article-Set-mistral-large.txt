@@ -1,0 +1,124 @@
+[Topic] Suspected Sabotage
+[Weight] 4
+
+[Keywords]
+Chinese ship's anchor caused damage = 3
+Newnew Polar Bear = 3
+dislodged anchor = 3
+Finnish navy retrieved an anchor = 2
+seabed trail leading to the point where the pipeline was broken = 2
+significant pressure drop in the pipeline = 1
+
+[Total Weight] 14
+[Normalized Significance] 7.0
+
+---
+
+[Topic] Infrastructure Vulnerability
+[Weight] 5
+
+[Keywords]
+Baltic Sea gas pipeline between Finland and Estonia = 3
+dislodged anchor from a Chinese cargo vessel = 3
+Finnish economic zone = 3
+Balticconnector gas pipeline = 3
+telecom cable damaged = 3
+significant harm to the €300m Balticconnector gas pipeline = 2
+repairs estimated to last until at least the end of April = 1
+
+[Total Weight] 18
+[Normalized Significance] 9.0
+
+---
+
+[Topic] Economic and Financial Impact
+[Weight] 3
+
+[Keywords]
+€300m Balticconnector gas pipeline = 3
+repairs estimated to last until at least the end of April = 3
+significant pressure drop in the pipeline = 2
+Newnew Polar Bear = 2
+
+[Total Weight] 10
+[Normalized Significance] 5.0
+
+---
+
+[Topic] NATO Response
+[Weight] 2
+
+[Keywords]
+Finnish navy retrieved an anchor = 2
+Finnish authorities = 2
+Finnish economic zone = 1
+
+[Total Weight] 5
+[Normalized Significance] 2.5
+
+---
+
+[Topic] International Cooperation
+[Weight] 3
+
+[Keywords]
+collaboration with Chinese authorities = 3
+Finnish investigators unable to establish contact = 3
+Finnish authorities = 2
+Chinese foreign ministry reiterated Beijing's request = 2
+
+[Total Weight] 10
+[Normalized Significance] 5.0
+
+---
+
+[Topic] Supply Chain Stability
+[Weight] 2
+
+[Keywords]
+Baltic Sea gas pipeline = 2
+Balticconnector gas pipeline = 2
+significant pressure drop in the pipeline = 1
+repairs estimated to last until at least the end of April = 1
+
+[Total Weight] 6
+[Normalized Significance] 3.0
+
+---
+
+[Topic] Critical Infrastructure Weakness
+[Weight] 3
+
+[Keywords]
+Baltic Sea gas pipeline between Finland and Estonia = 3
+dislodged anchor from a Chinese cargo vessel = 3
+telecom cable damaged = 2
+Finnish economic zone = 1
+
+[Total Weight] 9
+[Normalized Significance] 4.5
+
+---
+
+[Topic] Covert Disruptions
+[Weight] 2
+
+[Keywords]
+Newnew Polar Bear = 2
+dislodged anchor = 2
+Finnish navy retrieved an anchor = 1
+
+[Total Weight] 5
+[Normalized Significance] 2.5
+
+---
+
+[Topic] Technological Resilience and Ecological Issues
+[Weight] 1
+
+[Keywords]
+repairs estimated to last until at least the end of April = 1
+significant harm to the €300m Balticconnector gas pipeline = 1
+
+[Total Weight] 2
+[Normalized Significance] 1.0

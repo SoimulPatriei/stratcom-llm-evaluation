@@ -1,0 +1,75 @@
+[Topic] Suspected Sabotage
+[Weight] 4
+
+[Keywords]
+damage to the gas pipeline = 3
+human-made damage = 3
+anchor of the Hong Kong-flagged cargo vessel Newnew Polar Bear = 3
+failed to establish radio contact with Newnew Polar Bear’s captain = 2
+damage allegedly caused by the Chinese vessel = 2
+Finnish maritime authorities = 1
+
+[Total Weight] 14
+[Normalized Significance] 7.0
+
+---
+
+[Topic] Infrastructure Vulnerability
+[Weight] 5
+
+[Keywords]
+Baltic Sea gas pipeline between NATO members Finland and Estonia = 3
+disconnecting a crucial link between the Nordic and Baltic gas markets = 3
+pipeline reopened this week after multimillion-euro repair work = 3
+Telecom cables connecting Finland and Estonia, as well as Sweden and Estonia, were also damaged = 3
+secure the area and detect suspicious movement near its critical undersea infrastructure = 3
+damage to the gas pipeline and data cables = 2
+several months' disruption = 1
+
+[Total Weight] 18
+[Normalized Significance] 9.0
+
+---
+
+[Topic] Economic and Financial Impact
+[Weight] 3
+
+[Keywords]
+multimillion-euro repair work = 3
+total cost of the pipeline repair work, estimated at around 35 million euros ($38 million) = 3
+EU covered 75% of Balticconnector’s original construction cost = 2
+disruption of gas markets = 2
+who will pick up the bill = 2
+
+[Total Weight] 12
+[Normalized Significance] 6.0
+
+---
+
+[Topic] NATO Response
+[Weight] 3
+
+[Keywords]
+NATO has stepped up its patrols of the Baltic Sea = 3
+minehunters, maritime patrol aircraft, and drones sent to the region = 2
+NATO members Finland and Estonia = 2
+Finland joined NATO in April 2023 = 2
+detect suspicious movement near its critical undersea infrastructure = 2
+
+[Total Weight] 11
+[Normalized Significance] 5.5
+
+---
+
+[Topic] International Cooperation
+[Weight] 3
+
+[Keywords]
+cooperation with the Chinese authorities probing the case = 3
+former president of Finland spoke with Chinese President Xi Jinping = 3
+international partners = 2
+Finnish Prime Minister initiated discussions with European Commission President = 2
+NATO's involvement = 1
+
+[Total Weight] 11
+[Normalized Significance] 5.5

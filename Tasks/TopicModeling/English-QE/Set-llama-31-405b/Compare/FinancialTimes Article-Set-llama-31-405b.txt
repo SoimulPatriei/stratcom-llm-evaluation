@@ -1,0 +1,88 @@
+[Topic] Suspected Sabotage
+[Weight] 5
+
+[Keywords]
+Chinese container ship Newnew Polar Bear = 3
+man-made damage = 3
+external mechanical force = 3
+no reason to believe the damage has been caused by an explosion = 3
+investigation into potential sabotage = 2
+Finland looking at potential role of Hong Kong-registered container vessel = 2
+damage to pipeline and data cable = 2
+Russian ship Sevmorput also in the area = 1
+
+[Total Weight] 18
+[Normalized Significance] 9.0
+
+---
+
+[Topic] Infrastructure Vulnerability
+[Weight] 5
+
+[Keywords]
+Baltic Sea gas pipeline and data cable = 3
+undersea infrastructure = 3
+damage to pipeline and cable = 3
+separate undersea data cable connecting Sweden to Estonia also damaged = 3
+NATO increases patrols in the Baltic Sea = 2
+potential sabotage of undersea infrastructure = 2
+Finnish police investigate damage = 1
+
+[Total Weight] 17
+[Normalized Significance] 8.5
+
+---
+
+[Topic] International Cooperation
+[Weight] 4
+
+[Keywords]
+cooperation with Chinese authorities = 3
+Finnish police liaison officer in China = 3
+Finland reaches out to China diplomatically = 2
+NATO involvement = 2
+Latvian president suggests closing Baltic Sea to Russian shipping = 1
+
+[Total Weight] 11
+[Normalized Significance] 5.5
+
+---
+
+[Topic] NATO Response
+[Weight] 4
+
+[Keywords]
+NATO increases patrols in the Baltic Sea = 3
+additional flights by drones and surveillance aircraft = 2
+four minesweepers sent to the area = 2
+NATO involvement in investigation = 2
+Latvian president suggests closing Baltic Sea to Russian shipping = 1
+
+[Total Weight] 10
+[Normalized Significance] 5.0
+
+---
+
+[Topic] Economic and Financial Impact
+[Weight] 2
+
+[Keywords]
+no mention of specific economic or financial impact = 1
+ potential disruption to gas markets = 1
+safety concerns in the remote far north = 1
+
+[Total Weight] 3
+[Normalized Significance] 1.5
+
+---
+
+[Topic] Environmental and Technical Challenges
+[Weight] 2
+
+[Keywords]
+safety concerns in the remote far north = 2
+increasing number of vessels using the Arctic route = 1
+worry about safety concerns in the remote far north = 1
+
+[Total Weight] 4
+[Normalized Significance] 2.0

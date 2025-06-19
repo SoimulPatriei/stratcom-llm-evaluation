@@ -1,0 +1,61 @@
+[Topic] Infrastructure vulnerability  
+[Weight] 4  
+
+[Keywords]  
+dabasgāzes tirgus ir reaģējis uz ziņām par "Balticconnector" bojājumu = 3  
+dabasgāzes cenas svārstības pēc "Balticconnector" gadījuma ir notikušas = 2  
+gāzes piegādes pagaidām ir stabilas = 3  
+
+[Total Weight] 8  
+[Normalized Significance] 8  
+
+---
+
+[Topic] Natural gas infrastructure  
+[Weight] 5  
+
+[Keywords]  
+dabasgāzes tirgus ir reaģējis uz ziņām par "Balticconnector" bojājumu = 3  
+dabasgāzes cenas svārstības pēc "Balticconnector" gadījuma ir notikušas = 2  
+
+[Total Weight] 5  
+[Normalized Significance] 8  
+
+---
+
+[Topic] Energy resources  
+[Weight] 3  
+
+[Keywords]  
+dabasgāzes tirgus ir reaģējis uz ziņām par "Balticconnector" bojājumu = 2  
+dabasgāzes cenas svārstības pēc "Balticconnector" gadījuma ir notikušas = 3  
+siltumenerģijas komersanti apkures sezonai gatavojas laicīgi = 3  
+dabasgāzes cenu svārstības = 3  
+Energoapgādes izmaksu atbalsta likums = 1  
+
+[Total Weight] 12  
+[Normalized Significance] 8  
+
+---
+
+[Topic] International cooperation  
+[Weight] 2  
+
+[Keywords]  
+Somiju un Igauniju savienojošais zemūdens gāzesvads 8. oktobrī slēgts, jo tajā konstatēts neierasts spiediena kritums = 2  
+pāri Somu jūras līcim savieno Paldisku un Inko termināļus = 1  
+
+[Total Weight] 3  
+[Normalized Significance] 5  
+
+---
+
+[Topic] Security threats  
+[Weight] 2  
+
+[Keywords]  
+gāzes piegādes pagaidām ir stabilas = 2  
+Spiediena kritumu gāzesvadā = 1  
+
+[Total Weight] 3  
+[Normalized Significance] 5  

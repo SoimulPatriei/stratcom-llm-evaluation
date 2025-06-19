@@ -1,0 +1,83 @@
+[Topic] Infrastructure vulnerability  
+[Weight] 5  
+
+[Keywords]  
+zemūdens infrastruktūras bojājumi = 3  
+sakaru kabeļa bojājums = 2  
+infrastruktūras tīkls = 2  
+zemūdens gāzesvadiem = 1  
+elektrības un sakaru kabeļiem = 1  
+
+[Total Weight] 19  
+[Normalized Significance] 9.5  
+
+---
+
+[Topic] Security concerns  
+[Weight] 5  
+
+[Keywords]  
+sabotāža = 3  
+cilvēka radīts = 2  
+drošības pasākumi = 2  
+patrulēšanu = 1  
+novērošanas un izlūkošanas lidojumus = 1  
+
+[Total Weight] 18  
+[Normalized Significance] 9  
+
+---
+
+[Topic] International cooperation  
+[Weight] 4  
+
+[Keywords]  
+NATO = 3  
+Eiropas Savienības = 2  
+sadarbība = 2  
+starptautiskā izmeklēšana = 1  
+
+[Total Weight] 15  
+[Normalized Significance] 7.5  
+
+---
+
+[Topic] Communication disruption  
+[Weight] 4  
+
+[Keywords]  
+sakaru kabeļa bojājums = 3  
+sakaru pakalpojumu darbību = 2  
+alternatīvi funkcionējošus zemūdens kabeļus = 1  
+sauszemes kabeļus = 1  
+
+[Total Weight] 14  
+[Normalized Significance] 7  
+
+---
+
+[Topic] Investigation  
+[Weight] 4  
+
+[Keywords]  
+izmeklēšana = 3  
+pārbaude = 2  
+kriminālprocesa = 1  
+laboratoriju = 1  
+
+[Total Weight] 13  
+[Normalized Significance] 6.5  
+
+---
+
+[Topic] Geopolitical dynamics  
+[Weight] 3  
+
+[Keywords]  
+Krievijas karoga = 2  
+Ziemeļjūrā = 1  
+Baltijas jūrā = 1  
+Rietumu atkarībai = 1  
+
+[Total Weight] 10  
+[Normalized Significance] 5  

@@ -1,0 +1,73 @@
+Topic: NATO Response=4=4
+  Keywords Assigned by Human but Not by Machine:
+   stepping up air and maritime patrols=3
+   Joint Expeditionary Force, discussed the issue during summit=2
+   Russian military robotics=2
+   Finland applied to join NATO, military non-alignment=2
+   Russia is currently treating Finland as an unfriendly country=2
+
+  Keywords Assigned by Machine but Not by Human:
+   Finland's and Sweden's NATO membership=2
+   NATO leaders discussing threats to critical infrastructure=1
+   NATO's underwater protection cell=2
+   NATO's involvement and patrols in the Baltic Sea=3
+
+
+Topic: International Cooperation=3=3
+  Keywords Assigned by Machine but Not by Human:
+   Information-sharing among allies=1
+   Joint Expeditionary Force discussing threats=1
+   Cooperation among Baltic countries and NATO=2
+
+
+Topic: Suspected Sabotage=5=5
+  Keywords Assigned by Human but Not by Machine:
+   Russia is making mischief underwater=3
+   Baltic connector gas pipeline and a communications cable between Finland and Estonia were damaged=3
+   Russia is the prime suspect=3
+   what Sauli Niinisto, Finland’s president, called ‘external activity’=3
+   China attempting to sabotage=2
+   Chinese-flagged ship is also thought to have been involved=3
+   external mechanical force=3
+
+  Keywords Assigned by Machine but Not by Human:
+   Damage to underwater infrastructure=4
+   Explosions damaging Nord Stream pipelines=2
+   Chinese-flagged ship's potential involvement=2
+   Suspicion of Russia's involvement=3
+   Investigation into suspicious incidents=1
+   "External mechanical force" causing damage=2
+
+
+Topic: Infrastructure Vulnerability=5=4
+  Keywords Assigned by Human but Not by Machine:
+   high levels of background noise, temperature and salinity=3
+   threats to critical undersea infrastructure are real=3
+   Nord Stream I and II gas pipelines from Russia to Germany were damaged by a pair of explosions=3
+   lack of surveillance platforms=3
+   difficult to prevent Russian [underwater drones]=3
+   difficulty of stopping potential attacks=3
+
+  Keywords Assigned by Machine but Not by Human:
+   Difficulty in preventing and identifying attacks=2
+   Gaps in underwater surveillance capabilities=1
+   Limited surveillance and information-sharing=2
+   Critical undersea infrastructure damage=3
+   Cables and pipelines connecting Baltic countries=3
+
+
+Topics Assigned by Human but Not by Machine:
+Topic: Energy Security=2
+
+Topics Assigned by Machine but Not by Human:
+Topic: Economic and Financial Impact=2
+Topic: Global Sports Diplomacy=1
+Topic: Human Rights Violations=1
+
+Statistics:
+Common Topics: 4
+Topics Assigned by Human: 5
+Topics Assigned by Machine: 7
+Common Keywords: 0
+Keywords Assigned by Human: 18
+Keywords Assigned by Machine: 18

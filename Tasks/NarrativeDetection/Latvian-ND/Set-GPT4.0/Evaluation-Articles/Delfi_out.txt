@@ -1,0 +1,49 @@
+1. Named Entity Recognition:
+Location: [Somiju, Igauniju, Balticconnector, Nīderlandes biržā, Title Transfer Facility, Paldisku, Inko termināļus, Latvija]
+Actor: [Klimata un enerģētikas ministrija KEM, siltumenerģijas komersanti, Gasgrid, Elering]
+Event: [Balticconnector bojājums, dabasgāzes cenas svārstības, siltumenerģijas tarifiem, kurināmā iegādes līgumu, gāzes noplūde]
+Timeline: [šī gada 16. oktobris, 9. oktobris, 10. oktobris, 11. oktobris, 12. oktobris, 13. oktobris, 8. oktobris]
+Entities Ordered by Importance Score:
+1. Balticconnector bojājums (Event): 0.1
+2. Somiju (Location): 0.1
+3. Igauniju (Location): 0.1
+4. Klimata un enerģētikas ministrija KEM (Actor): 0.1
+5. dabasgāzes cenas svārstības (Event): 0.1
+6. siltumenerģijas tarifiem (Event): 0.08
+7. siltumenerģijas komersanti (Actor): 0.08
+8. kurināmā iegādes līgumu (Event): 0.08
+9. gāzes noplūde (Event): 0.08
+10. Gasgrid (Actor): 0.06
+11. Elering (Actor): 0.06
+12. Nīderlandes biržā (Location): 0.04
+13. Title Transfer Facility (Location): 0.04
+14. Paldisku (Location): 0.04
+15. Inko termināļus (Location): 0.04
+16. Latvija (Location): 0.04
+17. šī gada 16. oktobris (Timeline): 0.02
+18. 9. oktobris (Timeline): 0.02
+19. 10. oktobris (Timeline): 0.02
+20. 11. oktobris (Timeline): 0.02
+21. 12. oktobris (Timeline): 0.02
+22. 13. oktobris (Timeline): 0.02
+23. 8. oktobris (Timeline): 0.02
+
+2. Relationship Extraction:
+Layer Output:
+relates to [Balticconnector bojājums, dabasgāzes cenas svārstības]
+affected by [Balticconnector bojājums, siltumenerģijas tarifiem]
+signed by [siltumenerģijas komersanti, kurināmā iegādes līgumu]
+caused by [Balticconnector bojājums, gāzes noplūde]
+
+3. Plot Discovery:
+Layer Output:
+Exposition: "Balticconnector" bojājumu izraisa dabasgāzes cenas svārstības un siltumenerģijas tarifiem.
+Rising Action: Siltumenerģijas komersanti reaģē uz bojājumiem, noslēdzot kurināmā iegādes līgumus.
+Climax: 8. oktobrī gāzesvads "Balticconnector", kas savieno Somiju un Igauniju, tiek slēgts, jo tajā konstatēts neierasts spiediena kritums, ko var tu būt izraisījusi gāzes noplūde.
+Falling Action: "Gasgrid" un "Elering" paziņo, ka gāzes piegādes pagaidām ir stabilas, neskatoties uz bojājumiem.
+Resolution: Klimata un enerģētikas ministrija KEM analizē dabasgāzes cenu svārstības un būtiskās pārmaiņas tirgū.
+
+4. Story Evolution:
+Layer Output:
+Shift Detection: Nozīmīgas izmaiņas stāstījumā notiek, kad tiek slēgts "Balticconnector" gāzesvads, kas savieno Somiju un Igauniju.
+Causal Relation Extraction: "Balticconnector" gāzesvada slēgšana ir reakcija uz neierastu spiediena kritumu, ko var tu būt izraisījusi gāzes noplūde.

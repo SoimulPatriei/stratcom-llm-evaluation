@@ -1,0 +1,89 @@
+Topic: Suspected Sabotage=5=5
+  Common Keywords:
+   Russia is the prime suspect=3=3
+   Chinese-flagged ship is also thought to have been involved=3=3
+
+  Keywords Assigned by Human but Not by Machine:
+   what Sauli Niinisto, Finland’s president, called ‘external activity’=3
+   Baltic connector gas pipeline and a communications cable between Finland and Estonia were damaged=3
+   Russia is making mischief underwater=3
+   external mechanical force=3
+   China attempting to sabotage=2
+
+  Keywords Assigned by Machine but Not by Human:
+   Russia's Main Directorate of Deep-Sea Research, known by its Russian acronym GUGI=2
+   American and European intelligence agencies have since then uncovered signs that Ukrainians might have been behind the blasts=2
+   Belgorod, the world's largest operational submarine, capable of reaching considerable depths=1
+   state was probably responsible for the Nord Stream I and II gas pipelines damage=3
+   Finnish police investigating the Sevmorput, a Russian nuclear-powered cargo ship=2
+   damage occurred at roughly the same time and in the same area=3
+   officials strongly suspect that Russia is involved=3
+   Chinese ship, flagged in Hong Kong, was closer to the crime scene=2
+
+
+Topic: NATO Response=4=4
+  Keywords Assigned by Human but Not by Machine:
+   Russia is currently treating Finland as an unfriendly country=2
+   Russian military robotics=2
+   Finland applied to join NATO, military non-alignment=2
+   stepping up air and maritime patrols=3
+   Joint Expeditionary Force, discussed the issue during summit=2
+
+  Keywords Assigned by Machine but Not by Human:
+   NATO's underwater protection cell=3
+   Sweden, along with Finland, applied to join NATO last year=1
+   NATO sent additional minehunters to the area=3
+   Joint Expeditionary Force (JEF), a British-led alliance of ten northern European countries=2
+   NATO stepped up air and maritime patrols in the Baltic Sea=3
+   Finland's defence minister said that his country was stepping up its undersea surveillance=2
+
+
+Topic: International Cooperation=3=4
+  Keywords Assigned by Machine but Not by Human:
+   cooperation with the Chinese authorities probing the case=3
+   International Centre for Defence and Security, an Estonian think-tank=3
+   American and European intelligence agencies=1
+   Joint Expeditionary Force (JEF), a British-led alliance of ten northern European countries=2
+   Finnish Prime Minister initiated discussions with European Commission President=2
+   NATO's involvement=2
+
+
+Topic: Infrastructure Vulnerability=5=5
+  Keywords Assigned by Human but Not by Machine:
+   Nord Stream I and II gas pipelines from Russia to Germany were damaged by a pair of explosions=3
+   high levels of background noise, temperature and salinity=3
+   threats to critical undersea infrastructure are real=3
+   difficulty of stopping potential attacks=3
+   difficult to prevent Russian [underwater drones]=3
+   lack of surveillance platforms=3
+
+  Keywords Assigned by Machine but Not by Human:
+   European allies have grown increasingly concerned about the difficulty of stopping potential attacks=2
+   damage to the gas pipeline and data cables=3
+   Balticconnector gas pipeline and a communications cable between Finland and Estonia were damaged=3
+   Estonia and other Baltic states had only a limited grasp of what was going on under the Baltic Sea=3
+   limited information-sharing between countries=2
+   NATO's underwater protection cell=2
+   disconnecting a crucial link between the Nordic and Baltic gas markets=3
+   Finland's defence ministry blocked three transactions in which Russian buyers had attempted to purchase real estate=1
+   high levels of background noise, the temperature and salinity of the water and the relief of the seabed=2
+   communications cable between Sweden and Estonia had been partially damaged=3
+
+
+Topics Assigned by Human but Not by Machine:
+Topic: Energy Security=2
+
+Topics Assigned by Machine but Not by Human:
+Topic: Economic and Financial Impact=3
+Topic: Critical Infrastructure Weakness=4
+Topic: Global Diplomatic Engagement=3
+Topic: Allied Strategic Defence/Response=4
+Topic: Environmental and Technical Challenges=3
+
+Statistics:
+Common Topics: 4
+Topics Assigned by Human: 5
+Topics Assigned by Machine: 9
+Common Keywords: 2
+Keywords Assigned by Human: 18
+Keywords Assigned by Machine: 32

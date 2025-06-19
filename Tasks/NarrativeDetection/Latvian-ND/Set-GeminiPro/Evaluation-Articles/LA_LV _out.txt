@@ -1,0 +1,41 @@
+1. Named Entity Recognition:
+Location: [Somija, Igaunija,Baltic-connector cauruļvads, Baltijas jūras reģions, Baltijas jūra,Somu līcis, Paldiski,Inko,Latvija, Lietuva,Klaipēdas gāzes terminālis,Inčukalna pazemes gāzes krātuve,Eiropas Savienība,NATO]
+Actor: [Krišjānis Kariņš,Gasgrid Finland,Elering,Peteri Orpo,Sauli Nīniste,Marguss Tsahkna,Hanno Pevkurs,Somijas Centrālā kriminālpolicija,Somijas robežsardze,Latvenergo,LETA]
+Event: [Bojājumi Baltic-connector cauruļvadā,Iespējams sabotāžas mēģinājums,Spiediena krišanās cauruļvadā,Gāzes noplūde,Bojājumi komunikāciju kabelī,Baltic-connector slēgšana,Remonta darbi,Izmeklēšana]
+Timeline: [2023. gada 11. oktobris,Svētdiena,Trešdien,Otrdiena,Nākamā gada aprīlis,Vismaz pieci mēneši,2020.gada sākums]
+Entities Ordered by Importance Score: 
+1. Baltic-connector cauruļvads (Location): 0.10
+2. Bojājumi Baltic-connector cauruļvadā (Event): 0.09
+3. Somija (Location): 0.08
+4. Igaunija (Location): 0.08
+5. Iespējams sabotāžas mēģinājums (Event): 0.07
+6. Latvija (Location): 0.06
+7. Gasgrid Finland (Actor): 0.05
+8. Krišjānis Kariņš (Actor): 0.05
+9. Nākamā gada aprīlis (Timeline): 0.04
+10. Vismaz pieci mēneši (Timeline): 0.04
+11. Elering (Actor): 0.03
+12. Peteri Orpo (Actor): 0.03
+13. Inčukalna pazemes gāzes krātuve (Location): 0.03
+14. Spiediena krišanās cauruļvadā (Event): 0.03
+15. Gāzes noplūde (Event): 0.03
+
+2. Relationship Extraction: 
+connects: [Baltic-connector cauruļvads, Somija]
+connects: [Baltic-connector cauruļvads, Igaunija]
+supplies gas to: [Latvija, Igaunija]
+operates: [Gasgrid Finland, Baltic-connector cauruļvads]
+operates: [Elering, Baltic-connector cauruļvads]
+investigates: [Somijas Centrālā kriminālpolicija, Bojājumi Baltic-connector cauruļvadā]
+
+3. Plot Discovery:
+Exposition: Somijas un Igaunijas gāzesvads “Balticconnector” ir slēgts bojājumu dēļ.
+Rising Action: Tiek atklāta spiediena krišanās un  bojājumi komunikāciju kabelī. Izskan aizdomas par sabotāžu.
+Climax: Somijas premjerministrs paziņo, ka bojājums nav radies normālas darbības rezultātā.  Izmeklēšana apstiprina tīšu bojājumu.
+Falling Action: Tiek lēsts, ka remonts ilgs vismaz piecus mēnešus. Latvijas ārlietu ministrs Krišjānis Kariņš apgalvo, ka Latvijas gāzes apgāde nav apdraudēta.
+Resolution: Latvija turpina piegādāt gāzi Igaunijai, izmantojot citus piegādes ceļus. Tiek uzsvērta nepieciešamība pastiprināt zemūdens infrastruktūras uzraudzību Baltijas jūras reģionā.
+
+4.Story Evolution:
+Shift Detection: Nozīmīgas izmaiņas stāstījumā notiek, kad tiek atklāti bojājumi “Balticconnector” cauruļvadā un tiek izteiktas aizdomas par sabotāžu.
+
+Causal Relation Extraction: Bojājumi Baltic-connector cauruļvadā,Baltic-connector slēgšana. Iespējams sabotāžas mēģinājums,Izmeklēšanas sākšana. Baltic-connector slēgšana, Nepieciešamība pēc remonta darbiem.

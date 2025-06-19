@@ -1,0 +1,875 @@
+```
+# LOCATION Entities Analysis:
+
+1. Entity: `Igaunija` (Category: LOCATION)
+    - Aspect: `Geopolitical Importance/Significance`
+      - Excerpt: "Sākotnējā izmeklēšana: Igaunijas un Somijas sakaru kabeļa bojājums ir cilvēka radīts"
+      - Explanation: The investigation into the damage to the communication cable between Estonia and Finland highlights the geopolitical significance of Estonia in the context of international relations and security.
+      - Confidence Level: `high`
+      - Polarity: `negative`
+      - Polarity Score: `0.3`
+    - Aspect: `Security Concerns/Status`
+      - Excerpt: "Sākotnējā pārbaude vietā, kur Baltijas jūrā bojāts sakaru kabelis starp Somiju un Igauniju, liecina, ka bojājums ir cilvēka radīts"
+      - Explanation: The damage to the communication cable raises security concerns for Estonia, indicating potential vulnerabilities.
+      - Confidence Level: `high`
+      - Polarity: `negative`
+      - Polarity Score: `0.2`
+    - Aspect: `Infrastructure`
+      - Excerpt: "Tāpat izmeklētāji pašlaik nevar apstiprināt, vai bojājums bijis apzināts, cita starpā mērķtiecīgs kritiskās infrastruktūras bojājums."
+      - Explanation: The mention of critical infrastructure damage highlights the importance of infrastructure in Estonia.
+      - Confidence Level: `high`
+      - Polarity: `negative`
+      - Polarity Score: `0.3`
+
+2. Entity: `Somija` (Category: LOCATION)
+    - Aspect: `Geopolitical Importance/Significance`
+      - Excerpt: "Sākotnējā izmeklēšana: Igaunijas un Somijas sakaru kabeļa bojājums ir cilvēka radīts"
+      - Explanation: The investigation into the damage to the communication cable between Estonia and Finland highlights the geopolitical significance of Finland in the context of international relations and security.
+      - Confidence Level: `high`
+      - Polarity: `negative`
+      - Polarity Score: `0.3`
+    - Aspect: `Security Concerns/Status`
+      - Excerpt: "Sākotnējā pārbaude vietā, kur Baltijas jūrā bojāts sakaru kabelis starp Somiju un Igauniju, liecina, ka bojājums ir cilvēka radīts"
+      - Explanation: The damage to the communication cable raises security concerns for Finland, indicating potential vulnerabilities.
+      - Confidence Level: `high`
+      - Polarity: `negative`
+      - Polarity Score: `0.2`
+    - Aspect: `Infrastructure`
+      - Excerpt: "Tāpat izmeklētāji pašlaik nevar apstiprināt, vai bojājums bijis apzināts, cita starpā mērķtiecīgs kritiskās infrastruktūras bojājums."
+      - Explanation: The mention of critical infrastructure damage highlights the importance of infrastructure in Finland.
+      - Confidence Level: `high`
+      - Polarity: `negative`
+      - Polarity Score: `0.3`
+
+3. Entity: `Baltijas jūra` (Category: LOCATION)
+    - Aspect: `Geographical Features`
+      - Excerpt: "Sākotnējā pārbaude vietā, kur Baltijas jūrā bojāts sakaru kabelis starp Somiju un Igauniju"
+      - Explanation: The Baltic Sea is mentioned as the location where the communication cable was damaged, highlighting its geographical features.
+      - Confidence Level: `high`
+      - Polarity: `neutral`
+      - Polarity Score: `0.5`
+    - Aspect: `Security Concerns/Status`
+      - Excerpt: "NATO ceturtdien paziņoja, ka NATO un sabiedrotie nolēmuši pastiprināt patrulēšanu Baltijas jūrā pēc nesenajiem zemūdens infrastruktūras bojājumiem reģionā."
+      - Explanation: The increase in patrols by NATO in the Baltic Sea due to recent infrastructure damage highlights security concerns in the region.
+      - Confidence Level: `high`
+      - Polarity: `negative`
+      - Polarity Score: `0.2`
+
+4. Entity: `Krievija` (Category: LOCATION)
+    - Aspect: `Security Concerns/Status`
+      - Excerpt: "Šobrīd esam identificējuši divus šādus kuģus – viens kuģo zem Krievijas karoga"
+      - Explanation: The identification of a Russian-flagged ship in relation to the cable damage raises security concerns about Russia's involvement.
+      - Confidence Level: `high`
+      - Polarity: `negative`
+      - Polarity Score: `0.2`
+    - Aspect: `Geopolitical Importance/Significance`
+      - Excerpt: "Šobrīd esam identificējuši divus šādus kuģus – viens kuģo zem Krievijas karoga"
+      - Explanation: The mention of a Russian-flagged ship highlights the geopolitical significance of Russia in the context of international relations and security.
+      - Confidence Level: `high`
+      - Polarity: `negative`
+      - Polarity Score: `0.3`
+
+5. Entity: `Honkonga` (Category: LOCATION)
+    - Aspect: `Security Concerns/Status`
+      - Excerpt: "Šobrīd esam identificējuši divus šādus kuģus – viens kuģo zem Krievijas karoga, bet otrs – zem Honkongas"
+      - Explanation: The identification of a Hong Kong-flagged ship in relation to the cable damage raises security concerns about Hong Kong's involvement.
+      - Confidence Level: `high`
+      - Polarity: `negative`
+      - Polarity Score: `0.2`
+
+6. Entity: `Zviedrija` (Category: LOCATION)
+    - Aspect: `Geopolitical Importance/Significance`
+      - Excerpt: "Otrdien Zviedrijas aizsardzības ministrs Pols Junsons paziņoja, ka ir bojāts sakaru kabelis starp Zviedriju un Igauniju Baltijas jūrā."
+      - Explanation: The damage to the communication cable between Sweden and Estonia highlights the geopolitical significance of Sweden in the context of international relations and security.
+      - Confidence Level: `high`
+      - Polarity: `negative`
+      - Polarity Score: `0.3`
+    - Aspect: `Security Concerns/Status`
+      - Excerpt: "Otrdien Zviedrijas aizsardzības ministrs Pols Junsons paziņoja, ka ir bojāts sakaru kabelis starp Zviedriju un Igauniju Baltijas jūrā."
+      - Explanation: The damage to the communication cable raises security concerns for Sweden, indicating potential vulnerabilities.
+      - Confidence Level: `high`
+      - Polarity: `negative`
+      - Polarity Score: `0.2`
+
+7. Entity: `Latvija` (Category: LOCATION)
+    - Aspect: `Infrastructure`
+      - Excerpt: "Sakari ir nepārtraukti nodrošināti, jo Igaunijai ir deviņi dažādi savienojumi, un bojājumu gadījumā ir iespējams izmantot vai nu alternatīvi funkcionējošus zemūdens kabeļus, vai sauszemes kabeļus ar Latviju."
+      - Explanation: The mention of alternative communication routes through Latvia highlights the importance of infrastructure in Latvia.
+      - Confidence Level: `high`
+      - Polarity: `positive`
+      - Polarity Score: `0.7`
+
+8. Entity: `Baltijas jūras reģionā` (Category: LOCATION)
+    - Aspect: `Security Concerns/Status`
+      - Excerpt: "NATO ceturtdien paziņoja, ka NATO un sabiedrotie nolēmuši pastiprināt patrulēšanu Baltijas jūrā pēc nesenajiem zemūdens infrastruktūras bojājumiem reģionā."
+      - Explanation: The increase in patrols by NATO in the Baltic Sea region due to recent infrastructure damage highlights security concerns in the region.
+      - Confidence Level: `high`
+      - Polarity: `negative`
+      - Polarity Score: `0.2`
+    - Aspect: `Geographical Features`
+      - Excerpt: "NATO ceturtdien paziņoja, ka NATO un sabiedrotie nolēmuši pastiprināt patrulēšanu Baltijas jūrā pēc nesenajiem zemūdens infrastruktūras bojājumiem reģionā."
+      - Explanation: The mention of the Baltic Sea region highlights its geographical features.
+      - Confidence Level: `high`
+      - Polarity: `neutral`
+      - Polarity Score: `0.5`
+
+9. Entity: `Ziemeļjūra` (Category: LOCATION)
+    - Aspect: `Geographical Features`
+      - Excerpt: "Baltijas jūrā, kā arī Ziemeļjūrā ir blīvs infrastruktūras tīkls ar zemūdens gāzesvadiem, elektrības un sakaru kabeļiem."
+      - Explanation: The mention of the North Sea highlights its geographical features in the context of infrastructure.
+      - Confidence Level: `high`
+      - Polarity: `neutral`
+      - Polarity Score: `0.5`
+    - Aspect: `Infrastructure`
+      - Excerpt: "Baltijas jūrā, kā arī Ziemeļjūrā ir blīvs infrastruktūras tīkls ar zemūdens gāzesvadiem, elektrības un sakaru kabeļiem."
+      - Explanation: The mention of infrastructure in the North Sea highlights its importance.
+      - Confidence Level: `high`
+      - Polarity: `positive`
+      - Polarity Score: `0.7`
+
+10. Entity: `Rietumu` (Category: LOCATION)
+    - Aspect: `Economic Impact/Value`
+      - Excerpt: "Pieaugot Rietumu atkarībai tieši no zemūdens infrastruktūras, tā kļūst arvien ievainojamāka."
+      - Explanation: The mention of the West's dependence on underwater infrastructure highlights the economic impact and value of this infrastructure.
+      - Confidence Level: `high`
+      - Polarity: `negative`
+      - Polarity Score: `0.3`
+    - Aspect: `Security Concerns/Status`
+      - Excerpt: "Pieaugot Rietumu atkarībai tieši no zemūdens infrastruktūras, tā kļūst arvien ievainojamāka."
+      - Explanation: The mention of the West's dependence on underwater infrastructure highlights security concerns related to its vulnerability.
+      - Confidence Level: `high`
+      - Polarity: `negative`
+      - Polarity Score: `0.2`
+```
+
+```
+# ACTOR Entities Analysis:
+
+1. Entity: `Igaunijas izmeklētāji` (Category: ACTOR)
+    - Aspect: `Investigation/Analysis`
+      - Excerpt: `Igaunijas izmeklētāji, kas kopā ar Somijas un Igaunijas jūras spēku pārstāvjiem ir pabeiguši nepieciešamās procesuālās darbības izmeklēšanā par jūras dzelmē esošā kabeļa bojājumu.`
+      - Explanation: `This excerpt indicates the investigative role of Igaunijas izmeklētāji in the incident.`
+      - Confidence Level: `high`
+      - Polarity: `positive`
+      - Polarity Score: `0.8`
+
+2. Entity: `Somijas un Igaunijas jūras spēki` (Category: ACTOR)
+    - Aspect: `Security/Defense`
+      - Excerpt: `Igaunijas izmeklētāji, kas kopā ar Somijas un Igaunijas jūras spēku pārstāvjiem ir pabeiguši nepieciešamās procesuālās darbības izmeklēšanā par jūras dzelmē esošā kabeļa bojājumu.`
+      - Explanation: `This excerpt highlights the security role of Somijas un Igaunijas jūras spēki in the investigation.`
+      - Confidence Level: `high`
+      - Polarity: `positive`
+      - Polarity Score: `0.7`
+
+3. Entity: `Igaunijas prokuratūra` (Category: ACTOR)
+    - Aspect: `Crisis Management`
+      - Excerpt: `Jau iepriekš kā galvenā versija tika izvirzīta cauruļvada iespējama sabotāža, ko tagad arī apstiprinājusi Igaunijas prokuratūra.`
+      - Explanation: `This excerpt shows the role of Igaunijas prokuratūra in managing the crisis and confirming the sabotage.`
+      - Confidence Level: `high`
+      - Polarity: `positive`
+      - Polarity Score: `0.9`
+
+4. Entity: `Trīnu Oleva` (Category: ACTOR)
+    - Aspect: `Communication`
+      - Excerpt: `"Izmeklēšanas gaitā esam analizējuši to kuģu kustību, kas aptuvenajā notikuma brīdī bija šajos ūdeņos. Šobrīd esam identificējuši divus šādus kuģus – viens kuģo zem Krievijas karoga, bet otrs – zem Honkongas," sacīja Igaunijas valsts prokurore Trīnu Oleva.`
+      - Explanation: `This excerpt demonstrates Trīnu Oleva's ability to communicate findings and updates regarding the investigation.`
+      - Confidence Level: `high`
+      - Polarity: `positive`
+      - Polarity Score: `0.8`
+
+5. Entity: `Zviedrijas aizsardzības ministrs Pols Junsons` (Category: ACTOR)
+    - Aspect: `Communication`
+      - Excerpt: `Otrdien Zviedrijas aizsardzības ministrs Pols Junsons paziņoja, ka ir bojāts sakaru kabelis starp Zviedriju un Igauniju Baltijas jūrā.`
+      - Explanation: `This excerpt shows Pols Junsons' role in communicating important updates about the incident.`
+      - Confidence Level: `high`
+      - Polarity: `positive`
+      - Polarity Score: `0.8`
+
+6. Entity: `Somijas policijas ūdenslīdēji` (Category: ACTOR)
+    - Aspect: `Investigation/Analysis`
+      - Excerpt: `Ceturtdien savu izmeklēšanu "Balticconnector" pabeidza Somijas policijas ūdenslīdēji, kuri ir savākuši paraugus, kas nosūtīti uz laboratoriju.`
+      - Explanation: `This excerpt highlights the investigative role of Somijas policijas ūdenslīdēji in the "Balticconnector" incident.`
+      - Confidence Level: `high`
+      - Polarity: `positive`
+      - Polarity Score: `0.7`
+
+7. Entity: `NATO` (Category: ACTOR)
+    - Aspect: `Security/Defense`
+      - Excerpt: `NATO ceturtdien paziņoja, ka NATO un sabiedrotie nolēmuši pastiprināt patrulēšanu Baltijas jūrā pēc nesenajiem zemūdens infrastruktūras bojājumiem reģionā.`
+      - Explanation: `This excerpt shows NATO's role in enhancing security measures in response to the recent incidents.`
+      - Confidence Level: `high`
+      - Polarity: `positive`
+      - Polarity Score: `0.9`
+
+8. Entity: `Eiropas Savienības valstis` (Category: ACTOR)
+    - Aspect: `Security/Defense`
+      - Excerpt: `Apzinoties jaunos draudus, Eiropas Savienības un NATO valstis stiprina zemūdens infrastruktūras aizsardzību, kurai iepriekš netika pievērsta tik liela uzmanība.`
+      - Explanation: `This excerpt indicates that Eiropas Savienības valstis are strengthening their security measures for underwater infrastructure.`
+      - Confidence Level: `high`
+      - Polarity: `positive`
+      - Polarity Score: `0.8`
+```
+
+```plaintext
+# EVENT Entities Analysis:
+
+1. Entity: `sakaru kabeļa bojājums` (Category: EVENT)
+    - Aspect: `Cause/Origin`
+      - Excerpt: `bojājums ir cilvēka radīts`
+      - Explanation: This excerpt explicitly states that the damage was human-induced.
+      - Confidence Level: `high`
+      - Polarity: `negative`
+      - Polarity Score: `0.2`
+    - Aspect: `Impact/Consequences`
+      - Excerpt: `Sakari ir nepārtraukti nodrošināti`
+      - Explanation: Despite the damage, communications are still operational.
+      - Confidence Level: `high`
+      - Polarity: `neutral`
+      - Polarity Score: `0.5`
+    - Aspect: `Severity/Intensity`
+      - Excerpt: `bojājumu gadījumā ir iespējams izmantot vai nu alternatīvi funkcionējošus zemūdens kabeļus, vai sauszemes kabeļus ar Latviju`
+      - Explanation: The damage is significant but manageable due to alternative routes.
+      - Confidence Level: `high`
+      - Polarity: `neutral`
+      - Polarity Score: `0.5`
+    - Aspect: `Location`
+      - Excerpt: `Baltijas jūrā`
+      - Explanation: The event occurred in the Baltic Sea.
+      - Confidence Level: `high`
+      - Polarity: `neutral`
+      - Polarity Score: `0.5`
+    - Aspect: `Timing`
+      - Excerpt: `20. oktobris, 2023`
+      - Explanation: The event occurred on October 20, 2023.
+      - Confidence Level: `high`
+      - Polarity: `neutral`
+      - Polarity Score: `0.5`
+    - Aspect: `Participants/Responsibility`
+      - Excerpt: `Igaunijas un Somijas sakaru kabeļa bojājums`
+      - Explanation: The event involves Estonia and Finland.
+      - Confidence Level: `high`
+      - Polarity: `neutral`
+      - Polarity Score: `0.5`
+    - Aspect: `Response/Resolution Efforts`
+      - Excerpt: `tika sabojāti 8. oktobrī`
+      - Explanation: The initial damage was detected on October 8, 2023.
+      - Confidence Level: `high`
+      - Polarity: `neutral`
+      - Polarity Score: `0.5`
+    - Aspect: `International Impact`
+      - Excerpt: `NATO un sabiedrotie nolēmuši pastiprināt patrulēšanu Baltijas jūrā`
+      - Explanation: NATO and allies are increasing patrols due to the event.
+      - Confidence Level: `high`
+      - Polarity: `negative`
+      - Polarity Score: `0.3`
+    - Aspect: `Economic Consequences`
+      - Excerpt: `Sakari ir nepārtraukti nodrošināti`
+      - Explanation: No significant economic impact as communications are still operational.
+      - Confidence Level: `medium`
+      - Polarity: `neutral`
+      - Polarity Score: `0.5`
+    - Aspect: `Security Implications`
+      - Excerpt: `bojājums ir cilvēka radīts`
+      - Explanation: The human-induced nature of the damage has security implications.
+      - Confidence Level: `high`
+      - Polarity: `negative`
+      - Polarity Score: `0.2`
+    - Aspect: `Legal/Regulatory Aspects`
+      - Excerpt: `kriminālprocess`
+      - Explanation: Legal proceedings are underway to investigate the event.
+      - Confidence Level: `high`
+      - Polarity: `negative`
+      - Polarity Score: `0.3`
+    - Aspect: `Public Reaction/Communication`
+      - Excerpt: `Sakari ir nepārtraukti nodrošināti`
+      - Explanation: Public communication focuses on the uninterrupted service.
+      - Confidence Level: `medium`
+      - Polarity: `neutral`
+      - Polarity Score: `0.5`
+    - Aspect: `Infrastructure Involvement`
+      - Excerpt: `sakaru kabeļa bojājums`
+      - Explanation: The event directly involves communication cables.
+      - Confidence Level: `high`
+      - Polarity: `negative`
+      - Polarity Score: `0.2`
+    - Aspect: `Strategic Importance`
+      - Excerpt: `bojājums ir cilvēka radīts`
+      - Explanation: The strategic importance of the cables is highlighted by the investigation.
+      - Confidence Level: `high`
+      - Polarity: `negative`
+      - Polarity Score: `0.2`
+    - Aspect: `Historical Context`
+      - Excerpt: `bojājums ir cilvēka radīts`
+      - Explanation: The event is part of recent incidents affecting critical infrastructure.
+      - Confidence Level: `medium`
+      - Polarity: `negative`
+      - Polarity Score: `0.3`
+
+2. Entity: `iespējama sabotāža` (Category: EVENT)
+    - Aspect: `Cause/Origin`
+      - Excerpt: `iespējama sabotāža`
+      - Explanation: The event is suspected to be an act of sabotage.
+      - Confidence Level: `high`
+      - Polarity: `negative`
+      - Polarity Score: `0.2`
+    - Aspect: `Impact/Consequences`
+      - Excerpt: ` bojājums ir cilvēka radīts`
+      - Explanation: The suspected sabotage has resulted in damage.
+      - Confidence Level: `high`
+      - Polarity: `negative`
+      - Polarity Score: `0.2`
+    - Aspect: `Severity/Intensity`
+      - Excerpt: `bojājums ir cilvēka radīts`
+      - Explanation: The severity of the damage is significant due to suspected sabotage.
+      - Confidence Level: `high`
+      - Polarity: `negative`
+      - Polarity Score: `0.2`
+    - Aspect: `Location`
+      - Excerpt: `Baltijas jūrā`
+      - Explanation: The event occurred in the Baltic Sea.
+      - Confidence Level: `high`
+      - Polarity: `neutral`
+      - Polarity Score: `0.5`
+    - Aspect: `Timing`
+      - Excerpt: `20. oktobris, 2023`
+      - Explanation: The event occurred on October 20, 2023.
+      - Confidence Level: `high`
+      - Polarity: `neutral`
+      - Polarity Score: `0.5`
+    - Aspect: `Participants/Responsibility`
+      - Excerpt: `iespējama sabotāža`
+      - Explanation: Unknown participants are suspected of sabotage.
+      - Confidence Level: `medium`
+      - Polarity: `negative`
+      - Polarity Score: `0.3`
+    - Aspect: `Response/Resolution Efforts`
+      - Excerpt: `Igaunijas prokuratūra`
+      - Explanation: The Estonian Prosecutor's Office is investigating the incident.
+      - Confidence Level: `high`
+      - Polarity: `neutral`
+      - Polarity Score: `0.5`
+    - Aspect: `International Impact`
+      - Excerpt: `NATO un sabiedrotie nolēmuši pastiprināt patrulēšanu Baltijas jūrā`
+      - Explanation: NATO and allies are increasing patrols due to the event.
+      - Confidence Level: `high`
+      - Polarity: `negative`
+      - Polarity Score: `0.3`
+    - Aspect: `Economic Consequences`
+      - Excerpt: `Sakari ir nepārtraukti nodrošināti`
+      - Explanation: No significant economic impact as communications are still operational.
+      - Confidence Level: `medium`
+      - Polarity: `neutral`
+      - Polarity Score: `0.5`
+    - Aspect: `Security Implications`
+      - Excerpt: `bojājums ir cilvēka radīts`
+      - Explanation: The human-induced nature of the damage has security implications.
+      - Confidence Level: `high`
+      - Polarity: `negative`
+      - Polarity Score: `0.2`
+    - Aspect: `Legal/Regulatory Aspects`
+      - Excerpt: `kriminālprocess`
+      - Explanation: Legal proceedings are underway to investigate the event.
+      - Confidence Level: `high`
+      - Polarity: `negative`
+      - Polarity Score: `0.3`
+    - Aspect: `Public Reaction/Communication`
+      - Excerpt: `Sakari ir nepārtraukti nodrošināti`
+      - Explanation: Public communication focuses on the uninterrupted service.
+      - Confidence Level: `medium`
+      - Polarity: `neutral`
+      - Polarity Score: `0.5`
+    - Aspect: `Infrastructure Involvement`
+      - Excerpt: `sakaru kabeļa bojājums`
+      - Explanation: The event directly involves communication cables.
+      - Confidence Level: `high`
+      - Polarity: `negative`
+      - Polarity Score: `0.2`
+    - Aspect: `Strategic Importance`
+      - Excerpt: `bojājums ir cilvēka radīts`
+      - Explanation: The strategic importance of the cables is highlighted by the investigation.
+      - Confidence Level: `high`
+      - Polarity: `negative`
+      - Polarity Score: `0.2`
+    - Aspect: `Historical Context`
+      - Excerpt: `bojājums ir cilvēka radīts`
+      - Explanation: The event is part of recent incidents affecting critical infrastructure.
+      - Confidence Level: `medium`
+      - Polarity: `negative`
+      - Polarity Score: `0.3`
+
+3. Entity: `izmeklēšanas darbības` (Category: EVENT)
+    - Aspect: `Cause/Origin`
+      - Excerpt: `izmeklēšanas darbības`
+      - Explanation: The cause of the investigation is the damage to the cable.
+      - Confidence Level: `high`
+      - Polarity: `neutral`
+      - Polarity Score: `0.5`
+    - Aspect: `Impact/Consequences`
+      - Excerpt: `izmeklēšanas darbības`
+      - Explanation: The investigation aims to find the cause and responsible parties.
+      - Confidence Level: `high`
+      - Polarity: `neutral`
+      - Polarity Score: `0.5`
+    - Aspect: `Severity/Intensity`
+      - Excerpt: `izmeklēšanas darbības`
+      - Explanation: The investigation is comprehensive and involves multiple parties.
+      - Confidence Level: `high`
+      - Polarity: `neutral`
+      - Polarity Score: `0.5`
+    - Aspect: `Location`
+      - Excerpt: `Baltijas jūrā`
+      - Explanation: The event occurred in the Baltic Sea.
+      - Confidence Level: `high`
+      - Polarity: `neutral`
+      - Polarity Score: `0.5`
+    - Aspect: `Timing`
+      - Excerpt: `20. oktobris, 2023`
+      - Explanation: The event occurred on October 20, 2023.
+      - Confidence Level: `high`
+      - Polarity: `neutral`
+      - Polarity Score: `0.5`
+    - Aspect: `Participants/Responsibility`
+      - Excerpt: `Igaunijas izmeklētāji`
+      - Explanation: Estonian investigators are involved in the investigation.
+      - Confidence Level: `high`
+      - Polarity: `neutral`
+      - Polarity Score: `0.5`
+    - Aspect: `Response/Resolution Efforts`
+      - Excerpt: `izmeklēšanas darbības`
+      - Explanation: The investigation is a response to the damage.
+      - Confidence Level: `high`
+      - Polarity: `neutral`
+      - Polarity Score: `0.5`
+    - Aspect: `International Impact`
+      - Excerpt: `NATO un sabiedrotie nolēmuši pastiprināt patrulēšanu Baltijas jūrā`
+      - Explanation: NATO and allies are increasing patrols due to the event.
+      - Confidence Level: `high`
+      - Polarity: `negative`
+      - Polarity Score: `0.3`
+    - Aspect: `Economic Consequences`
+      - Excerpt: `Sakari ir nepārtraukti nodrošināti`
+      - Explanation: No significant economic impact as communications are still operational.
+      - Confidence Level: `medium`
+      - Polarity: `neutral`
+      - Polarity Score: `0.5`
+    - Aspect: `Security Implications`
+      - Excerpt: `bojājums ir cilvēka radīts`
+      - Explanation: The human-induced nature of the damage has security implications.
+      - Confidence Level: `high`
+      - Polarity: `negative`
+      - Polarity Score: `0.2`
+    - Aspect: `Legal/Regulatory Aspects`
+      - Excerpt: `kriminālprocess`
+      - Explanation: Legal proceedings are underway to investigate the event.
+      - Confidence Level: `high`
+      - Polarity: `negative`
+      - Polarity Score: `0.3`
+    - Aspect: `Public Reaction/Communication`
+      - Excerpt: `Sakari ir nepārtraukti nodrošināti`
+      - Explanation: Public communication focuses on the uninterrupted service.
+      - Confidence Level: `medium`
+      - Polarity: `neutral`
+      - Polarity Score: `0.5`
+    - Aspect: `Infrastructure Involvement`
+      - Excerpt: `sakaru kabeļa bojājums`
+      - Explanation: The event directly involves communication cables.
+      - Confidence Level: `high`
+      - Polarity: `negative`
+      - Polarity Score: `0.2`
+    - Aspect: `Strategic Importance`
+      - Excerpt: `bojājums ir cilvēka radīts`
+      - Explanation: The strategic importance of the cables is highlighted by the investigation.
+      - Confidence Level: `high`
+      - Polarity: `negative`
+      - Polarity Score: `0.2`
+    - Aspect: `Historical Context`
+      - Excerpt: `bojājums ir cilvēka radīts`
+      - Explanation: The event is part of recent incidents affecting critical infrastructure.
+      - Confidence Level: `medium`
+      - Polarity: `negative`
+      - Polarity Score: `0.3`
+
+4. Entity: `remonta darbi` (Category: EVENT)
+    - Aspect: `Cause/Origin`
+      - Excerpt: `remonta darbi`
+      - Explanation: The cause for the repair work is the damage to the cable.
+      - Confidence Level: `high`
+      - Polarity: `neutral`
+      - Polarity Score: `0.5`
+    - Aspect: `Impact/Consequences`
+      - Excerpt: `remonta darbi`
+      - Explanation: The repair work will restore the cable's functionality.
+      - Confidence Level: `high`
+      - Polarity: `positive`
+      - Polarity Score: `0.7`
+    - Aspect: `Severity/Intensity`
+      - Excerpt: `remonta darbi`
+      - Explanation: The repair work is comprehensive and necessary.
+      - Confidence Level: `high`
+      - Polarity: `neutral`
+      - Polarity Score: `0.5`
+    - Aspect: `Location`
+      - Excerpt: `Baltijas jūrā`
+      - Explanation: The event occurred in the Baltic Sea.
+      - Confidence Level: `high`
+      - Polarity: `neutral`
+      - Polarity Score: `0.5`
+    - Aspect: `Timing`
+      - Excerpt: `nākamnedēļ`
+      - Explanation: The repair work will start next week.
+      - Confidence Level: `high`
+      - Polarity: `neutral`
+      - Polarity Score: `0.5`
+    - Aspect: `Participants/Responsibility`
+      - Excerpt: `remonta darbi`
+      - Explanation: The participants involved in the repair work are not explicitly mentioned.
+      - Confidence Level: `medium`
+      - Polarity: `neutral`
+      - Polarity Score: `0.5`
+    - Aspect: `Response/Resolution Efforts`
+      - Excerpt: `remonta darbi`
+      - Explanation: The repair work is a response to the damage.
+      - Confidence Level: `high`
+      - Polarity: `neutral`
+      - Polarity Score: `0.5`
+    - Aspect: `International Impact`
+      - Excerpt: `NATO un sabiedrotie nolēmuši pastiprināt patrulēšanu Baltijas jūrā`
+      - Explanation: NATO and allies are increasing patrols due to the event.
+      - Confidence Level: `high`
+      - Polarity: `negative`
+      - Polarity Score: `0.3`
+    - Aspect: `Economic Consequences`
+      - Excerpt: `Sakari ir nepārtraukti nodrošināti`
+      - Explanation: No significant economic impact as communications are still operational.
+      - Confidence Level: `medium`
+      - Polarity: `neutral`
+      - Polarity Score: `0.5`
+    - Aspect: `Security Implications`
+      - Excerpt: `bojājums ir cilvēka radīts`
+      - Explanation: The human-induced nature of the damage has security implications.
+      - Confidence Level: `high`
+      - Polarity: `negative`
+      - Polarity Score: `0.2`
+    - Aspect: `Legal/Regulatory Aspects`
+      - Excerpt: `kriminālprocess`
+      - Explanation: Legal proceedings are underway to investigate the event.
+      - Confidence Level: `high`
+      - Polarity: `negative`
+      - Polarity Score: `0.3`
+    - Aspect: `Public Reaction/Communication`
+      - Excerpt: `Sakari ir nepārtraukti nodrošināti`
+      - Explanation: Public communication focuses on the uninterrupted service.
+      - Confidence Level: `medium`
+      - Polarity: `neutral`
+      - Polarity Score: `0.5`
+    - Aspect: `Infrastructure Involvement`
+      - Excerpt: `sakaru kabeļa bojājums`
+      - Explanation: The event directly involves communication cables.
+      - Confidence Level: `high`
+      - Polarity: `negative`
+      - Polarity Score: `0.2`
+    - Aspect: `Strategic Importance`
+      - Excerpt: `bojājums ir cilvēka radīts`
+      - Explanation: The strategic importance of the cables is highlighted by the investigation.
+      - Confidence Level: `high`
+      - Polarity: `negative`
+      - Polarity Score: `0.2`
+    - Aspect: `Historical Context`
+      - Excerpt: `bojājums ir cilvēka radīts`
+      - Explanation: The event is part of recent incidents affecting critical infrastructure.
+      - Confidence Level: `medium`
+      - Polarity: `negative`
+      - Polarity Score: `0.3`
+
+5. Entity: `kriminālprocess` (Category: EVENT)
+    - Aspect: `Cause/Origin`
+      - Excerpt: `kriminālprocess`
+      - Explanation: The cause for the criminal process is the damage to the cable.
+      - Confidence Level: `high`
+      - Polarity: `neutral`
+      - Polarity Score: `0.5`
+    - Aspect: `Impact/Consequences`
+      - Excerpt: `kriminālprocess`
+      - Explanation: The criminal process aims to find and prosecute the responsible parties.
+      - Confidence Level: `high`
+      - Polarity: `neutral`
+      - Polarity Score: `0.5`
+    - Aspect: `Severity/Intensity`
+      - Excerpt: `kriminālprocess`
+      - Explanation: The criminal process is comprehensive and involves legal proceedings.
+      - Confidence Level: `high`
+      - Polarity: `neutral`
+      - Polarity Score: `0.5`
+    - Aspect: `Location`
+      - Excerpt: `Baltijas jūrā`
+      - Explanation: The event occurred in the Baltic Sea.
+      - Confidence Level: `high`
+      - Polarity: `neutral`
+      - Polarity Score: `0.5`
+    - Aspect: `Timing`
+      - Excerpt: `20. oktobris, 2023`
+      - Explanation: The event occurred on October 20, 2023.
+      - Confidence Level: `high`
+      - Polarity: `neutral`
+      - Polarity Score: `0.5`
+    - Aspect: `Participants/Responsibility`
+      - Excerpt: `Igaunijas prokuratūra`
+      - Explanation: The Estonian Prosecutor's Office is involved in the criminal process.
+      - Confidence Level: `high`
+      - Polarity: `neutral`
+      - Polarity Score: `0.5`
+    - Aspect: `Response/Resolution Efforts`
+      - Excerpt: `kriminālprocess`
+      - Explanation: The criminal process is a response to the damage.
+      - Confidence Level: `high`
+      - Polarity: `neutral`
+      - Polarity Score: `0.5`
+    - Aspect: `International Impact`
+      - Excerpt: `NATO un sabiedrotie nolēmuši pastiprināt patrulēšanu Baltijas jūrā`
+      - Explanation: NATO and allies are increasing patrols due to the event.
+      - Confidence Level: `high`
+      - Polarity: `negative`
+      - Polarity Score: `0.3`
+    - Aspect: `Economic Consequences`
+      - Excerpt: `Sakari ir nepārtraukti nodrošināti`
+      - Explanation: No significant economic impact as communications are still operational.
+      - Confidence Level: `medium`
+      - Polarity: `neutral`
+      - Polarity Score: `0.5`
+    - Aspect: `Security Implications`
+      - Excerpt: `bojājums ir cilvēka radīts`
+      - Explanation: The human-induced nature of the damage has security implications.
+      - Confidence Level: `high`
+      - Polarity: `negative`
+      - Polarity Score: `0.2`
+    - Aspect: `Legal/Regulatory Aspects`
+      - Excerpt: `kriminālprocess`
+      - Explanation: Legal proceedings are underway to investigate the event.
+      - Confidence Level: `high`
+      - Polarity: `negative`
+      - Polarity Score: `0.3`
+    - Aspect: `Public Reaction/Communication`
+      - Excerpt: `Sakari ir nepārtraukti nodrošināti`
+      - Explanation: Public communication focuses on the uninterrupted service.
+      - Confidence Level: `medium`
+      - Polarity: `neutral`
+      - Polarity Score: `0.5`
+    - Aspect: `Infrastructure Involvement`
+      - Excerpt: `sakaru kabeļa bojājums`
+      - Explanation: The event directly involves communication cables.
+      - Confidence Level: `high`
+      - Polarity: `negative`
+      - Polarity Score: `0.2`
+    - Aspect: `Strategic Importance`
+      - Excerpt: `bojājums ir cilvēka radīts`
+      - Explanation: The strategic importance of the cables is highlighted by the investigation.
+      - Confidence Level: `high`
+      - Polarity: `negative`
+      - Polarity Score: `0.2`
+    - Aspect: `Historical Context`
+      - Excerpt: `bojājums ir cilvēka radīts`
+      - Explanation: The event is part of recent incidents affecting critical infrastructure.
+      - Confidence Level: `medium`
+      - Polarity: `negative`
+      - Polarity Score: `0.3`
+
+6. Entity: `zemūdens infrastruktūras bojājumi` (Category: EVENT)
+    - Aspect: `Cause/Origin`
+      - Excerpt: `zemūdens infrastruktūras bojājumi`
+      - Explanation: The cause for the underwater infrastructure damage is suspected to be sabotage.
+      - Confidence Level: `high`
+      - Polarity: `neutral`
+      - Polarity Score: `0.5`
+    - Aspect: `Impact/Consequences`
+      - Excerpt: `zemūdens infrastruktūras bojājumi`
+      - Explanation: The damage has impacted critical infrastructure.
+      - Confidence Level: `high`
+      - Polarity: `negative`
+      - Polarity Score: `0.2`
+    - Aspect: `Severity/Intensity`
+      - Excerpt: `zemūdens infrastruktūras bojājumi`
+      - Explanation: The damage is significant and affects multiple systems.
+      - Confidence Level: `high`
+      - Polarity: `negative`
+      - Polarity Score: `0.2`
+    - Aspect: `Location`
+      - Excerpt: `Baltijas jūrā`
+      - Explanation: The event occurred in the Baltic Sea.
+      - Confidence Level: `high`
+      - Polarity: `neutral`
+      - Polarity Score: `0.5`
+    - Aspect: `Timing`
+      - Excerpt: `20. oktobris, 2023`
+      - Explanation: The event occurred on October 20, 2023.
+      - Confidence Level: `high`
+      - Polarity: `neutral`
+      - Polarity Score: `0.5`
+    - Aspect: `Participants/Responsibility`
+      - Excerpt: `zemūdens infrastruktūras bojājumi`
+      - Explanation: The participants involved in the damage are not explicitly mentioned.
+      - Confidence Level: `medium`
+      - Polarity: `neutral`
+      - Polarity Score: `0.5`
+    - Aspect: `Response/Resolution Efforts`
+      - Excerpt: `izmeklēšanas darbības`
+      - Explanation: The investigation is a response to the damage.
+      - Confidence Level: `high`
+      - Polarity: `neutral`
+      - Polarity Score: `0.5`
+    - Aspect: `International Impact`
+      - Excerpt: `NATO un sabiedrotie nolēmuši pastiprināt patrulēšanu Baltijas jūrā`
+      - Explanation: NATO and allies are increasing patrols due to the event.
+      - Confidence Level: `high`
+      - Polarity: `negative`
+      - Polarity Score: `0.3`
+    - Aspect: `Economic Consequences`
+      - Excerpt: `Sakari ir nepārtraukti nodrošināti`
+      - Explanation: No significant economic impact as communications are still operational.
+      - Confidence Level: `medium`
+      - Polarity: `neutral`
+      - Polarity Score: `0.5`
+    - Aspect: `Security Implications`
+      - Excerpt: `bojājums ir cilvēka radīts`
+      - Explanation: The human-induced nature of the damage has security implications.
+      - Confidence Level: `high`
+      - Polarity: `negative`
+      - Polarity Score: `0.2`
+    - Aspect: `Legal/Regulatory Aspects`
+      - Excerpt: `kriminālprocess`
+      - Explanation: Legal proceedings are underway to investigate the event.
+      - Confidence Level: `high`
+      - Polarity: `negative`
+      - Polarity Score: `0.3`
+    - Aspect: `Public Reaction/Communication`
+      - Excerpt: `Sakari ir nepārtraukti nodrošināti`
+      - Explanation: Public communication focuses on the uninterrupted service.
+      - Confidence Level: `medium`
+      - Polarity: `neutral`
+      - Polarity Score: `0.5`
+    - Aspect: `Infrastructure Involvement`
+      - Excerpt: `sakaru kabeļa bojājums`
+      - Explanation: The event directly involves communication cables.
+      - Confidence Level: `high`
+      - Polarity: `negative`
+      - Polarity Score: `0.2`
+    - Aspect: `Strategic Importance`
+      - Excerpt: `bojājums ir cilvēka radīts`
+      - Explanation: The strategic importance of the cables is highlighted by the investigation.
+      - Confidence Level: `high`
+      - Polarity: `negative`
+      - Polarity Score: `0.2`
+    - Aspect: `Historical Context`
+      - Excerpt: `bojājums ir cilvēka radīts`
+      - Explanation: The event is part of recent incidents affecting critical infrastructure.
+      - Confidence Level: `medium`
+      - Polarity: `negative`
+      - Polarity Score: `0.3`
+
+7. Entity: `drošības pasākumi` (Category: EVENT)
+    - Aspect: `Cause/Origin`
+      - Excerpt: `drošības pasākumi`
+      - Explanation: The cause for the security measures is the damage to the cable.
+      - Confidence Level: `high`
+      - Polarity: `neutral`
+      - Polarity Score: `0.5`
+    - Aspect: `Impact/Consequences`
+      - Excerpt: `drošības pasākumi`
+      - Explanation: The security measures aim to protect critical infrastructure.
+      - Confidence Level: `high`
+      - Polarity: `positive`
+      - Polarity Score: `0.7`
+    - Aspect: `Severity/Intensity`
+      - Excerpt: `drošības pasākumi`
+      - Explanation: The security measures are comprehensive and involve multiple actions.
+      - Confidence Level: `high`
+      - Polarity: `neutral`
+      - Polarity Score: `0.5`
+    - Aspect: `Location`
+      - Excerpt: `Baltijas jūrā`
+      - Explanation: The event occurred in the Baltic Sea.
+      - Confidence Level: `high`
+      - Polarity: `neutral`
+      - Polarity Score: `0.5`
+    - Aspect: `Timing`
+      - Excerpt: `20. oktobris, 2023`
+      - Explanation: The event occurred on October 20, 2023.
+      - Confidence Level: `high`
+      - Polarity: `neutral`
+      - Polarity Score: `0.5`
+    - Aspect: `Participants/Responsibility`
+      - Excerpt: `NATO un sabiedrotie`
+      - Explanation: NATO and allies are involved in the security measures.
+      - Confidence Level: `high`
+      - Polarity: `neutral`
+      - Polarity Score: `0.5`
+    - Aspect: `Response/Resolution Efforts`
+      - Excerpt: `drošības pasākumi`
+      - Explanation: The security measures are a response to the damage.
+      - Confidence Level: `high`
+      - Polarity: `neutral`
+      - Polarity Score: `0.5`
+    - Aspect: `International Impact`
+      - Excerpt: `NATO un sabiedrotie nolēmuši pastiprināt patrulēšanu Baltijas jūrā`
+      - Explanation: NATO and allies are increasing patrols due to the event.
+      - Confidence Level: `high`
+      - Polarity: `negative`
+      - Polarity Score: `0.3`
+    - Aspect: `Economic Consequences`
+      - Excerpt: `Sakari ir nepārtraukti nodrošināti`
+      - Explanation: No significant economic impact as communications are still operational.
+      - Confidence Level: `medium`
+      - Polarity: `neutral`
+      - Polarity Score: `0.5`
+    - Aspect: `Security Implications`
+      - Excerpt: `bojājums ir cilvēka radīts`
+      - Explanation: The human-induced nature of the damage has security implications.
+      - Confidence Level: `high`
+      - Polarity: `negative`
+      - Polarity Score: `0.2`
+    - Aspect: `Legal/Regulatory Aspects`
+      - Excerpt: `kriminālprocess`
+      - Explanation: Legal proceedings are underway to investigate the event.
+      - Confidence Level: `high`
+      - Polarity: `negative`
+      - Polarity Score: `0.3`
+    - Aspect: `Public Reaction/Communication`
+      - Excerpt: `Sakari ir nepārtraukti nodrošināti`
+      - Explanation: Public communication focuses on the uninterrupted service.
+      - Confidence Level: `medium`
+      - Polarity: `neutral`
+      - Polarity Score: `0.5`
+    - Aspect: `Infrastructure Involvement`
+      - Excerpt: `sakaru kabeļa bojājums`
+      - Explanation: The event directly involves communication cables.
+      - Confidence Level: `high`
+      - Polarity: `negative`
+      - Polarity Score: `0.2`
+    - Aspect: `Strategic Importance`
+      - Excerpt: `bojājums ir cilvēka radīts`
+      - Explanation: The strategic importance of the cables is highlighted by the investigation.
+      - Confidence Level: `high`
+      - Polarity: `negative`
+      - Polarity Score: `0.2`
+    - Aspect: `Historical Context`
+      - Excerpt: `bojājums ir cilvēka radīts`
+      - Explanation: The event is part of recent incidents affecting critical infrastructure.
+      - Confidence Level: `medium`
+      - Polarity: `negative`
+      - Polarity Score: `0.3`
+
+```
+
+```
+## Entities Without Aspect Terms:
+- Location: []
+- Actor: []
+- Event: []
+
+## Significant Findings:
+- The damage to communication cables between Estonia and Finland, as well as other underwater infrastructure, has raised significant security concerns and highlighted the geopolitical importance of these countries.
+- Russia's involvement, suggested by the identification of a Russian-flagged ship, has intensified security concerns and implied potential hostile actions.
+- NATO and European Union countries are strengthening their security measures in response to these incidents, indicating a broader recognition of the vulnerabilities in underwater infrastructure.
+
+## Conclusion:
+Implicit aspects, such as the geopolitical importance and security concerns of the involved countries, enhance our understanding of the geopolitical situation. The identification of potential sabotage and the involvement of specific countries, particularly Russia, highlight the hostile nature of these incidents. The responses from NATO and European Union countries demonstrate the strategic significance of underwater infrastructure and the need for enhanced protection measures in the face of increasing threats.
+```

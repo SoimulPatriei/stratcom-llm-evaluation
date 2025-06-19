@@ -1,0 +1,81 @@
+[Topic] Infrastructure Vulnerability
+[Weight] 5
+
+[Keywords]
+Baltic Sea gas pipeline between Finland and Estonia = 3
+dislodged anchor from a Chinese cargo vessel = 3
+damage to the gas pipeline = 3
+pipeline ruptured = 2
+Balticconnector gas pipeline = 2
+undersea pipeline = 2
+
+[Total Weight] 15
+[Normalized Significance] 7.5
+
+---
+
+[Topic] Suspected Sabotage
+[Weight] 4
+
+[Keywords]
+suspected sabotage = 3
+intentional damage = 2
+unintentional damage = 2
+bad seafaring = 2
+damaged by an anchor = 2
+
+[Total Weight] 11
+[Normalized Significance] 5.5
+
+---
+
+[Topic] International Cooperation
+[Weight] 3
+
+[Keywords]
+cooperation with the Chinese authorities = 3
+Chinese vessel = 2
+Chinese authorities = 2
+Chinese foreign ministry = 2
+
+[Total Weight] 9
+[Normalized Significance] 4.5
+
+---
+
+[Topic] Economic and Financial Impact
+[Weight] 3
+[Keywords]
+€300m (£260m) Balticconnector gas pipeline = 3
+pipeline repair work = 2
+repair costs = 2
+disruption to gas markets = 2
+
+[Total Weight] 9
+[Normalized Significance] 4.5
+
+---
+
+[Topic] Allied Strategic Defence/Response
+[Weight] 2
+[Keywords]
+Finnish navy = 2
+Finnish police = 2
+Finnish authorities = 2
+NBI investigation = 1
+
+[Total Weight] 7
+[Normalized Significance] 3.5 ( despite being scored 2, this topic is loosely related as it discusses the response and investigation by Finnish authorities)
+
+---
+
+[Topic] Energy Security
+[Weight] 1
+
+[Keywords]
+gas pipeline = 1
+gas network = 1
+energy disruption = 1
+
+[Total Weight] 3
+[Normalized Significance] 1.5 

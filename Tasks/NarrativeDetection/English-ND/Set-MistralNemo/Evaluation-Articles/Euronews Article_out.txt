@@ -1,0 +1,49 @@
+**1. Named Entity Recognition:**
+
+- **Location:**
+  - Finland: 0.07
+  - Estonia: 0.06
+  - Baltic Connector pipeline: 0.05
+  - Baltic Sea: 0.04
+  - Finland's Exclusive Economic Zone: 0.03
+  - European Union: 0.02
+  - NATO: 0.02
+
+- **Actor:**
+  - Finland's president (Sauli Niinistö): 0.06
+  - Gasgrid Finland: 0.05
+  - Estonia's Elering: 0.05
+  - NATO Secretary General (Jens Stoltenberg): 0.04
+
+- **Event:**
+  - Suspected sabotage/Damage: 0.10
+  - Drop in pressure: 0.05
+  - Pipeline closure: 0.03
+  - Investigation: 0.02
+
+- **Timeline:**
+  - Sunday: 0.05
+  - Tuesday: 0.04
+  - Early hours of Sunday morning: 0.03
+  - Before 02:00 EET Sunday morning: 0.02
+
+**2. Relationship Extraction:**
+
+- The Baltic Connector pipeline is **located in** the Baltic Sea.
+- Finland and Estonia are **connected by** the Baltic Connector pipeline.
+- Gasgrid Finland and Estonia's Elering are **investigating the incident together**.
+- Jens Stoltenberg is **speaking with** Sauli Niinistö about the damage to the Baltic Connector.
+- The pipeline is **sharing information** with NATO allies.
+
+**3. Plot Discovery (using Freytag's Pyramid):**
+
+- **Exposition:** Gas pressure in the Baltic Connector pipeline drops suddenly, leading to its shutdown.
+- **Rising Action:** Initial suspicion of a leak, investigation begins between Finnish and Estonian authorities.
+- **Climax:** Finland's president states that the damage is likely due to external activity, implying sabotage.
+- **Falling Action:** Repair work begins, with an estimated timeline of several months.
+- **Resolution:** Investigation continues to determine the exact cause of the damage.
+
+**4. Story Evolution:**
+
+- **Shift Detection:** The narrative shifts when Finland's president suggests external activity as the cause of the pipeline damage.
+- **Causal Relation Extraction:** The president's statement is likely caused by the ongoing investigation revealing indications of sabotage.

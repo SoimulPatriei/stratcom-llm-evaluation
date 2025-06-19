@@ -1,0 +1,70 @@
+Topic: International cooperation=2=2
+  Keywords Assigned by Human but Not by Machine:
+   pāri Somu jūras līcim savieno Paldisku un Inko termināļus=1
+   Somiju un Igauniju savienojošais zemūdens gāzesvads 8. oktobrī slēgts, jo tajā konstatēts neierasts spiediena kritums=2
+
+  Keywords Assigned by Machine but Not by Human:
+   Somijas un Igaunijas operators=1
+   Somiju un Igauniju savienojošais zemūdens gāzesvads=2
+
+
+Topic: Natural gas infrastructure=5=5
+  Keywords Assigned by Human but Not by Machine:
+   dabasgāzes tirgus ir reaģējis uz ziņām par "Balticconnector" bojājumu=3
+   dabasgāzes cenas svārstības pēc "Balticconnector" gadījuma ir notikušas=2
+
+  Keywords Assigned by Machine but Not by Human:
+   dabasgāzes tirgus=3
+   spiediena kritums=2
+   gāzes noplūde=1
+   gāzesvads=2
+   Balticconnector=3
+
+
+Topic: Energy resources=3=5
+  Common Keywords:
+   dabasgāzes cenu svārstības=3=2
+
+  Keywords Assigned by Human but Not by Machine:
+   Energoapgādes izmaksu atbalsta likums=1
+   dabasgāzes tirgus ir reaģējis uz ziņām par "Balticconnector" bojājumu=2
+   siltumenerģijas komersanti apkures sezonai gatavojas laicīgi=3
+   dabasgāzes cenas svārstības pēc "Balticconnector" gadījuma ir notikušas=3
+
+  Keywords Assigned by Machine but Not by Human:
+   siltumenerģijas komersanti=1
+   dabasgāzes tirgus=3
+   kurināmā piegādes līgumu=2
+   siltumenerģijas tarifiem=1
+   dabasgāzes cenas=2
+   Balticconnector=3
+
+
+Topic: Infrastructure vulnerability=4=3
+  Keywords Assigned by Human but Not by Machine:
+   dabasgāzes tirgus ir reaģējis uz ziņām par "Balticconnector" bojājumu=3
+   dabasgāzes cenas svārstības pēc "Balticconnector" gadījuma ir notikušas=2
+   gāzes piegādes pagaidām ir stabilas=3
+
+  Keywords Assigned by Machine but Not by Human:
+   gāzesvada slēgšana=1
+   Balticconnector bojājumi=2
+   spiediena kritums=2
+   gāzes noplūde=1
+
+
+Topics Assigned by Human but Not by Machine:
+Topic: Security threats=2
+
+Topics Assigned by Machine but Not by Human:
+Topic: Investigation=2
+Topic: Economic ties in Northern Europe=3
+Topic: Damage=2
+
+Statistics:
+Common Topics: 4
+Topics Assigned by Human: 5
+Topics Assigned by Machine: 7
+Common Keywords: 1
+Keywords Assigned by Human: 12
+Keywords Assigned by Machine: 18

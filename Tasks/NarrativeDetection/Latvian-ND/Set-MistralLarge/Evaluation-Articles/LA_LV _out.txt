@@ -1,0 +1,128 @@
+Certainly! Here are the results for the narrative detection on the provided Latvian article:
+
+### 1. Named Entity Recognition
+
+**Location:**
+- Somija
+- Igaunija
+- Balticconnector
+- Baltijas jūras reģiona
+- Baltijas jūras reģionā
+- Somu līcim
+- Eiropas Savienība
+- NATO
+- Inčukalnā
+- Lietuva
+- Klaipēdas gāzes termināli
+- Somijas Ekskluzīvā Ekonomiskā Zona
+
+**Actor:**
+- Krišjānis Kariņš
+- Somijas premjerministrs Petteri Orpo
+- Somijas Centrālā kriminālpolicija
+- Somijas robežsardze
+- Somijas gāzes pārvades tīklu operatorkompānija “Gasgrid Finland”
+- Igaunijas pārvades sistēmu operators “Elering”
+- Somijas prezidents Sauli Nīniste
+- Igaunijas ārlietu ministrs Marguss Tsahkna
+- Igaunijas aizsardzības ministrs Hanno Pevkurs
+- Latvijas valdība
+- uzņēmums “Latvenergo”
+
+**Event:**
+- Bojājumi Balticconnector
+- Aizdomas par sabotāžu
+- Pēkšņs spiediena kritums
+- Noplūdes izmeklēšana
+- Iespējams sprādziens
+- Gāzes cenu pieaugums
+- Gāzes piegādes
+- Gāzes piegādes iespējas caur Lietuvu un Klaipēdas gāzes termināli
+- Pieci mēneši remontam
+- Noplūdes cēloņa izmeklēšana
+
+**Timeline:**
+- 11. oktobris 2023
+- 2020. gada sākums
+- 2024. gada aprīļa sākums
+- Vismaz pieci mēneši
+- 2020. gads
+
+### Entities Ordered by Importance Score:
+1. Bojājumi Balticconnector (Event): 0.07
+2. Aizdomas par sabotāžu (Event): 0.07
+3. Balticconnector (Location): 0.06
+4. Krišjānis Kariņš (Actor): 0.06
+5. Somija (Location): 0.05
+6. Igaunija (Location): 0.05
+7. Pēkšņs spiediena kritums (Event): 0.05
+8. Noplūdes izmeklēšana (Event): 0.05
+9. Somijas premjerministrs Petteri Orpo (Actor): 0.04
+10. Eiropas Savienība (Location): 0.04
+11. NATO (Actor): 0.04
+12. Inčukalnā (Location): 0.04
+13. Lietuva (Location): 0.04
+14. Klaipēdas gāzes termināli (Location): 0.04
+15. Gāzes piegādes (Event): 0.04
+16. Gāzes piegādes iespējas caur Lietuvu un Klaipēdas gāzes termināli (Event): 0.04
+17. Pieci mēneši remontam (Timeline): 0.03
+18. Iespējams sprādziens (Event): 0.03
+19. Gāzes cenu pieaugums (Event): 0.03
+20. Somijas Centrālā kriminālpolicija (Actor): 0.03
+21. Somijas robežsardze (Actor): 0.03
+22. Somijas gāzes pārvades tīklu operatorkompānija “Gasgrid Finland” (Actor): 0.03
+23. Igaunijas pārvades sistēmu operators “Elering” (Actor): 0.03
+24. Somijas prezidents Sauli Nīniste (Actor): 0.03
+25. Igaunijas ārlietu ministrs Marguss Tsahkna (Actor): 0.03
+26. Igaunijas aizsardzības ministrs Hanno Pevkurs (Actor): 0.03
+27. Latvijas valdība (Actor): 0.03
+28. uzņēmums “Latvenergo” (Actor): 0.03
+29. Baltijas jūras reģiona (Location): 0.02
+30. Baltijas jūras reģionā (Location): 0.02
+31. Somu līcim (Location): 0.02
+32. 11. oktobris 2023 (Timeline): 0.02
+33. 2020. gada sākums (Timeline): 0.02
+34. 2024. gada aprīļa sākums (Timeline): 0.02
+35. Vismaz pieci mēneši (Timeline): 0.02
+36. 2020. gads (Timeline): 0.02
+
+### 2. Relationship Extraction
+
+**Layer Output:**
+- is detained [Somijas Centrālā kriminālpolicija, bojājumi Balticconnector]
+- is investigating [Somijas Centrālā kriminālpolicija, aizdomas par sabotāžu]
+- is damaged [Balticconnector, bojājumi]
+- is caused by [iespējams sprādziens, pēkšņs spiediena kritums]
+- supplies gas [Krišjānis Kariņš, Latvija]
+- is involved in [NATO, Eiropas Savienība]
+- requires [Balticconnector, pieci mēneši remontam]
+- is responsible for [Somijas prezidents Sauli Nīniste, Somijas valdība]
+- is operated by [Somijas gāzes pārvades tīklu operatorkompānija “Gasgrid Finland”, Balticconnector]
+- is connected to [Igaunijas pārvades sistēmu operators “Elering”, Balticconnector]
+
+### 3. Plot Discovery
+
+**Layer Output:**
+
+**Exposition:**
+[Krišjānis Kariņš] ir runājis gan ar [Somijas], gan ar [Igaunijas] kolēģiem par [Balticconnector] bojājumiem, kas tiek izmeklēti kā iespējams sabotāžas mēģinājums.
+
+**Rising Action:**
+[Somijas premjerministrs Petteri Orpo] paziņoja, ka bojājumi nav rasties normālas darbības rezultātā vai normāla spiediena krituma dēļ. [Somijas prezidents Sauli Nīniste] un [Igaunijas ārlietu ministrs Marguss Tsahkna] paziņoja, ka bojājums ir mehānisks un cilvēka izraisīts.
+
+**Climax:**
+[Somijas Centrālā kriminālpolicija] vada izmeklēšanu un paziņoja, ka [Balticconnector] ir bojāts tīši.
+
+**Falling Action:**
+[Krišjānis Kariņš] uzsvēra, ka [Inčukalna pazemes gāzes krātuvē] rezerves ir labas, tāpēc [Latvijas piegādes] nekādā veidā nav apdraudētas. Pēc [Kariņa] paustā, ja [Somijas un Igaunijas gāzesvada] darbība sabotēta, tas nozīmē, ka [Baltijas jūras reģionā] būs pastiprināti jāuzrauga visa zemūdens infrastruktūra.
+
+**Resolution:**
+[Krišjānis Kariņš] uzsvēra, ka [Latvija] paliek [gāzes piegādes iespējas] caur [Lietuvu] un [Klaipēdas gāzes termināli]. Jāpiebilst, ka uzņēmums [Latvenergo] ir panācis vienošanos.
+
+### 4. Story Evolution
+
+**Shift Detection:**
+Nozīmīgas izmaiņas stāstījumā notiek, kad [Somijas premjerministrs Petteri Orpo] paziņoja, ka bojājumi nav rasties normālas darbības rezultātā vai normāla spiediena krituma dēļ.
+
+**Causal Relation Extraction:**
+[Premjerministra] paziņojums, ka bojājumi nav rasties normālas darbības rezultātā vai normāla spiediena krituma dēļ, tiek dots, reaģējot uz [iespējamu sabotāžas mēģinājumu] un [mehāniskiem bojājumiem], lai uzlabotu drošību un kontroli.

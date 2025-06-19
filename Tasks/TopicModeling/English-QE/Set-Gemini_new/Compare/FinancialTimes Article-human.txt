@@ -1,0 +1,101 @@
+[Topic] Suspected Sabotage  
+[Weight] 5  
+
+[Keywords]  
+focusing only on the Chinese vessel = 3  
+Russian ship Sevmorput, operated by the state nuclear-powered icebreaker company Atomflot, was also in the area at the time = 3  
+Chinese container ship is at the centre of a Finnish investigation = 3  
+separate undersea data cable connecting it to Estonia was also damaged around the same time = 3  
+damage to the pipeline and cable = 3  
+no reason to believe it was caused by an explosion = 3  
+man-made but have not yet established if it was deliberate or accidental = 3  
+they had found what appeared to be “an extremely heavy object” near the scene during an inspection on Thursday = 3  
+
+[Total Weight] 24  
+[Normalized Significance] 8.0  
+
+---
+
+[Topic] NATO Response  
+[Weight] 5  
+
+[Keywords]  
+potential sabotage of undersea infrastructure has led Nato to increase its patrols = 3  
+Latvian president Edgars Rinkēvičs went so far as to suggest on Friday that if Russia should be proven to be behind the potential sabotage then Nato should close the Baltic Sea to Russian shipping = 3  
+additional flights by drones as well as surveillance and reconnaissance aircraft = 3  
+four minesweepers to the area = 2  
+
+[Total Weight] 11  
+[Normalized Significance] 8.0  
+
+---
+
+[Topic] Infrastructure Vulnerability  
+[Weight] 5  
+
+[Keywords]  
+potential sabotage of undersea infrastructure = 3  
+damage to the pipeline and cable, which occurred two weeks ago in the Gulf of Finland = 3  
+man-made but have not yet established if it was deliberate or accidental = 3  
+separate undersea data cable connecting it to Estonia was also damaged around the same time = 3  
+damage has been caused by an external mechanical force = 3  
+no reason to believe the damage has been caused by an explosion = 3  
+external mechanical force = 3  
+
+[Total Weight] 21  
+[Normalized Significance] 6.0  
+
+---
+
+[Topic] Energy Security  
+[Weight] 4  
+
+[Keywords]  
+pipeline damage = 3  
+potential sabotage of gas pipeline = 3  
+gas pipeline critical to Finland and Estonia = 2  
+Nordic energy infrastructure threatened = 2  
+concerns about disruption of gas supplies = 2  
+
+[Total Weight] 12  
+[Normalized Significance] 7.0  
+
+---
+
+[Topic] International Cooperation  
+[Weight] 5  
+
+[Keywords]  
+Finland’s foreign ministry said it had reached out to China diplomatically = 3  
+Latvian president Edgars Rinkēvičs went so far as to suggest on Friday that if Russia should be proven to be behind the potential sabotage then Nato should close the Baltic Sea to Russian shipping = 3  
+cooperation with Chinese authorities = 3  
+reached out to China diplomatically to try to get in touch with the Newnew Polar Bear = 2  
+
+[Total Weight] 11  
+[Normalized Significance] 6.0  
+
+---
+
+[Topic] Environmental and Technical Challenges  
+[Weight] 3  
+
+[Keywords]  
+they had found what appeared to be “an extremely heavy object” near the scene during an inspection = 2  
+would now try to recover it = 2  
+The number of vessels using the Arctic route between Russian and Chinese ports has increased substantially this year = 2  
+
+[Total Weight] 6  
+[Normalized Significance] 4.0  
+
+---
+
+[Topic] Economic and Financial Impact  
+[Weight] 3  
+
+[Keywords]  
+The number of vessels using the Arctic route between Russian and Chinese ports has increased substantially this year = 2  
+a quicker maritime passage between the Russian Arctic and Asia = 2  
+substantial increase in vessels using the Arctic route = 2  
+
+[Total Weight] 6  
+[Normalized Significance] 4.0  
