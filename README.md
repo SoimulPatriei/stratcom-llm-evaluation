@@ -44,10 +44,10 @@ For an in-depth description of methods, findings, and implications, refer to the
 
 ## 👥 Contributors
 
-- **Eduard Barbu** (University of Tartu, NLP & evaluation coordination, code contribution)  
+- **Eduard Barbu** (University of Tartu, NLP & evaluation coordination, code contributions)  
 - **Somnath Banerjee** (LLM prompt engineering & code contributions, evaluation)  
-- **Tanya Lim** (Evaluation methodology, English corpus review)  
-- **Liene Zīvere** (Evaluation methodology,Latvian corpus review)
+- **Tanya Lim** (StratCom,Evaluation methodology, English corpus review)  
+- **Liene Zīvere** (StratCom, Evaluation methodology, Latvian corpus review)
 
 ## 🔗 Acknowledgments
 
